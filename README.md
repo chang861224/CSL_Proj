@@ -10,17 +10,21 @@ Dept. of Computer Science<br>
 </p>
 
 ## Student
+<p>
 <p><strong>Chi-Hung Chang</strong></p>
 <p>
 Senior<br>
 Dept. of Computer Science<br>
 <strong>National Chengchi University</strong>
 </p>
+</p>
 
+<p>
 <p><strong>Pei-Yun Kuo</strong></p>
 <p>
 Freshman<br>
 Dept. of Computer Science<br>
 <strong>National Chengchi University</strong>
+</p>
 </p>
 
