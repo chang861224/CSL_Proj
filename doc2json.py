@@ -12,11 +12,6 @@ w = open('result.json', 'w')
 count = 0
 
 for i in range(1, 1751):
-#   f.readline()
-#   f.readline()
-#   f.readline()
-#   f.readline()
-
     count += 1
     
     A = f.readline().split('\n')[0]
@@ -28,9 +23,4 @@ for i in range(1, 1751):
 
     print('{"_id": ' + str(count) + ', "result": "' + F + '"}')
     w.write('{"_id": ' + str(count) + ', "result": "' + F + '"}\n')
-
-#   f.readline()
-#   f.readline()
-#   f.readline()
-#   f.readline()
     f.readline()
