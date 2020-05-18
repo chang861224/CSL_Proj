@@ -22,15 +22,21 @@ for count in range(1, 1751):
 
     for (i, n) in zip(re.split(r'\(|\)', line1['reason']), range(1, 100)):
         if n%2 == 0:
-            stringList1.append(i.split(','))
+            compose = i.split(',')
+            compose.sort()
+            stringList1.append(compose)
 
     for (i, n) in zip(re.split(r'\(|\)', line2['result']), range(1, 100)):
         if n%2 == 0:
-            stringList2.append(i.split(','))
+            compose = i.split(',')
+            compose.sort()
+            stringList2.append(compose)
 
     for (i, n) in zip(re.split(r'\(|\)', line3['sentence']), range(1, 100)):
         if n%2 == 0:
-            stringList3.append(i.split(','))
+            compose = i.split(',')
+            compose.sort()
+            stringList3.append(compose)
 
     w.write('{"_id": ' + str(count) + ', "cause": ' + str(stringList1) + ', "effect": ' + str(stringList2) + ', "sentence": ' + str(stringList3) + '}\n')
     print('Item {} .... DONE!'.format(count))
