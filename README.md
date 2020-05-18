@@ -6,7 +6,7 @@ NCCU 2020 Spring - Computer Science Logic Term Project
 <strong>Hen-Hsuan Huang</strong><br>
 Assistant Professor<br>
 Dept. of Computer Science<br>
-<strong>National Chengchi University</strong>
+National Chengchi University
 </p>
 
 ## Students
@@ -14,13 +14,13 @@ Dept. of Computer Science<br>
 <strong>Chi-Hung Chang</strong><br>
 Senior<br>
 Dept. of Computer Science<br>
-<strong>National Chengchi University</strong>
+National Chengchi University
 </p>
 
 <p>
 <strong>Pei-Yun Kuo</strong><br>
 Freshman<br>
 Dept. of Computer Science<br>
-<strong>National Chengchi University</strong>
+National Chengchi University
 </p>
 

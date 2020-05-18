@@ -4,7 +4,7 @@ import json
 f1 = open('reason.json', 'r')
 f2 = open('result.json', 'r')
 f3 = open('sentence.json', 'r')
-w = open('parse.json', 'w')
+w = open('parseCombination.json', 'w')
 
 for count in range(1, 1751):
     reason = f1.readline()
@@ -22,19 +22,19 @@ for count in range(1, 1751):
 
     for (i, n) in zip(re.split(r'\(|\)', line1['reason']), range(1, 100)):
         if n%2 == 0:
-            compose = i.split(',')
+            compose = [item.lower() for item in i.split(',')]
             compose.sort()
             stringList1.append(compose)
 
     for (i, n) in zip(re.split(r'\(|\)', line2['result']), range(1, 100)):
         if n%2 == 0:
-            compose = i.split(',')
+            compose = [item.lower() for item in i.split(',')]
             compose.sort()
             stringList2.append(compose)
 
     for (i, n) in zip(re.split(r'\(|\)', line3['sentence']), range(1, 100)):
         if n%2 == 0:
-            compose = i.split(',')
+            compose = [item.lower() for item in i.split(',')]
             compose.sort()
             stringList3.append(compose)
 
