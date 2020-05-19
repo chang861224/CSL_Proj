@@ -3,7 +3,7 @@ NCCU 2020 Spring - Computer Science Logic Term Project
 
 ## Instructor
 <p>
-<strong>Hen-Hsuan Huang</strong><br>
+<strong>Hen-Hsen Huang</strong><br>
 Assistant Professor<br>
 Dept. of Computer Science<br>
 National Chengchi University
