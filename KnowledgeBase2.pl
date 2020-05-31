@@ -1,0 +1,9949 @@
+part(part).
+offer(offer).
+operator(operator).
+loss(loss).
+time(time).
+company(company).
+the_quarter_ended_july_31(the_quarter_ended_july_31).
+quarter(quarter).
+year(year).
+end(end).
+name(name).
+begin(begin).
+overnight(overnight).
+shares(shares).
+opening(opening).
+attention(attention).
+press(press).
+value(value).
+shareholders(shareholders).
+nothing(nothing).
+signal(signal).
+post(post).
+startup(startup).
+naspers(naspers).
+comments(comments).
+investment(investment).
+tcgs(tcgs).
+gamers(gamers).
+report(report).
+grow(grow).
+robbie(robbie).
+ferguson(ferguson).
+july_2018(july_2018).
+fees(fees).
+risks(risks).
+tii(tii).
+returns(returns).
+i(i).
+equity(equity).
+cagr(cagr).
+lenders(lenders).
+threshold(threshold).
+levers(levers).
+investors(investors).
+terms(terms).
+rates(rates).
+credit(credit).
+introduction(introduction).
+hit(hit).
+hub(hub).
+google_public_data_source(google_public_data_source).
+levels(levels).
+payment(payment).
+lending(lending).
+mortgages(mortgages).
+ebitda(ebitda).
+profit(profit).
+ebita(ebita).
+saw(saw).
+wilmington(wilmington).
+drop(drop).
+division(division).
+achieve(achieve).
+revenue(revenue).
+deal(deal).
+pay(pay).
+wall(wall).
+things(things).
+gdp(gdp).
+hundreds(hundreds).
+employment(employment).
+communism(communism).
+policy(policy).
+györgy_matolcsy(györgy_matolcsy).
+fall(fall).
+program(program).
+gamble(gamble).
+success(success).
+debt(debt).
+country(country).
+rate(rate).
+growth(growth).
+hungary(hungary).
+employees(employees).
+bears(bears).
+mothers(mothers).
+wake(wake).
+funding(funding).
+expense(expense).
+issue(issue).
+powers(powers).
+votes(votes).
+cases(cases).
+platform(platform).
+creditors(creditors).
+claims(claims).
+privileges(privileges).
+risk(risk).
+zero(zero).
+round(round).
+initialized_capital(initialized_capital).
+participation(participation).
+fidelity(fidelity).
+inovia(inovia).
+betakit(betakit).
+services(services).
+support(support).
+knøx(knøx).
+giant(giant).
+think(think).
+blackstone(blackstone).
+example(example).
+opportunity(opportunity).
+property(property).
+funds(funds).
+lot(lot).
+assets(assets).
+prices(prices).
+cooper(cooper).
+trading(trading).
+jenny_ma(jenny_ma).
+equates(equates).
+discount(discount).
+interest(interest).
+basis(basis).
+dividend(dividend).
+plc(plc).
+gbx(gbx).
+tuesday(tuesday).
+surc(surc).
+purchases(purchases).
+exemption(exemption).
+reasons(reasons).
+results(results).
+revenues(revenues).
+hike(hike).
+gnl(gnl).
+diversification(diversification).
+portfolio(portfolio).
+thousands(thousands).
+planning(planning).
+et(et).
+august(august).
+owners(owners).
+investments(investments).
+tamil_nadu(tamil_nadu).
+manufacturer(manufacturer).
+plant(plant).
+dollars(dollars).
+stock(stock).
+people(people).
+millionaires(millionaires).
+andrea_lewis(andrea_lewis).
+house(house).
+profits(profits).
+peters(peters).
+jim_allchin(jim_allchin).
+enthusiast(enthusiast).
+scene(scene).
+joanie(joanie).
+miller(miller).
+plan(plan).
+expand(expand).
+years(years).
+expansion(expansion).
+renishaw(renishaw).
+reports(reports).
+bank(bank).
+rating(rating).
+analysts(analysts).
+losers(losers).
+scotland(scotland).
+state(state).
+hold(hold).
+scots(scots).
+liautaud(liautaud).
+roark_capital(roark_capital).
+jimmy_john(jimmy_john).
+transactions(transactions).
+nysearca(nysearca).
+fncl(fncl).
+friday(friday).
+conditions(conditions).
+money(money).
+continue(continue).
+group(group).
+update(update).
+market(market).
+volumes(volumes).
+suppliers(suppliers).
+period(period).
+fertilisers(fertilisers).
+strengths(strengths).
+trials(trials).
+petrovietnam(petrovietnam).
+repsol_sa(repsol_sa).
+partners(partners).
+oil(oil).
+spent(spent).
+marvell_technology_group(marvell_technology_group).
+earn(earn).
+ratio(ratio).
+mrvl(mrvl).
+estimate(estimate).
+transaction(transaction).
+officer(officer).
+completion(completion).
+andrew_micallef(andrew_micallef).
+sale(sale).
+insiders(insiders).
+last_90_days(last_90_days).
+markets(markets).
+analyst(analyst).
+dollar(dollar).
+pmi(pmi).
+points(points).
+contributions(contributions).
+tax(tax).
+singapore(singapore).
+singaporeans(singaporeans).
+wage(wage).
+index(index).
+need(need).
+pro(pro).
+release(release).
+hands(hands).
+lp(lp).
+position(position).
+llc(llc).
+holdings(holdings).
+de(de).
+kforce(kforce).
+bancorp_de(bancorp_de).
+provider(provider).
+business(business).
+gold(gold).
+percent(percent).
+etfs(etfs).
+month(month).
+tonnes(tonnes).
+world_gold_council(world_gold_council).
+banks(banks).
+russia(russia).
+reserves(reserves).
+bloomberg(bloomberg).
+decade(decade).
+substitution(substitution).
+strategy(strategy).
+billions(billions).
+bank_of_russia(bank_of_russia).
+months(months).
+click(click).
+china(china).
+december(december).
+rules(rules).
+stocks(stocks).
+week(week).
+metal(metal).
+two_days(two_days).
+investor(investor).
+stake(stake).
+announcement(announcement).
+move(move).
+trump(trump).
+early_this_week(early_this_week).
+subsidies(subsidies).
+beating(beating).
+demand(demand).
+graphite(graphite).
+steelmaking(steelmaking).
+anodes(anodes).
+plans(plans).
+widen(widen).
+entry(entry).
+rally(rally).
+weeks(weeks).
+silver(silver).
+crops(crops).
+department_of_agriculture(department_of_agriculture).
+direction(direction).
+production(production).
+slowdown(slowdown).
+ships(ships).
+kerch_strait(kerch_strait).
+prisoners(prisoners).
+income_trust_plc(income_trust_plc).
+nait(nait).
+citibank(citibank).
+corporation(corporation).
+share(share).
+control(control).
+chairman(chairman).
+exxaro_resources_ltd(exxaro_resources_ltd).
+message(message).
+lists(lists).
+menus(menus).
+price(price).
+conduent(conduent).
+offering(offering).
+bookings(bookings).
+civil_aviation_authority(civil_aviation_authority).
+sorry(sorry).
+government(government).
+bbc(bbc).
+world(world).
+jets(jets).
+debts(debts).
+negotiations(negotiations).
+design(design).
+automation(automation).
+momentum(momentum).
+income(income).
+games_workshop_group_plc(games_workshop_group_plc).
+stockholders(stockholders).
+monday(monday).
+cost(cost).
+amount(amount).
+pace(pace).
+products(products).
+sales(sales).
+apps(apps).
+websites(websites).
+elliott_management(elliott_management).
+sees(sees).
+unlock(unlock).
+elliott(elliott).
+letter(letter).
+pjt(pjt).
+cloudera(cloudera).
+shopify(shopify).
+step(step).
+pressure(pressure).
+sitharaman(sitharaman).
+option(option).
+workers(workers).
+liquidity(liquidity).
+drain(drain).
+track(track).
+systems(systems).
+apple(apple).
+place(place).
+incentives(incentives).
+attract(attract).
+waukee(waukee).
+set(set).
+chamber_of_commerce(chamber_of_commerce).
+put(put).
+developments(developments).
+diers(diers).
+kind(kind).
+aid(aid).
+rulings(rulings).
+burden(burden).
+decades(decades).
+commission(commission).
+august_2016(august_2016).
+margrethe_vestager(margrethe_vestager).
+losses(losses).
+discontent(discontent).
+break(break).
+surprise(surprise).
+taxes(taxes).
+panaji(panaji).
+india(india).
+firms(firms).
+stimulus(stimulus).
+result(result).
+competitiveness(competitiveness).
+create(create).
+twitter(twitter).
+cuts(cuts).
+duty(duty).
+work(work).
+trade(trade).
+etf(etf).
+gain(gain).
+earnings(earnings).
+factset(factset).
+estimates(estimates).
+outfit(outfit).
+landfills(landfills).
+stations(stations).
+plants(plants).
+trucks(trucks).
+count(count).
+campaign(campaign).
+instill(instill).
+waste_management(waste_management).
+recommendation(recommendation).
+federal_government(federal_government).
+probe(probe).
+vowed(vowed).
+contract(contract).
+british_court(british_court).
+seizure(seizure).
+leaders(leaders).
+negotiation(negotiation).
+agency(agency).
+auction(auction).
+bids(bids).
+issuance(issuance).
+start(start).
+nasdaq(nasdaq).
+personnel(personnel).
+million_pounds(million_pounds).
+meeting(meeting).
+sell(sell).
+reservations(reservations).
+blue_sky_group(blue_sky_group).
+miss(miss).
+tourists(tourists).
+turkey(turkey).
+mengniu(mengniu).
+scheme(scheme).
+instance(instance).
+deals(deals).
+celebrity(celebrity).
+person(person).
+overhaul(overhaul).
+relieve(relieve).
+neumann(neumann).
+ceo(ceo).
+prospect(prospect).
+raise(raise).
+choice(choice).
+aval(aval).
+trip(trip).
+travel(travel).
+holiday(holiday).
+boom(boom).
+deficits(deficits).
+donald_trump(donald_trump).
+corporations(corporations).
+wealth(wealth).
+households(households).
+way(way).
+surtax(surtax).
+states(states).
+level(level).
+fund(fund).
+provide(provide).
+devos(devos).
+office(office).
+february_2017(february_2017).
+department(department).
+okta(okta).
+mobileiron(mobileiron).
+corp(corp).
+second_quarter(second_quarter).
+last_quarter(last_quarter).
+purchasing(purchasing).
+advisors(advisors).
+first_quarter(first_quarter).
+october_2018(october_2018).
+operations(operations).
+drive(drive).
+buying(buying).
+firm(firm).
+trust(trust).
+blackrock(blackrock).
+mn(mn).
+seizert_capital_partners_llc(seizert_capital_partners_llc).
+boe(boe).
+yield(yield).
+cap(cap).
+costs(costs).
+agreements(agreements).
+pump(pump).
+wednesday(wednesday).
+brought(brought).
+goldberg(goldberg).
+airlines(airlines).
+october_2017(october_2017).
+brits(brits).
+jobs(jobs).
+patel(patel).
+raghuram_rajan(raghuram_rajan).
+appointment(appointment).
+transfer(transfer).
+rbi(rbi).
+weakness(weakness).
+surge(surge).
+ben_snider(ben_snider).
+two_weeks(two_weeks).
+schedule(schedule).
+twenty_years(twenty_years).
+thanks(thanks).
+power(power).
+today(today).
+aldi(aldi).
+return(return).
+mind(mind).
+yoy(yoy).
+benefits(benefits).
+types(types).
+ownership(ownership).
+labourers(labourers).
+hamriya_free_zone(hamriya_free_zone).
+titan(titan).
+bhp(bhp).
+m(m).
+mackenzie(mackenzie).
+june(june).
+cheaper(cheaper).
+digression(digression).
+spur(spur).
+hitherto(hitherto).
+hog(hog).
+nirmala_sitharaman(nirmala_sitharaman).
+package(package).
+facility(facility).
+incidence(incidence).
+chart(chart).
+disparity(disparity).
+steps(steps).
+cycle(cycle).
+deficit(deficit).
+transfers(transfers).
+course(course).
+revert(revert).
+held(held).
+datum(datum).
+reverts(reverts).
+recession(recession).
+spending(spending).
+expectation(expectation).
+secure(secure).
+programme(programme).
+taxpayer(taxpayer).
+operation_matterhorn(operation_matterhorn).
+bail(bail).
+johnson(johnson).
+efforts(efforts).
+flights(flights).
+malaysia(malaysia).
+operate(operate).
+aircraft(aircraft).
+maturity(maturity).
+treasury(treasury).
+dividends(dividends).
+budget(budget).
+mali(mali).
+b2gold(b2gold).
+project(project).
+reduction(reduction).
+september_20(september_20).
+competition(competition).
+fosun(fosun).
+parent(parent).
+news(news).
+rothbury(rothbury).
+tariffs(tariffs).
+effect(effect).
+march_2018(march_2018).
+aluminum(aluminum).
+respond(respond).
+judge(judge).
+order(order).
+default(default).
+trajectory(trajectory).
+orders(orders).
+producers(producers).
+infrastructure(infrastructure).
+tweet_twentyfour_select_monthly_incm_fd_ltd(tweet_twentyfour_select_monthly_incm_fd_ltd).
+data(data).
+amendment(amendment).
+economy(economy).
+provision(provision).
+act(act).
+deductions(deductions).
+provisions(provisions).
+crores(crores).
+claim(claim).
+mat(mat).
+encourage(encourage).
+ordinance(ordinance).
+sec(sec).
+retailer(retailer).
+eps(eps).
+sa(sa).
+system(system).
+p(p).
+defaults(defaults).
+crisis(crisis).
+bid(bid).
+retain(retain).
+hours(hours).
+bonasia(bonasia).
+storm(storm).
+struck(struck).
+injury(injury).
+flagman(flagman).
+board(board).
+anthony(anthony).
+donate(donate).
+daniels(daniels).
+sex(sex).
+management(management).
+reason(reason).
+action(action).
+six_months(six_months).
+administrator(administrator).
+loans(loans).
+regulator(regulator).
+thomas(thomas).
+warren(warren).
+thursday(thursday).
+americans(americans).
+accounts(accounts).
+sandle(sandle).
+reporting(reporting).
+shareholder(shareholder).
+purchase(purchase).
+missteps(missteps).
+tell(tell).
+fourth_quarter_2018(fourth_quarter_2018).
+source(source).
+mrmd(mrmd).
+indicates(indicates).
+analysis(analysis).
+difference(difference).
+olaf_scholz(olaf_scholz).
+sign(sign).
+struggles(struggles).
+ecb(ecb).
+home(home).
+situation(situation).
+august_31st(august_31st).
+director(director).
+tribunal(tribunal).
+philip_morris_tobacco_company(philip_morris_tobacco_company).
+case(case).
+australia(australia).
+seven_years(seven_years).
+projects(projects).
+meet(meet).
+officials(officials).
+meis(meis).
+initiative(initiative).
+piyush_goyal(piyush_goyal).
+commerce(commerce).
+norms(norms).
+effort(effort).
+sector(sector).
+job(job).
+capital(capital).
+expenses(expenses).
+deduction(deduction).
+penalties(penalties).
+penalty(penalty).
+link(link).
+deposit(deposit).
+chexsystems(chexsystems).
+pull(pull).
+whichever(whichever).
+requirements(requirements).
+account(account).
+minimum(minimum).
+three_months(three_months).
+bonus(bonus).
+addition(addition).
+administration(administration).
+taxpayers(taxpayers).
+planes(planes).
+collapse(collapse).
+passengers(passengers).
+staff(staff).
+inject(inject).
+conglomerate(conglomerate).
+exchange(exchange).
+ipo(ipo).
+proceeds(proceeds).
+objective(objective).
+ten(ten).
+uniforms(uniforms).
+occupations(occupations).
+limits(limits).
+endowment(endowment).
+hersha_hospitality_trust(hersha_hospitality_trust).
+valuengine(valuengine).
+team(team).
+game(game).
+fortress_investment_group(fortress_investment_group).
+july(july).
+cinemark(cinemark).
+april_1(april_1).
+mathias_cormann(mathias_cormann).
+board_of_directors(board_of_directors).
+december_2013(december_2013).
+distribution(distribution).
+strike(strike).
+figure(figure).
+range(range).
+paulson(paulson).
+proposals(proposals).
+sunrun(sunrun).
+armistice(armistice).
+changes(changes).
+jana(jana).
+pension(pension).
+judgment(judgment).
+husband(husband).
+wife(wife).
+shortfall(shortfall).
+listing(listing).
+reuters(reuters).
+limit(limit).
+words(words).
+friend(friend).
+marketing(marketing).
+decline(decline).
+gmv(gmv).
+cut(cut).
+decrease(decrease).
+buyers(buyers).
+increase(increase).
+merchants(merchants).
+marketplace(marketplace).
+volume(volume).
+clearing(clearing).
+headcount(headcount).
+re(re).
+depreciation(depreciation).
+licensing(licensing).
+technology(technology).
+rise(rise).
+combination(combination).
+spend(spend).
+send(send).
+code(code).
+app(app).
+driver(driver).
+history(history).
+experience(experience).
+b(b).
+valuation(valuation).
+split(split).
+rowan(rowan).
+agreement(agreement).
+conjunction(conjunction).
+downtrend(downtrend).
+bcpg(bcpg).
+tcap(tcap).
+xd(xd).
+kbank(kbank).
+baht(baht).
+nail(nail).
+deadline(deadline).
+midf_investment_bank(midf_investment_bank).
+help(help).
+date(date).
+land(land).
+court(court).
+delays(delays).
+award(award).
+cent(cent).
+august_2017(august_2017).
+bear(bear).
+yesterday(yesterday).
+premium(premium).
+million_danish_crowns(million_danish_crowns).
+north_channel_bank(north_channel_bank).
+scandal(scandal).
+authority(authority).
+payments(payments).
+prosecutor(prosecutor).
+settlements(settlements).
+victoria(victoria).
+doug_donaldson(doug_donaldson).
+attractions(attractions).
+community(community).
+organizations(organizations).
+nations(nations).
+applicants(applicants).
+donaldson(donaldson).
+paragraph(paragraph).
+reallocate(reallocate).
+grants(grants).
+session(session).
+filing(filing).
+hunter_harrison(hunter_harrison).
+autozone_inc(autozone_inc).
+investigations(investigations).
+department_of_human_services(department_of_human_services).
+tip(tip).
+medicare(medicare).
+fraud(fraud).
+cheats(cheats).
+robert(robert).
+bonds(bonds).
+lebanon(lebanon).
+yields(yields).
+occasions(occasions).
+instruments(instruments).
+bkd(bkd).
+rejection(rejection).
+approach(approach).
+pin(pin).
+tap(tap).
+tariff(tariff).
+headline(headline).
+individuals(individuals).
+beneficiary(beneficiary).
+apparel(apparel).
+tjx_companies(tjx_companies).
+brorhilker(brorhilker).
+parents(parents).
+county(county).
+studies(studies).
+holdings_ltd(holdings_ltd).
+stakeholders(stakeholders).
+talks(talks).
+ft(ft).
+puts(puts).
+information(information).
+marvin_fong(marvin_fong).
+iq(iq).
+hfxe(hfxe).
+josh_frydenberg(josh_frydenberg).
+may_2018(may_2018).
+improvement(improvement).
+coalition(coalition).
+forecast(forecast).
+cormann(cormann).
+frydenberg(frydenberg).
+art(art).
+xlb(xlb).
+apartment(apartment).
+annuity(annuity).
+balance(balance).
+euros(euros).
+mortgage(mortgage).
+morning(morning).
+new_york_city(new_york_city).
+shops(shops).
+face(face).
+the_first_half_of_the_year(the_first_half_of_the_year).
+chain(chain).
+amazon(amazon).
+bezos(bezos).
+mandate(mandate).
+overhead(overhead).
+refunds(refunds).
+kaiser_family_foundation(kaiser_family_foundation).
+insurers(insurers).
+employers(employers).
+premiums(premiums).
+benefit(benefit).
+cox(cox).
+withdrawal(withdrawal).
+age(age).
+customers(customers).
+moriarty(moriarty).
+war(war).
+organization_for_economic_cooperation_and_development(organization_for_economic_cooperation_and_development).
+oecd(oecd).
+forecasts(forecasts).
+backdrop(backdrop).
+base(base).
+li_keqiang(li_keqiang).
+jumping(jumping).
+contracts(contracts).
+customer(customer).
+tensions(tensions).
+outlook(outlook).
+drones(drones).
+damage(damage).
+abqaiq(abqaiq).
+energy(energy).
+missiles(missiles).
+iran(iran).
+responsibility(responsibility).
+attack(attack).
+half(half).
+exporter(exporter).
+jp_morgan(jp_morgan).
+sirius(sirius).
+bought(bought).
+expectations(expectations).
+days(days).
+bankers(bankers).
+tourism(tourism).
+challenges(challenges).
+saga(saga).
+unit(unit).
+mitsubishi_corp(mitsubishi_corp).
+xhb(xhb).
+shirley(shirley).
+gift(gift).
+dac(dac).
+sum(sum).
+clf(clf).
+consumer(consumer).
+fears(fears).
+headwinds(headwinds).
+uncertainty(uncertainty).
+insurer(insurer).
+tan(tan).
+lawyers(lawyers).
+help_to_buy_isa(help_to_buy_isa).
+savings(savings).
+uk(uk).
+hopes(hopes).
+numbers(numbers).
+mufg(mufg).
+offset(offset).
+acquisition(acquisition).
+march(march).
+surjewala(surjewala).
+tide(tide).
+vision(vision).
+area(area).
+westby(westby).
+left(left).
+citizens(citizens).
+inc(inc).
+owner(owner).
+irishmen(irishmen).
+decision(decision).
+october_1(october_1).
+seas(seas).
+taxed(taxed).
+attacks(attacks).
+futures(futures).
+usd(usd).
+family(family).
+vote(vote).
+yamana_gold(yamana_gold).
+auy(auy).
+fhfa(fhfa).
+caps(caps).
+prevent(prevent).
+fannie_mae_fnma(fannie_mae_fnma).
+housing(housing).
+dgrw(dgrw).
+agi(agi).
+york(york).
+new_jersey(new_jersey).
+illinois(illinois).
+florida(florida).
+movers(movers).
+new_york(new_york).
+outflows(outflows).
+weyerhaeuser_company(weyerhaeuser_company).
+care(care).
+sentiment(sentiment).
+q2(q2).
+bust(bust).
+fail(fail).
+produce(produce).
+train(train).
+carry(carry).
+era(era).
+britons(britons).
+france(france).
+italy(italy).
+spain(spain).
+switzerland(switzerland).
+airtours(airtours).
+rescue(rescue).
+cope(cope).
+pff(pff).
+ijj(ijj).
+muhammadu_buhari(muhammadu_buhari).
+nigeria(nigeria).
+avoidance(avoidance).
+countries(countries).
+tax_justice_network(tax_justice_network).
+international_monetary_fund(international_monetary_fund).
+structure(structure).
+flow(flow).
+council(council).
+accounting(accounting).
+wagerers(wagerers).
+city(city).
+casino(casino).
+turn(turn).
+locations(locations).
+the_second_half_of_the_year(the_second_half_of_the_year).
+revive(revive).
+pendragon(pendragon).
+shut(shut).
+snb(snb).
+floor(floor).
+cows(cows).
+mlouki(mlouki).
+want(want).
+glaciers(glaciers).
+centimeter(centimeter).
+paper(paper).
+change(change).
+iceland(iceland).
+aims(aims).
+cosco_shipping_tanker_dalian(cosco_shipping_tanker_dalian).
+cosco_shipping_tanker(cosco_shipping_tanker).
+curbs(curbs).
+sanctions(sanctions).
+nationals(nationals).
+entity(entity).
+line(line).
+resources(resources).
+nyse(nyse).
+association(association).
+legislation(legislation).
+ii(ii).
+ftse_epra_nareit_developed_europe_index(ftse_epra_nareit_developed_europe_index).
+epra(epra).
+eur(eur).
+industry(industry).
+spectrum(spectrum).
+members(members).
+alex_waislitz(alex_waislitz).
+domain_ceo(domain_ceo).
+july_1(july_1).
+merger(merger).
+federal_reserve(federal_reserve).
+suit(suit).
+square(square).
+securities_and_exchange_commission(securities_and_exchange_commission).
+vibe(vibe).
+finalist(finalist).
+horse(horse).
+shopping(shopping).
+edition(edition).
+october_19(october_19).
+groups(groups).
+mare(mare).
+landmark(landmark).
+bonn(bonn).
+involvement(involvement).
+tags(tags).
+reclaims(reclaims).
+bench(bench).
+players(players).
+instances(instances).
+men(men).
+million_euros(million_euros).
+councils(councils).
+majority(majority).
+doyle(doyle).
+token_santander(token_santander).
+security(security).
+edt(edt).
+pm(pm).
+bond(bond).
+santander(santander).
+token(token).
+maker(maker).
+factory(factory).
+cigarettes(cigarettes).
+british_american_tobacco_british_american_tobacco(british_american_tobacco_british_american_tobacco).
+bill(bill).
+netherlands(netherlands).
+tobacco(tobacco).
+ban(ban).
+reach(reach).
+usa(usa).
+eu(eu).
+showcase(showcase).
+micro(micro).
+space(space).
+service(service).
+extent(extent).
+performance(performance).
+loan(loan).
+renewal(renewal).
+enjoy(enjoy).
+n1(n1).
+durkan(durkan).
+center(center).
+representation(representation).
+drivers(drivers).
+deactivation(deactivation).
+fares(fares).
+invest(invest).
+five_years(five_years).
+issues(issues).
+taxis(taxis).
+regulation(regulation).
+prefer(prefer).
+denominator(denominator).
+notify(notify).
+yes(yes).
+intu(intu).
+datapoint(datapoint).
+september(september).
+spdr(spdr).
+rwr(rwr).
+businesses(businesses).
+spread(spread).
+contribution(contribution).
+atms(atms).
+placementtracker(placementtracker).
+story(story).
+acquisitions(acquisitions).
+agent(agent).
+cowen(cowen).
+study(study).
+assessments(assessments).
+reassessment(reassessment).
+arop_trading_and_investment_company_ltd(arop_trading_and_investment_company_ltd).
+partner(partner).
+goods(goods).
+ghebremeskel_tesfamariam_ghidey(ghebremeskel_tesfamariam_ghidey).
+sentry(sentry).
+gebre(gebre).
+letters(letters).
+dispute(dispute).
+shortfalls(shortfalls).
+khartoum(khartoum).
+finance(finance).
+audit(audit).
+soldiers(soldiers).
+park(park).
+june_23_this_year(june_23_this_year).
+egm(egm).
+matters(matters).
+cancellation(cancellation).
+rba(rba).
+reserve_bank_of_australia(reserve_bank_of_australia).
+kept(kept).
+dwellings(dwellings).
+bruce_hockman(bruce_hockman).
+drove(drove).
+june_quarter(june_quarter).
+australian_bureau_of_statistics(australian_bureau_of_statistics).
+felicity_emmett(felicity_emmett).
+finances(finances).
+hotel(hotel).
+record(record).
+life(life).
+schemes(schemes).
+pensioners(pensioners).
+techniques(techniques).
+frequency(frequency).
+jacked(jacked).
+growers(growers).
+materials(materials).
+farmers(farmers).
+rubber_board(rubber_board).
+plantations(plantations).
+reliance(reliance).
+impact(impact).
+role(role).
+play(play).
+wages(wages).
+arbitrage(arbitrage).
+manufacturing(manufacturing).
+chains(chains).
+research(research).
+population(population).
+point(point).
+reaches(reaches).
+cars(cars).
+shift(shift).
+output(output).
+imports(imports).
+exports(exports).
+consumers(consumers).
+networks(networks).
+textiles(textiles).
+stages(stages).
+asia(asia).
+inputs(inputs).
+times(times).
+solutions(solutions).
+customs(customs).
+shipping(shipping).
+frictions(frictions).
+movement(movement).
+bpo(bpo).
+sectors(sectors).
+baseline(baseline).
+vehicles(vehicles).
+evs(evs).
+parts(parts).
+grant(grant).
+thank(thank).
+road(road).
+improvements(improvements).
+station(station).
+wmca(wmca).
+top(top).
+managers(managers).
+tuesday_afternoon(tuesday_afternoon).
+barrels(barrels).
+thummel(thummel).
+viola(viola).
+access(access).
+requirement(requirement).
+dependence(dependence).
+deforestation(deforestation).
+malawi(malawi).
+cookstoves(cookstoves).
+use(use).
+fire(fire).
+kanyera(kanyera).
+trees(trees).
+ngl_energy_partners_lp(ngl_energy_partners_lp).
+wire(wire).
+paid(paid).
+units(units).
+goal(goal).
+model(model).
+deutsche_bank(deutsche_bank).
+three_years(three_years).
+tier(tier).
+profile(profile).
+exposure(exposure).
+defend(defend).
+dta(dta).
+developers(developers).
+avoid(avoid).
+eia(eia).
+gw(gw).
+november(november).
+january_to_march(january_to_march).
+mwdc(mwdc).
+gwdc(gwdc).
+zamparo(zamparo).
+cronos_group(cronos_group).
+henry_resources(henry_resources).
+financing(financing).
+january(january).
+ccla_property_fund(ccla_property_fund).
+stockton(stockton).
+last_year(last_year).
+rule(rule).
+er(er).
+means(means).
+jeff(jeff).
+cbtx(cbtx).
+keycorp(keycorp).
+repatriation(repatriation).
+effectiveness(effectiveness).
+platforms(platforms).
+kenya(kenya).
+yards(yards).
+musk(musk).
+statement(statement).
+interests(interests).
+compensation(compensation).
+jerash_holdings(jerash_holdings).
+examine(examine).
+compliance(compliance).
+software(software).
+inclination(inclination).
+fuel(fuel).
+muchow(muchow).
+downturn(downturn).
+day(day).
+saturday(saturday).
+sofi(sofi).
+qatar_investment_authority(qatar_investment_authority).
+bureau(bureau).
+reply(reply).
+complaints(complaints).
+database(database).
+kathleen_kraninger(kathleen_kraninger).
+speech(speech).
+file(file).
+counts(counts).
+anything(anything).
+rises(rises).
+garvey(garvey).
+couple(couple).
+hsa(hsa).
+bracket(bracket).
+concurrent_technologies_plc(concurrent_technologies_plc).
+october_11th(october_11th).
+slate(slate).
+cash(cash).
+relief(relief).
+residence(residence).
+jeff_bezos(jeff_bezos).
+politicians(politicians).
+look(look).
+restore(restore).
+rivian(rivian).
+deployed(deployed).
+collection(collection).
+web(web).
+new_york_times(new_york_times).
+federal_reserve_bank_of_boston(federal_reserve_bank_of_boston).
+snap(snap).
+process(process).
+figures(figures).
+brokers(brokers).
+concerns(concerns).
+integration(integration).
+media(media).
+directive(directive).
+weekend(weekend).
+outlay(outlay).
+christian_brothers(christian_brothers).
+santa_rosa(santa_rosa).
+field(field).
+refinery(refinery).
+traders(traders).
+accept(accept).
+worth(worth).
+offeror(offeror).
+maintain(maintain).
+ltd(ltd).
+enomoto_hiroyuki(enomoto_hiroyuki).
+qrc(qrc).
+contingent(contingent).
+raises(raises).
+advisers(advisers).
+network(network).
+openwork(openwork).
+speed(speed).
+james_heistand(james_heistand).
+lemann(lemann).
+damme_alexandre_van(damme_alexandre_van).
+readmore(readmore).
+insider(insider).
+president(president).
+cassaday(cassaday).
+glassman(glassman).
+svp_irving_tan(svp_irving_tan).
+widower(widower).
+spouse(spouse).
+widow(widow).
+turbulence(turbulence).
+rmb(rmb).
+bancorp(bancorp).
+voters(voters).
+davide_anghileri(davide_anghileri).
+regimes(regimes).
+intangibles(intangibles).
+zurich(zurich).
+patents(patents).
+candidate(candidate).
+university_of_lausanne(university_of_lausanne).
+thesis(thesis).
+kingdom(kingdom).
+supplies(supplies).
+thought(thought).
+abdulaziz_bin_salman(abdulaziz_bin_salman).
+sources(sources).
+three_weeks(three_weeks).
+inventories(inventories).
+crude(crude).
+discussion(discussion).
+bets(bets).
+fear(fear).
+sterling(sterling).
+rodtep(rodtep).
+foregone(foregone).
+rs(rs).
+minister(minister).
+speculation(speculation).
+residency(residency).
+reserve_bank_of_india(reserve_bank_of_india).
+bureaucracy(bureaucracy).
+address(address).
+pays(pays).
+dare(dare).
+economists(economists).
+pegged(pegged).
+experts(experts).
+mindful(mindful).
+expenditure(expenditure).
+matthew_green_reuters(matthew_green_reuters).
+slash(slash).
+knight(knight).
+task(task).
+ballot(ballot).
+paul(paul).
+collections(collections).
+levy(levy).
+destinations(destinations).
+governments(governments).
+try(try).
+exemptions(exemptions).
+sensex(sensex).
+five_weeks(five_weeks).
+allowance(allowance).
+eusa(eusa).
+advantage(advantage).
+efficient(efficient).
+profitability(profitability).
+hand(hand).
+fiserv(fiserv).
+sense(sense).
+merits(merits).
+accretion(accretion).
+setback(setback).
+planning_solutions_group_llc(planning_solutions_group_llc).
+carrier(carrier).
+malacalza(malacalza).
+carige(carige).
+european_central_bank(european_central_bank).
+liquidation(liquidation).
+peers(peers).
+fluffaypenguin(fluffaypenguin).
+starters(starters).
+skyrocket(skyrocket).
+millennials(millennials).
+stigma(stigma).
+lifestyle(lifestyle).
+crunch(crunch).
+administrators(administrators).
+backs(backs).
+june_2018(june_2018).
+shakeout(shakeout).
+restaurants(restaurants).
+touch(touch).
+problem(problem).
+kubik(kubik).
+national_association_of_realtors(national_association_of_realtors).
+founder(founder).
+vincent_bollore(vincent_bollore).
+series(series).
+response(response).
+strategists(strategists).
+operation(operation).
+sought(sought).
+conduct(conduct).
+bilibili(bilibili).
+autohome(autohome).
+rights(rights).
+kaepernick(kaepernick).
+gm(gm).
+midnight(midnight).
+blowup(blowup).
+crash(crash).
+october(october).
+matterhorn(matterhorn).
+airport(airport).
+easyjet(easyjet).
+ryanair(ryanair).
+evident(evident).
+discounts(discounts).
+retailers(retailers).
+farfetch(farfetch).
+size(size).
+law(law).
+storage(storage).
+mandatory(mandatory).
+delhi(delhi).
+gautam_adani(gautam_adani).
+n6(n6).
+zenith(zenith).
+deposits(deposits).
+fcmb(fcmb).
+flaunt(flaunt).
+brands(brands).
+ruth_ann_marshall(ruth_ann_marshall).
+parliament(parliament).
+enact(enact).
+alliance(alliance).
+canberra(canberra).
+consumer_action_law_centre(consumer_action_law_centre).
+proposedlegislation(proposedlegislation).
+lease(lease).
+convergence(convergence).
+john(john).
+mike(mike).
+caa(caa).
+grant_shapps(grant_shapps).
+operating(operating).
+receive(receive).
+video(video).
+facebook(facebook).
+technologies(technologies).
+john_higgins(john_higgins).
+capital_economics(capital_economics).
+piece(piece).
+hubbard(hubbard).
+dangers(dangers).
+three_hundred_billion_dollars(three_hundred_billion_dollars).
+teachers(teachers).
+mackey(mackey).
+mean(mean).
+divisors(divisors).
+implement(implement).
+programs(programs).
+students(students).
+school(school).
+districts(districts).
+aaron(aaron).
+oversight(oversight).
+farm(farm).
+recommend(recommend).
+clifford(clifford).
+cell(cell).
+treatments(treatments).
+heska(heska).
+masterplan(masterplan).
+relations(relations).
+chloe(chloe).
+fiance(fiance).
+journeys(journeys).
+settlement(settlement).
+difficulty(difficulty).
+vacations(vacations).
+accommodation(accommodation).
+enter(enter).
+air(air).
+condor(condor).
+travelers(travelers).
+counters(counters).
+wedding(wedding).
+improvise(improvise).
+chaos(chaos).
+roche(roche).
+telocation(telocation).
+chappatta(chappatta).
+spreads(spreads).
+safety(safety).
+key(key).
+axel_heinrich(axel_heinrich).
+venture(venture).
+volkswagen(volkswagen).
+fd(fd).
+collateral(collateral).
+stability(stability).
+central_bank_of_nigeria(central_bank_of_nigeria).
+segment(segment).
+fortnight(fortnight).
+instrument(instrument).
+subscription(subscription).
+n354(n354).
+robust(robust).
+n694(n694).
+check(check).
+milestones(milestones).
+mitra(mitra).
+cabinet(cabinet).
+proposal(proposal).
+west_bengal(west_bengal).
+submit(submit).
+regime(regime).
+etr(etr).
+shell(shell).
+future(future).
+list(list).
+injection(injection).
+rebecca_long_bailey(rebecca_long_bailey).
+miles(miles).
+jobless(jobless).
+royal(royal).
+solicit(solicit).
+mirage(mirage).
+tran(tran).
+flag(flag).
+client(client).
+huttar(huttar).
+relatives(relatives).
+aunt(aunt).
+uncle(uncle).
+mcdonald(mcdonald).
+attorneys(attorneys).
+crimes(crimes).
+sayre(sayre).
+bathroom(bathroom).
+repair(repair).
+stop(stop).
+buybacks(buybacks).
+inequality(inequality).
+rents(rents).
+tulsa(tulsa).
+centre(centre).
+new_york_federal_reserve_bank(new_york_federal_reserve_bank).
+headlines(headlines).
+bell(bell).
+njeda(njeda).
+last_five_years(last_five_years).
+hour(hour).
+misclassification(misclassification).
+application(application).
+gopuff(gopuff).
+petroleum(petroleum).
+fourth_quarter(fourth_quarter).
+june_30(june_30).
+microsoft(microsoft).
+children(children).
+jimmy_harte(jimmy_harte).
+ofac(ofac).
+providers(providers).
+companies(companies).
+dashboard(dashboard).
+rts(rts).
+pp(pp).
+regulators(regulators).
+lse(lse).
+stick(stick).
+institute(institute).
+recover(recover).
+man(man).
+cortis(cortis).
+portelli(portelli).
+repayment(repayment).
+hvb(hvb).
+germany(germany).
+decisions(decisions).
+environment(environment).
+modi(modi).
+radware(radware).
+verticals(verticals).
+notice(notice).
+whittle(whittle).
+amplify(amplify).
+applications(applications).
+solution(solution).
+mpir(mpir).
+dismiss(dismiss).
+tesco(tesco).
+london(london).
+invesco(invesco).
+pwv(pwv).
+supply(supply).
+resource(resource).
+bam(bam).
+lon(lon).
+medikabazaar(medikabazaar).
+ramp(ramp).
+zomato(zomato).
+positions(positions).
+akash_rajpal(akash_rajpal).
+component(component).
+aqn(aqn).
+securities(securities).
+utilities(utilities).
+supreme_court(supreme_court).
+sept_24(sept_24).
+deliver(deliver).
+financials(financials).
+ftse(ftse).
+industrials(industrials).
+stuck(stuck).
+tui(tui).
+gloom(gloom).
+congress(congress).
+hearings(hearings).
+imperial_brands(imperial_brands).
+midcaps(midcaps).
+contribute(contribute).
+careers(careers).
+therapeutics(therapeutics).
+erf(erf).
+two_years(two_years).
+fcfad(fcfad).
+lockheed_martin(lockheed_martin).
+lockheed(lockheed).
+show(show).
+theory(theory).
+shock(shock).
+likes(likes).
+options(options).
+sachs(sachs).
+six_weeks(six_weeks).
+representatives(representatives).
+advice(advice).
+compensate(compensate).
+villas(villas).
+insolvency(insolvency).
+nature(nature).
+ombudsman(ombudsman).
+america(america).
+intrexon(intrexon).
+xon(xon).
+helen_sabzevari(helen_sabzevari).
+ninety_days(ninety_days).
+cubist_systematic_strategies_llc(cubist_systematic_strategies_llc).
+chips(chips).
+capacity(capacity).
+c(c).
+popularity(popularity).
+turnover(turnover).
+suggest(suggest).
+conservatives(conservatives).
+entitlement(entitlement).
+primepulse(primepulse).
+remuneration(remuneration).
+fozan(fozan).
+sar(sar).
+adecoagro(adecoagro).
+world_bank(world_bank).
+bundesbank(bundesbank).
+ishares(ishares).
+may_2003(may_2003).
+realizations(realizations).
+congressional_budget_office(congressional_budget_office).
+tens(tens).
+dozens(dozens).
+fly(fly).
+express(express).
+balances(balances).
+retire(retire).
+roth(roth).
+exceed(exceed).
+reits(reits).
+gtls(gtls).
+graham_hiscotthead(graham_hiscotthead).
+email(email).
+sep(sep).
+purpose(purpose).
+newsletters(newsletters).
+repatriate(repatriate).
+hell(hell).
+idea(idea).
+brian_strutton(brian_strutton).
+holidaymakers(holidaymakers).
+pbdm(pbdm).
+cnbka(cnbka).
+bank_of_america_corp(bank_of_america_corp).
+routes(routes).
+airline(airline).
+refinitiv(refinitiv).
+mergers(mergers).
+dea(dea).
+parliamentary_budget_office(parliamentary_budget_office).
+bharti_airtel(bharti_airtel).
+users(users).
+contrast(contrast).
+bsnl(bsnl).
+subscribers(subscribers).
+beverages(beverages).
+gst(gst).
+cess(cess).
+pti(pti).
+night(night).
+populations(populations).
+winter(winter).
+mesee(mesee).
+flight(flight).
+wars(wars).
+mill(mill).
+photographer(photographer).
+midway(midway).
+driven(driven).
+fontinelle(fontinelle).
+contents_finance(contents_finance).
+survey(survey).
+question(question).
+net(net).
+church(church).
+sleep(sleep).
+weather(weather).
+francisco(francisco).
+maximum(maximum).
+liability(liability).
+utilisation(utilisation).
+tailwind(tailwind).
+builds(builds).
+tonne(tonne).
+khosrow_zamani(khosrow_zamani).
+zamani(zamani).
+remains(remains).
+accountant(accountant).
+reward(reward).
+washington(washington).
+construction(construction).
+mw(mw).
+everything(everything).
+stage(stage).
+peak(peak).
+bankrupt(bankrupt).
+escape(escape).
+seventh(seventh).
+inflation(inflation).
+inflows(inflows).
+confidence(confidence).
+stood(stood).
+liquid(liquid).
+processes(processes).
+measures(measures).
+speaker(speaker).
+education(education).
+science(science).
+three_million(three_million).
+schools(schools).
+european_union(european_union).
+reform(reform).
+officers(officers).
+rounds(rounds).
+represent(represent).
+load(load).
+mega_watts(mega_watts).
+gambia(gambia).
+march_of_this_year(march_of_this_year).
+kilometres(kilometres).
+generate(generate).
+giepa(giepa).
+quest(quest).
+joint_venture_agreement(joint_venture_agreement).
+youths(youths).
+coordination(coordination).
+national_nutrition_agency(national_nutrition_agency).
+collaboration(collaboration).
+seeds(seeds).
+progress(progress).
+banjul_international_airport(banjul_international_airport).
+lots(lots).
+gambia_port_authority(gambia_port_authority).
+business_plan(business_plan).
+transportation(transportation).
+reforms(reforms).
+viability(viability).
+port(port).
+boost(boost).
+five_hundred_thousand(five_hundred_thousand).
+works(works).
+national_broadband_network(national_broadband_network).
+april_2019(april_2019).
+complement(complement).
+nation(nation).
+vessels(vessels).
+fish(fish).
+republic(republic).
+fisheries_regulations(fisheries_regulations).
+stores(stores).
+autozone(autozone).
+lay(lay).
+delivery(delivery).
+the_first_quarter(the_first_quarter).
+nio(nio).
+suvs(suvs).
+carmaker(carmaker).
+farmland_assessment_act(farmland_assessment_act).
+new_jersey_globe(new_jersey_globe).
+successors(successors).
+approaches(approaches).
+celsius(celsius).
+degrees(degrees).
+hope(hope).
+lack(lack).
+kabwe_canal(kabwe_canal).
+material(material).
+grass(grass).
+areas(areas).
+yen(yen).
+bitcoin(bitcoin).
+btc(btc).
+anyone(anyone).
+monex_group(monex_group).
+building(building).
+aspiration(aspiration).
+ask(ask).
+assist(assist).
+water(water).
+renew(renew).
+mission(mission).
+glut(glut).
+imbalance(imbalance).
+treasuries(treasuries).
+scarcity(scarcity).
+romania(romania).
+launch(launch).
+packages(packages).
+romaniainsider(romaniainsider).
+pso(pso).
+fy_18(fy_18).
+pakistan(pakistan).
+gains(gains).
+test(test).
+facilitate(facilitate).
+softbank(softbank).
+images(images).
+son(son).
+internet(internet).
+charisma(charisma).
+status(status).
+exceptions(exceptions).
+adam_neumann(adam_neumann).
+ceremony(ceremony).
+c2fo(c2fo).
+suspend(suspend).
+gm_gm(gm_gm).
+expenditures(expenditures).
+sacrifice(sacrifice).
+condition(condition).
+united_auto_workers(united_auto_workers).
+bailout(bailout).
+ross_mcewan(ross_mcewan).
+intention(intention).
+april(april).
+office_for_budget_responsibility(office_for_budget_responsibility).
+data_protection_authority(data_protection_authority).
+personal_data_protection_office(personal_data_protection_office).
+forces(forces).
+lee(lee).
+refurbishment(refurbishment).
+periods(periods).
+repairs(repairs).
+conference(conference).
+committee(committee).
+laws(laws).
+society_for_human_resource_management(society_for_human_resource_management).
+fact(fact).
+paternity(paternity).
+jpmorgan_chase(jpmorgan_chase).
+caregivers(caregivers).
+british_commercial_court(british_commercial_court).
+august_16(august_16).
+permission(permission).
+notices(notices).
+letter_of_authority(letter_of_authority).
+first_division(first_division).
+assessment(assessment).
+court_of_tax_appeals(court_of_tax_appeals).
+cando(cando).
+pixabay(pixabay).
+bir(bir).
+p2(p2).
+entrepreneurs(entrepreneurs).
+tgmedia(tgmedia).
+skills(skills).
+women(women).
+pool(pool).
+obstacles(obstacles).
+multinationals(multinationals).
+destination(destination).
+needs(needs).
+dk_joshi(dk_joshi).
+term(term).
+shiller(shiller).
+plenty(plenty).
+argument(argument).
+boomers(boomers).
+clv19(clv19).
+calls(calls).
+byrne(byrne).
+tgt(tgt).
+holders(holders).
+allotments(allotments).
+sky_news(sky_news).
+syndicate(syndicate).
+form(form).
+heads(heads).
+bln(bln).
+allocate(allocate).
+stormwater(stormwater).
+wastewater(wastewater).
+graph(graph).
+clarity(clarity).
+vf(vf).
+deloitte(deloitte).
+audits(audits).
+manage(manage).
+populism(populism).
+candidates(candidates).
+desire(desire).
+ext(ext).
+penn_state_board_of_trustees_committee_on_finance(penn_state_board_of_trustees_committee_on_finance).
+request(request).
+hubs(hubs).
+distributions(distributions).
+leader(leader).
+bills(bills).
+describe(describe).
+favour(favour).
+metadata(metadata).
+publisher(publisher).
+distributor(distributor).
+excess(excess).
+uk_plc(uk_plc).
+travellers(travellers).
+insolvency_service(insolvency_service).
+residents(residents).
+pound(pound).
+bring(bring).
+department_for_transport(department_for_transport).
+preparations(preparations).
+pick(pick).
+organise(organise).
+resolution(resolution).
+housing_council(housing_council).
+huelskamp(huelskamp).
+trv(trv).
+tencent_holdings_ltd(tencent_holdings_ltd).
+hammer_capital(hammer_capital).
+prorogation(prorogation).
+focus(focus).
+monarch_airlines(monarch_airlines).
+ventas(ventas).
+twelve(twelve).
+ccne(ccne).
+pot(pot).
+investigation(investigation).
+sums(sums).
+daughter(daughter).
+tp(tp).
+rivals(rivals).
+discounting(discounting).
+zealand(zealand).
+cents(cents).
+kate_rankin(kate_rankin).
+powder(powder).
+outstrip(outstrip).
+logistics(logistics).
+ways(ways).
+tour(tour).
+tickpick(tickpick).
+tickets(tickets).
+is(is).
+worked(worked).
+doubled(doubled).
+lost(lost).
+rose(rose).
+announced(announced).
+changing(changing).
+let(let).
+traded(traded).
+skyrocketed(skyrocketed).
+attracted(attracted).
+changed(changed).
+completed(completed).
+gaming(gaming).
+led(led).
+participated(participated).
+stated(stated).
+projected(projected).
+expects(expects).
+founded(founded).
+exposed(exposed).
+obtain(obtain).
+believe(believe).
+existing(existing).
+increased(increased).
+compared(compared).
+has(has).
+accredited(accredited).
+mirroring(mirroring).
+syndicated(syndicated).
+became(became).
+declined(declined).
+raised(raised).
+tightened(tightened).
+adjusted(adjusted).
+fell(fell).
+reported(reported).
+challenging(challenging).
+recovered(recovered).
+having(having).
+said(said).
+came(came).
+got(got).
+were(were).
+had(had).
+decried(decried).
+pursued(pursued).
+working(working).
+surrendered(surrendered).
+denounced(denounced).
+staggering(staggering).
+fallen(fallen).
+ended(ended).
+written(written).
+neighboring(neighboring).
+published(published).
+done(done).
+disregarded(disregarded).
+computing(computing).
+leading(leading).
+learning(learning).
+dismissed(dismissed).
+have(have).
+secured(secured).
+reducing(reducing).
+holding(holding).
+paying(paying).
+assumed(assumed).
+took(took).
+buy(buy).
+amounted(amounted).
+calculated(calculated).
+citing(citing).
+annualized(annualized).
+represents(represents).
+keep(keep).
+are(are).
+based(based).
+rising(rising).
+growing(growing).
+covering(covering).
+enhanced(enhanced).
+made(made).
+go(go).
+declared(declared).
+plunking(plunking).
+did(did).
+estimated(estimated).
+started(started).
+renowned(renowned).
+retired(retired).
+decided(decided).
+make(make).
+filling(filling).
+continues(continues).
+given(given).
+reaffirmed(reaffirmed).
+issued(issued).
+rated(rated).
+cheated(cheated).
+combined(combined).
+styled(styled).
+taken(taken).
+received(received).
+sold(sold).
+valued(valued).
+expected(expected).
+comes(comes).
+needed(needed).
+closed(closed).
+contracted(contracted).
+established(established).
+find(find).
+ordered(ordered).
+costing(costing).
+searching(searching).
+expect(expect).
+topping(topping).
+dated(dated).
+owns(owns).
+owned(owned).
+gave(gave).
+assigned(assigned).
+appreciated(appreciated).
+deducting(deducting).
+earning(earning).
+showed(showed).
+priced(priced).
+get(get).
+lifted(lifted).
+returned(returned).
+was(was).
+totaling(totaling).
+quadrupled(quadrupled).
+earned(earned).
+added(added).
+resumed(resumed).
+measured(measured).
+surged(surged).
+disclosed(disclosed).
+follows(follows).
+says(says).
+fired(fired).
+plunged(plunged).
+removed(removed).
+taking(taking).
+used(used).
+helped(helped).
+looking(looking).
+slowed(slowed).
+suggesting(suggesting).
+losing(losing).
+performing(performing).
+seized(seized).
+involved(involved).
+depositing(depositing).
+reaching(reaching).
+reduced(reduced).
+surrendering(surrendering).
+resigned(resigned).
+retained(retained).
+acquired(acquired).
+remaining(remaining).
+highlighted(highlighted).
+canceled(canceled).
+ceased(ceased).
+believed(believed).
+stranded(stranded).
+chartered(chartered).
+approaching(approaching).
+struggling(struggling).
+engaged(engaged).
+went(went).
+improved(improved).
+contributed(contributed).
+grew(grew).
+fixed(fixed).
+gained(gained).
+sending(sending).
+anticipated(anticipated).
+becoming(becoming).
+includes(includes).
+believes(believes).
+take(take).
+easing(easing).
+mentioned(mentioned).
+raising(raising).
+drained(drained).
+cooling(cooling).
+designed(designed).
+making(making).
+pointed(pointed).
+caused(caused).
+fueled(fueled).
+lifting(lifting).
+reviving(reviving).
+giving(giving).
+slashed(slashed).
+incorporated(incorporated).
+lowered(lowered).
+give(give).
+improve(improve).
+flagging(flagging).
+soared(soared).
+missing(missing).
+performed(performed).
+seconded(seconded).
+squeezed(squeezed).
+come(come).
+operated(operated).
+recycling(recycling).
+affording(affording).
+fighting(fighting).
+arraigned(arraigned).
+linked(linked).
+approved(approved).
+auctioned(auctioned).
+increasing(increasing).
+requested(requested).
+cancelled(cancelled).
+being(being).
+desired(desired).
+equating(equating).
+traveled(traveled).
+required(required).
+acquire(acquire).
+intends(intends).
+assessed(assessed).
+implied(implied).
+doing(doing).
+know(know).
+failed(failed).
+ousting(ousting).
+see(see).
+faced(faced).
+failing(failing).
+leaving(leaving).
+booked(booked).
+collapsed(collapsed).
+do(do).
+exploding(exploding).
+goosing(goosing).
+lopsided(lopsided).
+wants(wants).
+starting(starting).
+ensure(ensure).
+apply(apply).
+establish(establish).
+urging(urging).
+participate(participate).
+mishandling(mishandling).
+trimmed(trimmed).
+selling(selling).
+helping(helping).
+acquiring(acquiring).
+using(using).
+writing(writing).
+takes(takes).
+securing(securing).
+spiked(spiked).
+prompting(prompting).
+adding(adding).
+noting(noting).
+putting(putting).
+refused(refused).
+maintained(maintained).
+paired(paired).
+translated(translated).
+followed(followed).
+allowed(allowed).
+valuing(valuing).
+emitted(emitted).
+ending(ending).
+bolstering(bolstering).
+trying(trying).
+registered(registered).
+opened(opened).
+reduce(reduce).
+widened(widened).
+aimed(aimed).
+creating(creating).
+counted(counted).
+assorted(assorted).
+averaged(averaged).
+deduced(deduced).
+assume(assume).
+ailing(ailing).
+asked(asked).
+confirmed(confirmed).
+generated(generated).
+edging(edging).
+reinvested(reinvested).
+proceeding(proceeding).
+slowing(slowing).
+struggled(struggled).
+imported(imported).
+granted(granted).
+advancing(advancing).
+bucking(bucking).
+enwave(enwave).
+ongoing(ongoing).
+charging(charging).
+availing(availing).
+computed(computed).
+exceeded(exceeded).
+charged(charged).
+going(going).
+claiming(claiming).
+levied(levied).
+provides(provides).
+seen(seen).
+slashing(slashing).
+disclose(disclose).
+mounted(mounted).
+nationalized(nationalized).
+stabilize(stabilize).
+permitted(permitted).
+slipped(slipped).
+suffered(suffered).
+voted(voted).
+admitted(admitted).
+placed(placed).
+superseded(superseded).
+banned(banned).
+proposed(proposed).
+underperforming(underperforming).
+misstated(misstated).
+editing(editing).
+chased(chased).
+drifted(drifted).
+marimed(marimed).
+underlying(underlying).
+decreased(decreased).
+classified(classified).
+totalling(totalling).
+boosted(boosted).
+delivering(delivering).
+intended(intended).
+budgeted(budgeted).
+foregoing(foregoing).
+piloted(piloted).
+announcing(announcing).
+seemed(seemed).
+demonstrating(demonstrating).
+invested(invested).
+returning(returning).
+itemizing(itemizing).
+itemized(itemized).
+suspended(suspended).
+filed(filed).
+listed(listed).
+following(following).
+hiring(hiring).
+prompted(prompted).
+employing(employing).
+lose(lose).
+agreed(agreed).
+converting(converting).
+accused(accused).
+misleading(misleading).
+receiving(receiving).
+reissued(reissued).
+generating(generating).
+posed(posed).
+occurred(occurred).
+downgraded(downgraded).
+created(created).
+offered(offered).
+strengthened(strengthened).
+predicted(predicted).
+accumulated(accumulated).
+amended(amended).
+began(began).
+purchased(purchased).
+holds(holds).
+revealed(revealed).
+gives(gives).
+cited(cited).
+lowering(lowering).
+excluding(excluding).
+attributed(attributed).
+decreasing(decreasing).
+tripled(tripled).
+restored(restored).
+falling(falling).
+excluded(excluded).
+gets(gets).
+resulted(resulted).
+declining(declining).
+hosting(hosting).
+incurred(incurred).
+organized(organized).
+discounted(discounted).
+pushed(pushed).
+executed(executed).
+revolving(revolving).
+plunging(plunging).
+develop(develop).
+facing(facing).
+seeing(seeing).
+enforcing(enforcing).
+rocked(rocked).
+edged(edged).
+promoting(promoting).
+waving(waving).
+stripping(stripping).
+fined(fined).
+facilitated(facilitated).
+reached(reached).
+displaced(displaced).
+provided(provided).
+impacted(impacted).
+programming(programming).
+aforementioned(aforementioned).
+diverted(diverted).
+deceased(deceased).
+raked(raked).
+benefited(benefited).
+consolidating(consolidating).
+branded(branded).
+add(add).
+imposing(imposing).
+resulting(resulting).
+hitting(hitting).
+alleged(alleged).
+prosecuting(prosecuting).
+initiated(initiated).
+asking(asking).
+shown(shown).
+say(say).
+locked(locked).
+reiterated(reiterated).
+handed(handed).
+pulled(pulled).
+delivered(delivered).
+donating(donating).
+surrounding(surrounding).
+refinanced(refinanced).
+tumbled(tumbled).
+wiped(wiped).
+committed(committed).
+overcharged(overcharged).
+analyzed(analyzed).
+refunded(refunded).
+determined(determined).
+overpriced(overpriced).
+saddening(saddening).
+complicated(complicated).
+triggered(triggered).
+warned(warned).
+weakening(weakening).
+posted(posted).
+inflicted(inflicted).
+denied(denied).
+knocked(knocked).
+signed(signed).
+defied(defied).
+suggested(suggested).
+dragged(dragged).
+moving(moving).
+outperformed(outperformed).
+breached(breached).
+seeking(seeking).
+save(save).
+wishing(wishing).
+saved(saved).
+located(located).
+dwindling(dwindling).
+shrinking(shrinking).
+expanding(expanding).
+completing(completing).
+laying(laying).
+controlling(controlling).
+produced(produced).
+filmed(filmed).
+criticized(criticized).
+realize(realize).
+awarded(awarded).
+converted(converted).
+accrued(accrued).
+developing(developing).
+setting(setting).
+directed(directed).
+stranding(stranding).
+placing(placing).
+triggering(triggering).
+gone(gone).
+addressing(addressing).
+hired(hired).
+travelling(travelling).
+bailed(bailed).
+merged(merged).
+attaining(attaining).
+quoted(quoted).
+doled(doled).
+allow(allow).
+identified(identified).
+abandoned(abandoned).
+dropped(dropped).
+shocked(shocked).
+presided(presided).
+sacred(sacred).
+named(named).
+contributing(contributing).
+mitigating(mitigating).
+pledged(pledged).
+included(included).
+violated(violated).
+injected(injected).
+annualised(annualised).
+been(been).
+investing(investing).
+accelerating(accelerating).
+attracting(attracting).
+doubling(doubling).
+strengthening(strengthening).
+partnering(partnering).
+follow(follow).
+cutting(cutting).
+continuing(continuing).
+winning(winning).
+pacing(pacing).
+racing(racing).
+orchestrated(orchestrated).
+pictured(pictured).
+misled(misled).
+owed(owed).
+outlining(outlining).
+targeted(targeted).
+heightened(heightened).
+signaling(signaling).
+securitize(securitize).
+showing(showing).
+settle(settle).
+avoiding(avoiding).
+channelled(channelled).
+considering(considering).
+owing(owing).
+getting(getting).
+happen(happen).
+scoring(scoring).
+driving(driving).
+establishing(establishing).
+settling(settling).
+resolved(resolved).
+answered(answered).
+turned(turned).
+interesting(interesting).
+ascribing(ascribing).
+treated(treated).
+qualified(qualified).
+catching(catching).
+appreciating(appreciating).
+rewarded(rewarded).
+totaled(totaled).
+achieving(achieving).
+arrived(arrived).
+inflated(inflated).
+known(known).
+halted(halted).
+importing(importing).
+parked(parked).
+welcoming(welcoming).
+slow(slow).
+discussed(discussed).
+pertaining(pertaining).
+amounting(amounting).
+attached(attached).
+detached(detached).
+fluctuated(fluctuated).
+defined(defined).
+consisting(consisting).
+deferred(deferred).
+bringing(bringing).
+popularising(popularising).
+tapping(tapping).
+confronted(confronted).
+distributed(distributed).
+procured(procured).
+recorded(recorded).
+introduced(introduced).
+adopted(adopted).
+undervalued(undervalued).
+reflects(reflects).
+tipping(tipping).
+obscured(obscured).
+stepped(stepped).
+exported(exported).
+spanning(spanning).
+emerging(emerging).
+interacting(interacting).
+boosting(boosting).
+manufactured(manufactured).
+automating(automating).
+outsourcing(outsourcing).
+dampening(dampening).
+lighting(lighting).
+replace(replace).
+planting(planting).
+outlined(outlined).
+preferred(preferred).
+transferred(transferred).
+loaded(loaded).
+deteriorated(deteriorated).
+pending(pending).
+blamed(blamed).
+installed(installed).
+warning(warning).
+called(called).
+qualify(qualify).
+qualifying(qualifying).
+awaiting(awaiting).
+teaching(teaching).
+adjusting(adjusting).
+taxing(taxing).
+stacking(stacking).
+supporting(supporting).
+incentivize(incentivize).
+wrote(wrote).
+aligned(aligned).
+ballooned(ballooned).
+happened(happened).
+customized(customized).
+escalating(escalating).
+forecasted(forecasted).
+passed(passed).
+forwarded(forwarded).
+handled(handled).
+launching(launching).
+responded(responded).
+indicted(indicted).
+assuming(assuming).
+lived(lived).
+realising(realising).
+entitled(entitled).
+sells(sells).
+ordering(ordering).
+makes(makes).
+creeping(creeping).
+smothered(smothered).
+noted(noted).
+renamed(renamed).
+draining(draining).
+filtering(filtering).
+released(released).
+associated(associated).
+reflecting(reflecting).
+expecting(expecting).
+wing(wing).
+attacked(attacked).
+simmered(simmered).
+planned(planned).
+launched(launched).
+entered(entered).
+amazing(amazing).
+retiring(retiring).
+buffered(buffered).
+coming(coming).
+ranging(ranging).
+endorsed(endorsed).
+featured(featured).
+abolished(abolished).
+relating(relating).
+complicating(complicating).
+reversed(reversed).
+depending(depending).
+reviewed(reviewed).
+implemented(implemented).
+formed(formed).
+stopped(stopped).
+borrowed(borrowed).
+moved(moved).
+pledging(pledging).
+approving(approving).
+rolled(rolled).
+combining(combining).
+urged(urged).
+surging(surging).
+owning(owning).
+projecting(projecting).
+integrated(integrated).
+blocking(blocking).
+faces(faces).
+piled(piled).
+weakened(weakened).
+thirtysomething(thirtysomething).
+dining(dining).
+turning(turning).
+presented(presented).
+considered(considered).
+controlled(controlled).
+hobbled(hobbled).
+conducted(conducted).
+involving(involving).
+representing(representing).
+mounting(mounting).
+striking(striking).
+freezing(freezing).
+peaking(peaking).
+grounded(grounded).
+mobilised(mobilised).
+covered(covered).
+weighing(weighing).
+standing(standing).
+calling(calling).
+descended(descended).
+industrialized(industrialized).
+pronounced(pronounced).
+remained(remained).
+eclipsing(eclipsing).
+allowing(allowing).
+coupled(coupled).
+goes(goes).
+repatriating(repatriating).
+apologised(apologised).
+applauded(applauded).
+handing(handing).
+saying(saying).
+correlated(correlated).
+attending(attending).
+funded(funded).
+telling(telling).
+transformed(transformed).
+flying(flying).
+culminating(culminating).
+wanted(wanted).
+affecting(affecting).
+forcing(forcing).
+running(running).
+forced(forced).
+gutted(gutted).
+collected(collected).
+convinced(convinced).
+concluded(concluded).
+cleared(cleared).
+talking(talking).
+migrated(migrated).
+availed(availed).
+protected(protected).
+feared(feared).
+leave(leave).
+cleaned(cleaned).
+appeared(appeared).
+discovered(discovered).
+overbilled(overbilled).
+reimbursed(reimbursed).
+billed(billed).
+implicated(implicated).
+forked(forked).
+reallocated(reallocated).
+accounted(accounted).
+filled(filled).
+personalised(personalised).
+scrutinize(scrutinize).
+dispensing(dispensing).
+blocked(blocked).
+upcoming(upcoming).
+tied(tied).
+ravaged(ravaged).
+enrolled(enrolled).
+targeting(targeting).
+ruled(ruled).
+stumbled(stumbled).
+lagging(lagging).
+promised(promised).
+dragging(dragging).
+rallied(rallied).
+shrugging(shrugging).
+shed(shed).
+ditched(ditched).
+remember(remember).
+consider(consider).
+disrupted(disrupted).
+hoping(hoping).
+ploughed(ploughed).
+lying(lying).
+lasting(lasting).
+exempted(exempted).
+enjoyed(enjoyed).
+recording(recording).
+appointing(appointing).
+promoted(promoted).
+supported(supported).
+describing(describing).
+protracted(protracted).
+modeled(modeled).
+reassured(reassured).
+loading(loading).
+servicing(servicing).
+advised(advised).
+guiding(guiding).
+shoring(shoring).
+caffeinated(caffeinated).
+managing(managing).
+updated(updated).
+zoned(zoned).
+pushing(pushing).
+sustaining(sustaining).
+understanding(understanding).
+matched(matched).
+logged(logged).
+finished(finished).
+moderated(moderated).
+corresponding(corresponding).
+narrowed(narrowed).
+indicated(indicated).
+capitalized(capitalized).
+expanded(expanded).
+guided(guided).
+constructed(constructed).
+trained(trained).
+participating(participating).
+noticed(noticed).
+exceeding(exceeding).
+hundred(hundred).
+validated(validated).
+formulated(formulated).
+handling(handling).
+progressing(progressing).
+phased(phased).
+ensuring(ensuring).
+providing(providing).
+amending(amending).
+smashing(smashing).
+recalled(recalled).
+blaming(blaming).
+gathered(gathered).
+pocketed(pocketed).
+capping(capping).
+achieved(achieved).
+hampered(hampered).
+withdrawing(withdrawing).
+maturing(maturing).
+converged(converged).
+rolling(rolling).
+submitted(submitted).
+winding(winding).
+carried(carried).
+burgeoning(burgeoning).
+famed(famed).
+evidenced(evidenced).
+rushed(rushed).
+slammed(slammed).
+deducted(deducted).
+normalized(normalized).
+stabilising(stabilising).
+lacking(lacking).
+addressed(addressed).
+keeping(keeping).
+prodding(prodding).
+settled(settled).
+selected(selected).
+flowing(flowing).
+neighbouring(neighbouring).
+remove(remove).
+including(including).
+pouring(pouring).
+leased(leased).
+criticised(criticised).
+demanding(demanding).
+whipsawed(whipsawed).
+aging(aging).
+intending(intending).
+replacing(replacing).
+roading(roading).
+improving(improving).
+compounded(compounded).
+updating(updating).
+investigated(investigated).
+approve(approve).
+restated(restated).
+be(be).
+enduring(enduring).
+relied(relied).
+recommended(recommended).
+minimize(minimize).
+distressing(distressing).
+factored(factored).
+weighed(weighed).
+employed(employed).
+revised(revised).
+shedding(shedding).
+ceding(ceding).
+reselling(reselling).
+occur(A, B, C, D) :- worked(A), operator(B), doubled(C), loss(D).
+occur(A, B, C, D) :- worked(A), operator(B), doubled(C), time(D).
+occur(A, B, C, D) :- announced(A), end(B), skyrocketed(C), overnight(D).
+occur(A, B, C, D) :- announced(A), end(B), skyrocketed(C), shares(D).
+occur(A, B, C, D) :- announced(A), end(B), skyrocketed(C), opening(D).
+occur(A, B, C, D) :- changing(A), name(B), skyrocketed(C), overnight(D).
+occur(A, B, C, D) :- changing(A), name(B), skyrocketed(C), shares(D).
+occur(A, B, C, D) :- changing(A), name(B), skyrocketed(C), opening(D).
+occur(A, B, C, D) :- let(A), begin(B), skyrocketed(C), overnight(D).
+occur(A, B, C, D) :- let(A), begin(B), skyrocketed(C), shares(D).
+occur(A, B, C, D) :- let(A), begin(B), skyrocketed(C), opening(D).
+occur(A, B, C, D) :- traded(A), company(B), skyrocketed(C), overnight(D).
+occur(A, B, C, D) :- traded(A), company(B), skyrocketed(C), shares(D).
+occur(A, B, C, D) :- traded(A), company(B), skyrocketed(C), opening(D).
+occur(A, B, C, D) :- attracted(A), attention(B), skyrocketed(C), overnight(D).
+occur(A, B, C, D) :- attracted(A), attention(B), skyrocketed(C), shares(D).
+occur(A, B, C, D) :- attracted(A), attention(B), skyrocketed(C), opening(D).
+occur(A, B, C, D) :- attracted(A), press(B), skyrocketed(C), overnight(D).
+occur(A, B, C, D) :- attracted(A), press(B), skyrocketed(C), shares(D).
+occur(A, B, C, D) :- attracted(A), press(B), skyrocketed(C), opening(D).
+occur(A, B, C, D) :- attracted(A), value(B), skyrocketed(C), overnight(D).
+occur(A, B, C, D) :- attracted(A), value(B), skyrocketed(C), shares(D).
+occur(A, B, C, D) :- attracted(A), value(B), skyrocketed(C), opening(D).
+occur(A, B, C, D) :- attracted(A), company(B), skyrocketed(C), overnight(D).
+occur(A, B, C, D) :- attracted(A), company(B), skyrocketed(C), shares(D).
+occur(A, B, C, D) :- attracted(A), company(B), skyrocketed(C), opening(D).
+occur(A, B, C, D) :- attracted(A), shareholders(B), skyrocketed(C), overnight(D).
+occur(A, B, C, D) :- attracted(A), shareholders(B), skyrocketed(C), shares(D).
+occur(A, B, C, D) :- attracted(A), shareholders(B), skyrocketed(C), opening(D).
+occur(A, B, C, D) :- changed(A), nothing(B), skyrocketed(C), overnight(D).
+occur(A, B, C, D) :- changed(A), nothing(B), skyrocketed(C), shares(D).
+occur(A, B, C, D) :- changed(A), nothing(B), skyrocketed(C), opening(D).
+occur(A, B, C, D) :- changed(A), signal(B), skyrocketed(C), overnight(D).
+occur(A, B, C, D) :- changed(A), signal(B), skyrocketed(C), shares(D).
+occur(A, B, C, D) :- changed(A), signal(B), skyrocketed(C), opening(D).
+occur(A, B, C, D) :- changed(A), name(B), skyrocketed(C), overnight(D).
+occur(A, B, C, D) :- changed(A), name(B), skyrocketed(C), shares(D).
+occur(A, B, C, D) :- changed(A), name(B), skyrocketed(C), opening(D).
+occur(A, B, C, D) :- announced(A), company(B), participated(C), naspers(D).
+occur(A, B, C, D) :- announced(A), company(B), participated(C), comments(D).
+occur(A, B, C, D) :- announced(A), company(B), participated(C), investment(D).
+occur(A, B, C, D) :- announced(A), post(B), participated(C), naspers(D).
+occur(A, B, C, D) :- announced(A), post(B), participated(C), comments(D).
+occur(A, B, C, D) :- announced(A), post(B), participated(C), investment(D).
+occur(A, B, C, D) :- completed(A), startup(B), participated(C), naspers(D).
+occur(A, B, C, D) :- completed(A), startup(B), participated(C), comments(D).
+occur(A, B, C, D) :- completed(A), startup(B), participated(C), investment(D).
+occur(A, B, C, D) :- gaming(A), startup(B), participated(C), naspers(D).
+occur(A, B, C, D) :- gaming(A), startup(B), participated(C), comments(D).
+occur(A, B, C, D) :- gaming(A), startup(B), participated(C), investment(D).
+occur(A, B, C, D) :- led(A), naspers(B), participated(C), naspers(D).
+occur(A, B, C, D) :- led(A), naspers(B), participated(C), comments(D).
+occur(A, B, C, D) :- led(A), naspers(B), participated(C), investment(D).
+occur(A, B, C, D) :- stated(A), tcgs(B), projected(C), gamers(D).
+occur(A, B, C, D) :- stated(A), tcgs(B), projected(C), report(D).
+occur(A, B, C, D) :- believe(A), i(B), increased(C), cagr(D).
+occur(A, B, C, D) :- believe(A), investment(B), increased(C), cagr(D).
+occur(A, B, C, D) :- existing(A), equity(B), increased(C), cagr(D).
+occur(A, B, C, D) :- exposed(A), risks(B), compared(C), lenders(D).
+occur(A, B, C, D) :- exposed(A), risks(B), has(C), company(D).
+occur(A, B, C, D) :- exposed(A), risks(B), has(C), threshold(D).
+occur(A, B, C, D) :- obtain(A), tii(B), compared(C), lenders(D).
+occur(A, B, C, D) :- obtain(A), tii(B), has(C), company(D).
+occur(A, B, C, D) :- obtain(A), tii(B), has(C), threshold(D).
+occur(A, B, C, D) :- obtain(A), returns(B), compared(C), lenders(D).
+occur(A, B, C, D) :- obtain(A), returns(B), has(C), company(D).
+occur(A, B, C, D) :- obtain(A), returns(B), has(C), threshold(D).
+occur(A, B, C, D) :- became(A), credit(B), declined(C), hit(D).
+occur(A, B, C, D) :- became(A), credit(B), declined(C), rates(D).
+occur(A, B, C, D) :- became(A), credit(B), declined(C), hub(D).
+occur(A, B, C, D) :- became(A), credit(B), declined(C), google_public_data_source(D).
+occur(A, B, C, D) :- became(A), credit(B), declined(C), levels(D).
+occur(A, B, C, D) :- became(A), introduction(B), declined(C), hit(D).
+occur(A, B, C, D) :- became(A), introduction(B), declined(C), rates(D).
+occur(A, B, C, D) :- became(A), introduction(B), declined(C), hub(D).
+occur(A, B, C, D) :- became(A), introduction(B), declined(C), google_public_data_source(D).
+occur(A, B, C, D) :- became(A), introduction(B), declined(C), levels(D).
+occur(A, B, C, D) :- adjusted(A), ebitda(B), announced(C), saw(D).
+occur(A, B, C, D) :- adjusted(A), ebitda(B), reported(C), wilmington(D).
+occur(A, B, C, D) :- adjusted(A), ebitda(B), reported(C), drop(D).
+occur(A, B, C, D) :- adjusted(A), profit(B), announced(C), saw(D).
+occur(A, B, C, D) :- adjusted(A), profit(B), reported(C), wilmington(D).
+occur(A, B, C, D) :- adjusted(A), profit(B), reported(C), drop(D).
+occur(A, B, C, D) :- fell(A), profit(B), announced(C), saw(D).
+occur(A, B, C, D) :- fell(A), profit(B), reported(C), wilmington(D).
+occur(A, B, C, D) :- fell(A), profit(B), reported(C), drop(D).
+occur(A, B, C, D) :- fell(A), ebitda(B), announced(C), saw(D).
+occur(A, B, C, D) :- fell(A), ebitda(B), reported(C), wilmington(D).
+occur(A, B, C, D) :- fell(A), ebitda(B), reported(C), drop(D).
+occur(A, B, C, D) :- fell(A), ebita(B), announced(C), saw(D).
+occur(A, B, C, D) :- fell(A), ebita(B), reported(C), wilmington(D).
+occur(A, B, C, D) :- fell(A), ebita(B), reported(C), drop(D).
+occur(A, B, C, D) :- challenging(A), year(B), rose(C), revenue(D).
+occur(A, B, C, D) :- recovered(A), division(B), rose(C), revenue(D).
+occur(A, B, C, D) :- recovered(A), year(B), rose(C), revenue(D).
+occur(A, B, C, D) :- recovered(A), achieve(B), rose(C), revenue(D).
+occur(A, B, C, D) :- having(A), deal(B), said(C), wilmington(D).
+occur(A, B, C, D) :- having(A), deal(B), said(C), pay(D).
+occur(A, B, C, D) :- came(A), wall(B), fell(C), gdp(D).
+occur(A, B, C, D) :- got(A), things(B), fell(C), gdp(D).
+occur(A, B, C, D) :- came(A), wall(B), were(C), hundreds(D).
+occur(A, B, C, D) :- came(A), wall(B), had(C), employment(D).
+occur(A, B, C, D) :- came(A), wall(B), had(C), communism(D).
+occur(A, B, C, D) :- got(A), things(B), were(C), hundreds(D).
+occur(A, B, C, D) :- got(A), things(B), had(C), employment(D).
+occur(A, B, C, D) :- got(A), things(B), had(C), communism(D).
+occur(A, B, C, D) :- denounced(A), program(B), fallen(C), debt(D).
+occur(A, B, C, D) :- denounced(A), gamble(B), fallen(C), debt(D).
+occur(A, B, C, D) :- staggering(A), success(B), fallen(C), debt(D).
+occur(A, B, C, D) :- denounced(A), program(B), has(C), country(D).
+occur(A, B, C, D) :- denounced(A), program(B), has(C), rate(D).
+occur(A, B, C, D) :- denounced(A), program(B), has(C), growth(D).
+occur(A, B, C, D) :- denounced(A), gamble(B), has(C), country(D).
+occur(A, B, C, D) :- denounced(A), gamble(B), has(C), rate(D).
+occur(A, B, C, D) :- denounced(A), gamble(B), has(C), growth(D).
+occur(A, B, C, D) :- staggering(A), success(B), has(C), country(D).
+occur(A, B, C, D) :- staggering(A), success(B), has(C), rate(D).
+occur(A, B, C, D) :- staggering(A), success(B), has(C), growth(D).
+occur(A, B, C, D) :- is(A), hungary(B), ended(C), employees(D).
+occur(A, B, C, D) :- neighboring(A), country(B), done(C), funding(D).
+occur(A, B, C, D) :- neighboring(A), country(B), done(C), expense(D).
+occur(A, B, C, D) :- neighboring(A), country(B), done(C), issue(D).
+occur(A, B, C, D) :- published(A), wake(B), done(C), funding(D).
+occur(A, B, C, D) :- published(A), wake(B), done(C), expense(D).
+occur(A, B, C, D) :- published(A), wake(B), done(C), issue(D).
+occur(A, B, C, D) :- dismissed(A), creditors(B), reducing(C), risk(D).
+occur(A, B, C, D) :- dismissed(A), creditors(B), reducing(C), zero(D).
+occur(A, B, C, D) :- dismissed(A), claims(B), reducing(C), risk(D).
+occur(A, B, C, D) :- dismissed(A), claims(B), reducing(C), zero(D).
+occur(A, B, C, D) :- have(A), creditors(B), reducing(C), risk(D).
+occur(A, B, C, D) :- have(A), creditors(B), reducing(C), zero(D).
+occur(A, B, C, D) :- have(A), privileges(B), reducing(C), risk(D).
+occur(A, B, C, D) :- have(A), privileges(B), reducing(C), zero(D).
+occur(A, B, C, D) :- secured(A), creditors(B), reducing(C), risk(D).
+occur(A, B, C, D) :- secured(A), creditors(B), reducing(C), zero(D).
+occur(A, B, C, D) :- led(A), round(B), secured(C), support(D).
+occur(A, B, C, D) :- led(A), round(B), secured(C), knøx(D).
+occur(A, B, C, D) :- led(A), initialized_capital(B), secured(C), support(D).
+occur(A, B, C, D) :- led(A), initialized_capital(B), secured(C), knøx(D).
+occur(A, B, C, D) :- led(A), participation(B), secured(C), support(D).
+occur(A, B, C, D) :- led(A), participation(B), secured(C), knøx(D).
+occur(A, B, C, D) :- reported(A), fidelity(B), secured(C), support(D).
+occur(A, B, C, D) :- reported(A), fidelity(B), secured(C), knøx(D).
+occur(A, B, C, D) :- reported(A), inovia(B), secured(C), support(D).
+occur(A, B, C, D) :- reported(A), inovia(B), secured(C), knøx(D).
+occur(A, B, C, D) :- reported(A), betakit(B), secured(C), support(D).
+occur(A, B, C, D) :- reported(A), betakit(B), secured(C), knøx(D).
+occur(A, B, C, D) :- reported(A), services(B), secured(C), support(D).
+occur(A, B, C, D) :- reported(A), services(B), secured(C), knøx(D).
+occur(A, B, C, D) :- holding(A), company(B), holding(C), company(D).
+occur(A, B, C, D) :- paying(A), deal(B), holding(C), company(D).
+occur(A, B, C, D) :- paying(A), end(B), holding(C), company(D).
+occur(A, B, C, D) :- paying(A), giant(B), holding(C), company(D).
+occur(A, B, C, D) :- said(A), think(B), assumed(C), blackstone(D).
+occur(A, B, C, D) :- said(A), think(B), assumed(C), debt(D).
+occur(A, B, C, D) :- said(A), think(B), took(C), blackstone(D).
+occur(A, B, C, D) :- said(A), think(B), took(C), example(D).
+occur(A, B, C, D) :- buy(A), opportunity(B), assumed(C), blackstone(D).
+occur(A, B, C, D) :- buy(A), opportunity(B), assumed(C), debt(D).
+occur(A, B, C, D) :- buy(A), opportunity(B), took(C), blackstone(D).
+occur(A, B, C, D) :- buy(A), opportunity(B), took(C), example(D).
+occur(A, B, C, D) :- buy(A), property(B), assumed(C), blackstone(D).
+occur(A, B, C, D) :- buy(A), property(B), assumed(C), debt(D).
+occur(A, B, C, D) :- buy(A), property(B), took(C), blackstone(D).
+occur(A, B, C, D) :- buy(A), property(B), took(C), example(D).
+occur(A, B, C, D) :- have(A), funds(B), assumed(C), blackstone(D).
+occur(A, B, C, D) :- have(A), funds(B), assumed(C), debt(D).
+occur(A, B, C, D) :- have(A), funds(B), took(C), blackstone(D).
+occur(A, B, C, D) :- have(A), funds(B), took(C), example(D).
+occur(A, B, C, D) :- have(A), lot(B), assumed(C), blackstone(D).
+occur(A, B, C, D) :- have(A), lot(B), assumed(C), debt(D).
+occur(A, B, C, D) :- have(A), lot(B), took(C), blackstone(D).
+occur(A, B, C, D) :- have(A), lot(B), took(C), example(D).
+occur(A, B, C, D) :- have(A), opportunity(B), assumed(C), blackstone(D).
+occur(A, B, C, D) :- have(A), opportunity(B), assumed(C), debt(D).
+occur(A, B, C, D) :- have(A), opportunity(B), took(C), blackstone(D).
+occur(A, B, C, D) :- have(A), opportunity(B), took(C), example(D).
+occur(A, B, C, D) :- buy(A), equity(B), amounted(C), jenny_ma(D).
+occur(A, B, C, D) :- buy(A), equity(B), amounted(C), equates(D).
+occur(A, B, C, D) :- buy(A), equity(B), amounted(C), discount(D).
+occur(A, B, C, D) :- buy(A), equity(B), calculated(C), jenny_ma(D).
+occur(A, B, C, D) :- buy(A), equity(B), calculated(C), equates(D).
+occur(A, B, C, D) :- buy(A), assets(B), amounted(C), jenny_ma(D).
+occur(A, B, C, D) :- buy(A), assets(B), amounted(C), equates(D).
+occur(A, B, C, D) :- buy(A), assets(B), amounted(C), discount(D).
+occur(A, B, C, D) :- buy(A), assets(B), calculated(C), jenny_ma(D).
+occur(A, B, C, D) :- buy(A), assets(B), calculated(C), equates(D).
+occur(A, B, C, D) :- buy(A), prices(B), amounted(C), jenny_ma(D).
+occur(A, B, C, D) :- buy(A), prices(B), amounted(C), equates(D).
+occur(A, B, C, D) :- buy(A), prices(B), amounted(C), discount(D).
+occur(A, B, C, D) :- buy(A), prices(B), calculated(C), jenny_ma(D).
+occur(A, B, C, D) :- buy(A), prices(B), calculated(C), equates(D).
+occur(A, B, C, D) :- said(A), cooper(B), amounted(C), jenny_ma(D).
+occur(A, B, C, D) :- said(A), cooper(B), amounted(C), equates(D).
+occur(A, B, C, D) :- said(A), cooper(B), amounted(C), discount(D).
+occur(A, B, C, D) :- said(A), cooper(B), calculated(C), jenny_ma(D).
+occur(A, B, C, D) :- said(A), cooper(B), calculated(C), equates(D).
+occur(A, B, C, D) :- said(A), trading(B), amounted(C), jenny_ma(D).
+occur(A, B, C, D) :- said(A), trading(B), amounted(C), equates(D).
+occur(A, B, C, D) :- said(A), trading(B), amounted(C), discount(D).
+occur(A, B, C, D) :- said(A), trading(B), calculated(C), jenny_ma(D).
+occur(A, B, C, D) :- said(A), trading(B), calculated(C), equates(D).
+occur(A, B, C, D) :- citing(A), interest(B), holding(C), shares(D).
+occur(A, B, C, D) :- increased(A), interest(B), holding(C), shares(D).
+occur(A, B, C, D) :- keep(A), exemption(B), are(C), reasons(D).
+occur(A, B, C, D) :- based(A), results(B), growing(C), dividend(D).
+occur(A, B, C, D) :- based(A), results(B), growing(C), hike(D).
+occur(A, B, C, D) :- rising(A), revenues(B), growing(C), dividend(D).
+occur(A, B, C, D) :- rising(A), revenues(B), growing(C), hike(D).
+occur(A, B, C, D) :- reported(A), planning(B), enhanced(C), exemption(D).
+occur(A, B, C, D) :- reported(A), planning(B), enhanced(C), owners(D).
+occur(A, B, C, D) :- reported(A), et(B), enhanced(C), exemption(D).
+occur(A, B, C, D) :- reported(A), et(B), enhanced(C), owners(D).
+occur(A, B, C, D) :- reported(A), august(B), enhanced(C), exemption(D).
+occur(A, B, C, D) :- reported(A), august(B), enhanced(C), owners(D).
+occur(A, B, C, D) :- plunking(A), dollars(B), became(C), people(D).
+occur(A, B, C, D) :- plunking(A), dollars(B), became(C), millionaires(D).
+occur(A, B, C, D) :- plunking(A), stock(B), became(C), people(D).
+occur(A, B, C, D) :- plunking(A), stock(B), became(C), millionaires(D).
+occur(A, B, C, D) :- did(A), stock(B), estimated(C), andrea_lewis(D).
+occur(A, B, C, D) :- did(A), stock(B), started(C), house(D).
+occur(A, B, C, D) :- did(A), stock(B), started(C), profits(D).
+occur(A, B, C, D) :- did(A), stock(B), became(C), peters(D).
+occur(A, B, C, D) :- did(A), stock(B), became(C), jim_allchin(D).
+occur(A, B, C, D) :- did(A), stock(B), became(C), enthusiast(D).
+occur(A, B, C, D) :- did(A), stock(B), renowned(C), peters(D).
+occur(A, B, C, D) :- did(A), stock(B), retired(C), jim_allchin(D).
+occur(A, B, C, D) :- filling(A), expand(B), continues(C), expansion(D).
+occur(A, B, C, D) :- filling(A), years(B), continues(C), expansion(D).
+occur(A, B, C, D) :- declared(A), renishaw(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), renishaw(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), reports(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), reports(B), given(C), dividend(D).
+occur(A, B, C, D) :- reaffirmed(A), bank(B), has(C), company(D).
+occur(A, B, C, D) :- reaffirmed(A), bank(B), has(C), rating(D).
+occur(A, B, C, D) :- reaffirmed(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- reaffirmed(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- declared(A), nysearca(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), nysearca(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- citing(A), conditions(B), buy(C), update(D).
+occur(A, B, C, D) :- citing(A), conditions(B), closed(C), market(D).
+occur(A, B, C, D) :- citing(A), conditions(B), closed(C), prices(D).
+occur(A, B, C, D) :- citing(A), conditions(B), fell(C), year(D).
+occur(A, B, C, D) :- comes(A), fall(B), buy(C), update(D).
+occur(A, B, C, D) :- comes(A), fall(B), closed(C), market(D).
+occur(A, B, C, D) :- comes(A), fall(B), closed(C), prices(D).
+occur(A, B, C, D) :- comes(A), fall(B), fell(C), year(D).
+occur(A, B, C, D) :- needed(A), money(B), buy(C), update(D).
+occur(A, B, C, D) :- needed(A), money(B), closed(C), market(D).
+occur(A, B, C, D) :- needed(A), money(B), closed(C), prices(D).
+occur(A, B, C, D) :- needed(A), money(B), fell(C), year(D).
+occur(A, B, C, D) :- needed(A), continue(B), buy(C), update(D).
+occur(A, B, C, D) :- needed(A), continue(B), closed(C), market(D).
+occur(A, B, C, D) :- needed(A), continue(B), closed(C), prices(D).
+occur(A, B, C, D) :- needed(A), continue(B), fell(C), year(D).
+occur(A, B, C, D) :- said(A), group(B), buy(C), update(D).
+occur(A, B, C, D) :- said(A), group(B), closed(C), market(D).
+occur(A, B, C, D) :- said(A), group(B), closed(C), prices(D).
+occur(A, B, C, D) :- said(A), group(B), fell(C), year(D).
+occur(A, B, C, D) :- established(A), fertilisers(B), are(C), trials(D).
+occur(A, B, C, D) :- find(A), strengths(B), are(C), trials(D).
+occur(A, B, C, D) :- ordered(A), petrovietnam(B), costing(C), company(D).
+occur(A, B, C, D) :- ordered(A), petrovietnam(B), costing(C), partners(D).
+occur(A, B, C, D) :- ordered(A), repsol_sa(B), costing(C), company(D).
+occur(A, B, C, D) :- ordered(A), repsol_sa(B), costing(C), partners(D).
+occur(A, B, C, D) :- ordered(A), year(B), costing(C), company(D).
+occur(A, B, C, D) :- ordered(A), year(B), costing(C), partners(D).
+occur(A, B, C, D) :- searching(A), oil(B), said(C), petrovietnam(D).
+occur(A, B, C, D) :- searching(A), oil(B), said(C), spent(D).
+occur(A, B, C, D) :- searching(A), success(B), said(C), petrovietnam(D).
+occur(A, B, C, D) :- searching(A), success(B), said(C), spent(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), shareholders(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), company(D).
+occur(A, B, C, D) :- announced(A), dividend(B), annualized(C), basis(D).
+occur(A, B, C, D) :- announced(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- expect(A), analysts(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), marvell_technology_group(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), earn(B), expected(C), ratio(D).
+occur(A, B, C, D) :- reported(A), company(B), topping(C), estimate(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), officer(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), group(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), group(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), group(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), group(B), owns(C), company(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), officer(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), sale(D).
+occur(A, B, C, D) :- dated(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), andrew_micallef(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), andrew_micallef(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), andrew_micallef(B), owns(C), sale(D).
+occur(A, B, C, D) :- sold(A), andrew_micallef(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), sale(D).
+occur(A, B, C, D) :- sold(A), shares(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), sale(D).
+occur(A, B, C, D) :- sold(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), insiders(B), owned(C), insiders(D).
+occur(A, B, C, D) :- sold(A), shares(B), owned(C), insiders(D).
+occur(A, B, C, D) :- valued(A), stock(B), owned(C), insiders(D).
+occur(A, B, C, D) :- valued(A), last_90_days(B), owned(C), insiders(D).
+occur(A, B, C, D) :- gave(A), markets(B), has(C), company(D).
+occur(A, B, C, D) :- gave(A), markets(B), has(C), rating(D).
+occur(A, B, C, D) :- gave(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- gave(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- gave(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- gave(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- assigned(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- assigned(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- given(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- given(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- appreciated(A), dollar(B), declined(C), pmi(D).
+occur(A, B, C, D) :- appreciated(A), dollar(B), declined(C), points(D).
+occur(A, B, C, D) :- deducting(A), contributions(B), earning(C), singaporeans(D).
+occur(A, B, C, D) :- deducting(A), contributions(B), earning(C), wage(D).
+occur(A, B, C, D) :- deducting(A), contributions(B), showed(C), index(D).
+occur(A, B, C, D) :- deducting(A), contributions(B), showed(C), need(D).
+occur(A, B, C, D) :- deducting(A), tax(B), earning(C), singaporeans(D).
+occur(A, B, C, D) :- deducting(A), tax(B), earning(C), wage(D).
+occur(A, B, C, D) :- deducting(A), tax(B), showed(C), index(D).
+occur(A, B, C, D) :- deducting(A), tax(B), showed(C), need(D).
+occur(A, B, C, D) :- earning(A), singapore(B), earning(C), singaporeans(D).
+occur(A, B, C, D) :- earning(A), singapore(B), earning(C), wage(D).
+occur(A, B, C, D) :- earning(A), singapore(B), showed(C), index(D).
+occur(A, B, C, D) :- earning(A), singapore(B), showed(C), need(D).
+occur(A, B, C, D) :- priced(A), pro(B), earning(C), singaporeans(D).
+occur(A, B, C, D) :- priced(A), pro(B), earning(C), wage(D).
+occur(A, B, C, D) :- priced(A), pro(B), showed(C), index(D).
+occur(A, B, C, D) :- priced(A), pro(B), showed(C), need(D).
+occur(A, B, C, D) :- priced(A), release(B), earning(C), singaporeans(D).
+occur(A, B, C, D) :- priced(A), release(B), earning(C), wage(D).
+occur(A, B, C, D) :- priced(A), release(B), showed(C), index(D).
+occur(A, B, C, D) :- priced(A), release(B), showed(C), need(D).
+occur(A, B, C, D) :- sold(A), insiders(B), owned(C), insiders(D).
+occur(A, B, C, D) :- sold(A), shares(B), owned(C), insiders(D).
+occur(A, B, C, D) :- lifted(A), lp(B), owns(C), lp(D).
+occur(A, B, C, D) :- lifted(A), lp(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), position(B), owns(C), lp(D).
+occur(A, B, C, D) :- lifted(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), holdings(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), de(B), owns(C), bancorp_de(D).
+occur(A, B, C, D) :- raised(A), de(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), holdings(B), owns(C), bancorp_de(D).
+occur(A, B, C, D) :- raised(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), kforce(B), owns(C), bancorp_de(D).
+occur(A, B, C, D) :- raised(A), kforce(B), owns(C), shares(D).
+occur(A, B, C, D) :- declared(A), business(B), given(C), investors(D).
+occur(A, B, C, D) :- declared(A), business(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), investors(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- returned(A), gold(B), was(C), percent(D).
+occur(A, B, C, D) :- returned(A), percent(B), was(C), percent(D).
+occur(A, B, C, D) :- returned(A), period(B), was(C), percent(D).
+occur(A, B, C, D) :- rose(A), etfs(B), totaling(C), tonnes(D).
+occur(A, B, C, D) :- rose(A), etfs(B), totaling(C), world_gold_council(D).
+occur(A, B, C, D) :- rose(A), month(B), totaling(C), tonnes(D).
+occur(A, B, C, D) :- rose(A), month(B), totaling(C), world_gold_council(D).
+occur(A, B, C, D) :- rose(A), tonnes(B), totaling(C), tonnes(D).
+occur(A, B, C, D) :- rose(A), tonnes(B), totaling(C), world_gold_council(D).
+occur(A, B, C, D) :- led(A), banks(B), quadrupled(C), russia(D).
+occur(A, B, C, D) :- led(A), banks(B), quadrupled(C), reserves(D).
+occur(A, B, C, D) :- led(A), banks(B), quadrupled(C), bloomberg(D).
+occur(A, B, C, D) :- led(A), banks(B), quadrupled(C), decade(D).
+occur(A, B, C, D) :- is(A), substitution(B), quadrupled(C), russia(D).
+occur(A, B, C, D) :- is(A), substitution(B), quadrupled(C), reserves(D).
+occur(A, B, C, D) :- is(A), substitution(B), quadrupled(C), bloomberg(D).
+occur(A, B, C, D) :- is(A), substitution(B), quadrupled(C), decade(D).
+occur(A, B, C, D) :- earned(A), strategy(B), quadrupled(C), russia(D).
+occur(A, B, C, D) :- earned(A), strategy(B), quadrupled(C), reserves(D).
+occur(A, B, C, D) :- earned(A), strategy(B), quadrupled(C), bloomberg(D).
+occur(A, B, C, D) :- earned(A), strategy(B), quadrupled(C), decade(D).
+occur(A, B, C, D) :- earned(A), billions(B), quadrupled(C), russia(D).
+occur(A, B, C, D) :- earned(A), billions(B), quadrupled(C), reserves(D).
+occur(A, B, C, D) :- earned(A), billions(B), quadrupled(C), bloomberg(D).
+occur(A, B, C, D) :- earned(A), billions(B), quadrupled(C), decade(D).
+occur(A, B, C, D) :- earned(A), bank_of_russia(B), quadrupled(C), russia(D).
+occur(A, B, C, D) :- earned(A), bank_of_russia(B), quadrupled(C), reserves(D).
+occur(A, B, C, D) :- earned(A), bank_of_russia(B), quadrupled(C), bloomberg(D).
+occur(A, B, C, D) :- earned(A), bank_of_russia(B), quadrupled(C), decade(D).
+occur(A, B, C, D) :- earned(A), months(B), quadrupled(C), russia(D).
+occur(A, B, C, D) :- earned(A), months(B), quadrupled(C), reserves(D).
+occur(A, B, C, D) :- earned(A), months(B), quadrupled(C), bloomberg(D).
+occur(A, B, C, D) :- earned(A), months(B), quadrupled(C), decade(D).
+occur(A, B, C, D) :- closed(A), gold(B), ended(C), stocks(D).
+occur(A, B, C, D) :- closed(A), gold(B), ended(C), week(D).
+occur(A, B, C, D) :- closed(A), gold(B), measured(C), index(D).
+occur(A, B, C, D) :- fell(A), metal(B), ended(C), gold(D).
+occur(A, B, C, D) :- fell(A), metal(B), ended(C), week(D).
+occur(A, B, C, D) :- fell(A), two_days(B), ended(C), gold(D).
+occur(A, B, C, D) :- fell(A), two_days(B), ended(C), week(D).
+occur(A, B, C, D) :- fell(A), friday(B), ended(C), gold(D).
+occur(A, B, C, D) :- fell(A), friday(B), ended(C), week(D).
+occur(A, B, C, D) :- disclosed(A), investor(B), rose(C), stock(D).
+occur(A, B, C, D) :- disclosed(A), investor(B), rose(C), percent(D).
+occur(A, B, C, D) :- taken(A), stake(B), rose(C), stock(D).
+occur(A, B, C, D) :- taken(A), stake(B), rose(C), percent(D).
+occur(A, B, C, D) :- fired(A), trump(B), plunged(C), oil(D).
+occur(A, B, C, D) :- fired(A), trump(B), plunged(C), early_this_week(D).
+occur(A, B, C, D) :- removed(A), subsidies(B), fallen(C), graphite(D).
+occur(A, B, C, D) :- removed(A), subsidies(B), fallen(C), percent(D).
+occur(A, B, C, D) :- removed(A), subsidies(B), fallen(C), year(D).
+occur(A, B, C, D) :- removed(A), subsidies(B), used(C), graphite(D).
+occur(A, B, C, D) :- removed(A), subsidies(B), used(C), steelmaking(D).
+occur(A, B, C, D) :- removed(A), subsidies(B), used(C), anodes(D).
+occur(A, B, C, D) :- taking(A), metal(B), fallen(C), graphite(D).
+occur(A, B, C, D) :- taking(A), metal(B), fallen(C), percent(D).
+occur(A, B, C, D) :- taking(A), metal(B), fallen(C), year(D).
+occur(A, B, C, D) :- taking(A), metal(B), used(C), graphite(D).
+occur(A, B, C, D) :- taking(A), metal(B), used(C), steelmaking(D).
+occur(A, B, C, D) :- taking(A), metal(B), used(C), anodes(D).
+occur(A, B, C, D) :- taking(A), beating(B), fallen(C), graphite(D).
+occur(A, B, C, D) :- taking(A), beating(B), fallen(C), percent(D).
+occur(A, B, C, D) :- taking(A), beating(B), fallen(C), year(D).
+occur(A, B, C, D) :- taking(A), beating(B), used(C), graphite(D).
+occur(A, B, C, D) :- taking(A), beating(B), used(C), steelmaking(D).
+occur(A, B, C, D) :- taking(A), beating(B), used(C), anodes(D).
+occur(A, B, C, D) :- taking(A), demand(B), fallen(C), graphite(D).
+occur(A, B, C, D) :- taking(A), demand(B), fallen(C), percent(D).
+occur(A, B, C, D) :- taking(A), demand(B), fallen(C), year(D).
+occur(A, B, C, D) :- taking(A), demand(B), used(C), graphite(D).
+occur(A, B, C, D) :- taking(A), demand(B), used(C), steelmaking(D).
+occur(A, B, C, D) :- taking(A), demand(B), used(C), anodes(D).
+occur(A, B, C, D) :- helped(A), widen(B), surged(C), silver(D).
+occur(A, B, C, D) :- helped(A), widen(B), surged(C), gold(D).
+occur(A, B, C, D) :- looking(A), investors(B), surged(C), silver(D).
+occur(A, B, C, D) :- looking(A), investors(B), surged(C), gold(D).
+occur(A, B, C, D) :- looking(A), entry(B), surged(C), silver(D).
+occur(A, B, C, D) :- looking(A), entry(B), surged(C), gold(D).
+occur(A, B, C, D) :- surged(A), rally(B), surged(C), silver(D).
+occur(A, B, C, D) :- surged(A), rally(B), surged(C), gold(D).
+occur(A, B, C, D) :- surged(A), weeks(B), surged(C), silver(D).
+occur(A, B, C, D) :- surged(A), weeks(B), surged(C), gold(D).
+occur(A, B, C, D) :- slowed(A), demand(B), given(C), department_of_agriculture(D).
+occur(A, B, C, D) :- slowed(A), demand(B), given(C), direction(D).
+occur(A, B, C, D) :- slowed(A), crops(B), given(C), department_of_agriculture(D).
+occur(A, B, C, D) :- slowed(A), crops(B), given(C), direction(D).
+occur(A, B, C, D) :- slowed(A), china(B), given(C), department_of_agriculture(D).
+occur(A, B, C, D) :- slowed(A), china(B), given(C), direction(D).
+occur(A, B, C, D) :- declined(A), production(B), losing(C), percent(D).
+occur(A, B, C, D) :- declined(A), production(B), performing(C), country(D).
+occur(A, B, C, D) :- declined(A), production(B), performing(C), week(D).
+occur(A, B, C, D) :- suggesting(A), production(B), losing(C), percent(D).
+occur(A, B, C, D) :- suggesting(A), production(B), performing(C), country(D).
+occur(A, B, C, D) :- suggesting(A), production(B), performing(C), week(D).
+occur(A, B, C, D) :- suggesting(A), slowdown(B), losing(C), percent(D).
+occur(A, B, C, D) :- suggesting(A), slowdown(B), performing(C), country(D).
+occur(A, B, C, D) :- suggesting(A), slowdown(B), performing(C), week(D).
+occur(A, B, C, D) :- seized(A), ships(B), involved(C), prisoners(D).
+occur(A, B, C, D) :- seized(A), kerch_strait(B), involved(C), prisoners(D).
+occur(A, B, C, D) :- traded(A), nait(B), reaching(C), gbx(D).
+occur(A, B, C, D) :- traded(A), trading(B), reaching(C), gbx(D).
+occur(A, B, C, D) :- had(A), corporation(B), reduced(C), trump(D).
+occur(A, B, C, D) :- had(A), corporation(B), reduced(C), share(D).
+occur(A, B, C, D) :- had(A), corporation(B), reduced(C), company(D).
+occur(A, B, C, D) :- had(A), corporation(B), surrendering(C), control(D).
+occur(A, B, C, D) :- canceled(A), bookings(B), announced(C), government(D).
+occur(A, B, C, D) :- canceled(A), bookings(B), announced(C), plans(D).
+occur(A, B, C, D) :- ceased(A), trading(B), announced(C), government(D).
+occur(A, B, C, D) :- ceased(A), trading(B), announced(C), plans(D).
+occur(A, B, C, D) :- said(A), company(B), announced(C), government(D).
+occur(A, B, C, D) :- said(A), company(B), announced(C), plans(D).
+occur(A, B, C, D) :- said(A), civil_aviation_authority(B), announced(C), government(D).
+occur(A, B, C, D) :- said(A), civil_aviation_authority(B), announced(C), plans(D).
+occur(A, B, C, D) :- said(A), sorry(B), announced(C), government(D).
+occur(A, B, C, D) :- said(A), sorry(B), announced(C), plans(D).
+occur(A, B, C, D) :- said(A), post(B), announced(C), government(D).
+occur(A, B, C, D) :- said(A), post(B), announced(C), plans(D).
+occur(A, B, C, D) :- canceled(A), bookings(B), believed(C), people(D).
+occur(A, B, C, D) :- canceled(A), bookings(B), believed(C), bbc(D).
+occur(A, B, C, D) :- canceled(A), bookings(B), estimated(C), people(D).
+occur(A, B, C, D) :- canceled(A), bookings(B), stranded(C), world(D).
+occur(A, B, C, D) :- ceased(A), trading(B), believed(C), people(D).
+occur(A, B, C, D) :- ceased(A), trading(B), believed(C), bbc(D).
+occur(A, B, C, D) :- ceased(A), trading(B), estimated(C), people(D).
+occur(A, B, C, D) :- ceased(A), trading(B), stranded(C), world(D).
+occur(A, B, C, D) :- said(A), company(B), believed(C), people(D).
+occur(A, B, C, D) :- said(A), company(B), believed(C), bbc(D).
+occur(A, B, C, D) :- said(A), company(B), estimated(C), people(D).
+occur(A, B, C, D) :- said(A), company(B), stranded(C), world(D).
+occur(A, B, C, D) :- said(A), civil_aviation_authority(B), believed(C), people(D).
+occur(A, B, C, D) :- said(A), civil_aviation_authority(B), believed(C), bbc(D).
+occur(A, B, C, D) :- said(A), civil_aviation_authority(B), estimated(C), people(D).
+occur(A, B, C, D) :- said(A), civil_aviation_authority(B), stranded(C), world(D).
+occur(A, B, C, D) :- said(A), sorry(B), believed(C), people(D).
+occur(A, B, C, D) :- said(A), sorry(B), believed(C), bbc(D).
+occur(A, B, C, D) :- said(A), sorry(B), estimated(C), people(D).
+occur(A, B, C, D) :- said(A), sorry(B), stranded(C), world(D).
+occur(A, B, C, D) :- said(A), post(B), believed(C), people(D).
+occur(A, B, C, D) :- said(A), post(B), believed(C), bbc(D).
+occur(A, B, C, D) :- said(A), post(B), estimated(C), people(D).
+occur(A, B, C, D) :- said(A), post(B), stranded(C), world(D).
+occur(A, B, C, D) :- approaching(A), debts(B), obtain(C), negotiations(D).
+occur(A, B, C, D) :- struggling(A), company(B), obtain(C), negotiations(D).
+occur(A, B, C, D) :- struggling(A), debts(B), obtain(C), negotiations(D).
+occur(A, B, C, D) :- engaged(A), company(B), improved(C), rating(D).
+occur(A, B, C, D) :- engaged(A), partners(B), improved(C), rating(D).
+occur(A, B, C, D) :- went(A), design(B), improved(C), rating(D).
+occur(A, B, C, D) :- went(A), automation(B), improved(C), rating(D).
+occur(A, B, C, D) :- needed(A), design(B), improved(C), rating(D).
+occur(A, B, C, D) :- contributed(A), momentum(B), grew(C), revenue(D).
+occur(A, B, C, D) :- contributed(A), year(B), grew(C), revenue(D).
+occur(A, B, C, D) :- contributed(A), momentum(B), increased(C), income(D).
+occur(A, B, C, D) :- contributed(A), year(B), increased(C), income(D).
+occur(A, B, C, D) :- announced(A), games_workshop_group_plc(B), given(C), stockholders(D).
+occur(A, B, C, D) :- announced(A), games_workshop_group_plc(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), stockholders(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- gained(A), pace(B), sending(C), shares(D).
+occur(A, B, C, D) :- sold(A), products(B), anticipated(C), analysts(D).
+occur(A, B, C, D) :- sold(A), price(B), anticipated(C), analysts(D).
+occur(A, B, C, D) :- becoming(A), part(B), grew(C), sales(D).
+occur(A, B, C, D) :- becoming(A), part(B), includes(C), platform(D).
+occur(A, B, C, D) :- becoming(A), part(B), includes(C), apps(D).
+occur(A, B, C, D) :- becoming(A), part(B), includes(C), websites(D).
+occur(A, B, C, D) :- becoming(A), part(B), rose(C), revenue(D).
+occur(A, B, C, D) :- becoming(A), part(B), rose(C), income(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), stockholders(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), provider(D).
+occur(A, B, C, D) :- announced(A), dividend(B), annualized(C), basis(D).
+occur(A, B, C, D) :- announced(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- assigned(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- assigned(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- given(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- given(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- easing(A), step(B), mentioned(C), sitharaman(D).
+occur(A, B, C, D) :- easing(A), step(B), raising(C), support(D).
+occur(A, B, C, D) :- easing(A), pressure(B), mentioned(C), sitharaman(D).
+occur(A, B, C, D) :- easing(A), pressure(B), raising(C), support(D).
+occur(A, B, C, D) :- cooling(A), systems(B), decided(C), apple(D).
+occur(A, B, C, D) :- cooling(A), systems(B), decided(C), place(D).
+occur(A, B, C, D) :- cooling(A), systems(B), designed(C), incentives(D).
+occur(A, B, C, D) :- cooling(A), systems(B), designed(C), attract(D).
+occur(A, B, C, D) :- cooling(A), systems(B), had(C), waukee(D).
+occur(A, B, C, D) :- cooling(A), systems(B), had(C), set(D).
+occur(A, B, C, D) :- cooling(A), systems(B), helped(C), chamber_of_commerce(D).
+occur(A, B, C, D) :- cooling(A), systems(B), helped(C), put(D).
+occur(A, B, C, D) :- cooling(A), systems(B), needed(C), developments(D).
+occur(A, B, C, D) :- cooling(A), systems(B), needed(C), company(D).
+occur(A, B, C, D) :- cooling(A), systems(B), said(C), developments(D).
+occur(A, B, C, D) :- cooling(A), systems(B), said(C), diers(D).
+occur(A, B, C, D) :- cooling(A), systems(B), said(C), kind(D).
+occur(A, B, C, D) :- making(A), aid(B), pointed(C), margrethe_vestager(D).
+occur(A, B, C, D) :- making(A), aid(B), pointed(C), rate(D).
+occur(A, B, C, D) :- reduced(A), rulings(B), pointed(C), margrethe_vestager(D).
+occur(A, B, C, D) :- reduced(A), rulings(B), pointed(C), rate(D).
+occur(A, B, C, D) :- reduced(A), burden(B), pointed(C), margrethe_vestager(D).
+occur(A, B, C, D) :- reduced(A), burden(B), pointed(C), rate(D).
+occur(A, B, C, D) :- reduced(A), decades(B), pointed(C), margrethe_vestager(D).
+occur(A, B, C, D) :- reduced(A), decades(B), pointed(C), rate(D).
+occur(A, B, C, D) :- said(A), commission(B), pointed(C), margrethe_vestager(D).
+occur(A, B, C, D) :- said(A), commission(B), pointed(C), rate(D).
+occur(A, B, C, D) :- said(A), august_2016(B), pointed(C), margrethe_vestager(D).
+occur(A, B, C, D) :- said(A), august_2016(B), pointed(C), rate(D).
+occur(A, B, C, D) :- caused(A), losses(B), giving(C), break(D).
+occur(A, B, C, D) :- caused(A), losses(B), giving(C), surprise(D).
+occur(A, B, C, D) :- caused(A), losses(B), slashed(C), government(D).
+occur(A, B, C, D) :- caused(A), losses(B), slashed(C), taxes(D).
+occur(A, B, C, D) :- caused(A), losses(B), slashed(C), panaji(D).
+occur(A, B, C, D) :- caused(A), losses(B), slashed(C), break(D).
+occur(A, B, C, D) :- caused(A), losses(B), slashed(C), india(D).
+occur(A, B, C, D) :- caused(A), losses(B), slashed(C), friday(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), giving(C), break(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), giving(C), surprise(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), slashed(C), government(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), slashed(C), taxes(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), slashed(C), panaji(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), slashed(C), break(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), slashed(C), india(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), slashed(C), friday(D).
+occur(A, B, C, D) :- lifting(A), growth(B), giving(C), break(D).
+occur(A, B, C, D) :- lifting(A), growth(B), giving(C), surprise(D).
+occur(A, B, C, D) :- lifting(A), growth(B), slashed(C), government(D).
+occur(A, B, C, D) :- lifting(A), growth(B), slashed(C), taxes(D).
+occur(A, B, C, D) :- lifting(A), growth(B), slashed(C), panaji(D).
+occur(A, B, C, D) :- lifting(A), growth(B), slashed(C), break(D).
+occur(A, B, C, D) :- lifting(A), growth(B), slashed(C), india(D).
+occur(A, B, C, D) :- lifting(A), growth(B), slashed(C), friday(D).
+occur(A, B, C, D) :- reviving(A), investment(B), giving(C), break(D).
+occur(A, B, C, D) :- reviving(A), investment(B), giving(C), surprise(D).
+occur(A, B, C, D) :- reviving(A), investment(B), slashed(C), government(D).
+occur(A, B, C, D) :- reviving(A), investment(B), slashed(C), taxes(D).
+occur(A, B, C, D) :- reviving(A), investment(B), slashed(C), panaji(D).
+occur(A, B, C, D) :- reviving(A), investment(B), slashed(C), break(D).
+occur(A, B, C, D) :- reviving(A), investment(B), slashed(C), india(D).
+occur(A, B, C, D) :- reviving(A), investment(B), slashed(C), friday(D).
+occur(A, B, C, D) :- reviving(A), growth(B), giving(C), break(D).
+occur(A, B, C, D) :- reviving(A), growth(B), giving(C), surprise(D).
+occur(A, B, C, D) :- reviving(A), growth(B), slashed(C), government(D).
+occur(A, B, C, D) :- reviving(A), growth(B), slashed(C), taxes(D).
+occur(A, B, C, D) :- reviving(A), growth(B), slashed(C), panaji(D).
+occur(A, B, C, D) :- reviving(A), growth(B), slashed(C), break(D).
+occur(A, B, C, D) :- reviving(A), growth(B), slashed(C), india(D).
+occur(A, B, C, D) :- reviving(A), growth(B), slashed(C), friday(D).
+occur(A, B, C, D) :- announced(A), government(B), surged(C), shares(D).
+occur(A, B, C, D) :- announced(A), cuts(B), surged(C), shares(D).
+occur(A, B, C, D) :- flagging(A), growth(B), surged(C), shares(D).
+occur(A, B, C, D) :- seized(A), trade(B), fell(C), etf(D).
+occur(A, B, C, D) :- seized(A), trade(B), fell(C), monday(D).
+occur(A, B, C, D) :- seized(A), trade(B), squeezed(C), market(D).
+occur(A, B, C, D) :- seized(A), trade(B), squeezed(C), gain(D).
+occur(A, B, C, D) :- seized(A), week(B), fell(C), etf(D).
+occur(A, B, C, D) :- seized(A), week(B), fell(C), monday(D).
+occur(A, B, C, D) :- seized(A), week(B), squeezed(C), market(D).
+occur(A, B, C, D) :- seized(A), week(B), squeezed(C), gain(D).
+occur(A, B, C, D) :- come(A), earnings(B), are(C), shares(D).
+occur(A, B, C, D) :- come(A), earnings(B), are(C), period(D).
+occur(A, B, C, D) :- come(A), factset(B), are(C), shares(D).
+occur(A, B, C, D) :- come(A), factset(B), are(C), period(D).
+occur(A, B, C, D) :- come(A), estimates(B), are(C), shares(D).
+occur(A, B, C, D) :- come(A), estimates(B), are(C), period(D).
+occur(A, B, C, D) :- making(A), outfit(B), affording(C), years(D).
+occur(A, B, C, D) :- making(A), outfit(B), fighting(C), campaign(D).
+occur(A, B, C, D) :- making(A), outfit(B), fighting(C), expand(D).
+occur(A, B, C, D) :- making(A), outfit(B), losing(C), campaign(D).
+occur(A, B, C, D) :- operated(A), landfills(B), affording(C), years(D).
+occur(A, B, C, D) :- operated(A), landfills(B), fighting(C), campaign(D).
+occur(A, B, C, D) :- operated(A), landfills(B), fighting(C), expand(D).
+occur(A, B, C, D) :- operated(A), landfills(B), losing(C), campaign(D).
+occur(A, B, C, D) :- owned(A), stations(B), affording(C), years(D).
+occur(A, B, C, D) :- owned(A), stations(B), fighting(C), campaign(D).
+occur(A, B, C, D) :- owned(A), stations(B), fighting(C), expand(D).
+occur(A, B, C, D) :- owned(A), stations(B), losing(C), campaign(D).
+occur(A, B, C, D) :- owned(A), plants(B), affording(C), years(D).
+occur(A, B, C, D) :- owned(A), plants(B), fighting(C), campaign(D).
+occur(A, B, C, D) :- owned(A), plants(B), fighting(C), expand(D).
+occur(A, B, C, D) :- owned(A), plants(B), losing(C), campaign(D).
+occur(A, B, C, D) :- owned(A), trucks(B), affording(C), years(D).
+occur(A, B, C, D) :- owned(A), trucks(B), fighting(C), campaign(D).
+occur(A, B, C, D) :- owned(A), trucks(B), fighting(C), expand(D).
+occur(A, B, C, D) :- owned(A), trucks(B), losing(C), campaign(D).
+occur(A, B, C, D) :- owned(A), count(B), affording(C), years(D).
+occur(A, B, C, D) :- owned(A), count(B), fighting(C), campaign(D).
+occur(A, B, C, D) :- owned(A), count(B), fighting(C), expand(D).
+occur(A, B, C, D) :- owned(A), count(B), losing(C), campaign(D).
+occur(A, B, C, D) :- recycling(A), plants(B), affording(C), years(D).
+occur(A, B, C, D) :- recycling(A), plants(B), fighting(C), campaign(D).
+occur(A, B, C, D) :- recycling(A), plants(B), fighting(C), expand(D).
+occur(A, B, C, D) :- recycling(A), plants(B), losing(C), campaign(D).
+occur(A, B, C, D) :- based(A), instill(B), buy(C), year(D).
+occur(A, B, C, D) :- buy(A), waste_management(B), buy(C), year(D).
+occur(A, B, C, D) :- buy(A), recommendation(B), buy(C), year(D).
+occur(A, B, C, D) :- issued(A), analyst(B), buy(C), year(D).
+occur(A, B, C, D) :- issued(A), waste_management(B), buy(C), year(D).
+occur(A, B, C, D) :- arraigned(A), commission(B), ordered(C), british_court(D).
+occur(A, B, C, D) :- arraigned(A), commission(B), ordered(C), seizure(D).
+occur(A, B, C, D) :- arraigned(A), firms(B), ordered(C), british_court(D).
+occur(A, B, C, D) :- arraigned(A), firms(B), ordered(C), seizure(D).
+occur(A, B, C, D) :- linked(A), firms(B), ordered(C), british_court(D).
+occur(A, B, C, D) :- linked(A), firms(B), ordered(C), seizure(D).
+occur(A, B, C, D) :- linked(A), contract(B), ordered(C), british_court(D).
+occur(A, B, C, D) :- linked(A), contract(B), ordered(C), seizure(D).
+occur(A, B, C, D) :- auctioned(A), rate(B), sold(C), agency(D).
+occur(A, B, C, D) :- auctioned(A), rate(B), sold(C), debt(D).
+occur(A, B, C, D) :- auctioned(A), rate(B), sold(C), month(D).
+occur(A, B, C, D) :- received(A), auction(B), increasing(C), issuance(D).
+occur(A, B, C, D) :- received(A), auction(B), increasing(C), start(D).
+occur(A, B, C, D) :- received(A), bids(B), increasing(C), issuance(D).
+occur(A, B, C, D) :- received(A), bids(B), increasing(C), start(D).
+occur(A, B, C, D) :- received(A), offer(B), increasing(C), issuance(D).
+occur(A, B, C, D) :- received(A), offer(B), increasing(C), start(D).
+occur(A, B, C, D) :- announced(A), nasdaq(B), given(C), investors(D).
+occur(A, B, C, D) :- announced(A), nasdaq(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), nasdaq(B), given(C), provider(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), investors(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), provider(D).
+occur(A, B, C, D) :- announced(A), reports(B), given(C), investors(D).
+occur(A, B, C, D) :- announced(A), reports(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), reports(B), given(C), provider(D).
+occur(A, B, C, D) :- expect(A), analysts(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), earn(B), expected(C), ratio(D).
+occur(A, B, C, D) :- reported(A), provider(B), topping(C), estimate(D).
+occur(A, B, C, D) :- being(A), income(B), equating(C), tourists(D).
+occur(A, B, C, D) :- being(A), income(B), equating(C), revenue(D).
+occur(A, B, C, D) :- being(A), income(B), traveled(C), tourists(D).
+occur(A, B, C, D) :- being(A), income(B), traveled(C), turkey(D).
+occur(A, B, C, D) :- desired(A), drop(B), equating(C), tourists(D).
+occur(A, B, C, D) :- desired(A), drop(B), equating(C), revenue(D).
+occur(A, B, C, D) :- desired(A), drop(B), traveled(C), tourists(D).
+occur(A, B, C, D) :- desired(A), drop(B), traveled(C), turkey(D).
+occur(A, B, C, D) :- acquire(A), mengniu(B), get(C), shareholders(D).
+occur(A, B, C, D) :- acquire(A), mengniu(B), get(C), share(D).
+occur(A, B, C, D) :- acquire(A), mengniu(B), intends(C), shareholders(D).
+occur(A, B, C, D) :- acquire(A), scheme(B), get(C), shareholders(D).
+occur(A, B, C, D) :- acquire(A), scheme(B), get(C), share(D).
+occur(A, B, C, D) :- acquire(A), scheme(B), intends(C), shareholders(D).
+occur(A, B, C, D) :- assessed(A), instance(B), implied(C), value(D).
+occur(A, B, C, D) :- sold(A), instance(B), implied(C), value(D).
+occur(A, B, C, D) :- doing(A), deals(B), know(C), celebrity(D).
+occur(A, B, C, D) :- doing(A), deals(B), know(C), i(D).
+occur(A, B, C, D) :- doing(A), deals(B), know(C), person(D).
+occur(A, B, C, D) :- failed(A), overhaul(B), faced(C), prospect(D).
+occur(A, B, C, D) :- failed(A), overhaul(B), failing(C), prospect(D).
+occur(A, B, C, D) :- failed(A), overhaul(B), failing(C), raise(D).
+occur(A, B, C, D) :- failed(A), overhaul(B), leaving(C), choice(D).
+occur(A, B, C, D) :- failed(A), overhaul(B), needed(C), unlock(D).
+occur(A, B, C, D) :- failed(A), relieve(B), faced(C), prospect(D).
+occur(A, B, C, D) :- failed(A), relieve(B), failing(C), prospect(D).
+occur(A, B, C, D) :- failed(A), relieve(B), failing(C), raise(D).
+occur(A, B, C, D) :- failed(A), relieve(B), leaving(C), choice(D).
+occur(A, B, C, D) :- failed(A), relieve(B), needed(C), unlock(D).
+occur(A, B, C, D) :- ousting(A), neumann(B), faced(C), prospect(D).
+occur(A, B, C, D) :- ousting(A), neumann(B), failing(C), prospect(D).
+occur(A, B, C, D) :- ousting(A), neumann(B), failing(C), raise(D).
+occur(A, B, C, D) :- ousting(A), neumann(B), leaving(C), choice(D).
+occur(A, B, C, D) :- ousting(A), neumann(B), needed(C), unlock(D).
+occur(A, B, C, D) :- ousting(A), ceo(B), faced(C), prospect(D).
+occur(A, B, C, D) :- ousting(A), ceo(B), failing(C), prospect(D).
+occur(A, B, C, D) :- ousting(A), ceo(B), failing(C), raise(D).
+occur(A, B, C, D) :- ousting(A), ceo(B), leaving(C), choice(D).
+occur(A, B, C, D) :- ousting(A), ceo(B), needed(C), unlock(D).
+occur(A, B, C, D) :- see(A), meeting(B), faced(C), prospect(D).
+occur(A, B, C, D) :- see(A), meeting(B), failing(C), prospect(D).
+occur(A, B, C, D) :- see(A), meeting(B), failing(C), raise(D).
+occur(A, B, C, D) :- see(A), meeting(B), leaving(C), choice(D).
+occur(A, B, C, D) :- see(A), meeting(B), needed(C), unlock(D).
+occur(A, B, C, D) :- announced(A), company(B), booked(C), trip(D).
+occur(A, B, C, D) :- announced(A), company(B), booked(C), travel(D).
+occur(A, B, C, D) :- announced(A), company(B), collapsed(C), travel(D).
+occur(A, B, C, D) :- announced(A), company(B), do(C), holiday(D).
+occur(A, B, C, D) :- announced(A), company(B), have(C), trip(D).
+occur(A, B, C, D) :- ceased(A), trading(B), booked(C), trip(D).
+occur(A, B, C, D) :- ceased(A), trading(B), booked(C), travel(D).
+occur(A, B, C, D) :- ceased(A), trading(B), collapsed(C), travel(D).
+occur(A, B, C, D) :- ceased(A), trading(B), do(C), holiday(D).
+occur(A, B, C, D) :- ceased(A), trading(B), have(C), trip(D).
+occur(A, B, C, D) :- exploding(A), debt(B), give(C), donald_trump(D).
+occur(A, B, C, D) :- exploding(A), debt(B), give(C), corporations(D).
+occur(A, B, C, D) :- exploding(A), debt(B), wants(C), donald_trump(D).
+occur(A, B, C, D) :- goosing(A), boom(B), give(C), donald_trump(D).
+occur(A, B, C, D) :- goosing(A), boom(B), give(C), corporations(D).
+occur(A, B, C, D) :- goosing(A), boom(B), wants(C), donald_trump(D).
+occur(A, B, C, D) :- lopsided(A), boom(B), give(C), donald_trump(D).
+occur(A, B, C, D) :- lopsided(A), boom(B), give(C), corporations(D).
+occur(A, B, C, D) :- lopsided(A), boom(B), wants(C), donald_trump(D).
+occur(A, B, C, D) :- topping(A), deficits(B), give(C), donald_trump(D).
+occur(A, B, C, D) :- topping(A), deficits(B), give(C), corporations(D).
+occur(A, B, C, D) :- topping(A), deficits(B), wants(C), donald_trump(D).
+occur(A, B, C, D) :- apply(A), surtax(B), get(C), rate(D).
+occur(A, B, C, D) :- apply(A), income(B), get(C), rate(D).
+occur(A, B, C, D) :- earned(A), income(B), get(C), rate(D).
+occur(A, B, C, D) :- earned(A), work(B), get(C), rate(D).
+occur(A, B, C, D) :- gained(A), income(B), get(C), rate(D).
+occur(A, B, C, D) :- gained(A), wealth(B), get(C), rate(D).
+occur(A, B, C, D) :- establish(A), states(B), participate(C), states(D).
+occur(A, B, C, D) :- establish(A), level(B), participate(C), states(D).
+occur(A, B, C, D) :- establish(A), policy(B), participate(C), states(D).
+occur(A, B, C, D) :- establish(A), fund(B), participate(C), states(D).
+occur(A, B, C, D) :- establish(A), provide(B), participate(C), states(D).
+occur(A, B, C, D) :- took(A), devos(B), participate(C), states(D).
+occur(A, B, C, D) :- took(A), office(B), participate(C), states(D).
+occur(A, B, C, D) :- took(A), february_2017(B), participate(C), states(D).
+occur(A, B, C, D) :- urging(A), devos(B), participate(C), states(D).
+occur(A, B, C, D) :- urging(A), states(B), participate(C), states(D).
+occur(A, B, C, D) :- mishandling(A), decades(B), ordered(C), department(D).
+occur(A, B, C, D) :- mishandling(A), decades(B), ordered(C), pay(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), investors(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), annualized(C), basis(D).
+occur(A, B, C, D) :- announced(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- reported(A), company(B), topping(C), estimate(D).
+occur(A, B, C, D) :- gave(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- gave(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- gave(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- gave(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- assigned(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- assigned(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- given(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- given(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- trimmed(A), llc(B), owned(C), investor(D).
+occur(A, B, C, D) :- trimmed(A), llc(B), owned(C), shares(D).
+occur(A, B, C, D) :- trimmed(A), llc(B), selling(C), shares(D).
+occur(A, B, C, D) :- trimmed(A), llc(B), selling(C), period(D).
+occur(A, B, C, D) :- trimmed(A), position(B), owned(C), investor(D).
+occur(A, B, C, D) :- trimmed(A), position(B), owned(C), shares(D).
+occur(A, B, C, D) :- trimmed(A), position(B), selling(C), shares(D).
+occur(A, B, C, D) :- trimmed(A), position(B), selling(C), period(D).
+occur(A, B, C, D) :- trimmed(A), company(B), owned(C), investor(D).
+occur(A, B, C, D) :- trimmed(A), company(B), owned(C), shares(D).
+occur(A, B, C, D) :- trimmed(A), company(B), selling(C), shares(D).
+occur(A, B, C, D) :- trimmed(A), company(B), selling(C), period(D).
+occur(A, B, C, D) :- grew(A), corp(B), owns(C), corp(D).
+occur(A, B, C, D) :- grew(A), corp(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), corp(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), corp(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), corp(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), corp(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), corp(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), advisors(B), owns(C), advisors(D).
+occur(A, B, C, D) :- grew(A), advisors(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), advisors(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), advisors(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), advisors(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), advisors(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), owns(C), advisors(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), advisors(B), owns(C), advisors(D).
+occur(A, B, C, D) :- grew(A), advisors(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), advisors(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), advisors(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), advisors(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), advisors(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), advisors(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), llc(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- is(A), part(B), announced(C), investment(D).
+occur(A, B, C, D) :- is(A), part(B), announced(C), october_2018(D).
+occur(A, B, C, D) :- helping(A), operations(B), announced(C), investment(D).
+occur(A, B, C, D) :- helping(A), operations(B), announced(C), october_2018(D).
+occur(A, B, C, D) :- helping(A), drive(B), announced(C), investment(D).
+occur(A, B, C, D) :- helping(A), drive(B), announced(C), october_2018(D).
+occur(A, B, C, D) :- enhanced(A), shares(B), owned(C), buying(D).
+occur(A, B, C, D) :- enhanced(A), shares(B), owned(C), firm(D).
+occur(A, B, C, D) :- enhanced(A), shares(B), owned(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), owned(C), buying(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), owned(C), firm(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), owned(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), blackrock(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), quarter(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- enhanced(A), quarter(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), llc(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), llc(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- increased(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), holdings(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), shares(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), shares(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- increased(A), shares(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), shares(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), llc(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), llc(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- increased(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), holdings(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), shares(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), shares(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- increased(A), shares(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), shares(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), mn(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), owns(C), mn(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), mn(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), mn(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- increased(A), mn(B), owns(C), mn(D).
+occur(A, B, C, D) :- increased(A), mn(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), mn(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), holdings(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), mn(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), seizert_capital_partners_llc(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), seizert_capital_partners_llc(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- enhanced(A), seizert_capital_partners_llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), seizert_capital_partners_llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), seizert_capital_partners_llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), seizert_capital_partners_llc(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), seizert_capital_partners_llc(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- increased(A), seizert_capital_partners_llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), seizert_capital_partners_llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), seizert_capital_partners_llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), holdings(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), shares(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), shares(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- increased(A), shares(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), shares(B), valued(C), stock(D).
+occur(A, B, C, D) :- issued(A), stockholders(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- issued(A), stockholders(B), represents(C), dividend(D).
+occur(A, B, C, D) :- issued(A), dividend(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- issued(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- expect(A), etf(B), takes(C), yield(D).
+occur(A, B, C, D) :- has(A), stock(B), have(C), apple(D).
+occur(A, B, C, D) :- has(A), stock(B), have(C), cap(D).
+occur(A, B, C, D) :- has(A), shares(B), have(C), apple(D).
+occur(A, B, C, D) :- has(A), shares(B), have(C), cap(D).
+occur(A, B, C, D) :- securing(A), costs(B), prompting(C), pump(D).
+occur(A, B, C, D) :- securing(A), costs(B), prompting(C), tuesday(D).
+occur(A, B, C, D) :- securing(A), costs(B), prompting(C), wednesday(D).
+occur(A, B, C, D) :- spiked(A), agreements(B), prompting(C), pump(D).
+occur(A, B, C, D) :- spiked(A), agreements(B), prompting(C), tuesday(D).
+occur(A, B, C, D) :- spiked(A), agreements(B), prompting(C), wednesday(D).
+occur(A, B, C, D) :- adding(A), brought(B), lost(C), control(D).
+occur(A, B, C, D) :- adding(A), brought(B), lost(C), rate(D).
+occur(A, B, C, D) :- adding(A), brought(B), noting(C), goldberg(D).
+occur(A, B, C, D) :- adding(A), brought(B), noting(C), rate(D).
+occur(A, B, C, D) :- changed(A), patel(B), maintained(C), rbi(D).
+occur(A, B, C, D) :- changed(A), patel(B), maintained(C), ratio(D).
+occur(A, B, C, D) :- changed(A), raghuram_rajan(B), maintained(C), rbi(D).
+occur(A, B, C, D) :- changed(A), raghuram_rajan(B), maintained(C), ratio(D).
+occur(A, B, C, D) :- changed(A), appointment(B), maintained(C), rbi(D).
+occur(A, B, C, D) :- changed(A), appointment(B), maintained(C), ratio(D).
+occur(A, B, C, D) :- changed(A), transfer(B), maintained(C), rbi(D).
+occur(A, B, C, D) :- changed(A), transfer(B), maintained(C), ratio(D).
+occur(A, B, C, D) :- refused(A), patel(B), maintained(C), rbi(D).
+occur(A, B, C, D) :- refused(A), patel(B), maintained(C), ratio(D).
+occur(A, B, C, D) :- refused(A), raghuram_rajan(B), maintained(C), rbi(D).
+occur(A, B, C, D) :- refused(A), raghuram_rajan(B), maintained(C), ratio(D).
+occur(A, B, C, D) :- refused(A), transfer(B), maintained(C), rbi(D).
+occur(A, B, C, D) :- refused(A), transfer(B), maintained(C), ratio(D).
+occur(A, B, C, D) :- done(A), stocks(B), translated(C), ben_snider(D).
+occur(A, B, C, D) :- done(A), stocks(B), translated(C), two_weeks(D).
+occur(A, B, C, D) :- paired(A), weakness(B), translated(C), ben_snider(D).
+occur(A, B, C, D) :- paired(A), weakness(B), translated(C), two_weeks(D).
+occur(A, B, C, D) :- paired(A), banks(B), translated(C), ben_snider(D).
+occur(A, B, C, D) :- paired(A), banks(B), translated(C), two_weeks(D).
+occur(A, B, C, D) :- paired(A), company(B), translated(C), ben_snider(D).
+occur(A, B, C, D) :- paired(A), company(B), translated(C), two_weeks(D).
+occur(A, B, C, D) :- paired(A), surge(B), translated(C), ben_snider(D).
+occur(A, B, C, D) :- paired(A), surge(B), translated(C), two_weeks(D).
+occur(A, B, C, D) :- is(A), thanks(B), come(C), i(D).
+occur(A, B, C, D) :- is(A), thanks(B), come(C), aldi(D).
+occur(A, B, C, D) :- is(A), need(B), come(C), i(D).
+occur(A, B, C, D) :- is(A), need(B), come(C), aldi(D).
+occur(A, B, C, D) :- have(A), i(B), come(C), i(D).
+occur(A, B, C, D) :- have(A), i(B), come(C), aldi(D).
+occur(A, B, C, D) :- have(A), power(B), come(C), i(D).
+occur(A, B, C, D) :- have(A), power(B), come(C), aldi(D).
+occur(A, B, C, D) :- have(A), today(B), come(C), i(D).
+occur(A, B, C, D) :- have(A), today(B), come(C), aldi(D).
+occur(A, B, C, D) :- starting(A), benefits(B), allowed(C), types(D).
+occur(A, B, C, D) :- starting(A), benefits(B), allowed(C), ownership(D).
+occur(A, B, C, D) :- starting(A), benefits(B), allowed(C), labourers(D).
+occur(A, B, C, D) :- starting(A), benefits(B), allowed(C), hamriya_free_zone(D).
+occur(A, B, C, D) :- starting(A), benefits(B), are(C), types(D).
+occur(A, B, C, D) :- starting(A), business(B), allowed(C), types(D).
+occur(A, B, C, D) :- starting(A), business(B), allowed(C), ownership(D).
+occur(A, B, C, D) :- starting(A), business(B), allowed(C), labourers(D).
+occur(A, B, C, D) :- starting(A), business(B), allowed(C), hamriya_free_zone(D).
+occur(A, B, C, D) :- starting(A), business(B), are(C), types(D).
+occur(A, B, C, D) :- includes(A), offer(B), valuing(C), shares(D).
+occur(A, B, C, D) :- includes(A), shares(B), valuing(C), shares(D).
+occur(A, B, C, D) :- ensure(A), success(B), acquired(C), titan(D).
+occur(A, B, C, D) :- ensure(A), success(B), secured(C), debt(D).
+occur(A, B, C, D) :- bolstering(A), liquidity(B), went(C), sitharaman(D).
+occur(A, B, C, D) :- bolstering(A), liquidity(B), went(C), government(D).
+occur(A, B, C, D) :- bolstering(A), liquidity(B), went(C), hog(D).
+occur(A, B, C, D) :- making(A), government(B), went(C), sitharaman(D).
+occur(A, B, C, D) :- making(A), government(B), went(C), government(D).
+occur(A, B, C, D) :- making(A), government(B), went(C), hog(D).
+occur(A, B, C, D) :- making(A), cheaper(B), went(C), sitharaman(D).
+occur(A, B, C, D) :- making(A), cheaper(B), went(C), government(D).
+occur(A, B, C, D) :- making(A), cheaper(B), went(C), hog(D).
+occur(A, B, C, D) :- making(A), digression(B), went(C), sitharaman(D).
+occur(A, B, C, D) :- making(A), digression(B), went(C), government(D).
+occur(A, B, C, D) :- making(A), digression(B), went(C), hog(D).
+occur(A, B, C, D) :- trying(A), government(B), went(C), sitharaman(D).
+occur(A, B, C, D) :- trying(A), government(B), went(C), government(D).
+occur(A, B, C, D) :- trying(A), government(B), went(C), hog(D).
+occur(A, B, C, D) :- trying(A), spur(B), went(C), sitharaman(D).
+occur(A, B, C, D) :- trying(A), spur(B), went(C), government(D).
+occur(A, B, C, D) :- trying(A), spur(B), went(C), hog(D).
+occur(A, B, C, D) :- trying(A), hitherto(B), went(C), sitharaman(D).
+occur(A, B, C, D) :- trying(A), hitherto(B), went(C), government(D).
+occur(A, B, C, D) :- trying(A), hitherto(B), went(C), hog(D).
+occur(A, B, C, D) :- announced(A), cuts(B), registered(C), firms(D).
+occur(A, B, C, D) :- announced(A), nirmala_sitharaman(B), registered(C), firms(D).
+occur(A, B, C, D) :- announced(A), rate(B), opened(C), package(D).
+occur(A, B, C, D) :- announced(A), rate(B), opened(C), facility(D).
+occur(A, B, C, D) :- announced(A), rate(B), reduce(C), incidence(D).
+occur(A, B, C, D) :- making(A), investments(B), opened(C), package(D).
+occur(A, B, C, D) :- making(A), investments(B), opened(C), facility(D).
+occur(A, B, C, D) :- making(A), investments(B), reduce(C), incidence(D).
+occur(A, B, C, D) :- see(A), chart(B), widened(C), disparity(D).
+occur(A, B, C, D) :- see(A), chart(B), widened(C), rate(D).
+occur(A, B, C, D) :- aimed(A), steps(B), is(C), deficit(D).
+occur(A, B, C, D) :- creating(A), cycle(B), is(C), deficit(D).
+occur(A, B, C, D) :- reduce(A), incidence(B), assorted(C), incentives(D).
+occur(A, B, C, D) :- reduce(A), incidence(B), have(C), company(D).
+occur(A, B, C, D) :- reduce(A), incidence(B), have(C), option(D).
+occur(A, B, C, D) :- reduce(A), incidence(B), paying(C), option(D).
+occur(A, B, C, D) :- reduce(A), incidence(B), paying(C), tax(D).
+occur(A, B, C, D) :- reduce(A), incidence(B), paying(C), income(D).
+occur(A, B, C, D) :- averaged(A), period(B), deduced(C), shares(D).
+occur(A, B, C, D) :- buy(A), shares(B), deduced(C), shares(D).
+occur(A, B, C, D) :- have(A), recession(B), assumed(C), i(D).
+occur(A, B, C, D) :- traded(A), stock(B), assumed(C), i(D).
+occur(A, B, C, D) :- traded(A), recession(B), assumed(C), i(D).
+occur(A, B, C, D) :- using(A), spending(B), is(C), expectation(D).
+occur(A, B, C, D) :- using(A), strategy(B), is(C), expectation(D).
+occur(A, B, C, D) :- ceased(A), trading(B), costing(C), programme(D).
+occur(A, B, C, D) :- ceased(A), trading(B), costing(C), taxpayer(D).
+occur(A, B, C, D) :- ceased(A), trading(B), costing(C), operation_matterhorn(D).
+occur(A, B, C, D) :- ceased(A), trading(B), estimated(C), tourists(D).
+occur(A, B, C, D) :- failing(A), secure(B), costing(C), programme(D).
+occur(A, B, C, D) :- failing(A), secure(B), costing(C), taxpayer(D).
+occur(A, B, C, D) :- failing(A), secure(B), costing(C), operation_matterhorn(D).
+occur(A, B, C, D) :- failing(A), secure(B), estimated(C), tourists(D).
+occur(A, B, C, D) :- cancelled(A), bookings(B), see(C), efforts(D).
+occur(A, B, C, D) :- cancelled(A), bookings(B), see(C), flights(D).
+occur(A, B, C, D) :- cancelled(A), bookings(B), chartered(C), malaysia(D).
+occur(A, B, C, D) :- cancelled(A), bookings(B), chartered(C), operate(D).
+occur(A, B, C, D) :- cancelled(A), bookings(B), estimated(C), aircraft(D).
+occur(A, B, C, D) :- generated(A), maturity(B), edging(C), return(D).
+occur(A, B, C, D) :- generated(A), maturity(B), reinvested(C), dividends(D).
+occur(A, B, C, D) :- generated(A), treasury(B), edging(C), return(D).
+occur(A, B, C, D) :- generated(A), treasury(B), reinvested(C), dividends(D).
+occur(A, B, C, D) :- generated(A), return(B), edging(C), return(D).
+occur(A, B, C, D) :- generated(A), return(B), reinvested(C), dividends(D).
+occur(A, B, C, D) :- announced(A), update(B), assumed(C), rate(D).
+occur(A, B, C, D) :- announced(A), update(B), proceeding(C), company(D).
+occur(A, B, C, D) :- announced(A), update(B), proceeding(C), result(D).
+occur(A, B, C, D) :- announced(A), update(B), proceeding(C), project(D).
+occur(A, B, C, D) :- announced(A), b2gold(B), assumed(C), rate(D).
+occur(A, B, C, D) :- announced(A), b2gold(B), proceeding(C), company(D).
+occur(A, B, C, D) :- announced(A), b2gold(B), proceeding(C), result(D).
+occur(A, B, C, D) :- announced(A), b2gold(B), proceeding(C), project(D).
+occur(A, B, C, D) :- announced(A), results(B), assumed(C), rate(D).
+occur(A, B, C, D) :- announced(A), results(B), proceeding(C), company(D).
+occur(A, B, C, D) :- announced(A), results(B), proceeding(C), result(D).
+occur(A, B, C, D) :- announced(A), results(B), proceeding(C), project(D).
+occur(A, B, C, D) :- slowing(A), growth(B), announced(C), nirmala_sitharaman(D).
+occur(A, B, C, D) :- slowing(A), growth(B), announced(C), reduction(D).
+occur(A, B, C, D) :- slowing(A), growth(B), announced(C), september_20(D).
+occur(A, B, C, D) :- reduced(A), competition(B), owns(C), fosun(D).
+occur(A, B, C, D) :- reduced(A), competition(B), owns(C), parent(D).
+occur(A, B, C, D) :- reduced(A), bookings(B), owns(C), fosun(D).
+occur(A, B, C, D) :- reduced(A), bookings(B), owns(C), parent(D).
+occur(A, B, C, D) :- struggled(A), competition(B), owns(C), fosun(D).
+occur(A, B, C, D) :- struggled(A), competition(B), owns(C), parent(D).
+occur(A, B, C, D) :- announced(A), tariffs(B), is(C), march_2018(D).
+occur(A, B, C, D) :- announced(A), value(B), is(C), march_2018(D).
+occur(A, B, C, D) :- fallen(A), stock(B), is(C), march_2018(D).
+occur(A, B, C, D) :- took(A), tariffs(B), is(C), march_2018(D).
+occur(A, B, C, D) :- took(A), effect(B), is(C), march_2018(D).
+occur(A, B, C, D) :- took(A), march_2018(B), is(C), march_2018(D).
+occur(A, B, C, D) :- imported(A), aluminum(B), estimated(C), jobs(D).
+occur(A, B, C, D) :- failed(A), government(B), granted(C), judge(D).
+occur(A, B, C, D) :- failed(A), government(B), granted(C), order(D).
+occur(A, B, C, D) :- failed(A), government(B), granted(C), default(D).
+occur(A, B, C, D) :- failed(A), respond(B), granted(C), judge(D).
+occur(A, B, C, D) :- failed(A), respond(B), granted(C), order(D).
+occur(A, B, C, D) :- failed(A), respond(B), granted(C), default(D).
+occur(A, B, C, D) :- fueled(A), growth(B), adjusted(C), earnings(D).
+occur(A, B, C, D) :- fueled(A), orders(B), adjusted(C), earnings(D).
+occur(A, B, C, D) :- increased(A), orders(B), adjusted(C), earnings(D).
+occur(A, B, C, D) :- ongoing(A), growth(B), adjusted(C), earnings(D).
+occur(A, B, C, D) :- announced(A), tweet_twentyfour_select_monthly_incm_fd_ltd(B), given(C), investors(D).
+occur(A, B, C, D) :- announced(A), tweet_twentyfour_select_monthly_incm_fd_ltd(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), investors(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- said(A), amendment(B), added(C), provision(D).
+occur(A, B, C, D) :- said(A), amendment(B), added(C), act(D).
+occur(A, B, C, D) :- said(A), amendment(B), allowed(C), deductions(D).
+occur(A, B, C, D) :- said(A), amendment(B), allowed(C), provisions(D).
+occur(A, B, C, D) :- said(A), amendment(B), availing(C), rate(D).
+occur(A, B, C, D) :- said(A), amendment(B), availing(C), provision(D).
+occur(A, B, C, D) :- said(A), amendment(B), are(C), rate(D).
+occur(A, B, C, D) :- said(A), amendment(B), computed(C), income(D).
+occur(A, B, C, D) :- said(A), amendment(B), computed(C), rate(D).
+occur(A, B, C, D) :- said(A), amendment(B), reduced(C), rate(D).
+occur(A, B, C, D) :- said(A), move(B), added(C), provision(D).
+occur(A, B, C, D) :- said(A), move(B), added(C), act(D).
+occur(A, B, C, D) :- said(A), move(B), allowed(C), deductions(D).
+occur(A, B, C, D) :- said(A), move(B), allowed(C), provisions(D).
+occur(A, B, C, D) :- said(A), move(B), availing(C), rate(D).
+occur(A, B, C, D) :- said(A), move(B), availing(C), provision(D).
+occur(A, B, C, D) :- said(A), move(B), are(C), rate(D).
+occur(A, B, C, D) :- said(A), move(B), computed(C), income(D).
+occur(A, B, C, D) :- said(A), move(B), computed(C), rate(D).
+occur(A, B, C, D) :- said(A), move(B), reduced(C), rate(D).
+occur(A, B, C, D) :- slowing(A), economy(B), added(C), provision(D).
+occur(A, B, C, D) :- slowing(A), economy(B), added(C), act(D).
+occur(A, B, C, D) :- slowing(A), economy(B), allowed(C), deductions(D).
+occur(A, B, C, D) :- slowing(A), economy(B), allowed(C), provisions(D).
+occur(A, B, C, D) :- slowing(A), economy(B), availing(C), rate(D).
+occur(A, B, C, D) :- slowing(A), economy(B), availing(C), provision(D).
+occur(A, B, C, D) :- slowing(A), economy(B), are(C), rate(D).
+occur(A, B, C, D) :- slowing(A), economy(B), computed(C), income(D).
+occur(A, B, C, D) :- slowing(A), economy(B), computed(C), rate(D).
+occur(A, B, C, D) :- slowing(A), economy(B), reduced(C), rate(D).
+occur(A, B, C, D) :- exceeded(A), income(B), charged(C), surc(D).
+occur(A, B, C, D) :- exceeded(A), crores(B), charged(C), surc(D).
+occur(A, B, C, D) :- going(A), claim(B), fixed(C), surc(D).
+occur(A, B, C, D) :- claiming(A), company(B), reduced(C), rate(D).
+occur(A, B, C, D) :- claiming(A), option(B), reduced(C), rate(D).
+occur(A, B, C, D) :- levied(A), mat(B), reduced(C), rate(D).
+occur(A, B, C, D) :- levied(A), company(B), reduced(C), rate(D).
+occur(A, B, C, D) :- provides(A), encourage(B), reduced(C), rate(D).
+occur(A, B, C, D) :- provides(A), ordinance(B), reduced(C), rate(D).
+occur(A, B, C, D) :- provides(A), mat(B), reduced(C), rate(D).
+occur(A, B, C, D) :- seen(A), ordinance(B), slashing(C), tax(D).
+occur(A, B, C, D) :- seen(A), move(B), slashing(C), tax(D).
+occur(A, B, C, D) :- grew(A), sa(B), owns(C), sa(D).
+occur(A, B, C, D) :- grew(A), sa(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), sa(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), sa(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), sa(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), sa(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), sa(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), shares(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), shares(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), llc(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), system(B), owns(C), system(D).
+occur(A, B, C, D) :- grew(A), system(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), system(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), system(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), system(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), system(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), system(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), shares(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), shares(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), p(B), owns(C), p(D).
+occur(A, B, C, D) :- grew(A), p(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), p(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), p(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), p(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), p(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), p(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), shares(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), shares(B), valued(C), stock(D).
+occur(A, B, C, D) :- ongoing(A), support(B), permitted(C), retain(D).
+occur(A, B, C, D) :- suffered(A), struck(B), voted(C), board(D).
+occur(A, B, C, D) :- suffered(A), struck(B), voted(C), anthony(D).
+occur(A, B, C, D) :- suffered(A), struck(B), voted(C), business(D).
+occur(A, B, C, D) :- suffered(A), struck(B), voted(C), donate(D).
+occur(A, B, C, D) :- suffered(A), injury(B), voted(C), board(D).
+occur(A, B, C, D) :- suffered(A), injury(B), voted(C), anthony(D).
+occur(A, B, C, D) :- suffered(A), injury(B), voted(C), business(D).
+occur(A, B, C, D) :- suffered(A), injury(B), voted(C), donate(D).
+occur(A, B, C, D) :- working(A), flagman(B), voted(C), board(D).
+occur(A, B, C, D) :- working(A), flagman(B), voted(C), anthony(D).
+occur(A, B, C, D) :- working(A), flagman(B), voted(C), business(D).
+occur(A, B, C, D) :- working(A), flagman(B), voted(C), donate(D).
+occur(A, B, C, D) :- admitted(A), management(B), banned(C), regulator(D).
+occur(A, B, C, D) :- admitted(A), management(B), banned(C), bank(D).
+occur(A, B, C, D) :- admitted(A), management(B), banned(C), period(D).
+occur(A, B, C, D) :- admitted(A), management(B), banned(C), lending(D).
+occur(A, B, C, D) :- admitted(A), reason(B), banned(C), regulator(D).
+occur(A, B, C, D) :- admitted(A), reason(B), banned(C), bank(D).
+occur(A, B, C, D) :- admitted(A), reason(B), banned(C), period(D).
+occur(A, B, C, D) :- admitted(A), reason(B), banned(C), lending(D).
+occur(A, B, C, D) :- leading(A), crisis(B), banned(C), regulator(D).
+occur(A, B, C, D) :- leading(A), crisis(B), banned(C), bank(D).
+occur(A, B, C, D) :- leading(A), crisis(B), banned(C), period(D).
+occur(A, B, C, D) :- leading(A), crisis(B), banned(C), lending(D).
+occur(A, B, C, D) :- leading(A), action(B), banned(C), regulator(D).
+occur(A, B, C, D) :- leading(A), action(B), banned(C), bank(D).
+occur(A, B, C, D) :- leading(A), action(B), banned(C), period(D).
+occur(A, B, C, D) :- leading(A), action(B), banned(C), lending(D).
+occur(A, B, C, D) :- placed(A), tuesday(B), banned(C), regulator(D).
+occur(A, B, C, D) :- placed(A), tuesday(B), banned(C), bank(D).
+occur(A, B, C, D) :- placed(A), tuesday(B), banned(C), period(D).
+occur(A, B, C, D) :- placed(A), tuesday(B), banned(C), lending(D).
+occur(A, B, C, D) :- placed(A), rbi(B), banned(C), regulator(D).
+occur(A, B, C, D) :- placed(A), rbi(B), banned(C), bank(D).
+occur(A, B, C, D) :- placed(A), rbi(B), banned(C), period(D).
+occur(A, B, C, D) :- placed(A), rbi(B), banned(C), lending(D).
+occur(A, B, C, D) :- placed(A), six_months(B), banned(C), regulator(D).
+occur(A, B, C, D) :- placed(A), six_months(B), banned(C), bank(D).
+occur(A, B, C, D) :- placed(A), six_months(B), banned(C), period(D).
+occur(A, B, C, D) :- placed(A), six_months(B), banned(C), lending(D).
+occur(A, B, C, D) :- placed(A), administrator(B), banned(C), regulator(D).
+occur(A, B, C, D) :- placed(A), administrator(B), banned(C), bank(D).
+occur(A, B, C, D) :- placed(A), administrator(B), banned(C), period(D).
+occur(A, B, C, D) :- placed(A), administrator(B), banned(C), lending(D).
+occur(A, B, C, D) :- secured(A), loans(B), banned(C), regulator(D).
+occur(A, B, C, D) :- secured(A), loans(B), banned(C), bank(D).
+occur(A, B, C, D) :- secured(A), loans(B), banned(C), period(D).
+occur(A, B, C, D) :- secured(A), loans(B), banned(C), lending(D).
+occur(A, B, C, D) :- superseded(A), tuesday(B), banned(C), regulator(D).
+occur(A, B, C, D) :- superseded(A), tuesday(B), banned(C), bank(D).
+occur(A, B, C, D) :- superseded(A), tuesday(B), banned(C), period(D).
+occur(A, B, C, D) :- superseded(A), tuesday(B), banned(C), lending(D).
+occur(A, B, C, D) :- superseded(A), rbi(B), banned(C), regulator(D).
+occur(A, B, C, D) :- superseded(A), rbi(B), banned(C), bank(D).
+occur(A, B, C, D) :- superseded(A), rbi(B), banned(C), period(D).
+occur(A, B, C, D) :- superseded(A), rbi(B), banned(C), lending(D).
+occur(A, B, C, D) :- superseded(A), management(B), banned(C), regulator(D).
+occur(A, B, C, D) :- superseded(A), management(B), banned(C), bank(D).
+occur(A, B, C, D) :- superseded(A), management(B), banned(C), period(D).
+occur(A, B, C, D) :- superseded(A), management(B), banned(C), lending(D).
+occur(A, B, C, D) :- proposed(A), warren(B), creating(C), taxes(D).
+occur(A, B, C, D) :- proposed(A), warren(B), creating(C), americans(D).
+occur(A, B, C, D) :- proposed(A), tax(B), creating(C), taxes(D).
+occur(A, B, C, D) :- proposed(A), tax(B), creating(C), americans(D).
+occur(A, B, C, D) :- proposed(A), thursday(B), creating(C), taxes(D).
+occur(A, B, C, D) :- proposed(A), thursday(B), creating(C), americans(D).
+occur(A, B, C, D) :- made(A), offer(B), editing(C), sandle(D).
+occur(A, B, C, D) :- made(A), offer(B), made(C), offer(D).
+occur(A, B, C, D) :- made(A), offer(B), made(C), reporting(D).
+occur(A, B, C, D) :- made(A), offer(B), said(C), shareholder(D).
+occur(A, B, C, D) :- made(A), operator(B), editing(C), sandle(D).
+occur(A, B, C, D) :- made(A), operator(B), made(C), offer(D).
+occur(A, B, C, D) :- made(A), operator(B), made(C), reporting(D).
+occur(A, B, C, D) :- made(A), operator(B), said(C), shareholder(D).
+occur(A, B, C, D) :- misstated(A), accounts(B), editing(C), sandle(D).
+occur(A, B, C, D) :- misstated(A), accounts(B), made(C), offer(D).
+occur(A, B, C, D) :- misstated(A), accounts(B), made(C), reporting(D).
+occur(A, B, C, D) :- misstated(A), accounts(B), said(C), shareholder(D).
+occur(A, B, C, D) :- said(A), operator(B), editing(C), sandle(D).
+occur(A, B, C, D) :- said(A), operator(B), made(C), offer(D).
+occur(A, B, C, D) :- said(A), operator(B), made(C), reporting(D).
+occur(A, B, C, D) :- said(A), operator(B), said(C), shareholder(D).
+occur(A, B, C, D) :- said(A), month(B), editing(C), sandle(D).
+occur(A, B, C, D) :- said(A), month(B), made(C), offer(D).
+occur(A, B, C, D) :- said(A), month(B), made(C), reporting(D).
+occur(A, B, C, D) :- said(A), month(B), said(C), shareholder(D).
+occur(A, B, C, D) :- said(A), monday(B), editing(C), sandle(D).
+occur(A, B, C, D) :- said(A), monday(B), made(C), offer(D).
+occur(A, B, C, D) :- said(A), monday(B), made(C), reporting(D).
+occur(A, B, C, D) :- said(A), monday(B), said(C), shareholder(D).
+occur(A, B, C, D) :- struggling(A), operator(B), editing(C), sandle(D).
+occur(A, B, C, D) :- struggling(A), operator(B), made(C), offer(D).
+occur(A, B, C, D) :- struggling(A), operator(B), made(C), reporting(D).
+occur(A, B, C, D) :- struggling(A), operator(B), said(C), shareholder(D).
+occur(A, B, C, D) :- chased(A), profits(B), was(C), purchase(D).
+occur(A, B, C, D) :- chased(A), profits(B), was(C), missteps(D).
+occur(A, B, C, D) :- chased(A), profits(B), became(C), market(D).
+occur(A, B, C, D) :- adjusted(A), ebitda(B), grew(C), revenues(D).
+occur(A, B, C, D) :- adjusted(A), release(B), grew(C), revenues(D).
+occur(A, B, C, D) :- drifted(A), stock(B), grew(C), revenues(D).
+occur(A, B, C, D) :- drifted(A), release(B), grew(C), revenues(D).
+occur(A, B, C, D) :- follows(A), fourth_quarter_2018(B), grew(C), revenues(D).
+occur(A, B, C, D) :- marimed(A), source(B), grew(C), revenues(D).
+occur(A, B, C, D) :- marimed(A), growth(B), grew(C), revenues(D).
+occur(A, B, C, D) :- reported(A), company(B), grew(C), revenues(D).
+occur(A, B, C, D) :- reported(A), mrmd(B), grew(C), revenues(D).
+occur(A, B, C, D) :- reported(A), revenue(B), grew(C), revenues(D).
+occur(A, B, C, D) :- reported(A), growth(B), grew(C), revenues(D).
+occur(A, B, C, D) :- reported(A), results(B), grew(C), revenues(D).
+occur(A, B, C, D) :- traded(A), stock(B), grew(C), revenues(D).
+occur(A, B, C, D) :- traded(A), release(B), grew(C), revenues(D).
+occur(A, B, C, D) :- underlying(A), operations(B), grew(C), profit(D).
+occur(A, B, C, D) :- underlying(A), operations(B), grew(C), profit(D).
+occur(A, B, C, D) :- expects(A), payment(B), believe(C), i(D).
+occur(A, B, C, D) :- expects(A), payment(B), believe(C), difference(D).
+occur(A, B, C, D) :- said(A), mrmd(B), believe(C), i(D).
+occur(A, B, C, D) :- said(A), mrmd(B), believe(C), difference(D).
+occur(A, B, C, D) :- came(A), sign(B), take(C), banks(D).
+occur(A, B, C, D) :- came(A), sign(B), take(C), ecb(D).
+occur(A, B, C, D) :- came(A), sign(B), take(C), loans(D).
+occur(A, B, C, D) :- came(A), thursday(B), take(C), banks(D).
+occur(A, B, C, D) :- came(A), thursday(B), take(C), ecb(D).
+occur(A, B, C, D) :- came(A), thursday(B), take(C), loans(D).
+occur(A, B, C, D) :- growing(A), struggles(B), take(C), banks(D).
+occur(A, B, C, D) :- growing(A), struggles(B), take(C), ecb(D).
+occur(A, B, C, D) :- growing(A), struggles(B), take(C), loans(D).
+occur(A, B, C, D) :- classified(A), home(B), comes(C), value(D).
+occur(A, B, C, D) :- classified(A), home(B), comes(C), situation(D).
+occur(A, B, C, D) :- reported(A), company(B), missing(C), estimate(D).
+occur(A, B, C, D) :- reported(A), eps(B), missing(C), estimate(D).
+occur(A, B, C, D) :- was(A), revenue(B), had(C), estimate(D).
+occur(A, B, C, D) :- was(A), revenue(B), had(C), firm(D).
+occur(A, B, C, D) :- was(A), revenue(B), had(C), revenue(D).
+occur(A, B, C, D) :- was(A), revenue(B), had(C), quarter(D).
+occur(A, B, C, D) :- was(A), year(B), had(C), estimate(D).
+occur(A, B, C, D) :- was(A), year(B), had(C), firm(D).
+occur(A, B, C, D) :- was(A), year(B), had(C), revenue(D).
+occur(A, B, C, D) :- was(A), year(B), had(C), quarter(D).
+occur(A, B, C, D) :- issued(A), stockholders(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- issued(A), stockholders(B), represents(C), dividend(D).
+occur(A, B, C, D) :- issued(A), dividend(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- issued(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- boosted(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- boosted(A), position(B), valued(C), buying(D).
+occur(A, B, C, D) :- boosted(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- boosted(A), quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- boosted(A), quarter(B), valued(C), buying(D).
+occur(A, B, C, D) :- boosted(A), quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- go(A), tribunal(B), had(C), australia(D).
+occur(A, B, C, D) :- go(A), tribunal(B), had(C), case(D).
+occur(A, B, C, D) :- go(A), tribunal(B), took(C), seven_years(D).
+occur(A, B, C, D) :- lost(A), philip_morris_tobacco_company(B), had(C), australia(D).
+occur(A, B, C, D) :- lost(A), philip_morris_tobacco_company(B), had(C), case(D).
+occur(A, B, C, D) :- lost(A), philip_morris_tobacco_company(B), took(C), seven_years(D).
+occur(A, B, C, D) :- lost(A), case(B), had(C), australia(D).
+occur(A, B, C, D) :- lost(A), case(B), had(C), case(D).
+occur(A, B, C, D) :- lost(A), case(B), took(C), seven_years(D).
+occur(A, B, C, D) :- lost(A), government(B), had(C), australia(D).
+occur(A, B, C, D) :- lost(A), government(B), had(C), case(D).
+occur(A, B, C, D) :- lost(A), government(B), took(C), seven_years(D).
+occur(A, B, C, D) :- using(A), provisions(B), had(C), australia(D).
+occur(A, B, C, D) :- using(A), provisions(B), had(C), case(D).
+occur(A, B, C, D) :- using(A), provisions(B), took(C), seven_years(D).
+occur(A, B, C, D) :- demonstrating(A), return(B), represents(C), sector(D).
+occur(A, B, C, D) :- done(A), sector(B), represents(C), sector(D).
+occur(A, B, C, D) :- done(A), job(B), represents(C), sector(D).
+occur(A, B, C, D) :- invested(A), capital(B), represents(C), sector(D).
+occur(A, B, C, D) :- returning(A), job(B), represents(C), sector(D).
+occur(A, B, C, D) :- returning(A), capital(B), represents(C), sector(D).
+occur(A, B, C, D) :- returning(A), shareholders(B), represents(C), sector(D).
+occur(A, B, C, D) :- adjusted(A), income(B), is(C), deduction(D).
+occur(A, B, C, D) :- adjusted(A), income(B), is(C), years(D).
+occur(A, B, C, D) :- allowed(A), expenses(B), is(C), deduction(D).
+occur(A, B, C, D) :- allowed(A), expenses(B), is(C), years(D).
+occur(A, B, C, D) :- itemizing(A), taxpayer(B), is(C), deduction(D).
+occur(A, B, C, D) :- itemizing(A), taxpayer(B), is(C), years(D).
+occur(A, B, C, D) :- itemizing(A), deductions(B), is(C), deduction(D).
+occur(A, B, C, D) :- itemizing(A), deductions(B), is(C), years(D).
+occur(A, B, C, D) :- itemizing(A), years(B), is(C), deduction(D).
+occur(A, B, C, D) :- itemizing(A), years(B), is(C), years(D).
+occur(A, B, C, D) :- itemized(A), deductions(B), is(C), deduction(D).
+occur(A, B, C, D) :- itemized(A), deductions(B), is(C), years(D).
+occur(A, B, C, D) :- reduced(A), deductions(B), is(C), deduction(D).
+occur(A, B, C, D) :- reduced(A), deductions(B), is(C), years(D).
+occur(A, B, C, D) :- suspended(A), deductions(B), is(C), deduction(D).
+occur(A, B, C, D) :- suspended(A), deductions(B), is(C), years(D).
+occur(A, B, C, D) :- taking(A), taxpayer(B), is(C), deduction(D).
+occur(A, B, C, D) :- taking(A), taxpayer(B), is(C), years(D).
+occur(A, B, C, D) :- taking(A), deduction(B), is(C), deduction(D).
+occur(A, B, C, D) :- taking(A), deduction(B), is(C), years(D).
+occur(A, B, C, D) :- itemized(A), deductions(B), leaving(C), income(D).
+occur(A, B, C, D) :- suspended(A), deductions(B), leaving(C), income(D).
+occur(A, B, C, D) :- filed(A), return(B), apply(C), penalties(D).
+occur(A, B, C, D) :- comes(A), whichever(B), get(C), bonus(D).
+occur(A, B, C, D) :- following(A), requirements(B), get(C), bonus(D).
+occur(A, B, C, D) :- make(A), account(B), get(C), bonus(D).
+occur(A, B, C, D) :- make(A), opening(B), get(C), bonus(D).
+occur(A, B, C, D) :- make(A), transactions(B), get(C), bonus(D).
+occur(A, B, C, D) :- make(A), minimum(B), get(C), bonus(D).
+occur(A, B, C, D) :- make(A), three_months(B), get(C), bonus(D).
+occur(A, B, C, D) :- come(A), group(B), needed(C), million_pounds(D).
+occur(A, B, C, D) :- come(A), group(B), needed(C), addition(D).
+occur(A, B, C, D) :- come(A), group(B), needed(C), administration(D).
+occur(A, B, C, D) :- come(A), group(B), said(C), operator(D).
+occur(A, B, C, D) :- come(A), group(B), said(C), september_20(D).
+occur(A, B, C, D) :- come(A), group(B), secured(C), deal(D).
+occur(A, B, C, D) :- come(A), group(B), secured(C), month(D).
+occur(A, B, C, D) :- come(A), pressure(B), needed(C), million_pounds(D).
+occur(A, B, C, D) :- come(A), pressure(B), needed(C), addition(D).
+occur(A, B, C, D) :- come(A), pressure(B), needed(C), administration(D).
+occur(A, B, C, D) :- come(A), pressure(B), said(C), operator(D).
+occur(A, B, C, D) :- come(A), pressure(B), said(C), september_20(D).
+occur(A, B, C, D) :- come(A), pressure(B), secured(C), deal(D).
+occur(A, B, C, D) :- come(A), pressure(B), secured(C), month(D).
+occur(A, B, C, D) :- has(A), group(B), needed(C), million_pounds(D).
+occur(A, B, C, D) :- has(A), group(B), needed(C), addition(D).
+occur(A, B, C, D) :- has(A), group(B), needed(C), administration(D).
+occur(A, B, C, D) :- has(A), group(B), said(C), operator(D).
+occur(A, B, C, D) :- has(A), group(B), said(C), september_20(D).
+occur(A, B, C, D) :- has(A), group(B), secured(C), deal(D).
+occur(A, B, C, D) :- has(A), group(B), secured(C), month(D).
+occur(A, B, C, D) :- costing(A), government(B), employing(C), company(D).
+occur(A, B, C, D) :- costing(A), government(B), employing(C), staff(D).
+occur(A, B, C, D) :- costing(A), government(B), lose(C), thousands(D).
+occur(A, B, C, D) :- costing(A), government(B), lose(C), jobs(D).
+occur(A, B, C, D) :- costing(A), government(B), lose(C), company(D).
+occur(A, B, C, D) :- costing(A), taxpayers(B), employing(C), company(D).
+occur(A, B, C, D) :- costing(A), taxpayers(B), employing(C), staff(D).
+occur(A, B, C, D) :- costing(A), taxpayers(B), lose(C), thousands(D).
+occur(A, B, C, D) :- costing(A), taxpayers(B), lose(C), jobs(D).
+occur(A, B, C, D) :- costing(A), taxpayers(B), lose(C), company(D).
+occur(A, B, C, D) :- hiring(A), planes(B), employing(C), company(D).
+occur(A, B, C, D) :- hiring(A), planes(B), employing(C), staff(D).
+occur(A, B, C, D) :- hiring(A), planes(B), lose(C), thousands(D).
+occur(A, B, C, D) :- hiring(A), planes(B), lose(C), jobs(D).
+occur(A, B, C, D) :- hiring(A), planes(B), lose(C), company(D).
+occur(A, B, C, D) :- prompted(A), collapse(B), employing(C), company(D).
+occur(A, B, C, D) :- prompted(A), collapse(B), employing(C), staff(D).
+occur(A, B, C, D) :- prompted(A), collapse(B), lose(C), thousands(D).
+occur(A, B, C, D) :- prompted(A), collapse(B), lose(C), jobs(D).
+occur(A, B, C, D) :- prompted(A), collapse(B), lose(C), company(D).
+occur(A, B, C, D) :- prompted(A), government(B), employing(C), company(D).
+occur(A, B, C, D) :- prompted(A), government(B), employing(C), staff(D).
+occur(A, B, C, D) :- prompted(A), government(B), lose(C), thousands(D).
+occur(A, B, C, D) :- prompted(A), government(B), lose(C), jobs(D).
+occur(A, B, C, D) :- prompted(A), government(B), lose(C), company(D).
+occur(A, B, C, D) :- prompted(A), years(B), employing(C), company(D).
+occur(A, B, C, D) :- prompted(A), years(B), employing(C), staff(D).
+occur(A, B, C, D) :- prompted(A), years(B), lose(C), thousands(D).
+occur(A, B, C, D) :- prompted(A), years(B), lose(C), jobs(D).
+occur(A, B, C, D) :- prompted(A), years(B), lose(C), company(D).
+occur(A, B, C, D) :- stranded(A), passengers(B), employing(C), company(D).
+occur(A, B, C, D) :- stranded(A), passengers(B), employing(C), staff(D).
+occur(A, B, C, D) :- stranded(A), passengers(B), lose(C), thousands(D).
+occur(A, B, C, D) :- stranded(A), passengers(B), lose(C), jobs(D).
+occur(A, B, C, D) :- stranded(A), passengers(B), lose(C), company(D).
+occur(A, B, C, D) :- take(A), return(B), employing(C), company(D).
+occur(A, B, C, D) :- take(A), return(B), employing(C), staff(D).
+occur(A, B, C, D) :- take(A), return(B), lose(C), thousands(D).
+occur(A, B, C, D) :- take(A), return(B), lose(C), jobs(D).
+occur(A, B, C, D) :- take(A), return(B), lose(C), company(D).
+occur(A, B, C, D) :- take(A), government(B), employing(C), company(D).
+occur(A, B, C, D) :- take(A), government(B), employing(C), staff(D).
+occur(A, B, C, D) :- take(A), government(B), lose(C), thousands(D).
+occur(A, B, C, D) :- take(A), government(B), lose(C), jobs(D).
+occur(A, B, C, D) :- take(A), government(B), lose(C), company(D).
+occur(A, B, C, D) :- take(A), action(B), employing(C), company(D).
+occur(A, B, C, D) :- take(A), action(B), employing(C), staff(D).
+occur(A, B, C, D) :- take(A), action(B), lose(C), thousands(D).
+occur(A, B, C, D) :- take(A), action(B), lose(C), jobs(D).
+occur(A, B, C, D) :- take(A), action(B), lose(C), company(D).
+occur(A, B, C, D) :- agreed(A), fosun(B), acquired(C), conglomerate(D).
+occur(A, B, C, D) :- agreed(A), fosun(B), acquired(C), stake(D).
+occur(A, B, C, D) :- agreed(A), fosun(B), acquired(C), return(D).
+occur(A, B, C, D) :- agreed(A), month(B), acquired(C), conglomerate(D).
+occur(A, B, C, D) :- agreed(A), month(B), acquired(C), stake(D).
+occur(A, B, C, D) :- agreed(A), month(B), acquired(C), return(D).
+occur(A, B, C, D) :- agreed(A), inject(B), acquired(C), conglomerate(D).
+occur(A, B, C, D) :- agreed(A), inject(B), acquired(C), stake(D).
+occur(A, B, C, D) :- agreed(A), inject(B), acquired(C), return(D).
+occur(A, B, C, D) :- agreed(A), creditors(B), converting(C), debt(D).
+occur(A, B, C, D) :- agreed(A), creditors(B), converting(C), exchange(D).
+occur(A, B, C, D) :- agreed(A), banks(B), converting(C), debt(D).
+occur(A, B, C, D) :- agreed(A), banks(B), converting(C), exchange(D).
+occur(A, B, C, D) :- agreed(A), inject(B), converting(C), debt(D).
+occur(A, B, C, D) :- agreed(A), inject(B), converting(C), exchange(D).
+occur(A, B, C, D) :- announced(A), plan(B), converting(C), debt(D).
+occur(A, B, C, D) :- announced(A), plan(B), converting(C), exchange(D).
+occur(A, B, C, D) :- announced(A), august(B), converting(C), debt(D).
+occur(A, B, C, D) :- announced(A), august(B), converting(C), exchange(D).
+occur(A, B, C, D) :- accused(A), pump(B), receiving(C), proceeds(D).
+occur(A, B, C, D) :- accused(A), ipo(B), receiving(C), proceeds(D).
+occur(A, B, C, D) :- accused(A), investors(B), receiving(C), proceeds(D).
+occur(A, B, C, D) :- misleading(A), investors(B), receiving(C), proceeds(D).
+occur(A, B, C, D) :- issued(A), llc(B), has(C), stock(D).
+occur(A, B, C, D) :- issued(A), llc(B), has(C), rating(D).
+occur(A, B, C, D) :- issued(A), objective(B), has(C), stock(D).
+occur(A, B, C, D) :- issued(A), objective(B), has(C), rating(D).
+occur(A, B, C, D) :- reissued(A), llc(B), has(C), stock(D).
+occur(A, B, C, D) :- reissued(A), llc(B), has(C), rating(D).
+occur(A, B, C, D) :- assigned(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- assigned(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- assigned(A), ten(B), has(C), stock(D).
+occur(A, B, C, D) :- assigned(A), ten(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- lifted(A), llc(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), llc(B), acquiring(C), period(D).
+occur(A, B, C, D) :- lifted(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- lifted(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), holdings(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), holdings(B), acquiring(C), period(D).
+occur(A, B, C, D) :- lifted(A), holdings(B), owns(C), llc(D).
+occur(A, B, C, D) :- lifted(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), sa(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), sa(B), acquiring(C), period(D).
+occur(A, B, C, D) :- lifted(A), sa(B), owns(C), sa(D).
+occur(A, B, C, D) :- lifted(A), sa(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), holdings(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), holdings(B), acquiring(C), period(D).
+occur(A, B, C, D) :- lifted(A), holdings(B), owns(C), sa(D).
+occur(A, B, C, D) :- lifted(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), shares(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), shares(B), acquiring(C), period(D).
+occur(A, B, C, D) :- lifted(A), shares(B), owns(C), sa(D).
+occur(A, B, C, D) :- lifted(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- generating(A), risk(B), sold(C), reason(D).
+occur(A, B, C, D) :- generating(A), risk(B), sold(C), endowment(D).
+occur(A, B, C, D) :- generating(A), returns(B), sold(C), reason(D).
+occur(A, B, C, D) :- generating(A), returns(B), sold(C), endowment(D).
+occur(A, B, C, D) :- posed(A), risk(B), sold(C), reason(D).
+occur(A, B, C, D) :- posed(A), risk(B), sold(C), endowment(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), trust(D).
+occur(A, B, C, D) :- declared(A), reports(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), reports(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), reports(B), given(C), trust(D).
+occur(A, B, C, D) :- expect(A), analysts(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), hersha_hospitality_trust(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), earn(B), expected(C), ratio(D).
+occur(A, B, C, D) :- reported(A), trust(B), missing(C), estimate(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), officer(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), purchase(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- downgraded(A), valuengine(B), has(C), stock(D).
+occur(A, B, C, D) :- downgraded(A), valuengine(B), has(C), rating(D).
+occur(A, B, C, D) :- downgraded(A), trust(B), has(C), stock(D).
+occur(A, B, C, D) :- downgraded(A), trust(B), has(C), rating(D).
+occur(A, B, C, D) :- downgraded(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- downgraded(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- assigned(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- assigned(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- having(A), team(B), created(C), game(D).
+occur(A, B, C, D) :- having(A), team(B), created(C), expansion(D).
+occur(A, B, C, D) :- having(A), team(B), represents(C), game(D).
+occur(A, B, C, D) :- take(A), claims(B), offered(C), fortress_investment_group(D).
+occur(A, B, C, D) :- take(A), claims(B), offered(C), july(D).
+occur(A, B, C, D) :- take(A), claims(B), offered(C), creditors(D).
+occur(A, B, C, D) :- given(A), investors(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- given(A), investors(B), represents(C), dividend(D).
+occur(A, B, C, D) :- given(A), dividend(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- given(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- expect(A), analysts(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), cinemark(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), earn(B), expected(C), ratio(D).
+occur(A, B, C, D) :- reported(A), company(B), topping(C), estimate(D).
+occur(A, B, C, D) :- reported(A), eps(B), topping(C), estimate(D).
+occur(A, B, C, D) :- sold(A), gamble(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), gamble(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), gamble(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), gamble(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), shares(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), cinemark(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), cinemark(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), cinemark(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), cinemark(B), valued(C), shares(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- strengthened(A), tax(B), raising(C), rate(D).
+occur(A, B, C, D) :- strengthened(A), april_1(B), raising(C), rate(D).
+occur(A, B, C, D) :- reduced(A), deficit(B), predicted(C), deficit(D).
+occur(A, B, C, D) :- reduced(A), deficit(B), predicted(C), budget(D).
+occur(A, B, C, D) :- accumulated(A), income(B), announced(C), today(D).
+occur(A, B, C, D) :- accumulated(A), income(B), announced(C), distribution(D).
+occur(A, B, C, D) :- amended(A), m(B), announced(C), today(D).
+occur(A, B, C, D) :- amended(A), m(B), announced(C), distribution(D).
+occur(A, B, C, D) :- approved(A), policy(B), announced(C), today(D).
+occur(A, B, C, D) :- approved(A), policy(B), announced(C), distribution(D).
+occur(A, B, C, D) :- approved(A), board_of_directors(B), announced(C), today(D).
+occur(A, B, C, D) :- approved(A), board_of_directors(B), announced(C), distribution(D).
+occur(A, B, C, D) :- approved(A), december_2013(B), announced(C), today(D).
+occur(A, B, C, D) :- approved(A), december_2013(B), announced(C), distribution(D).
+occur(A, B, C, D) :- based(A), distribution(B), announced(C), today(D).
+occur(A, B, C, D) :- based(A), distribution(B), announced(C), distribution(D).
+occur(A, B, C, D) :- based(A), policy(B), announced(C), today(D).
+occur(A, B, C, D) :- based(A), policy(B), announced(C), distribution(D).
+occur(A, B, C, D) :- was(A), december_2013(B), announced(C), today(D).
+occur(A, B, C, D) :- was(A), december_2013(B), announced(C), distribution(D).
+occur(A, B, C, D) :- was(A), pay(B), announced(C), today(D).
+occur(A, B, C, D) :- was(A), pay(B), announced(C), distribution(D).
+occur(A, B, C, D) :- grew(A), holdings(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), holdings(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- boosted(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- boosted(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- began(A), strike(B), is(C), stock(D).
+occur(A, B, C, D) :- began(A), drop(B), is(C), stock(D).
+occur(A, B, C, D) :- includes(A), figure(B), holds(C), shares(D).
+occur(A, B, C, D) :- includes(A), figure(B), revealed(C), management(D).
+occur(A, B, C, D) :- includes(A), shares(B), holds(C), shares(D).
+occur(A, B, C, D) :- includes(A), shares(B), revealed(C), management(D).
+occur(A, B, C, D) :- purchased(A), shares(B), holds(C), shares(D).
+occur(A, B, C, D) :- purchased(A), shares(B), revealed(C), management(D).
+occur(A, B, C, D) :- purchased(A), range(B), holds(C), shares(D).
+occur(A, B, C, D) :- purchased(A), range(B), revealed(C), management(D).
+occur(A, B, C, D) :- purchased(A), shares(B), disclosed(C), capital(D).
+occur(A, B, C, D) :- purchased(A), period(B), disclosed(C), capital(D).
+occur(A, B, C, D) :- acquired(A), investment(B), purchased(C), shares(D).
+occur(A, B, C, D) :- acquired(A), investment(B), purchased(C), period(D).
+occur(A, B, C, D) :- acquired(A), shares(B), purchased(C), shares(D).
+occur(A, B, C, D) :- acquired(A), shares(B), purchased(C), period(D).
+occur(A, B, C, D) :- disclosed(A), paulson(B), acquired(C), stake(D).
+occur(A, B, C, D) :- disclosed(A), paulson(B), acquired(C), prices(D).
+occur(A, B, C, D) :- disclosed(A), paulson(B), gives(C), stake(D).
+occur(A, B, C, D) :- disclosed(A), paulson(B), gives(C), interest(D).
+occur(A, B, C, D) :- disclosed(A), paulson(B), gives(C), paulson(D).
+occur(A, B, C, D) :- purchased(A), position(B), acquired(C), stake(D).
+occur(A, B, C, D) :- purchased(A), position(B), acquired(C), prices(D).
+occur(A, B, C, D) :- purchased(A), position(B), gives(C), stake(D).
+occur(A, B, C, D) :- purchased(A), position(B), gives(C), interest(D).
+occur(A, B, C, D) :- purchased(A), position(B), gives(C), paulson(D).
+occur(A, B, C, D) :- purchased(A), period(B), acquired(C), stake(D).
+occur(A, B, C, D) :- purchased(A), period(B), acquired(C), prices(D).
+occur(A, B, C, D) :- purchased(A), period(B), gives(C), stake(D).
+occur(A, B, C, D) :- purchased(A), period(B), gives(C), interest(D).
+occur(A, B, C, D) :- purchased(A), period(B), gives(C), paulson(D).
+occur(A, B, C, D) :- acquired(A), shares(B), citing(C), position(D).
+occur(A, B, C, D) :- acquired(A), shares(B), cited(C), management(D).
+occur(A, B, C, D) :- acquired(A), shares(B), citing(C), plans(D).
+occur(A, B, C, D) :- acquired(A), shares(B), citing(C), proposals(D).
+occur(A, B, C, D) :- acquired(A), shares(B), cited(C), position(D).
+occur(A, B, C, D) :- acquired(A), shares(B), cited(C), sunrun(D).
+occur(A, B, C, D) :- acquired(A), prices(B), citing(C), position(D).
+occur(A, B, C, D) :- acquired(A), prices(B), cited(C), management(D).
+occur(A, B, C, D) :- acquired(A), prices(B), citing(C), plans(D).
+occur(A, B, C, D) :- acquired(A), prices(B), citing(C), proposals(D).
+occur(A, B, C, D) :- acquired(A), prices(B), cited(C), position(D).
+occur(A, B, C, D) :- acquired(A), prices(B), cited(C), sunrun(D).
+occur(A, B, C, D) :- includes(A), stake(B), citing(C), position(D).
+occur(A, B, C, D) :- includes(A), stake(B), cited(C), management(D).
+occur(A, B, C, D) :- includes(A), stake(B), citing(C), plans(D).
+occur(A, B, C, D) :- includes(A), stake(B), citing(C), proposals(D).
+occur(A, B, C, D) :- includes(A), stake(B), cited(C), position(D).
+occur(A, B, C, D) :- includes(A), stake(B), cited(C), sunrun(D).
+occur(A, B, C, D) :- includes(A), shares(B), citing(C), position(D).
+occur(A, B, C, D) :- includes(A), shares(B), cited(C), management(D).
+occur(A, B, C, D) :- includes(A), shares(B), citing(C), plans(D).
+occur(A, B, C, D) :- includes(A), shares(B), citing(C), proposals(D).
+occur(A, B, C, D) :- includes(A), shares(B), cited(C), position(D).
+occur(A, B, C, D) :- includes(A), shares(B), cited(C), sunrun(D).
+occur(A, B, C, D) :- disclosed(A), capital(B), owns(C), armistice(D).
+occur(A, B, C, D) :- disclosed(A), stake(B), owns(C), armistice(D).
+occur(A, B, C, D) :- sold(A), partners(B), lowering(C), interest(D).
+occur(A, B, C, D) :- sold(A), partners(B), lowering(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), lowering(C), interest(D).
+occur(A, B, C, D) :- sold(A), shares(B), lowering(C), shares(D).
+occur(A, B, C, D) :- sold(A), range(B), lowering(C), interest(D).
+occur(A, B, C, D) :- sold(A), range(B), lowering(C), shares(D).
+occur(A, B, C, D) :- made(A), company(B), filed(C), jana(D).
+occur(A, B, C, D) :- made(A), company(B), sold(C), jana(D).
+occur(A, B, C, D) :- made(A), company(B), sold(C), position(D).
+occur(A, B, C, D) :- made(A), company(B), sold(C), return(D).
+occur(A, B, C, D) :- made(A), changes(B), filed(C), jana(D).
+occur(A, B, C, D) :- made(A), changes(B), sold(C), jana(D).
+occur(A, B, C, D) :- made(A), changes(B), sold(C), position(D).
+occur(A, B, C, D) :- made(A), changes(B), sold(C), return(D).
+occur(A, B, C, D) :- requested(A), changes(B), filed(C), jana(D).
+occur(A, B, C, D) :- requested(A), changes(B), sold(C), jana(D).
+occur(A, B, C, D) :- requested(A), changes(B), sold(C), position(D).
+occur(A, B, C, D) :- requested(A), changes(B), sold(C), return(D).
+occur(A, B, C, D) :- announced(A), plc(B), given(C), stockholders(D).
+occur(A, B, C, D) :- announced(A), plc(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), stockholders(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), reports(B), given(C), stockholders(D).
+occur(A, B, C, D) :- announced(A), reports(B), given(C), dividend(D).
+occur(A, B, C, D) :- excluding(A), pension(B), attributed(C), income(D).
+occur(A, B, C, D) :- excluding(A), pension(B), decreasing(C), income(D).
+occur(A, B, C, D) :- excluding(A), pension(B), decreasing(C), expenses(D).
+occur(A, B, C, D) :- excluding(A), pension(B), deducting(C), expenses(D).
+occur(A, B, C, D) :- excluding(A), pension(B), deducting(C), income(D).
+occur(A, B, C, D) :- excluding(A), pension(B), has(C), wife(D).
+occur(A, B, C, D) :- excluding(A), pension(B), has(C), shortfall(D).
+occur(A, B, C, D) :- excluding(A), pension(B), reported(C), expenses(D).
+occur(A, B, C, D) :- placed(A), judgment(B), attributed(C), income(D).
+occur(A, B, C, D) :- placed(A), judgment(B), decreasing(C), income(D).
+occur(A, B, C, D) :- placed(A), judgment(B), decreasing(C), expenses(D).
+occur(A, B, C, D) :- placed(A), judgment(B), deducting(C), expenses(D).
+occur(A, B, C, D) :- placed(A), judgment(B), deducting(C), income(D).
+occur(A, B, C, D) :- placed(A), judgment(B), has(C), wife(D).
+occur(A, B, C, D) :- placed(A), judgment(B), has(C), shortfall(D).
+occur(A, B, C, D) :- placed(A), judgment(B), reported(C), expenses(D).
+occur(A, B, C, D) :- placed(A), husband(B), attributed(C), income(D).
+occur(A, B, C, D) :- placed(A), husband(B), decreasing(C), income(D).
+occur(A, B, C, D) :- placed(A), husband(B), decreasing(C), expenses(D).
+occur(A, B, C, D) :- placed(A), husband(B), deducting(C), expenses(D).
+occur(A, B, C, D) :- placed(A), husband(B), deducting(C), income(D).
+occur(A, B, C, D) :- placed(A), husband(B), has(C), wife(D).
+occur(A, B, C, D) :- placed(A), husband(B), has(C), shortfall(D).
+occur(A, B, C, D) :- placed(A), husband(B), reported(C), expenses(D).
+occur(A, B, C, D) :- placed(A), position(B), attributed(C), income(D).
+occur(A, B, C, D) :- placed(A), position(B), decreasing(C), income(D).
+occur(A, B, C, D) :- placed(A), position(B), decreasing(C), expenses(D).
+occur(A, B, C, D) :- placed(A), position(B), deducting(C), expenses(D).
+occur(A, B, C, D) :- placed(A), position(B), deducting(C), income(D).
+occur(A, B, C, D) :- placed(A), position(B), has(C), wife(D).
+occur(A, B, C, D) :- placed(A), position(B), has(C), shortfall(D).
+occur(A, B, C, D) :- placed(A), position(B), reported(C), expenses(D).
+occur(A, B, C, D) :- lost(A), production(B), falling(C), prices(D).
+occur(A, B, C, D) :- reported(A), reuters(B), falling(C), prices(D).
+occur(A, B, C, D) :- restored(A), production(B), falling(C), prices(D).
+occur(A, B, C, D) :- listed(A), limit(B), excluded(C), transactions(D).
+occur(A, B, C, D) :- listed(A), limit(B), following(C), requirements(D).
+occur(A, B, C, D) :- listed(A), limit(B), make(C), purchases(D).
+occur(A, B, C, D) :- required(A), requirements(B), excluded(C), transactions(D).
+occur(A, B, C, D) :- required(A), requirements(B), following(C), requirements(D).
+occur(A, B, C, D) :- required(A), requirements(B), make(C), purchases(D).
+occur(A, B, C, D) :- gets(A), hit(B), said(C), friend(D).
+occur(A, B, C, D) :- was(A), reason(B), declined(C), gmv(D).
+occur(A, B, C, D) :- was(A), reason(B), declined(C), mind(D).
+occur(A, B, C, D) :- had(A), continue(B), declined(C), gmv(D).
+occur(A, B, C, D) :- had(A), continue(B), declined(C), mind(D).
+occur(A, B, C, D) :- resulted(A), marketing(B), declined(C), gmv(D).
+occur(A, B, C, D) :- resulted(A), marketing(B), declined(C), mind(D).
+occur(A, B, C, D) :- resulted(A), decline(B), declined(C), gmv(D).
+occur(A, B, C, D) :- resulted(A), decline(B), declined(C), mind(D).
+occur(A, B, C, D) :- was(A), cut(B), decreased(C), revenue(D).
+occur(A, B, C, D) :- was(A), cut(B), decreased(C), decrease(D).
+occur(A, B, C, D) :- was(A), cut(B), includes(C), buyers(D).
+occur(A, B, C, D) :- was(A), orders(B), decreased(C), revenue(D).
+occur(A, B, C, D) :- was(A), orders(B), decreased(C), decrease(D).
+occur(A, B, C, D) :- was(A), orders(B), includes(C), buyers(D).
+occur(A, B, C, D) :- was(A), revenues(B), decreased(C), revenue(D).
+occur(A, B, C, D) :- was(A), revenues(B), decreased(C), decrease(D).
+occur(A, B, C, D) :- was(A), revenues(B), includes(C), buyers(D).
+occur(A, B, C, D) :- worked(A), clearing(B), adding(C), increase(D).
+occur(A, B, C, D) :- worked(A), clearing(B), adding(C), merchants(D).
+occur(A, B, C, D) :- worked(A), clearing(B), adding(C), marketplace(D).
+occur(A, B, C, D) :- worked(A), clearing(B), declining(C), volume(D).
+occur(A, B, C, D) :- worked(A), clearing(B), decreased(C), cost(D).
+occur(A, B, C, D) :- worked(A), clearing(B), decreased(C), volume(D).
+occur(A, B, C, D) :- worked(A), decline(B), adding(C), increase(D).
+occur(A, B, C, D) :- worked(A), decline(B), adding(C), merchants(D).
+occur(A, B, C, D) :- worked(A), decline(B), adding(C), marketplace(D).
+occur(A, B, C, D) :- worked(A), decline(B), declining(C), volume(D).
+occur(A, B, C, D) :- worked(A), decline(B), decreased(C), cost(D).
+occur(A, B, C, D) :- worked(A), decline(B), decreased(C), volume(D).
+occur(A, B, C, D) :- reduce(A), headcount(B), fell(C), expenses(D).
+occur(A, B, C, D) :- lowered(A), headcount(B), decreased(C), expenses(D).
+occur(A, B, C, D) :- reduce(A), re(B), decreased(C), expenses(D).
+occur(A, B, C, D) :- had(A), depreciation(B), decreased(C), technology(D).
+occur(A, B, C, D) :- had(A), depreciation(B), decreased(C), expenses(D).
+occur(A, B, C, D) :- had(A), expenses(B), decreased(C), technology(D).
+occur(A, B, C, D) :- had(A), expenses(B), decreased(C), expenses(D).
+occur(A, B, C, D) :- had(A), licensing(B), decreased(C), technology(D).
+occur(A, B, C, D) :- had(A), licensing(B), decreased(C), expenses(D).
+occur(A, B, C, D) :- had(A), decline(B), decreased(C), technology(D).
+occur(A, B, C, D) :- had(A), decline(B), decreased(C), expenses(D).
+occur(A, B, C, D) :- hosting(A), fees(B), decreased(C), technology(D).
+occur(A, B, C, D) :- hosting(A), fees(B), decreased(C), expenses(D).
+occur(A, B, C, D) :- do(A), year(B), increased(C), expenses(D).
+occur(A, B, C, D) :- had(A), rise(B), increased(C), expenses(D).
+occur(A, B, C, D) :- incurred(A), combination(B), increased(C), expenses(D).
+occur(A, B, C, D) :- incurred(A), deals(B), increased(C), expenses(D).
+occur(A, B, C, D) :- have(A), driver(B), organized(C), b(D).
+occur(A, B, C, D) :- have(A), history(B), organized(C), b(D).
+occur(A, B, C, D) :- have(A), requirements(B), organized(C), b(D).
+occur(A, B, C, D) :- have(A), experience(B), organized(C), b(D).
+occur(A, B, C, D) :- buy(A), i(B), discounted(C), valuation(D).
+occur(A, B, C, D) :- buy(A), i(B), pushed(C), valuation(D).
+occur(A, B, C, D) :- buy(A), i(B), pushed(C), yield(D).
+occur(A, B, C, D) :- buy(A), today(B), discounted(C), valuation(D).
+occur(A, B, C, D) :- buy(A), today(B), pushed(C), valuation(D).
+occur(A, B, C, D) :- buy(A), today(B), pushed(C), yield(D).
+occur(A, B, C, D) :- buy(A), trading(B), discounted(C), valuation(D).
+occur(A, B, C, D) :- buy(A), trading(B), pushed(C), valuation(D).
+occur(A, B, C, D) :- buy(A), trading(B), pushed(C), yield(D).
+occur(A, B, C, D) :- executed(A), company(B), revolving(C), facility(D).
+occur(A, B, C, D) :- executed(A), agreement(B), revolving(C), facility(D).
+occur(A, B, C, D) :- executed(A), conjunction(B), revolving(C), facility(D).
+occur(A, B, C, D) :- revolving(A), facility(B), revolving(C), facility(D).
+occur(A, B, C, D) :- said(A), commerce(B), plunging(C), downtrend(D).
+occur(A, B, C, D) :- develop(A), technology(B), invested(C), kbank(D).
+occur(A, B, C, D) :- develop(A), technology(B), invested(C), baht(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- done(A), years(B), rose(C), result(D).
+occur(A, B, C, D) :- seeing(A), changes(B), rose(C), result(D).
+occur(A, B, C, D) :- seeing(A), years(B), rose(C), result(D).
+occur(A, B, C, D) :- listed(A), date(B), comes(C), whichever(D).
+occur(A, B, C, D) :- listed(A), date(B), following(C), requirements(D).
+occur(A, B, C, D) :- listed(A), date(B), make(C), account(D).
+occur(A, B, C, D) :- listed(A), date(B), make(C), opening(D).
+occur(A, B, C, D) :- listed(A), date(B), make(C), transactions(D).
+occur(A, B, C, D) :- listed(A), date(B), make(C), minimum(D).
+occur(A, B, C, D) :- listed(A), date(B), make(C), three_months(D).
+occur(A, B, C, D) :- listed(A), link(B), comes(C), whichever(D).
+occur(A, B, C, D) :- listed(A), link(B), following(C), requirements(D).
+occur(A, B, C, D) :- listed(A), link(B), make(C), account(D).
+occur(A, B, C, D) :- listed(A), link(B), make(C), opening(D).
+occur(A, B, C, D) :- listed(A), link(B), make(C), transactions(D).
+occur(A, B, C, D) :- listed(A), link(B), make(C), minimum(D).
+occur(A, B, C, D) :- listed(A), link(B), make(C), three_months(D).
+occur(A, B, C, D) :- required(A), deposit(B), comes(C), whichever(D).
+occur(A, B, C, D) :- required(A), deposit(B), following(C), requirements(D).
+occur(A, B, C, D) :- required(A), deposit(B), make(C), account(D).
+occur(A, B, C, D) :- required(A), deposit(B), make(C), opening(D).
+occur(A, B, C, D) :- required(A), deposit(B), make(C), transactions(D).
+occur(A, B, C, D) :- required(A), deposit(B), make(C), minimum(D).
+occur(A, B, C, D) :- required(A), deposit(B), make(C), three_months(D).
+occur(A, B, C, D) :- see(A), chexsystems(B), comes(C), whichever(D).
+occur(A, B, C, D) :- see(A), chexsystems(B), following(C), requirements(D).
+occur(A, B, C, D) :- see(A), chexsystems(B), make(C), account(D).
+occur(A, B, C, D) :- see(A), chexsystems(B), make(C), opening(D).
+occur(A, B, C, D) :- see(A), chexsystems(B), make(C), transactions(D).
+occur(A, B, C, D) :- see(A), chexsystems(B), make(C), minimum(D).
+occur(A, B, C, D) :- see(A), chexsystems(B), make(C), three_months(D).
+occur(A, B, C, D) :- see(A), pull(B), comes(C), whichever(D).
+occur(A, B, C, D) :- see(A), pull(B), following(C), requirements(D).
+occur(A, B, C, D) :- see(A), pull(B), make(C), account(D).
+occur(A, B, C, D) :- see(A), pull(B), make(C), opening(D).
+occur(A, B, C, D) :- see(A), pull(B), make(C), transactions(D).
+occur(A, B, C, D) :- see(A), pull(B), make(C), minimum(D).
+occur(A, B, C, D) :- see(A), pull(B), make(C), three_months(D).
+occur(A, B, C, D) :- acquired(A), land(B), earned(C), amount(D).
+occur(A, B, C, D) :- acquired(A), land(B), earned(C), period(D).
+occur(A, B, C, D) :- invested(A), project(B), earned(C), amount(D).
+occur(A, B, C, D) :- invested(A), project(B), earned(C), period(D).
+occur(A, B, C, D) :- made(A), court(B), enforcing(C), award(D).
+occur(A, B, C, D) :- made(A), order(B), enforcing(C), award(D).
+occur(A, B, C, D) :- made(A), delays(B), enforcing(C), award(D).
+occur(A, B, C, D) :- rocked(A), company(B), plunged(C), shares(D).
+occur(A, B, C, D) :- rocked(A), company(B), plunged(C), cent(D).
+occur(A, B, C, D) :- rocked(A), company(B), plunged(C), august_2017(D).
+occur(A, B, C, D) :- rocked(A), crisis(B), plunged(C), shares(D).
+occur(A, B, C, D) :- rocked(A), crisis(B), plunged(C), cent(D).
+occur(A, B, C, D) :- rocked(A), crisis(B), plunged(C), august_2017(D).
+occur(A, B, C, D) :- starting(A), efforts(B), edged(C), shares(D).
+occur(A, B, C, D) :- starting(A), efforts(B), edged(C), yesterday(D).
+occur(A, B, C, D) :- starting(A), bear(B), edged(C), shares(D).
+occur(A, B, C, D) :- starting(A), bear(B), edged(C), yesterday(D).
+occur(A, B, C, D) :- stripping(A), scheme(B), fined(C), million_danish_crowns(D).
+occur(A, B, C, D) :- stripping(A), scheme(B), fined(C), north_channel_bank(D).
+occur(A, B, C, D) :- stripping(A), scheme(B), fined(C), court(D).
+occur(A, B, C, D) :- stripping(A), scandal(B), said(C), authority(D).
+occur(A, B, C, D) :- announced(A), victoria(B), develop(C), economy(D).
+occur(A, B, C, D) :- announced(A), doug_donaldson(B), develop(C), economy(D).
+occur(A, B, C, D) :- displaced(A), workers(B), develop(C), economy(D).
+occur(A, B, C, D) :- develop(A), plans(B), provided(C), program(D).
+occur(A, B, C, D) :- develop(A), plans(B), provided(C), community(D).
+occur(A, B, C, D) :- develop(A), plans(B), provided(C), organizations(D).
+occur(A, B, C, D) :- develop(A), plans(B), provided(C), nations(D).
+occur(A, B, C, D) :- develop(A), plans(B), provided(C), applicants(D).
+occur(A, B, C, D) :- develop(A), attractions(B), provided(C), program(D).
+occur(A, B, C, D) :- develop(A), attractions(B), provided(C), community(D).
+occur(A, B, C, D) :- develop(A), attractions(B), provided(C), organizations(D).
+occur(A, B, C, D) :- develop(A), attractions(B), provided(C), nations(D).
+occur(A, B, C, D) :- develop(A), attractions(B), provided(C), applicants(D).
+occur(A, B, C, D) :- got(A), donaldson(B), aforementioned(C), grants(D).
+occur(A, B, C, D) :- got(A), donaldson(B), diverted(C), grants(D).
+occur(A, B, C, D) :- got(A), paragraph(B), aforementioned(C), grants(D).
+occur(A, B, C, D) :- got(A), paragraph(B), diverted(C), grants(D).
+occur(A, B, C, D) :- impacted(A), workers(B), aforementioned(C), grants(D).
+occur(A, B, C, D) :- impacted(A), workers(B), diverted(C), grants(D).
+occur(A, B, C, D) :- programming(A), workers(B), aforementioned(C), grants(D).
+occur(A, B, C, D) :- programming(A), workers(B), diverted(C), grants(D).
+occur(A, B, C, D) :- required(A), reallocate(B), aforementioned(C), grants(D).
+occur(A, B, C, D) :- required(A), reallocate(B), diverted(C), grants(D).
+occur(A, B, C, D) :- got(A), donaldson(B), displaced(C), workers(D).
+occur(A, B, C, D) :- got(A), paragraph(B), displaced(C), workers(D).
+occur(A, B, C, D) :- impacted(A), workers(B), displaced(C), workers(D).
+occur(A, B, C, D) :- programming(A), workers(B), displaced(C), workers(D).
+occur(A, B, C, D) :- required(A), reallocate(B), displaced(C), workers(D).
+occur(A, B, C, D) :- declined(A), stock(B), reported(C), quarter(D).
+occur(A, B, C, D) :- declined(A), stock(B), valued(C), shares(D).
+occur(A, B, C, D) :- based(A), filing(B), reported(C), quarter(D).
+occur(A, B, C, D) :- based(A), filing(B), valued(C), shares(D).
+occur(A, B, C, D) :- based(A), filing(B), valued(C), m(D).
+occur(A, B, C, D) :- was(A), hunter_harrison(B), reported(C), quarter(D).
+occur(A, B, C, D) :- was(A), hunter_harrison(B), valued(C), shares(D).
+occur(A, B, C, D) :- was(A), hunter_harrison(B), valued(C), m(D).
+occur(A, B, C, D) :- was(A), estimates(B), reported(C), quarter(D).
+occur(A, B, C, D) :- was(A), estimates(B), valued(C), shares(D).
+occur(A, B, C, D) :- was(A), estimates(B), valued(C), m(D).
+occur(A, B, C, D) :- deceased(A), hunter_harrison(B), reported(C), quarter(D).
+occur(A, B, C, D) :- deceased(A), hunter_harrison(B), valued(C), shares(D).
+occur(A, B, C, D) :- deceased(A), hunter_harrison(B), valued(C), m(D).
+occur(A, B, C, D) :- holding(A), autozone_inc(B), leaving(C), shares(D).
+occur(A, B, C, D) :- reduced(A), shares(B), leaving(C), shares(D).
+occur(A, B, C, D) :- led(A), year(B), raked(C), cheats(D).
+occur(A, B, C, D) :- led(A), year(B), says(C), robert(D).
+occur(A, B, C, D) :- led(A), investigations(B), raked(C), cheats(D).
+occur(A, B, C, D) :- led(A), investigations(B), says(C), robert(D).
+occur(A, B, C, D) :- received(A), department_of_human_services(B), raked(C), cheats(D).
+occur(A, B, C, D) :- received(A), department_of_human_services(B), says(C), robert(D).
+occur(A, B, C, D) :- received(A), tip(B), raked(C), cheats(D).
+occur(A, B, C, D) :- received(A), tip(B), says(C), robert(D).
+occur(A, B, C, D) :- received(A), medicare(B), raked(C), cheats(D).
+occur(A, B, C, D) :- received(A), medicare(B), says(C), robert(D).
+occur(A, B, C, D) :- received(A), fraud(B), raked(C), cheats(D).
+occur(A, B, C, D) :- received(A), fraud(B), says(C), robert(D).
+occur(A, B, C, D) :- traded(A), bonds(B), reaching(C), yields(D).
+occur(A, B, C, D) :- traded(A), bonds(B), reaching(C), occasions(D).
+occur(A, B, C, D) :- traded(A), discount(B), reaching(C), yields(D).
+occur(A, B, C, D) :- traded(A), discount(B), reaching(C), occasions(D).
+occur(A, B, C, D) :- traded(A), lebanon(B), reaching(C), yields(D).
+occur(A, B, C, D) :- traded(A), lebanon(B), reaching(C), occasions(D).
+occur(A, B, C, D) :- benefited(A), banks(B), came(C), banks(D).
+occur(A, B, C, D) :- benefited(A), banks(B), came(C), hold(D).
+occur(A, B, C, D) :- buy(A), instruments(B), came(C), banks(D).
+occur(A, B, C, D) :- buy(A), instruments(B), came(C), hold(D).
+occur(A, B, C, D) :- consolidating(A), funds(B), came(C), banks(D).
+occur(A, B, C, D) :- consolidating(A), funds(B), came(C), hold(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- branded(A), rejection(B), add(C), pin(D).
+occur(A, B, C, D) :- branded(A), rejection(B), add(C), news(D).
+occur(A, B, C, D) :- branded(A), rejection(B), add(C), tap(D).
+occur(A, B, C, D) :- branded(A), approach(B), add(C), pin(D).
+occur(A, B, C, D) :- branded(A), approach(B), add(C), news(D).
+occur(A, B, C, D) :- branded(A), approach(B), add(C), tap(D).
+occur(A, B, C, D) :- imposing(A), tariff(B), increasing(C), tariffs(D).
+occur(A, B, C, D) :- imposing(A), tariff(B), resulting(C), headline(D).
+occur(A, B, C, D) :- earning(A), individuals(B), gets(C), beneficiary(D).
+occur(A, B, C, D) :- earning(A), individuals(B), gets(C), program(D).
+occur(A, B, C, D) :- paying(A), percent(B), gets(C), beneficiary(D).
+occur(A, B, C, D) :- paying(A), percent(B), gets(C), program(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), stockholders(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), apparel(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), retailer(D).
+occur(A, B, C, D) :- expect(A), analysts(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), tjx_companies(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), earn(B), expected(C), ratio(D).
+occur(A, B, C, D) :- reported(A), apparel(B), hitting(C), estimate(D).
+occur(A, B, C, D) :- reported(A), retailer(B), hitting(C), estimate(D).
+occur(A, B, C, D) :- alleged(A), scheme(B), lost(C), taxes(D).
+occur(A, B, C, D) :- estimated(A), brorhilker(B), lost(C), taxes(D).
+occur(A, B, C, D) :- prosecuting(A), scheme(B), lost(C), taxes(D).
+occur(A, B, C, D) :- assume(A), efforts(B), asking(C), county(D).
+occur(A, B, C, D) :- assume(A), efforts(B), asking(C), tax(D).
+occur(A, B, C, D) :- assume(A), efforts(B), asking(C), percent(D).
+occur(A, B, C, D) :- initiated(A), parents(B), asking(C), county(D).
+occur(A, B, C, D) :- initiated(A), parents(B), asking(C), tax(D).
+occur(A, B, C, D) :- initiated(A), parents(B), asking(C), percent(D).
+occur(A, B, C, D) :- caused(A), losses(B), giving(C), break(D).
+occur(A, B, C, D) :- caused(A), losses(B), giving(C), surprise(D).
+occur(A, B, C, D) :- caused(A), losses(B), slashed(C), government(D).
+occur(A, B, C, D) :- caused(A), losses(B), slashed(C), taxes(D).
+occur(A, B, C, D) :- caused(A), losses(B), slashed(C), break(D).
+occur(A, B, C, D) :- caused(A), losses(B), slashed(C), india(D).
+occur(A, B, C, D) :- caused(A), losses(B), slashed(C), panaji(D).
+occur(A, B, C, D) :- caused(A), losses(B), slashed(C), friday(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), giving(C), break(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), giving(C), surprise(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), slashed(C), government(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), slashed(C), taxes(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), slashed(C), break(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), slashed(C), india(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), slashed(C), panaji(D).
+occur(A, B, C, D) :- fueled(A), discontent(B), slashed(C), friday(D).
+occur(A, B, C, D) :- lifting(A), growth(B), giving(C), break(D).
+occur(A, B, C, D) :- lifting(A), growth(B), giving(C), surprise(D).
+occur(A, B, C, D) :- lifting(A), growth(B), slashed(C), government(D).
+occur(A, B, C, D) :- lifting(A), growth(B), slashed(C), taxes(D).
+occur(A, B, C, D) :- lifting(A), growth(B), slashed(C), break(D).
+occur(A, B, C, D) :- lifting(A), growth(B), slashed(C), india(D).
+occur(A, B, C, D) :- lifting(A), growth(B), slashed(C), panaji(D).
+occur(A, B, C, D) :- lifting(A), growth(B), slashed(C), friday(D).
+occur(A, B, C, D) :- reviving(A), investment(B), giving(C), break(D).
+occur(A, B, C, D) :- reviving(A), investment(B), giving(C), surprise(D).
+occur(A, B, C, D) :- reviving(A), investment(B), slashed(C), government(D).
+occur(A, B, C, D) :- reviving(A), investment(B), slashed(C), taxes(D).
+occur(A, B, C, D) :- reviving(A), investment(B), slashed(C), break(D).
+occur(A, B, C, D) :- reviving(A), investment(B), slashed(C), india(D).
+occur(A, B, C, D) :- reviving(A), investment(B), slashed(C), panaji(D).
+occur(A, B, C, D) :- reviving(A), investment(B), slashed(C), friday(D).
+occur(A, B, C, D) :- reviving(A), growth(B), giving(C), break(D).
+occur(A, B, C, D) :- reviving(A), growth(B), giving(C), surprise(D).
+occur(A, B, C, D) :- reviving(A), growth(B), slashed(C), government(D).
+occur(A, B, C, D) :- reviving(A), growth(B), slashed(C), taxes(D).
+occur(A, B, C, D) :- reviving(A), growth(B), slashed(C), break(D).
+occur(A, B, C, D) :- reviving(A), growth(B), slashed(C), india(D).
+occur(A, B, C, D) :- reviving(A), growth(B), slashed(C), panaji(D).
+occur(A, B, C, D) :- reviving(A), growth(B), slashed(C), friday(D).
+occur(A, B, C, D) :- announced(A), government(B), surged(C), shares(D).
+occur(A, B, C, D) :- announced(A), cuts(B), surged(C), shares(D).
+occur(A, B, C, D) :- flagging(A), growth(B), surged(C), shares(D).
+occur(A, B, C, D) :- buy(A), shareholders(B), valuing(C), company(D).
+occur(A, B, C, D) :- buy(A), holdings_ltd(B), valuing(C), company(D).
+occur(A, B, C, D) :- offered(A), bids(B), valuing(C), company(D).
+occur(A, B, C, D) :- citing(A), ft(B), locked(C), company(D).
+occur(A, B, C, D) :- citing(A), ft(B), locked(C), talks(D).
+occur(A, B, C, D) :- citing(A), ft(B), locked(C), government(D).
+occur(A, B, C, D) :- citing(A), people(B), locked(C), company(D).
+occur(A, B, C, D) :- citing(A), people(B), locked(C), talks(D).
+occur(A, B, C, D) :- citing(A), people(B), locked(C), government(D).
+occur(A, B, C, D) :- reported(A), provide(B), locked(C), company(D).
+occur(A, B, C, D) :- reported(A), provide(B), locked(C), talks(D).
+occur(A, B, C, D) :- reported(A), provide(B), locked(C), government(D).
+occur(A, B, C, D) :- reported(A), ft(B), locked(C), company(D).
+occur(A, B, C, D) :- reported(A), ft(B), locked(C), talks(D).
+occur(A, B, C, D) :- reported(A), ft(B), locked(C), government(D).
+occur(A, B, C, D) :- disclosed(A), company(B), reiterated(C), marvin_fong(D).
+occur(A, B, C, D) :- disclosed(A), information(B), reiterated(C), marvin_fong(D).
+occur(A, B, C, D) :- disclosed(A), filing(B), reiterated(C), marvin_fong(D).
+occur(A, B, C, D) :- enhanced(A), shares(B), owned(C), firm(D).
+occur(A, B, C, D) :- enhanced(A), shares(B), owned(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), shares(B), selling(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), shares(B), selling(C), quarter(D).
+occur(A, B, C, D) :- lowered(A), holdings(B), owned(C), firm(D).
+occur(A, B, C, D) :- lowered(A), holdings(B), owned(C), shares(D).
+occur(A, B, C, D) :- lowered(A), holdings(B), selling(C), shares(D).
+occur(A, B, C, D) :- lowered(A), holdings(B), selling(C), quarter(D).
+occur(A, B, C, D) :- lowered(A), shares(B), owned(C), firm(D).
+occur(A, B, C, D) :- lowered(A), shares(B), owned(C), shares(D).
+occur(A, B, C, D) :- lowered(A), shares(B), selling(C), shares(D).
+occur(A, B, C, D) :- lowered(A), shares(B), selling(C), quarter(D).
+occur(A, B, C, D) :- enhanced(A), shares(B), enhanced(C), holdings(D).
+occur(A, B, C, D) :- enhanced(A), shares(B), enhanced(C), trust(D).
+occur(A, B, C, D) :- lowered(A), holdings(B), enhanced(C), holdings(D).
+occur(A, B, C, D) :- lowered(A), holdings(B), enhanced(C), trust(D).
+occur(A, B, C, D) :- lowered(A), shares(B), enhanced(C), holdings(D).
+occur(A, B, C, D) :- lowered(A), shares(B), enhanced(C), trust(D).
+occur(A, B, C, D) :- enhanced(A), position(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), position(B), valued(C), buying(D).
+occur(A, B, C, D) :- enhanced(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), valued(C), buying(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), llc(B), valued(C), buying(D).
+occur(A, B, C, D) :- raised(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), position(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), position(B), valued(C), buying(D).
+occur(A, B, C, D) :- enhanced(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), valued(C), buying(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), llc(B), valued(C), buying(D).
+occur(A, B, C, D) :- raised(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), position(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), position(B), valued(C), buying(D).
+occur(A, B, C, D) :- enhanced(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), valued(C), buying(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), llc(B), valued(C), buying(D).
+occur(A, B, C, D) :- raised(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), position(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), position(B), valued(C), buying(D).
+occur(A, B, C, D) :- enhanced(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), valued(C), buying(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), llc(B), valued(C), buying(D).
+occur(A, B, C, D) :- raised(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- declared(A), business(B), annualized(C), basis(D).
+occur(A, B, C, D) :- declared(A), business(B), represents(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), annualized(C), basis(D).
+occur(A, B, C, D) :- declared(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- declared(A), iq(B), given(C), investors(D).
+occur(A, B, C, D) :- declared(A), iq(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), etf(B), given(C), investors(D).
+occur(A, B, C, D) :- declared(A), etf(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), investors(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), percent(B), given(C), investors(D).
+occur(A, B, C, D) :- declared(A), percent(B), given(C), dividend(D).
+occur(A, B, C, D) :- handed(A), government(B), delivered(C), budget(D).
+occur(A, B, C, D) :- handed(A), government(B), delivered(C), may_2018(D).
+occur(A, B, C, D) :- handed(A), government(B), predicted(C), improvement(D).
+occur(A, B, C, D) :- handed(A), government(B), revealed(C), result(D).
+occur(A, B, C, D) :- pulled(A), government(B), delivered(C), budget(D).
+occur(A, B, C, D) :- pulled(A), government(B), delivered(C), may_2018(D).
+occur(A, B, C, D) :- pulled(A), government(B), predicted(C), improvement(D).
+occur(A, B, C, D) :- pulled(A), government(B), revealed(C), result(D).
+occur(A, B, C, D) :- said(A), josh_frydenberg(B), delivered(C), budget(D).
+occur(A, B, C, D) :- said(A), josh_frydenberg(B), delivered(C), may_2018(D).
+occur(A, B, C, D) :- said(A), josh_frydenberg(B), predicted(C), improvement(D).
+occur(A, B, C, D) :- said(A), josh_frydenberg(B), revealed(C), result(D).
+occur(A, B, C, D) :- doubled(A), coalition(B), said(C), cormann(D).
+occur(A, B, C, D) :- doubled(A), coalition(B), said(C), payments(D).
+occur(A, B, C, D) :- doubled(A), coalition(B), said(C), result(D).
+occur(A, B, C, D) :- doubled(A), spending(B), said(C), cormann(D).
+occur(A, B, C, D) :- doubled(A), spending(B), said(C), payments(D).
+occur(A, B, C, D) :- doubled(A), spending(B), said(C), result(D).
+occur(A, B, C, D) :- revealed(A), mathias_cormann(B), said(C), cormann(D).
+occur(A, B, C, D) :- revealed(A), mathias_cormann(B), said(C), payments(D).
+occur(A, B, C, D) :- revealed(A), mathias_cormann(B), said(C), result(D).
+occur(A, B, C, D) :- tripled(A), forecast(B), said(C), cormann(D).
+occur(A, B, C, D) :- tripled(A), forecast(B), said(C), payments(D).
+occur(A, B, C, D) :- tripled(A), forecast(B), said(C), result(D).
+occur(A, B, C, D) :- donating(A), art(B), adjusted(C), income(D).
+occur(A, B, C, D) :- surrounding(A), rules(B), adjusted(C), income(D).
+occur(A, B, C, D) :- surrounding(A), deduction(B), adjusted(C), income(D).
+occur(A, B, C, D) :- refinanced(A), i(B), took(C), home(D).
+occur(A, B, C, D) :- refinanced(A), apartment(B), took(C), home(D).
+occur(A, B, C, D) :- is(A), annuity(B), paying(C), i(D).
+occur(A, B, C, D) :- is(A), annuity(B), paying(C), euros(D).
+occur(A, B, C, D) :- is(A), annuity(B), paying(C), month(D).
+occur(A, B, C, D) :- is(A), annuity(B), paying(C), mortgage(D).
+occur(A, B, C, D) :- paying(A), i(B), paying(C), i(D).
+occur(A, B, C, D) :- paying(A), i(B), paying(C), euros(D).
+occur(A, B, C, D) :- paying(A), i(B), paying(C), month(D).
+occur(A, B, C, D) :- paying(A), i(B), paying(C), mortgage(D).
+occur(A, B, C, D) :- paying(A), balance(B), paying(C), i(D).
+occur(A, B, C, D) :- paying(A), balance(B), paying(C), euros(D).
+occur(A, B, C, D) :- paying(A), balance(B), paying(C), month(D).
+occur(A, B, C, D) :- paying(A), balance(B), paying(C), mortgage(D).
+occur(A, B, C, D) :- opened(A), nasdaq(B), opened(C), trading(D).
+occur(A, B, C, D) :- opened(A), morning(B), opened(C), trading(D).
+occur(A, B, C, D) :- opened(A), new_york_city(B), opened(C), trading(D).
+occur(A, B, C, D) :- skyrocketed(A), ipo(B), opened(C), trading(D).
+occur(A, B, C, D) :- skyrocketed(A), morning(B), opened(C), trading(D).
+occur(A, B, C, D) :- closed(A), retailer(B), tumbled(C), sales(D).
+occur(A, B, C, D) :- closed(A), retailer(B), tumbled(C), the_first_half_of_the_year(D).
+occur(A, B, C, D) :- closed(A), retailer(B), tumbled(C), cent(D).
+occur(A, B, C, D) :- closed(A), shops(B), tumbled(C), sales(D).
+occur(A, B, C, D) :- closed(A), shops(B), tumbled(C), the_first_half_of_the_year(D).
+occur(A, B, C, D) :- closed(A), shops(B), tumbled(C), cent(D).
+occur(A, B, C, D) :- closed(A), face(B), tumbled(C), sales(D).
+occur(A, B, C, D) :- closed(A), face(B), tumbled(C), the_first_half_of_the_year(D).
+occur(A, B, C, D) :- closed(A), face(B), tumbled(C), cent(D).
+occur(A, B, C, D) :- rising(A), costs(B), tumbled(C), sales(D).
+occur(A, B, C, D) :- rising(A), costs(B), tumbled(C), the_first_half_of_the_year(D).
+occur(A, B, C, D) :- rising(A), costs(B), tumbled(C), cent(D).
+occur(A, B, C, D) :- fell(A), chain(B), wiped(C), stake(D).
+occur(A, B, C, D) :- fell(A), hands(B), wiped(C), stake(D).
+occur(A, B, C, D) :- committed(A), amazon(B), agreed(C), amazon(D).
+occur(A, B, C, D) :- committed(A), amazon(B), agreed(C), part(D).
+occur(A, B, C, D) :- committed(A), amazon(B), agreed(C), purchase(D).
+occur(A, B, C, D) :- committed(A), meet(B), agreed(C), amazon(D).
+occur(A, B, C, D) :- committed(A), meet(B), agreed(C), part(D).
+occur(A, B, C, D) :- committed(A), meet(B), agreed(C), purchase(D).
+occur(A, B, C, D) :- says(A), bezos(B), agreed(C), amazon(D).
+occur(A, B, C, D) :- says(A), bezos(B), agreed(C), part(D).
+occur(A, B, C, D) :- says(A), bezos(B), agreed(C), purchase(D).
+occur(A, B, C, D) :- comes(A), mandate(B), overcharged(C), refunds(D).
+occur(A, B, C, D) :- comes(A), mandate(B), overcharged(C), plans(D).
+occur(A, B, C, D) :- comes(A), mandate(B), purchased(C), plans(D).
+occur(A, B, C, D) :- comes(A), mandate(B), purchased(C), year(D).
+occur(A, B, C, D) :- comes(A), provision(B), overcharged(C), refunds(D).
+occur(A, B, C, D) :- comes(A), provision(B), overcharged(C), plans(D).
+occur(A, B, C, D) :- comes(A), provision(B), purchased(C), plans(D).
+occur(A, B, C, D) :- comes(A), provision(B), purchased(C), year(D).
+occur(A, B, C, D) :- keep(A), company(B), overcharged(C), refunds(D).
+occur(A, B, C, D) :- keep(A), company(B), overcharged(C), plans(D).
+occur(A, B, C, D) :- keep(A), company(B), purchased(C), plans(D).
+occur(A, B, C, D) :- keep(A), company(B), purchased(C), year(D).
+occur(A, B, C, D) :- keep(A), overhead(B), overcharged(C), refunds(D).
+occur(A, B, C, D) :- keep(A), overhead(B), overcharged(C), plans(D).
+occur(A, B, C, D) :- keep(A), overhead(B), purchased(C), plans(D).
+occur(A, B, C, D) :- keep(A), overhead(B), purchased(C), year(D).
+occur(A, B, C, D) :- keep(A), profit(B), overcharged(C), refunds(D).
+occur(A, B, C, D) :- keep(A), profit(B), overcharged(C), plans(D).
+occur(A, B, C, D) :- keep(A), profit(B), purchased(C), plans(D).
+occur(A, B, C, D) :- keep(A), profit(B), purchased(C), year(D).
+occur(A, B, C, D) :- comes(A), mandate(B), analyzed(C), datum(D).
+occur(A, B, C, D) :- comes(A), mandate(B), analyzed(C), kaiser_family_foundation(D).
+occur(A, B, C, D) :- comes(A), mandate(B), go(C), datum(D).
+occur(A, B, C, D) :- comes(A), mandate(B), purchased(C), plans(D).
+occur(A, B, C, D) :- comes(A), mandate(B), purchased(C), market(D).
+occur(A, B, C, D) :- comes(A), provision(B), analyzed(C), datum(D).
+occur(A, B, C, D) :- comes(A), provision(B), analyzed(C), kaiser_family_foundation(D).
+occur(A, B, C, D) :- comes(A), provision(B), go(C), datum(D).
+occur(A, B, C, D) :- comes(A), provision(B), purchased(C), plans(D).
+occur(A, B, C, D) :- comes(A), provision(B), purchased(C), market(D).
+occur(A, B, C, D) :- keep(A), company(B), analyzed(C), datum(D).
+occur(A, B, C, D) :- keep(A), company(B), analyzed(C), kaiser_family_foundation(D).
+occur(A, B, C, D) :- keep(A), company(B), go(C), datum(D).
+occur(A, B, C, D) :- keep(A), company(B), purchased(C), plans(D).
+occur(A, B, C, D) :- keep(A), company(B), purchased(C), market(D).
+occur(A, B, C, D) :- keep(A), overhead(B), analyzed(C), datum(D).
+occur(A, B, C, D) :- keep(A), overhead(B), analyzed(C), kaiser_family_foundation(D).
+occur(A, B, C, D) :- keep(A), overhead(B), go(C), datum(D).
+occur(A, B, C, D) :- keep(A), overhead(B), purchased(C), plans(D).
+occur(A, B, C, D) :- keep(A), overhead(B), purchased(C), market(D).
+occur(A, B, C, D) :- keep(A), profit(B), analyzed(C), datum(D).
+occur(A, B, C, D) :- keep(A), profit(B), analyzed(C), kaiser_family_foundation(D).
+occur(A, B, C, D) :- keep(A), profit(B), go(C), datum(D).
+occur(A, B, C, D) :- keep(A), profit(B), purchased(C), plans(D).
+occur(A, B, C, D) :- keep(A), profit(B), purchased(C), market(D).
+occur(A, B, C, D) :- comes(A), mandate(B), refunded(C), insurers(D).
+occur(A, B, C, D) :- comes(A), mandate(B), refunded(C), employers(D).
+occur(A, B, C, D) :- comes(A), mandate(B), showed(C), datum(D).
+occur(A, B, C, D) :- comes(A), provision(B), refunded(C), insurers(D).
+occur(A, B, C, D) :- comes(A), provision(B), refunded(C), employers(D).
+occur(A, B, C, D) :- comes(A), provision(B), showed(C), datum(D).
+occur(A, B, C, D) :- keep(A), company(B), refunded(C), insurers(D).
+occur(A, B, C, D) :- keep(A), company(B), refunded(C), employers(D).
+occur(A, B, C, D) :- keep(A), company(B), showed(C), datum(D).
+occur(A, B, C, D) :- keep(A), overhead(B), refunded(C), insurers(D).
+occur(A, B, C, D) :- keep(A), overhead(B), refunded(C), employers(D).
+occur(A, B, C, D) :- keep(A), overhead(B), showed(C), datum(D).
+occur(A, B, C, D) :- keep(A), profit(B), refunded(C), insurers(D).
+occur(A, B, C, D) :- keep(A), profit(B), refunded(C), employers(D).
+occur(A, B, C, D) :- keep(A), profit(B), showed(C), datum(D).
+occur(A, B, C, D) :- made(A), withdrawal(B), apply(C), penalty(D).
+occur(A, B, C, D) :- made(A), age(B), apply(C), penalty(D).
+occur(A, B, C, D) :- plunged(A), war(B), said(C), oecd(D).
+occur(A, B, C, D) :- plunged(A), war(B), see(C), economy(D).
+occur(A, B, C, D) :- plunged(A), war(B), see(C), growth(D).
+occur(A, B, C, D) :- plunged(A), war(B), see(C), crisis(D).
+occur(A, B, C, D) :- plunged(A), war(B), slowing(C), growth(D).
+occur(A, B, C, D) :- plunged(A), war(B), slowing(C), year(D).
+occur(A, B, C, D) :- plunged(A), growth(B), said(C), oecd(D).
+occur(A, B, C, D) :- plunged(A), growth(B), see(C), economy(D).
+occur(A, B, C, D) :- plunged(A), growth(B), see(C), growth(D).
+occur(A, B, C, D) :- plunged(A), growth(B), see(C), crisis(D).
+occur(A, B, C, D) :- plunged(A), growth(B), slowing(C), growth(D).
+occur(A, B, C, D) :- plunged(A), growth(B), slowing(C), year(D).
+occur(A, B, C, D) :- plunged(A), decade(B), said(C), oecd(D).
+occur(A, B, C, D) :- plunged(A), decade(B), see(C), economy(D).
+occur(A, B, C, D) :- plunged(A), decade(B), see(C), growth(D).
+occur(A, B, C, D) :- plunged(A), decade(B), see(C), crisis(D).
+occur(A, B, C, D) :- plunged(A), decade(B), slowing(C), growth(D).
+occur(A, B, C, D) :- plunged(A), decade(B), slowing(C), year(D).
+occur(A, B, C, D) :- plunged(A), levels(B), said(C), oecd(D).
+occur(A, B, C, D) :- plunged(A), levels(B), see(C), economy(D).
+occur(A, B, C, D) :- plunged(A), levels(B), see(C), growth(D).
+occur(A, B, C, D) :- plunged(A), levels(B), see(C), crisis(D).
+occur(A, B, C, D) :- plunged(A), levels(B), slowing(C), growth(D).
+occur(A, B, C, D) :- plunged(A), levels(B), slowing(C), year(D).
+occur(A, B, C, D) :- said(A), organization_for_economic_cooperation_and_development(B), said(C), oecd(D).
+occur(A, B, C, D) :- said(A), organization_for_economic_cooperation_and_development(B), see(C), economy(D).
+occur(A, B, C, D) :- said(A), organization_for_economic_cooperation_and_development(B), see(C), growth(D).
+occur(A, B, C, D) :- said(A), organization_for_economic_cooperation_and_development(B), see(C), crisis(D).
+occur(A, B, C, D) :- said(A), organization_for_economic_cooperation_and_development(B), slowing(C), growth(D).
+occur(A, B, C, D) :- said(A), organization_for_economic_cooperation_and_development(B), slowing(C), year(D).
+occur(A, B, C, D) :- said(A), oecd(B), said(C), oecd(D).
+occur(A, B, C, D) :- said(A), oecd(B), see(C), economy(D).
+occur(A, B, C, D) :- said(A), oecd(B), see(C), growth(D).
+occur(A, B, C, D) :- said(A), oecd(B), see(C), crisis(D).
+occur(A, B, C, D) :- said(A), oecd(B), slowing(C), growth(D).
+occur(A, B, C, D) :- said(A), oecd(B), slowing(C), year(D).
+occur(A, B, C, D) :- slashed(A), forecasts(B), said(C), oecd(D).
+occur(A, B, C, D) :- slashed(A), forecasts(B), see(C), economy(D).
+occur(A, B, C, D) :- slashed(A), forecasts(B), see(C), growth(D).
+occur(A, B, C, D) :- slashed(A), forecasts(B), see(C), crisis(D).
+occur(A, B, C, D) :- slashed(A), forecasts(B), slowing(C), growth(D).
+occur(A, B, C, D) :- slashed(A), forecasts(B), slowing(C), year(D).
+occur(A, B, C, D) :- complicated(A), backdrop(B), said(C), li_keqiang(D).
+occur(A, B, C, D) :- starting(A), base(B), said(C), li_keqiang(D).
+occur(A, B, C, D) :- starting(A), backdrop(B), said(C), li_keqiang(D).
+occur(A, B, C, D) :- boosted(A), surge(B), rose(C), production(D).
+occur(A, B, C, D) :- boosted(A), surge(B), rose(C), month(D).
+occur(A, B, C, D) :- boosted(A), surge(B), rose(C), drop(D).
+occur(A, B, C, D) :- lowered(A), rate(B), triggered(C), jumping(D).
+occur(A, B, C, D) :- lowered(A), rate(B), triggered(C), move(D).
+occur(A, B, C, D) :- lowered(A), rate(B), triggered(C), rally(D).
+occur(A, B, C, D) :- said(A), nirmala_sitharaman(B), triggered(C), jumping(D).
+occur(A, B, C, D) :- said(A), nirmala_sitharaman(B), triggered(C), move(D).
+occur(A, B, C, D) :- said(A), nirmala_sitharaman(B), triggered(C), rally(D).
+occur(A, B, C, D) :- losing(A), customer(B), lost(C), group(D).
+occur(A, B, C, D) :- losing(A), customer(B), lost(C), contract(D).
+occur(A, B, C, D) :- losing(A), customer(B), posted(C), company(D).
+occur(A, B, C, D) :- losing(A), customer(B), posted(C), drop(D).
+occur(A, B, C, D) :- losing(A), customer(B), posted(C), decline(D).
+occur(A, B, C, D) :- losing(A), tensions(B), lost(C), group(D).
+occur(A, B, C, D) :- losing(A), tensions(B), lost(C), contract(D).
+occur(A, B, C, D) :- losing(A), tensions(B), posted(C), company(D).
+occur(A, B, C, D) :- losing(A), tensions(B), posted(C), drop(D).
+occur(A, B, C, D) :- losing(A), tensions(B), posted(C), decline(D).
+occur(A, B, C, D) :- losing(A), outlook(B), lost(C), group(D).
+occur(A, B, C, D) :- losing(A), outlook(B), lost(C), contract(D).
+occur(A, B, C, D) :- losing(A), outlook(B), posted(C), company(D).
+occur(A, B, C, D) :- losing(A), outlook(B), posted(C), drop(D).
+occur(A, B, C, D) :- losing(A), outlook(B), posted(C), decline(D).
+occur(A, B, C, D) :- weakening(A), outlook(B), lost(C), group(D).
+occur(A, B, C, D) :- weakening(A), outlook(B), lost(C), contract(D).
+occur(A, B, C, D) :- weakening(A), outlook(B), posted(C), company(D).
+occur(A, B, C, D) :- weakening(A), outlook(B), posted(C), drop(D).
+occur(A, B, C, D) :- weakening(A), outlook(B), posted(C), decline(D).
+occur(A, B, C, D) :- inflicted(A), drones(B), denied(C), iran(D).
+occur(A, B, C, D) :- inflicted(A), drones(B), denied(C), responsibility(D).
+occur(A, B, C, D) :- inflicted(A), drones(B), knocked(C), attack(D).
+occur(A, B, C, D) :- inflicted(A), drones(B), knocked(C), half(D).
+occur(A, B, C, D) :- inflicted(A), drones(B), knocked(C), exporter(D).
+occur(A, B, C, D) :- inflicted(A), damage(B), denied(C), iran(D).
+occur(A, B, C, D) :- inflicted(A), damage(B), denied(C), responsibility(D).
+occur(A, B, C, D) :- inflicted(A), damage(B), knocked(C), attack(D).
+occur(A, B, C, D) :- inflicted(A), damage(B), knocked(C), half(D).
+occur(A, B, C, D) :- inflicted(A), damage(B), knocked(C), exporter(D).
+occur(A, B, C, D) :- inflicted(A), abqaiq(B), denied(C), iran(D).
+occur(A, B, C, D) :- inflicted(A), abqaiq(B), denied(C), responsibility(D).
+occur(A, B, C, D) :- inflicted(A), abqaiq(B), knocked(C), attack(D).
+occur(A, B, C, D) :- inflicted(A), abqaiq(B), knocked(C), half(D).
+occur(A, B, C, D) :- inflicted(A), abqaiq(B), knocked(C), exporter(D).
+occur(A, B, C, D) :- spiked(A), price(B), denied(C), iran(D).
+occur(A, B, C, D) :- spiked(A), price(B), denied(C), responsibility(D).
+occur(A, B, C, D) :- spiked(A), price(B), knocked(C), attack(D).
+occur(A, B, C, D) :- spiked(A), price(B), knocked(C), half(D).
+occur(A, B, C, D) :- spiked(A), price(B), knocked(C), exporter(D).
+occur(A, B, C, D) :- spiked(A), energy(B), denied(C), iran(D).
+occur(A, B, C, D) :- spiked(A), energy(B), denied(C), responsibility(D).
+occur(A, B, C, D) :- spiked(A), energy(B), knocked(C), attack(D).
+occur(A, B, C, D) :- spiked(A), energy(B), knocked(C), half(D).
+occur(A, B, C, D) :- spiked(A), energy(B), knocked(C), exporter(D).
+occur(A, B, C, D) :- spiked(A), missiles(B), denied(C), iran(D).
+occur(A, B, C, D) :- spiked(A), missiles(B), denied(C), responsibility(D).
+occur(A, B, C, D) :- spiked(A), missiles(B), knocked(C), attack(D).
+occur(A, B, C, D) :- spiked(A), missiles(B), knocked(C), half(D).
+occur(A, B, C, D) :- spiked(A), missiles(B), knocked(C), exporter(D).
+occur(A, B, C, D) :- signed(A), agreement(B), agreed(C), sirius(D).
+occur(A, B, C, D) :- signed(A), agreement(B), agreed(C), issue(D).
+occur(A, B, C, D) :- signed(A), agreement(B), revolving(C), facility(D).
+occur(A, B, C, D) :- signed(A), year(B), agreed(C), sirius(D).
+occur(A, B, C, D) :- signed(A), year(B), agreed(C), issue(D).
+occur(A, B, C, D) :- signed(A), year(B), revolving(C), facility(D).
+occur(A, B, C, D) :- signed(A), jp_morgan(B), agreed(C), sirius(D).
+occur(A, B, C, D) :- signed(A), jp_morgan(B), agreed(C), issue(D).
+occur(A, B, C, D) :- signed(A), jp_morgan(B), revolving(C), facility(D).
+occur(A, B, C, D) :- defied(A), bought(B), fell(C), sales(D).
+occur(A, B, C, D) :- defied(A), bought(B), fell(C), august(D).
+occur(A, B, C, D) :- defied(A), bought(B), showed(C), rise(D).
+occur(A, B, C, D) :- defied(A), sales(B), fell(C), sales(D).
+occur(A, B, C, D) :- defied(A), sales(B), fell(C), august(D).
+occur(A, B, C, D) :- defied(A), sales(B), showed(C), rise(D).
+occur(A, B, C, D) :- defied(A), expectations(B), fell(C), sales(D).
+occur(A, B, C, D) :- defied(A), expectations(B), fell(C), august(D).
+occur(A, B, C, D) :- defied(A), expectations(B), showed(C), rise(D).
+occur(A, B, C, D) :- fell(A), sales(B), fell(C), sales(D).
+occur(A, B, C, D) :- fell(A), sales(B), fell(C), august(D).
+occur(A, B, C, D) :- fell(A), sales(B), showed(C), rise(D).
+occur(A, B, C, D) :- fell(A), august(B), fell(C), sales(D).
+occur(A, B, C, D) :- fell(A), august(B), fell(C), august(D).
+occur(A, B, C, D) :- fell(A), august(B), showed(C), rise(D).
+occur(A, B, C, D) :- dragged(A), tourism(B), reduced(C), profits(D).
+occur(A, B, C, D) :- dragged(A), tourism(B), reduced(C), dividend(D).
+occur(A, B, C, D) :- dragged(A), tourism(B), reduced(C), p(D).
+occur(A, B, C, D) :- dragged(A), tourism(B), tumbled(C), profits(D).
+occur(A, B, C, D) :- dragged(A), challenges(B), reduced(C), profits(D).
+occur(A, B, C, D) :- dragged(A), challenges(B), reduced(C), dividend(D).
+occur(A, B, C, D) :- dragged(A), challenges(B), reduced(C), p(D).
+occur(A, B, C, D) :- dragged(A), challenges(B), tumbled(C), profits(D).
+occur(A, B, C, D) :- posted(A), saga(B), reduced(C), profits(D).
+occur(A, B, C, D) :- posted(A), saga(B), reduced(C), dividend(D).
+occur(A, B, C, D) :- posted(A), saga(B), reduced(C), p(D).
+occur(A, B, C, D) :- posted(A), saga(B), tumbled(C), profits(D).
+occur(A, B, C, D) :- posted(A), fall(B), reduced(C), profits(D).
+occur(A, B, C, D) :- posted(A), fall(B), reduced(C), dividend(D).
+occur(A, B, C, D) :- posted(A), fall(B), reduced(C), p(D).
+occur(A, B, C, D) :- posted(A), fall(B), tumbled(C), profits(D).
+occur(A, B, C, D) :- posted(A), half(B), reduced(C), profits(D).
+occur(A, B, C, D) :- posted(A), half(B), reduced(C), dividend(D).
+occur(A, B, C, D) :- posted(A), half(B), reduced(C), p(D).
+occur(A, B, C, D) :- posted(A), half(B), tumbled(C), profits(D).
+occur(A, B, C, D) :- declared(A), etf(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), etf(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), etf(B), given(C), exchange(D).
+occur(A, B, C, D) :- declared(A), etf(B), traded(C), fund(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), exchange(D).
+occur(A, B, C, D) :- declared(A), dividend(B), traded(C), fund(D).
+occur(A, B, C, D) :- is(A), option(B), reduce(C), amount(D).
+occur(A, B, C, D) :- is(A), move(B), reduce(C), amount(D).
+occur(A, B, C, D) :- reduced(A), shirley(B), reduce(C), dac(D).
+occur(A, B, C, D) :- reduced(A), assets(B), reduce(C), dac(D).
+occur(A, B, C, D) :- reduced(A), gift(B), reduce(C), dac(D).
+occur(A, B, C, D) :- reduced(A), shirley(B), reduce(C), sum(D).
+occur(A, B, C, D) :- reduced(A), assets(B), reduce(C), sum(D).
+occur(A, B, C, D) :- reduced(A), gift(B), reduce(C), sum(D).
+occur(A, B, C, D) :- outperformed(A), consumer(B), increased(C), households(D).
+occur(A, B, C, D) :- outperformed(A), consumer(B), increased(C), pace(D).
+occur(A, B, C, D) :- outperformed(A), consumer(B), increased(C), spending(D).
+occur(A, B, C, D) :- outperformed(A), consumer(B), increased(C), rate(D).
+occur(A, B, C, D) :- outperformed(A), consumer(B), increased(C), uncertainty(D).
+occur(A, B, C, D) :- outperformed(A), fears(B), increased(C), households(D).
+occur(A, B, C, D) :- outperformed(A), fears(B), increased(C), pace(D).
+occur(A, B, C, D) :- outperformed(A), fears(B), increased(C), spending(D).
+occur(A, B, C, D) :- outperformed(A), fears(B), increased(C), rate(D).
+occur(A, B, C, D) :- outperformed(A), fears(B), increased(C), uncertainty(D).
+occur(A, B, C, D) :- outperformed(A), headwinds(B), increased(C), households(D).
+occur(A, B, C, D) :- outperformed(A), headwinds(B), increased(C), pace(D).
+occur(A, B, C, D) :- outperformed(A), headwinds(B), increased(C), spending(D).
+occur(A, B, C, D) :- outperformed(A), headwinds(B), increased(C), rate(D).
+occur(A, B, C, D) :- outperformed(A), headwinds(B), increased(C), uncertainty(D).
+occur(A, B, C, D) :- being(A), insurer(B), seeking(C), lawyers(D).
+occur(A, B, C, D) :- breached(A), tan(B), seeking(C), lawyers(D).
+occur(A, B, C, D) :- breached(A), duty(B), seeking(C), lawyers(D).
+occur(A, B, C, D) :- purchased(A), home(B), saved(C), amount(D).
+occur(A, B, C, D) :- purchased(A), home(B), saved(C), interest(D).
+occur(A, B, C, D) :- located(A), home(B), saved(C), amount(D).
+occur(A, B, C, D) :- located(A), home(B), saved(C), interest(D).
+occur(A, B, C, D) :- located(A), uk(B), saved(C), amount(D).
+occur(A, B, C, D) :- located(A), uk(B), saved(C), interest(D).
+occur(A, B, C, D) :- located(A), value(B), saved(C), amount(D).
+occur(A, B, C, D) :- located(A), value(B), saved(C), interest(D).
+occur(A, B, C, D) :- discounted(A), trust(B), anticipated(C), discount(D).
+occur(A, B, C, D) :- discounted(A), trust(B), expected(C), value(D).
+occur(A, B, C, D) :- discounted(A), trust(B), gave(C), discount(D).
+occur(A, B, C, D) :- discounted(A), trust(B), gave(C), value(D).
+occur(A, B, C, D) :- dwindling(A), hopes(B), fallen(C), shares(D).
+occur(A, B, C, D) :- dwindling(A), hopes(B), fallen(C), year(D).
+occur(A, B, C, D) :- shrinking(A), changes(B), fallen(C), shares(D).
+occur(A, B, C, D) :- shrinking(A), changes(B), fallen(C), year(D).
+occur(A, B, C, D) :- shrinking(A), numbers(B), fallen(C), shares(D).
+occur(A, B, C, D) :- shrinking(A), numbers(B), fallen(C), year(D).
+occur(A, B, C, D) :- said(A), fall(B), plunged(C), profit(D).
+occur(A, B, C, D) :- said(A), fall(B), plunged(C), year(D).
+occur(A, B, C, D) :- said(A), bank(B), plunged(C), profit(D).
+occur(A, B, C, D) :- said(A), bank(B), plunged(C), year(D).
+occur(A, B, C, D) :- struggled(A), business(B), plunged(C), profit(D).
+occur(A, B, C, D) :- struggled(A), business(B), plunged(C), year(D).
+occur(A, B, C, D) :- expanding(A), mufg(B), completing(C), acquisition(D).
+occur(A, B, C, D) :- expanding(A), mufg(B), completing(C), march(D).
+occur(A, B, C, D) :- expanding(A), products(B), completing(C), acquisition(D).
+occur(A, B, C, D) :- expanding(A), products(B), completing(C), march(D).
+occur(A, B, C, D) :- expanding(A), country(B), completing(C), acquisition(D).
+occur(A, B, C, D) :- expanding(A), country(B), completing(C), march(D).
+occur(A, B, C, D) :- expanding(A), offset(B), completing(C), acquisition(D).
+occur(A, B, C, D) :- expanding(A), offset(B), completing(C), march(D).
+occur(A, B, C, D) :- asked(A), surjewala(B), slashing(C), government(D).
+occur(A, B, C, D) :- asked(A), surjewala(B), slashing(C), tax(D).
+occur(A, B, C, D) :- come(A), loss(B), slashing(C), government(D).
+occur(A, B, C, D) :- come(A), loss(B), slashing(C), tax(D).
+occur(A, B, C, D) :- laying(A), tide(B), slashing(C), government(D).
+occur(A, B, C, D) :- laying(A), tide(B), slashing(C), tax(D).
+occur(A, B, C, D) :- laying(A), vision(B), slashing(C), government(D).
+occur(A, B, C, D) :- laying(A), vision(B), slashing(C), tax(D).
+occur(A, B, C, D) :- laying(A), policy(B), slashing(C), government(D).
+occur(A, B, C, D) :- laying(A), policy(B), slashing(C), tax(D).
+occur(A, B, C, D) :- said(A), tide(B), slashing(C), government(D).
+occur(A, B, C, D) :- said(A), tide(B), slashing(C), tax(D).
+occur(A, B, C, D) :- controlling(A), stake(B), have(C), efforts(D).
+occur(A, B, C, D) :- controlling(A), stake(B), have(C), track(D).
+occur(A, B, C, D) :- controlling(A), stake(B), make(C), track(D).
+occur(A, B, C, D) :- controlling(A), stake(B), make(C), year(D).
+occur(A, B, C, D) :- controlling(A), stake(B), produced(C), company(D).
+occur(A, B, C, D) :- controlling(A), stake(B), produced(C), example(D).
+occur(A, B, C, D) :- started(A), company(B), have(C), efforts(D).
+occur(A, B, C, D) :- started(A), company(B), have(C), track(D).
+occur(A, B, C, D) :- started(A), company(B), make(C), track(D).
+occur(A, B, C, D) :- started(A), company(B), make(C), year(D).
+occur(A, B, C, D) :- started(A), company(B), produced(C), company(D).
+occur(A, B, C, D) :- started(A), company(B), produced(C), example(D).
+occur(A, B, C, D) :- working(A), bought(B), have(C), efforts(D).
+occur(A, B, C, D) :- working(A), bought(B), have(C), track(D).
+occur(A, B, C, D) :- working(A), bought(B), make(C), track(D).
+occur(A, B, C, D) :- working(A), bought(B), make(C), year(D).
+occur(A, B, C, D) :- working(A), bought(B), produced(C), company(D).
+occur(A, B, C, D) :- working(A), bought(B), produced(C), example(D).
+occur(A, B, C, D) :- working(A), company(B), have(C), efforts(D).
+occur(A, B, C, D) :- working(A), company(B), have(C), track(D).
+occur(A, B, C, D) :- working(A), company(B), make(C), track(D).
+occur(A, B, C, D) :- working(A), company(B), make(C), year(D).
+occur(A, B, C, D) :- working(A), company(B), produced(C), company(D).
+occur(A, B, C, D) :- working(A), company(B), produced(C), example(D).
+occur(A, B, C, D) :- working(A), year(B), have(C), efforts(D).
+occur(A, B, C, D) :- working(A), year(B), have(C), track(D).
+occur(A, B, C, D) :- working(A), year(B), make(C), track(D).
+occur(A, B, C, D) :- working(A), year(B), make(C), year(D).
+occur(A, B, C, D) :- working(A), year(B), produced(C), company(D).
+occur(A, B, C, D) :- working(A), year(B), produced(C), example(D).
+occur(A, B, C, D) :- working(A), strategy(B), have(C), efforts(D).
+occur(A, B, C, D) :- working(A), strategy(B), have(C), track(D).
+occur(A, B, C, D) :- working(A), strategy(B), make(C), track(D).
+occur(A, B, C, D) :- working(A), strategy(B), make(C), year(D).
+occur(A, B, C, D) :- working(A), strategy(B), produced(C), company(D).
+occur(A, B, C, D) :- working(A), strategy(B), produced(C), example(D).
+occur(A, B, C, D) :- filmed(A), year(B), reached(C), value(D).
+occur(A, B, C, D) :- filmed(A), area(B), reached(C), value(D).
+occur(A, B, C, D) :- said(A), westby(B), accumulated(C), debt(D).
+occur(A, B, C, D) :- said(A), westby(B), accumulated(C), facility(D).
+occur(A, B, C, D) :- said(A), westby(B), taking(C), ownership(D).
+occur(A, B, C, D) :- surrounding(A), grants(B), accumulated(C), debt(D).
+occur(A, B, C, D) :- surrounding(A), grants(B), accumulated(C), facility(D).
+occur(A, B, C, D) :- surrounding(A), grants(B), taking(C), ownership(D).
+occur(A, B, C, D) :- announced(A), inc(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- announced(A), inc(B), represents(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- changed(A), deduction(B), realize(C), owner(D).
+occur(A, B, C, D) :- changed(A), deduction(B), realize(C), savings(D).
+occur(A, B, C, D) :- failed(A), project(B), awarded(C), company(D).
+occur(A, B, C, D) :- failed(A), project(B), founded(C), company(D).
+occur(A, B, C, D) :- failed(A), project(B), founded(C), irishmen(D).
+occur(A, B, C, D) :- converted(A), decision(B), accrued(C), interest(D).
+occur(A, B, C, D) :- converted(A), decision(B), soared(C), sum(D).
+occur(A, B, C, D) :- converted(A), award(B), accrued(C), interest(D).
+occur(A, B, C, D) :- converted(A), award(B), soared(C), sum(D).
+occur(A, B, C, D) :- converted(A), judgment(B), accrued(C), interest(D).
+occur(A, B, C, D) :- converted(A), judgment(B), soared(C), sum(D).
+occur(A, B, C, D) :- made(A), reserves(B), take(C), dividend(D).
+occur(A, B, C, D) :- made(A), reserves(B), take(C), taxed(D).
+occur(A, B, C, D) :- made(A), reserves(B), underlying(C), profits(D).
+occur(A, B, C, D) :- made(A), profits(B), take(C), dividend(D).
+occur(A, B, C, D) :- made(A), profits(B), take(C), taxed(D).
+occur(A, B, C, D) :- made(A), profits(B), underlying(C), profits(D).
+occur(A, B, C, D) :- retained(A), profits(B), take(C), dividend(D).
+occur(A, B, C, D) :- retained(A), profits(B), take(C), taxed(D).
+occur(A, B, C, D) :- retained(A), profits(B), underlying(C), profits(D).
+occur(A, B, C, D) :- wiped(A), attacks(B), surged(C), futures(D).
+occur(A, B, C, D) :- wiped(A), attacks(B), surged(C), monday(D).
+occur(A, B, C, D) :- wiped(A), attacks(B), surged(C), usd(D).
+occur(A, B, C, D) :- wiped(A), half(B), surged(C), futures(D).
+occur(A, B, C, D) :- wiped(A), half(B), surged(C), monday(D).
+occur(A, B, C, D) :- wiped(A), half(B), surged(C), usd(D).
+occur(A, B, C, D) :- seen(A), family(B), have(C), income(D).
+occur(A, B, C, D) :- seen(A), family(B), have(C), result(D).
+occur(A, B, C, D) :- seen(A), grow(B), have(C), income(D).
+occur(A, B, C, D) :- seen(A), grow(B), have(C), result(D).
+occur(A, B, C, D) :- proposed(A), offer(B), determined(C), date(D).
+occur(A, B, C, D) :- proposed(A), offer(B), determined(C), company(D).
+occur(A, B, C, D) :- proposed(A), offer(B), received(C), group(D).
+occur(A, B, C, D) :- proposed(A), offer(B), received(C), vote(D).
+occur(A, B, C, D) :- made(A), withdrawal(B), apply(C), penalty(D).
+occur(A, B, C, D) :- made(A), age(B), apply(C), penalty(D).
+occur(A, B, C, D) :- declared(A), etf(B), given(C), investors(D).
+occur(A, B, C, D) :- declared(A), etf(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), investors(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- given(A), shareholders(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- given(A), shareholders(B), represents(C), dividend(D).
+occur(A, B, C, D) :- given(A), dividend(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- given(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- given(A), company(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- given(A), company(B), represents(C), dividend(D).
+occur(A, B, C, D) :- expect(A), analysts(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), yamana_gold(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), earn(B), expected(C), ratio(D).
+occur(A, B, C, D) :- reported(A), company(B), topping(C), estimate(D).
+occur(A, B, C, D) :- had(A), estimate(B), was(C), revenue(D).
+occur(A, B, C, D) :- had(A), estimate(B), was(C), year(D).
+occur(A, B, C, D) :- had(A), company(B), was(C), revenue(D).
+occur(A, B, C, D) :- had(A), company(B), was(C), year(D).
+occur(A, B, C, D) :- had(A), revenue(B), was(C), revenue(D).
+occur(A, B, C, D) :- had(A), revenue(B), was(C), year(D).
+occur(A, B, C, D) :- had(A), quarter(B), was(C), revenue(D).
+occur(A, B, C, D) :- had(A), quarter(B), was(C), year(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), transaction(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- increased(A), wealth(B), owns(C), wealth(D).
+occur(A, B, C, D) :- increased(A), wealth(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), position(B), owns(C), wealth(D).
+occur(A, B, C, D) :- increased(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), owns(C), wealth(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- began(A), fhfa(B), allowed(C), fannie_mae_fnma(D).
+occur(A, B, C, D) :- began(A), fhfa(B), allowed(C), purchase(D).
+occur(A, B, C, D) :- began(A), fhfa(B), excluded(C), loans(D).
+occur(A, B, C, D) :- began(A), fhfa(B), excluded(C), caps(D).
+occur(A, B, C, D) :- setting(A), fhfa(B), allowed(C), fannie_mae_fnma(D).
+occur(A, B, C, D) :- setting(A), fhfa(B), allowed(C), purchase(D).
+occur(A, B, C, D) :- setting(A), fhfa(B), excluded(C), loans(D).
+occur(A, B, C, D) :- setting(A), fhfa(B), excluded(C), caps(D).
+occur(A, B, C, D) :- setting(A), caps(B), allowed(C), fannie_mae_fnma(D).
+occur(A, B, C, D) :- setting(A), caps(B), allowed(C), purchase(D).
+occur(A, B, C, D) :- setting(A), caps(B), excluded(C), loans(D).
+occur(A, B, C, D) :- setting(A), caps(B), excluded(C), caps(D).
+occur(A, B, C, D) :- setting(A), effort(B), allowed(C), fannie_mae_fnma(D).
+occur(A, B, C, D) :- setting(A), effort(B), allowed(C), purchase(D).
+occur(A, B, C, D) :- setting(A), effort(B), excluded(C), loans(D).
+occur(A, B, C, D) :- setting(A), effort(B), excluded(C), caps(D).
+occur(A, B, C, D) :- working(A), prevent(B), allowed(C), fannie_mae_fnma(D).
+occur(A, B, C, D) :- working(A), prevent(B), allowed(C), purchase(D).
+occur(A, B, C, D) :- working(A), prevent(B), excluded(C), loans(D).
+occur(A, B, C, D) :- working(A), prevent(B), excluded(C), caps(D).
+occur(A, B, C, D) :- began(A), fhfa(B), directed(C), housing(D).
+occur(A, B, C, D) :- began(A), fhfa(B), have(C), firms(D).
+occur(A, B, C, D) :- setting(A), fhfa(B), directed(C), housing(D).
+occur(A, B, C, D) :- setting(A), fhfa(B), have(C), firms(D).
+occur(A, B, C, D) :- setting(A), caps(B), directed(C), housing(D).
+occur(A, B, C, D) :- setting(A), caps(B), have(C), firms(D).
+occur(A, B, C, D) :- setting(A), effort(B), directed(C), housing(D).
+occur(A, B, C, D) :- setting(A), effort(B), have(C), firms(D).
+occur(A, B, C, D) :- working(A), prevent(B), directed(C), housing(D).
+occur(A, B, C, D) :- working(A), prevent(B), have(C), firms(D).
+occur(A, B, C, D) :- declared(A), fund(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), fund(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), group(B), given(C), stockholders(D).
+occur(A, B, C, D) :- declared(A), group(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), stockholders(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- earning(A), individuals(B), had(C), york(D).
+occur(A, B, C, D) :- earning(A), individuals(B), had(C), outflows(D).
+occur(A, B, C, D) :- earning(A), individuals(B), had(C), people(D).
+occur(A, B, C, D) :- earning(A), individuals(B), moving(C), people(D).
+occur(A, B, C, D) :- earning(A), individuals(B), moving(C), year(D).
+occur(A, B, C, D) :- moving(A), new_york(B), had(C), york(D).
+occur(A, B, C, D) :- moving(A), new_york(B), had(C), outflows(D).
+occur(A, B, C, D) :- moving(A), new_york(B), had(C), people(D).
+occur(A, B, C, D) :- moving(A), new_york(B), moving(C), people(D).
+occur(A, B, C, D) :- moving(A), new_york(B), moving(C), year(D).
+occur(A, B, C, D) :- moving(A), florida(B), had(C), york(D).
+occur(A, B, C, D) :- moving(A), florida(B), had(C), outflows(D).
+occur(A, B, C, D) :- moving(A), florida(B), had(C), people(D).
+occur(A, B, C, D) :- moving(A), florida(B), moving(C), people(D).
+occur(A, B, C, D) :- moving(A), florida(B), moving(C), year(D).
+occur(A, B, C, D) :- save(A), individuals(B), had(C), york(D).
+occur(A, B, C, D) :- save(A), individuals(B), had(C), outflows(D).
+occur(A, B, C, D) :- save(A), individuals(B), had(C), people(D).
+occur(A, B, C, D) :- save(A), individuals(B), moving(C), people(D).
+occur(A, B, C, D) :- save(A), individuals(B), moving(C), year(D).
+occur(A, B, C, D) :- save(A), year(B), had(C), york(D).
+occur(A, B, C, D) :- save(A), year(B), had(C), outflows(D).
+occur(A, B, C, D) :- save(A), year(B), had(C), people(D).
+occur(A, B, C, D) :- save(A), year(B), moving(C), people(D).
+occur(A, B, C, D) :- save(A), year(B), moving(C), year(D).
+occur(A, B, C, D) :- increased(A), sentiment(B), reduced(C), holdings(D).
+occur(A, B, C, D) :- increased(A), sentiment(B), sold(C), investors(D).
+occur(A, B, C, D) :- increased(A), sentiment(B), sold(C), shares(D).
+occur(A, B, C, D) :- increased(A), q2(B), reduced(C), holdings(D).
+occur(A, B, C, D) :- increased(A), q2(B), sold(C), investors(D).
+occur(A, B, C, D) :- increased(A), q2(B), sold(C), shares(D).
+occur(A, B, C, D) :- decreased(A), sentiment(B), reduced(C), holdings(D).
+occur(A, B, C, D) :- decreased(A), sentiment(B), sold(C), investors(D).
+occur(A, B, C, D) :- decreased(A), sentiment(B), sold(C), shares(D).
+occur(A, B, C, D) :- decreased(A), q2(B), reduced(C), holdings(D).
+occur(A, B, C, D) :- decreased(A), q2(B), sold(C), investors(D).
+occur(A, B, C, D) :- decreased(A), q2(B), sold(C), shares(D).
+occur(A, B, C, D) :- declared(A), bust(B), keep(C), jobs(D).
+occur(A, B, C, D) :- declared(A), bust(B), stranding(C), uk(D).
+occur(A, B, C, D) :- declared(A), bust(B), stranding(C), fail(D).
+occur(A, B, C, D) :- ailing(A), company(B), placing(C), jobs(D).
+occur(A, B, C, D) :- ailing(A), company(B), placing(C), risk(D).
+occur(A, B, C, D) :- ailing(A), company(B), triggering(C), effort(D).
+occur(A, B, C, D) :- failed(A), trading(B), placing(C), jobs(D).
+occur(A, B, C, D) :- failed(A), trading(B), placing(C), risk(D).
+occur(A, B, C, D) :- failed(A), trading(B), triggering(C), effort(D).
+occur(A, B, C, D) :- failed(A), produce(B), placing(C), jobs(D).
+occur(A, B, C, D) :- failed(A), produce(B), placing(C), risk(D).
+occur(A, B, C, D) :- failed(A), produce(B), triggering(C), effort(D).
+occur(A, B, C, D) :- took(A), sales(B), travelling(C), britons(D).
+occur(A, B, C, D) :- took(A), sales(B), travelling(C), year(D).
+occur(A, B, C, D) :- took(A), sales(B), travelling(C), france(D).
+occur(A, B, C, D) :- took(A), sales(B), travelling(C), italy(D).
+occur(A, B, C, D) :- took(A), sales(B), travelling(C), spain(D).
+occur(A, B, C, D) :- took(A), sales(B), travelling(C), switzerland(D).
+occur(A, B, C, D) :- took(A), war(B), travelling(C), britons(D).
+occur(A, B, C, D) :- took(A), war(B), travelling(C), year(D).
+occur(A, B, C, D) :- took(A), war(B), travelling(C), france(D).
+occur(A, B, C, D) :- took(A), war(B), travelling(C), italy(D).
+occur(A, B, C, D) :- took(A), war(B), travelling(C), spain(D).
+occur(A, B, C, D) :- took(A), war(B), travelling(C), switzerland(D).
+occur(A, B, C, D) :- took(A), era(B), travelling(C), britons(D).
+occur(A, B, C, D) :- took(A), era(B), travelling(C), year(D).
+occur(A, B, C, D) :- took(A), era(B), travelling(C), france(D).
+occur(A, B, C, D) :- took(A), era(B), travelling(C), italy(D).
+occur(A, B, C, D) :- took(A), era(B), travelling(C), spain(D).
+occur(A, B, C, D) :- took(A), era(B), travelling(C), switzerland(D).
+occur(A, B, C, D) :- bailed(A), airtours(B), leaving(C), rescue(D).
+occur(A, B, C, D) :- bailed(A), airtours(B), leaving(C), administration(D).
+occur(A, B, C, D) :- bailed(A), airtours(B), leaving(C), option(D).
+occur(A, B, C, D) :- bailed(A), airtours(B), struggled(C), cope(D).
+occur(A, B, C, D) :- bailed(A), banks(B), leaving(C), rescue(D).
+occur(A, B, C, D) :- bailed(A), banks(B), leaving(C), administration(D).
+occur(A, B, C, D) :- bailed(A), banks(B), leaving(C), option(D).
+occur(A, B, C, D) :- bailed(A), banks(B), struggled(C), cope(D).
+occur(A, B, C, D) :- collapsed(A), airtours(B), leaving(C), rescue(D).
+occur(A, B, C, D) :- collapsed(A), airtours(B), leaving(C), administration(D).
+occur(A, B, C, D) :- collapsed(A), airtours(B), leaving(C), option(D).
+occur(A, B, C, D) :- collapsed(A), airtours(B), struggled(C), cope(D).
+occur(A, B, C, D) :- merged(A), owner(B), leaving(C), rescue(D).
+occur(A, B, C, D) :- merged(A), owner(B), leaving(C), administration(D).
+occur(A, B, C, D) :- merged(A), owner(B), leaving(C), option(D).
+occur(A, B, C, D) :- merged(A), owner(B), struggled(C), cope(D).
+occur(A, B, C, D) :- increased(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), bank(B), owns(C), bank(D).
+occur(A, B, C, D) :- increased(A), bank(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), bank(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- declared(A), etf(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), etf(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- made(A), country(B), citing(C), avoidance(D).
+occur(A, B, C, D) :- made(A), country(B), developing(C), countries(D).
+occur(A, B, C, D) :- made(A), country(B), quoted(C), tax_justice_network(D).
+occur(A, B, C, D) :- made(A), country(B), quoted(C), international_monetary_fund(D).
+occur(A, B, C, D) :- made(A), profit(B), citing(C), avoidance(D).
+occur(A, B, C, D) :- made(A), profit(B), developing(C), countries(D).
+occur(A, B, C, D) :- made(A), profit(B), quoted(C), tax_justice_network(D).
+occur(A, B, C, D) :- made(A), profit(B), quoted(C), international_monetary_fund(D).
+occur(A, B, C, D) :- get(A), structure(B), gaming(C), revenue(D).
+occur(A, B, C, D) :- gone(A), flow(B), includes(C), budget(D).
+occur(A, B, C, D) :- gone(A), flow(B), includes(C), example(D).
+occur(A, B, C, D) :- gone(A), council(B), includes(C), budget(D).
+occur(A, B, C, D) :- gone(A), council(B), includes(C), example(D).
+occur(A, B, C, D) :- gone(A), share(B), includes(C), budget(D).
+occur(A, B, C, D) :- gone(A), share(B), includes(C), example(D).
+occur(A, B, C, D) :- paying(A), funds(B), includes(C), budget(D).
+occur(A, B, C, D) :- paying(A), funds(B), includes(C), example(D).
+occur(A, B, C, D) :- paying(A), services(B), includes(C), budget(D).
+occur(A, B, C, D) :- paying(A), services(B), includes(C), example(D).
+occur(A, B, C, D) :- doled(A), money(B), allow(C), tax(D).
+occur(A, B, C, D) :- doled(A), money(B), allow(C), casino(D).
+occur(A, B, C, D) :- doled(A), money(B), allow(C), turn(D).
+occur(A, B, C, D) :- earned(A), wagerers(B), allow(C), tax(D).
+occur(A, B, C, D) :- earned(A), wagerers(B), allow(C), casino(D).
+occur(A, B, C, D) :- earned(A), wagerers(B), allow(C), turn(D).
+occur(A, B, C, D) :- wants(A), city(B), allow(C), tax(D).
+occur(A, B, C, D) :- wants(A), city(B), allow(C), casino(D).
+occur(A, B, C, D) :- wants(A), city(B), allow(C), turn(D).
+occur(A, B, C, D) :- wants(A), percent(B), allow(C), tax(D).
+occur(A, B, C, D) :- wants(A), percent(B), allow(C), casino(D).
+occur(A, B, C, D) :- wants(A), percent(B), allow(C), turn(D).
+occur(A, B, C, D) :- widened(A), losses(B), identified(C), locations(D).
+occur(A, B, C, D) :- widened(A), losses(B), leading(C), cuts(D).
+occur(A, B, C, D) :- widened(A), losses(B), performing(C), the_second_half_of_the_year(D).
+occur(A, B, C, D) :- widened(A), losses(B), said(C), revive(D).
+occur(A, B, C, D) :- widened(A), losses(B), said(C), pendragon(D).
+occur(A, B, C, D) :- widened(A), losses(B), said(C), shut(D).
+occur(A, B, C, D) :- abandoned(A), snb(B), dropped(C), percent(D).
+occur(A, B, C, D) :- abandoned(A), snb(B), dropped(C), hours(D).
+occur(A, B, C, D) :- abandoned(A), snb(B), shocked(C), announcement(D).
+occur(A, B, C, D) :- abandoned(A), snb(B), shocked(C), market(D).
+occur(A, B, C, D) :- abandoned(A), floor(B), dropped(C), percent(D).
+occur(A, B, C, D) :- abandoned(A), floor(B), dropped(C), hours(D).
+occur(A, B, C, D) :- abandoned(A), floor(B), shocked(C), announcement(D).
+occur(A, B, C, D) :- abandoned(A), floor(B), shocked(C), market(D).
+occur(A, B, C, D) :- abandoned(A), release(B), dropped(C), percent(D).
+occur(A, B, C, D) :- abandoned(A), release(B), dropped(C), hours(D).
+occur(A, B, C, D) :- abandoned(A), release(B), shocked(C), announcement(D).
+occur(A, B, C, D) :- abandoned(A), release(B), shocked(C), market(D).
+occur(A, B, C, D) :- presided(A), decline(B), said(C), mlouki(D).
+occur(A, B, C, D) :- presided(A), decline(B), said(C), want(D).
+occur(A, B, C, D) :- presided(A), fall(B), said(C), mlouki(D).
+occur(A, B, C, D) :- presided(A), fall(B), said(C), want(D).
+occur(A, B, C, D) :- sacred(A), cows(B), said(C), mlouki(D).
+occur(A, B, C, D) :- sacred(A), cows(B), said(C), want(D).
+occur(A, B, C, D) :- named(A), glaciers(B), raising(C), levels(D).
+occur(A, B, C, D) :- named(A), glaciers(B), raising(C), centimeter(D).
+occur(A, B, C, D) :- mitigating(A), change(B), pledged(C), iceland(D).
+occur(A, B, C, D) :- mitigating(A), change(B), pledged(C), aims(D).
+occur(A, B, C, D) :- mitigating(A), change(B), pledged(C), cut(D).
+occur(A, B, C, D) :- included(A), cosco_shipping_tanker_dalian(B), imposing(C), sanctions(D).
+occur(A, B, C, D) :- included(A), cosco_shipping_tanker_dalian(B), imposing(C), nationals(D).
+occur(A, B, C, D) :- included(A), cosco_shipping_tanker_dalian(B), imposing(C), entity(D).
+occur(A, B, C, D) :- included(A), cosco_shipping_tanker_dalian(B), said(C), wednesday(D).
+occur(A, B, C, D) :- included(A), cosco_shipping_tanker(B), imposing(C), sanctions(D).
+occur(A, B, C, D) :- included(A), cosco_shipping_tanker(B), imposing(C), nationals(D).
+occur(A, B, C, D) :- included(A), cosco_shipping_tanker(B), imposing(C), entity(D).
+occur(A, B, C, D) :- included(A), cosco_shipping_tanker(B), said(C), wednesday(D).
+occur(A, B, C, D) :- violated(A), curbs(B), imposing(C), sanctions(D).
+occur(A, B, C, D) :- violated(A), curbs(B), imposing(C), nationals(D).
+occur(A, B, C, D) :- violated(A), curbs(B), imposing(C), entity(D).
+occur(A, B, C, D) :- violated(A), curbs(B), said(C), wednesday(D).
+occur(A, B, C, D) :- expect(A), analysts(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), earn(B), expected(C), ratio(D).
+occur(A, B, C, D) :- reported(A), provider(B), missing(C), estimate(D).
+occur(A, B, C, D) :- gave(A), bank(B), has(C), company(D).
+occur(A, B, C, D) :- gave(A), bank(B), has(C), rating(D).
+occur(A, B, C, D) :- gave(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- gave(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- gave(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- gave(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- assigned(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- assigned(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- given(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- given(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- is(A), way(B), keep(C), system(D).
+occur(A, B, C, D) :- is(A), way(B), keep(C), increase(D).
+occur(A, B, C, D) :- is(A), way(B), looking(C), treasury(D).
+occur(A, B, C, D) :- get(A), way(B), keep(C), system(D).
+occur(A, B, C, D) :- get(A), way(B), keep(C), increase(D).
+occur(A, B, C, D) :- get(A), way(B), looking(C), treasury(D).
+occur(A, B, C, D) :- get(A), treasury(B), keep(C), system(D).
+occur(A, B, C, D) :- get(A), treasury(B), keep(C), increase(D).
+occur(A, B, C, D) :- get(A), treasury(B), looking(C), treasury(D).
+occur(A, B, C, D) :- get(A), line(B), keep(C), system(D).
+occur(A, B, C, D) :- get(A), line(B), keep(C), increase(D).
+occur(A, B, C, D) :- get(A), line(B), looking(C), treasury(D).
+occur(A, B, C, D) :- declared(A), corp(B), given(C), investors(D).
+occur(A, B, C, D) :- declared(A), corp(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), investors(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), corp(B), annualized(C), basis(D).
+occur(A, B, C, D) :- declared(A), corp(B), represents(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), annualized(C), basis(D).
+occur(A, B, C, D) :- declared(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- added(A), rate(B), injected(C), week(D).
+occur(A, B, C, D) :- added(A), rate(B), injected(C), markets(D).
+occur(A, B, C, D) :- added(A), bank(B), injected(C), week(D).
+occur(A, B, C, D) :- added(A), bank(B), injected(C), markets(D).
+occur(A, B, C, D) :- added(A), money(B), injected(C), week(D).
+occur(A, B, C, D) :- added(A), money(B), injected(C), markets(D).
+occur(A, B, C, D) :- added(A), system(B), injected(C), week(D).
+occur(A, B, C, D) :- added(A), system(B), injected(C), markets(D).
+occur(A, B, C, D) :- added(A), thursday(B), injected(C), week(D).
+occur(A, B, C, D) :- added(A), thursday(B), injected(C), markets(D).
+occur(A, B, C, D) :- rising(A), bank(B), injected(C), week(D).
+occur(A, B, C, D) :- rising(A), bank(B), injected(C), markets(D).
+occur(A, B, C, D) :- declared(A), dividend(B), annualized(C), basis(D).
+occur(A, B, C, D) :- declared(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- declared(A), nasdaq(B), annualized(C), basis(D).
+occur(A, B, C, D) :- declared(A), nasdaq(B), represents(C), dividend(D).
+occur(A, B, C, D) :- reported(A), provider(B), topping(C), estimate(D).
+occur(A, B, C, D) :- declared(A), nyse(B), annualized(C), basis(D).
+occur(A, B, C, D) :- declared(A), nyse(B), represents(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), annualized(C), basis(D).
+occur(A, B, C, D) :- declared(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- declared(A), nysearca(B), given(C), stockholders(D).
+occur(A, B, C, D) :- declared(A), nysearca(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), stockholders(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- increased(A), llc(B), owned(C), buying(D).
+occur(A, B, C, D) :- increased(A), llc(B), owned(C), firm(D).
+occur(A, B, C, D) :- increased(A), llc(B), owned(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owned(C), buying(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owned(C), firm(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owned(C), shares(D).
+occur(A, B, C, D) :- increased(A), position(B), owned(C), buying(D).
+occur(A, B, C, D) :- increased(A), position(B), owned(C), firm(D).
+occur(A, B, C, D) :- increased(A), position(B), owned(C), shares(D).
+occur(A, B, C, D) :- increased(A), filing(B), owned(C), buying(D).
+occur(A, B, C, D) :- increased(A), filing(B), owned(C), firm(D).
+occur(A, B, C, D) :- increased(A), filing(B), owned(C), shares(D).
+occur(A, B, C, D) :- increased(A), nasdaq(B), owned(C), buying(D).
+occur(A, B, C, D) :- increased(A), nasdaq(B), owned(C), firm(D).
+occur(A, B, C, D) :- increased(A), nasdaq(B), owned(C), shares(D).
+occur(A, B, C, D) :- lifted(A), position(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), position(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- lifted(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), quarter(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- lifted(A), quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), position(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- raised(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), quarter(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- raised(A), quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), llc(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- raised(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), position(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), position(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- raised(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), quarter(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), quarter(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- raised(A), quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), position(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- raised(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), second_quarter(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- raised(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- announced(A), dividend(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- been(A), association(B), investing(C), insurers(D).
+occur(A, B, C, D) :- been(A), association(B), investing(C), equity(D).
+occur(A, B, C, D) :- been(A), association(B), lowering(C), success(D).
+occur(A, B, C, D) :- been(A), association(B), lowering(C), requirements(D).
+occur(A, B, C, D) :- been(A), association(B), lowering(C), insurers(D).
+occur(A, B, C, D) :- been(A), association(B), lowering(C), ii(D).
+occur(A, B, C, D) :- involved(A), legislation(B), investing(C), insurers(D).
+occur(A, B, C, D) :- involved(A), legislation(B), investing(C), equity(D).
+occur(A, B, C, D) :- involved(A), legislation(B), lowering(C), success(D).
+occur(A, B, C, D) :- involved(A), legislation(B), lowering(C), requirements(D).
+occur(A, B, C, D) :- involved(A), legislation(B), lowering(C), insurers(D).
+occur(A, B, C, D) :- involved(A), legislation(B), lowering(C), ii(D).
+occur(A, B, C, D) :- accelerating(A), investment(B), doubling(C), ftse_epra_nareit_developed_europe_index(D).
+occur(A, B, C, D) :- attracting(A), investment(B), doubling(C), ftse_epra_nareit_developed_europe_index(D).
+occur(A, B, C, D) :- attracting(A), investors(B), doubling(C), ftse_epra_nareit_developed_europe_index(D).
+occur(A, B, C, D) :- strengthening(A), industry(B), covering(C), spectrum(D).
+occur(A, B, C, D) :- strengthening(A), industry(B), listed(C), company(D).
+occur(A, B, C, D) :- strengthening(A), industry(B), listed(C), investors(D).
+occur(A, B, C, D) :- strengthening(A), industry(B), listed(C), suppliers(D).
+occur(A, B, C, D) :- strengthening(A), industry(B), represents(C), epra(D).
+occur(A, B, C, D) :- strengthening(A), industry(B), represents(C), eur(D).
+occur(A, B, C, D) :- strengthening(A), industry(B), represents(C), members(D).
+occur(A, B, C, D) :- partnering(A), alex_waislitz(B), following(C), merger(D).
+occur(A, B, C, D) :- partnering(A), group(B), following(C), merger(D).
+occur(A, B, C, D) :- took(A), domain_ceo(B), following(C), merger(D).
+occur(A, B, C, D) :- took(A), control(B), following(C), merger(D).
+occur(A, B, C, D) :- took(A), july_1(B), following(C), merger(D).
+occur(A, B, C, D) :- began(A), federal_reserve(B), follow(C), suit(D).
+occur(A, B, C, D) :- began(A), federal_reserve(B), follow(C), points(D).
+occur(A, B, C, D) :- began(A), meeting(B), follow(C), suit(D).
+occur(A, B, C, D) :- began(A), meeting(B), follow(C), points(D).
+occur(A, B, C, D) :- fell(A), prices(B), follow(C), suit(D).
+occur(A, B, C, D) :- fell(A), prices(B), follow(C), points(D).
+occur(A, B, C, D) :- declared(A), dividend(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- declared(A), nasdaq(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- declared(A), nasdaq(B), represents(C), dividend(D).
+occur(A, B, C, D) :- expect(A), analysts(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), earn(B), expected(C), ratio(D).
+occur(A, B, C, D) :- reported(A), company(B), topping(C), estimates(D).
+occur(A, B, C, D) :- reported(A), eps(B), topping(C), estimates(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), transaction(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), director(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), director(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), company(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- paired(A), finalist(B), go(C), share(D).
+occur(A, B, C, D) :- paired(A), finalist(B), go(C), shopping(D).
+occur(A, B, C, D) :- paired(A), finalist(B), go(C), edition(D).
+occur(A, B, C, D) :- paired(A), finalist(B), go(C), october_19(D).
+occur(A, B, C, D) :- paired(A), horse(B), go(C), share(D).
+occur(A, B, C, D) :- paired(A), horse(B), go(C), shopping(D).
+occur(A, B, C, D) :- paired(A), horse(B), go(C), edition(D).
+occur(A, B, C, D) :- paired(A), horse(B), go(C), october_19(D).
+occur(A, B, C, D) :- winning(A), horse(B), go(C), share(D).
+occur(A, B, C, D) :- winning(A), horse(B), go(C), shopping(D).
+occur(A, B, C, D) :- winning(A), horse(B), go(C), edition(D).
+occur(A, B, C, D) :- winning(A), horse(B), go(C), october_19(D).
+occur(A, B, C, D) :- accused(A), bonn(B), make(C), reclaims(D).
+occur(A, B, C, D) :- accused(A), bankers(B), make(C), reclaims(D).
+occur(A, B, C, D) :- accused(A), involvement(B), make(C), reclaims(D).
+occur(A, B, C, D) :- orchestrated(A), scheme(B), make(C), reclaims(D).
+occur(A, B, C, D) :- pictured(A), tags(B), make(C), reclaims(D).
+occur(A, B, C, D) :- pictured(A), reclaims(B), make(C), reclaims(D).
+occur(A, B, C, D) :- pictured(A), bench(B), make(C), reclaims(D).
+occur(A, B, C, D) :- pictured(A), court(B), make(C), reclaims(D).
+occur(A, B, C, D) :- outlining(A), instances(B), totaling(C), million_euros(D).
+occur(A, B, C, D) :- said(A), brorhilker(B), totaling(C), million_euros(D).
+occur(A, B, C, D) :- said(A), reclaims(B), totaling(C), million_euros(D).
+occur(A, B, C, D) :- targeted(A), men(B), totaling(C), million_euros(D).
+occur(A, B, C, D) :- targeted(A), company(B), totaling(C), million_euros(D).
+occur(A, B, C, D) :- have(A), councils(B), decided(C), majority(D).
+occur(A, B, C, D) :- have(A), councils(B), decided(C), increase(D).
+occur(A, B, C, D) :- have(A), councils(B), rising(C), pressure(D).
+occur(A, B, C, D) :- voted(A), proposals(B), decided(C), majority(D).
+occur(A, B, C, D) :- voted(A), proposals(B), decided(C), increase(D).
+occur(A, B, C, D) :- voted(A), proposals(B), rising(C), pressure(D).
+occur(A, B, C, D) :- voted(A), increase(B), decided(C), majority(D).
+occur(A, B, C, D) :- voted(A), increase(B), decided(C), increase(D).
+occur(A, B, C, D) :- voted(A), increase(B), rising(C), pressure(D).
+occur(A, B, C, D) :- allow(A), projects(B), needed(C), increase(D).
+occur(A, B, C, D) :- allow(A), funding(B), needed(C), increase(D).
+occur(A, B, C, D) :- warned(A), council(B), needed(C), increase(D).
+occur(A, B, C, D) :- warned(A), doyle(B), needed(C), increase(D).
+occur(A, B, C, D) :- heightened(A), interest(B), announced(C), token_santander(D).
+occur(A, B, C, D) :- heightened(A), interest(B), announced(C), round(D).
+occur(A, B, C, D) :- heightened(A), interest(B), announced(C), today(D).
+occur(A, B, C, D) :- heightened(A), interest(B), raised(C), round(D).
+occur(A, B, C, D) :- heightened(A), interest(B), raised(C), investors(D).
+occur(A, B, C, D) :- heightened(A), interest(B), securitize(C), security(D).
+occur(A, B, C, D) :- heightened(A), interest(B), securitize(C), edt(D).
+occur(A, B, C, D) :- heightened(A), interest(B), securitize(C), pm(D).
+occur(A, B, C, D) :- signaling(A), interest(B), announced(C), token_santander(D).
+occur(A, B, C, D) :- signaling(A), interest(B), announced(C), round(D).
+occur(A, B, C, D) :- signaling(A), interest(B), announced(C), today(D).
+occur(A, B, C, D) :- signaling(A), interest(B), raised(C), round(D).
+occur(A, B, C, D) :- signaling(A), interest(B), raised(C), investors(D).
+occur(A, B, C, D) :- signaling(A), interest(B), securitize(C), security(D).
+occur(A, B, C, D) :- signaling(A), interest(B), securitize(C), edt(D).
+occur(A, B, C, D) :- signaling(A), interest(B), securitize(C), pm(D).
+occur(A, B, C, D) :- increasing(A), interest(B), settle(C), bond(D).
+occur(A, B, C, D) :- increasing(A), interest(B), used(C), issue(D).
+occur(A, B, C, D) :- increasing(A), interest(B), used(C), santander(D).
+occur(A, B, C, D) :- increasing(A), interest(B), used(C), token(D).
+occur(A, B, C, D) :- showing(A), banks(B), settle(C), bond(D).
+occur(A, B, C, D) :- showing(A), banks(B), used(C), issue(D).
+occur(A, B, C, D) :- showing(A), banks(B), used(C), santander(D).
+occur(A, B, C, D) :- showing(A), banks(B), used(C), token(D).
+occur(A, B, C, D) :- showing(A), interest(B), settle(C), bond(D).
+occur(A, B, C, D) :- showing(A), interest(B), used(C), issue(D).
+occur(A, B, C, D) :- showing(A), interest(B), used(C), santander(D).
+occur(A, B, C, D) :- showing(A), interest(B), used(C), token(D).
+occur(A, B, C, D) :- accused(A), maker(B), issued(C), british_american_tobacco_british_american_tobacco(D).
+occur(A, B, C, D) :- accused(A), maker(B), issued(C), bill(D).
+occur(A, B, C, D) :- avoiding(A), tax(B), issued(C), british_american_tobacco_british_american_tobacco(D).
+occur(A, B, C, D) :- avoiding(A), tax(B), issued(C), bill(D).
+occur(A, B, C, D) :- avoiding(A), money(B), issued(C), british_american_tobacco_british_american_tobacco(D).
+occur(A, B, C, D) :- avoiding(A), money(B), issued(C), bill(D).
+occur(A, B, C, D) :- channelled(A), money(B), issued(C), british_american_tobacco_british_american_tobacco(D).
+occur(A, B, C, D) :- channelled(A), money(B), issued(C), bill(D).
+occur(A, B, C, D) :- channelled(A), factory(B), issued(C), british_american_tobacco_british_american_tobacco(D).
+occur(A, B, C, D) :- channelled(A), factory(B), issued(C), bill(D).
+occur(A, B, C, D) :- channelled(A), cigarettes(B), issued(C), british_american_tobacco_british_american_tobacco(D).
+occur(A, B, C, D) :- channelled(A), cigarettes(B), issued(C), bill(D).
+occur(A, B, C, D) :- accused(A), maker(B), pursued(C), tobacco(D).
+occur(A, B, C, D) :- accused(A), maker(B), pursued(C), authority(D).
+occur(A, B, C, D) :- avoiding(A), tax(B), pursued(C), tobacco(D).
+occur(A, B, C, D) :- avoiding(A), tax(B), pursued(C), authority(D).
+occur(A, B, C, D) :- avoiding(A), money(B), pursued(C), tobacco(D).
+occur(A, B, C, D) :- avoiding(A), money(B), pursued(C), authority(D).
+occur(A, B, C, D) :- channelled(A), money(B), pursued(C), tobacco(D).
+occur(A, B, C, D) :- channelled(A), money(B), pursued(C), authority(D).
+occur(A, B, C, D) :- channelled(A), netherlands(B), pursued(C), tobacco(D).
+occur(A, B, C, D) :- channelled(A), netherlands(B), pursued(C), authority(D).
+occur(A, B, C, D) :- issued(A), authority(B), covering(C), tax(D).
+occur(A, B, C, D) :- issued(A), authority(B), covering(C), interest(D).
+occur(A, B, C, D) :- issued(A), authority(B), covering(C), penalties(D).
+occur(A, B, C, D) :- issued(A), years(B), covering(C), tax(D).
+occur(A, B, C, D) :- issued(A), years(B), covering(C), interest(D).
+occur(A, B, C, D) :- issued(A), years(B), covering(C), penalties(D).
+occur(A, B, C, D) :- considering(A), ban(B), announced(C), group(D).
+occur(A, B, C, D) :- considering(A), ban(B), announced(C), plans(D).
+occur(A, B, C, D) :- considering(A), ban(B), announced(C), week(D).
+occur(A, B, C, D) :- said(A), trump(B), announced(C), group(D).
+occur(A, B, C, D) :- said(A), trump(B), announced(C), plans(D).
+occur(A, B, C, D) :- said(A), trump(B), announced(C), week(D).
+occur(A, B, C, D) :- owing(A), share(B), expected(C), market(D).
+occur(A, B, C, D) :- owing(A), share(B), expected(C), reach(D).
+occur(A, B, C, D) :- owing(A), share(B), expected(C), grow(D).
+occur(A, B, C, D) :- owing(A), volume(B), expected(C), market(D).
+occur(A, B, C, D) :- owing(A), volume(B), expected(C), reach(D).
+occur(A, B, C, D) :- owing(A), volume(B), expected(C), grow(D).
+occur(A, B, C, D) :- owing(A), growth(B), expected(C), market(D).
+occur(A, B, C, D) :- owing(A), growth(B), expected(C), reach(D).
+occur(A, B, C, D) :- owing(A), growth(B), expected(C), grow(D).
+occur(A, B, C, D) :- expected(A), usa(B), expected(C), market(D).
+occur(A, B, C, D) :- expected(A), usa(B), expected(C), reach(D).
+occur(A, B, C, D) :- expected(A), usa(B), expected(C), grow(D).
+occur(A, B, C, D) :- expected(A), eu(B), expected(C), market(D).
+occur(A, B, C, D) :- expected(A), eu(B), expected(C), reach(D).
+occur(A, B, C, D) :- expected(A), eu(B), expected(C), grow(D).
+occur(A, B, C, D) :- expected(A), showcase(B), expected(C), market(D).
+occur(A, B, C, D) :- expected(A), showcase(B), expected(C), reach(D).
+occur(A, B, C, D) :- expected(A), showcase(B), expected(C), grow(D).
+occur(A, B, C, D) :- getting(A), interest(B), make(C), percent(D).
+occur(A, B, C, D) :- have(A), savings(B), make(C), percent(D).
+occur(A, B, C, D) :- have(A), instance(B), make(C), percent(D).
+occur(A, B, C, D) :- targeted(A), instance(B), make(C), percent(D).
+occur(A, B, C, D) :- find(A), micro(B), give(C), customer(D).
+occur(A, B, C, D) :- find(A), micro(B), give(C), service(D).
+occur(A, B, C, D) :- find(A), space(B), give(C), customer(D).
+occur(A, B, C, D) :- find(A), space(B), give(C), service(D).
+occur(A, B, C, D) :- find(A), company(B), give(C), customer(D).
+occur(A, B, C, D) :- find(A), company(B), give(C), service(D).
+occur(A, B, C, D) :- find(A), micro(B), give(C), customer(D).
+occur(A, B, C, D) :- find(A), micro(B), give(C), service(D).
+occur(A, B, C, D) :- find(A), space(B), give(C), customer(D).
+occur(A, B, C, D) :- find(A), space(B), give(C), service(D).
+occur(A, B, C, D) :- find(A), company(B), give(C), customer(D).
+occur(A, B, C, D) :- find(A), company(B), give(C), service(D).
+occur(A, B, C, D) :- based(A), system(B), get(C), pay(D).
+occur(A, B, C, D) :- based(A), system(B), get(C), enjoy(D).
+occur(A, B, C, D) :- based(A), system(B), get(C), n1(D).
+occur(A, B, C, D) :- based(A), performance(B), get(C), pay(D).
+occur(A, B, C, D) :- based(A), performance(B), get(C), enjoy(D).
+occur(A, B, C, D) :- based(A), performance(B), get(C), n1(D).
+occur(A, B, C, D) :- gets(A), loan(B), get(C), pay(D).
+occur(A, B, C, D) :- gets(A), loan(B), get(C), enjoy(D).
+occur(A, B, C, D) :- gets(A), loan(B), get(C), n1(D).
+occur(A, B, C, D) :- gets(A), customer(B), get(C), pay(D).
+occur(A, B, C, D) :- gets(A), customer(B), get(C), enjoy(D).
+occur(A, B, C, D) :- gets(A), customer(B), get(C), n1(D).
+occur(A, B, C, D) :- gets(A), renewal(B), get(C), pay(D).
+occur(A, B, C, D) :- gets(A), renewal(B), get(C), enjoy(D).
+occur(A, B, C, D) :- gets(A), renewal(B), get(C), n1(D).
+occur(A, B, C, D) :- gets(A), percent(B), get(C), pay(D).
+occur(A, B, C, D) :- gets(A), percent(B), get(C), enjoy(D).
+occur(A, B, C, D) :- gets(A), percent(B), get(C), n1(D).
+occur(A, B, C, D) :- scoring(A), system(B), get(C), pay(D).
+occur(A, B, C, D) :- scoring(A), system(B), get(C), enjoy(D).
+occur(A, B, C, D) :- scoring(A), system(B), get(C), n1(D).
+occur(A, B, C, D) :- driving(A), company(B), increased(C), fares(D).
+occur(A, B, C, D) :- driving(A), company(B), increased(C), plan(D).
+occur(A, B, C, D) :- establishing(A), durkan(B), increased(C), fares(D).
+occur(A, B, C, D) :- establishing(A), durkan(B), increased(C), plan(D).
+occur(A, B, C, D) :- establishing(A), center(B), increased(C), fares(D).
+occur(A, B, C, D) :- establishing(A), center(B), increased(C), plan(D).
+occur(A, B, C, D) :- give(A), center(B), increased(C), fares(D).
+occur(A, B, C, D) :- give(A), center(B), increased(C), plan(D).
+occur(A, B, C, D) :- give(A), representation(B), increased(C), fares(D).
+occur(A, B, C, D) :- give(A), representation(B), increased(C), plan(D).
+occur(A, B, C, D) :- give(A), drivers(B), increased(C), fares(D).
+occur(A, B, C, D) :- give(A), drivers(B), increased(C), plan(D).
+occur(A, B, C, D) :- proposed(A), durkan(B), increased(C), fares(D).
+occur(A, B, C, D) :- proposed(A), durkan(B), increased(C), plan(D).
+occur(A, B, C, D) :- settling(A), representation(B), increased(C), fares(D).
+occur(A, B, C, D) :- settling(A), representation(B), increased(C), plan(D).
+occur(A, B, C, D) :- settling(A), deactivation(B), increased(C), fares(D).
+occur(A, B, C, D) :- settling(A), deactivation(B), increased(C), plan(D).
+occur(A, B, C, D) :- increased(A), fares(B), allow(C), invest(D).
+occur(A, B, C, D) :- increased(A), fares(B), allow(C), money(D).
+occur(A, B, C, D) :- increased(A), fares(B), allow(C), officials(D).
+occur(A, B, C, D) :- increased(A), fares(B), allow(C), five_years(D).
+occur(A, B, C, D) :- increased(A), plan(B), allow(C), invest(D).
+occur(A, B, C, D) :- increased(A), plan(B), allow(C), money(D).
+occur(A, B, C, D) :- increased(A), plan(B), allow(C), officials(D).
+occur(A, B, C, D) :- increased(A), plan(B), allow(C), five_years(D).
+occur(A, B, C, D) :- are(A), shares(B), required(C), denominator(D).
+occur(A, B, C, D) :- are(A), shares(B), required(C), notify(D).
+occur(A, B, C, D) :- answered(A), yes(B), made(C), investment(D).
+occur(A, B, C, D) :- answered(A), yes(B), made(C), years(D).
+occur(A, B, C, D) :- turned(A), investment(B), made(C), investment(D).
+occur(A, B, C, D) :- turned(A), investment(B), made(C), years(D).
+occur(A, B, C, D) :- underlying(A), businesses(B), ascribing(C), market(D).
+occur(A, B, C, D) :- underlying(A), businesses(B), ascribing(C), value(D).
+occur(A, B, C, D) :- leading(A), source(B), committed(C), capital(D).
+occur(A, B, C, D) :- leading(A), source(B), totaling(C), capital(D).
+occur(A, B, C, D) :- led(A), source(B), committed(C), capital(D).
+occur(A, B, C, D) :- led(A), source(B), totaling(C), capital(D).
+occur(A, B, C, D) :- led(A), atms(B), committed(C), capital(D).
+occur(A, B, C, D) :- led(A), atms(B), totaling(C), capital(D).
+occur(A, B, C, D) :- led(A), placementtracker(B), committed(C), capital(D).
+occur(A, B, C, D) :- led(A), placementtracker(B), totaling(C), capital(D).
+occur(A, B, C, D) :- led(A), q2(B), committed(C), capital(D).
+occur(A, B, C, D) :- led(A), q2(B), totaling(C), capital(D).
+occur(A, B, C, D) :- catching(A), investors(B), driving(C), shares(D).
+occur(A, B, C, D) :- catching(A), story(B), driving(C), shares(D).
+occur(A, B, C, D) :- make(A), acquisitions(B), appreciating(C), five_years(D).
+occur(A, B, C, D) :- make(A), acquisitions(B), rewarded(C), investors(D).
+occur(A, B, C, D) :- make(A), acquisitions(B), rewarded(C), stock(D).
+occur(A, B, C, D) :- listed(A), agent(B), leading(C), deals(D).
+occur(A, B, C, D) :- listed(A), placementtracker(B), leading(C), deals(D).
+occur(A, B, C, D) :- listed(A), cowen(B), leading(C), deals(D).
+occur(A, B, C, D) :- edged(A), stock(B), achieving(C), return(D).
+occur(A, B, C, D) :- raising(A), team(B), translated(C), fees(D).
+occur(A, B, C, D) :- decided(A), office(B), lowered(C), assessments(D).
+occur(A, B, C, D) :- decided(A), office(B), lowered(C), move(D).
+occur(A, B, C, D) :- decided(A), study(B), lowered(C), assessments(D).
+occur(A, B, C, D) :- decided(A), study(B), lowered(C), move(D).
+occur(A, B, C, D) :- arrived(A), reassessment(B), valuing(C), house(D).
+occur(A, B, C, D) :- proposed(A), reassessment(B), valuing(C), house(D).
+occur(A, B, C, D) :- inflated(A), arop_trading_and_investment_company_ltd(B), purchased(C), property(D).
+occur(A, B, C, D) :- inflated(A), arop_trading_and_investment_company_ltd(B), purchased(C), months(D).
+occur(A, B, C, D) :- inflated(A), arop_trading_and_investment_company_ltd(B), said(C), report(D).
+occur(A, B, C, D) :- inflated(A), cost(B), purchased(C), property(D).
+occur(A, B, C, D) :- inflated(A), cost(B), purchased(C), months(D).
+occur(A, B, C, D) :- inflated(A), cost(B), said(C), report(D).
+occur(A, B, C, D) :- reported(A), partner(B), purchased(C), property(D).
+occur(A, B, C, D) :- reported(A), partner(B), purchased(C), months(D).
+occur(A, B, C, D) :- reported(A), partner(B), said(C), report(D).
+occur(A, B, C, D) :- delivered(A), goods(B), accused(C), ghebremeskel_tesfamariam_ghidey(D).
+occur(A, B, C, D) :- delivered(A), goods(B), accused(C), sentry(D).
+occur(A, B, C, D) :- delivered(A), goods(B), known(C), ghebremeskel_tesfamariam_ghidey(D).
+occur(A, B, C, D) :- delivered(A), goods(B), known(C), gebre(D).
+occur(A, B, C, D) :- delivered(A), goods(B), receiving(C), sentry(D).
+occur(A, B, C, D) :- delivered(A), goods(B), receiving(C), letters(D).
+occur(A, B, C, D) :- halted(A), government(B), secured(C), finance(D).
+occur(A, B, C, D) :- halted(A), government(B), secured(C), government(D).
+occur(A, B, C, D) :- halted(A), government(B), secured(C), loans(D).
+occur(A, B, C, D) :- halted(A), production(B), secured(C), finance(D).
+occur(A, B, C, D) :- halted(A), production(B), secured(C), government(D).
+occur(A, B, C, D) :- halted(A), production(B), secured(C), loans(D).
+occur(A, B, C, D) :- halted(A), dispute(B), secured(C), finance(D).
+occur(A, B, C, D) :- halted(A), dispute(B), secured(C), government(D).
+occur(A, B, C, D) :- halted(A), dispute(B), secured(C), loans(D).
+occur(A, B, C, D) :- importing(A), shortfalls(B), secured(C), finance(D).
+occur(A, B, C, D) :- importing(A), shortfalls(B), secured(C), government(D).
+occur(A, B, C, D) :- importing(A), shortfalls(B), secured(C), loans(D).
+occur(A, B, C, D) :- importing(A), goods(B), secured(C), finance(D).
+occur(A, B, C, D) :- importing(A), goods(B), secured(C), government(D).
+occur(A, B, C, D) :- importing(A), goods(B), secured(C), loans(D).
+occur(A, B, C, D) :- made(A), shortfalls(B), secured(C), finance(D).
+occur(A, B, C, D) :- made(A), shortfalls(B), secured(C), government(D).
+occur(A, B, C, D) :- made(A), shortfalls(B), secured(C), loans(D).
+occur(A, B, C, D) :- made(A), khartoum(B), secured(C), finance(D).
+occur(A, B, C, D) :- made(A), khartoum(B), secured(C), government(D).
+occur(A, B, C, D) :- made(A), khartoum(B), secured(C), loans(D).
+occur(A, B, C, D) :- made(A), reserves(B), take(C), dividend(D).
+occur(A, B, C, D) :- made(A), reserves(B), take(C), taxed(D).
+occur(A, B, C, D) :- made(A), reserves(B), underlying(C), profits(D).
+occur(A, B, C, D) :- made(A), profits(B), take(C), dividend(D).
+occur(A, B, C, D) :- made(A), profits(B), take(C), taxed(D).
+occur(A, B, C, D) :- made(A), profits(B), underlying(C), profits(D).
+occur(A, B, C, D) :- retained(A), profits(B), take(C), dividend(D).
+occur(A, B, C, D) :- retained(A), profits(B), take(C), taxed(D).
+occur(A, B, C, D) :- retained(A), profits(B), underlying(C), profits(D).
+occur(A, B, C, D) :- parked(A), people(B), welcoming(C), drivers(D).
+occur(A, B, C, D) :- parked(A), park(B), welcoming(C), drivers(D).
+occur(A, B, C, D) :- parked(A), june_23_this_year(B), welcoming(C), drivers(D).
+occur(A, B, C, D) :- taking(A), saw(B), welcoming(C), drivers(D).
+occur(A, B, C, D) :- generating(A), park(B), welcoming(C), drivers(D).
+occur(A, B, C, D) :- generating(A), income(B), welcoming(C), drivers(D).
+occur(A, B, C, D) :- generating(A), week(B), welcoming(C), drivers(D).
+occur(A, B, C, D) :- generating(A), start(B), welcoming(C), drivers(D).
+occur(A, B, C, D) :- slow(A), start(B), welcoming(C), drivers(D).
+occur(A, B, C, D) :- discussed(A), egm(B), amounting(C), stocks(D).
+occur(A, B, C, D) :- discussed(A), egm(B), amounting(C), shares(D).
+occur(A, B, C, D) :- discussed(A), egm(B), approved(C), shareholders(D).
+occur(A, B, C, D) :- discussed(A), egm(B), approved(C), cancellation(D).
+occur(A, B, C, D) :- discussed(A), egm(B), approved(C), release(D).
+occur(A, B, C, D) :- discussed(A), matters(B), amounting(C), stocks(D).
+occur(A, B, C, D) :- discussed(A), matters(B), amounting(C), shares(D).
+occur(A, B, C, D) :- discussed(A), matters(B), approved(C), shareholders(D).
+occur(A, B, C, D) :- discussed(A), matters(B), approved(C), cancellation(D).
+occur(A, B, C, D) :- discussed(A), matters(B), approved(C), release(D).
+occur(A, B, C, D) :- discussed(A), meeting(B), amounting(C), stocks(D).
+occur(A, B, C, D) :- discussed(A), meeting(B), amounting(C), shares(D).
+occur(A, B, C, D) :- discussed(A), meeting(B), approved(C), shareholders(D).
+occur(A, B, C, D) :- discussed(A), meeting(B), approved(C), cancellation(D).
+occur(A, B, C, D) :- discussed(A), meeting(B), approved(C), release(D).
+occur(A, B, C, D) :- pertaining(A), matters(B), amounting(C), stocks(D).
+occur(A, B, C, D) :- pertaining(A), matters(B), amounting(C), shares(D).
+occur(A, B, C, D) :- pertaining(A), matters(B), approved(C), shareholders(D).
+occur(A, B, C, D) :- pertaining(A), matters(B), approved(C), cancellation(D).
+occur(A, B, C, D) :- pertaining(A), matters(B), approved(C), release(D).
+occur(A, B, C, D) :- pertaining(A), merger(B), amounting(C), stocks(D).
+occur(A, B, C, D) :- pertaining(A), merger(B), amounting(C), shares(D).
+occur(A, B, C, D) :- pertaining(A), merger(B), approved(C), shareholders(D).
+occur(A, B, C, D) :- pertaining(A), merger(B), approved(C), cancellation(D).
+occur(A, B, C, D) :- pertaining(A), merger(B), approved(C), release(D).
+occur(A, B, C, D) :- based(A), decision(B), revealed(C), reserve_bank_of_australia(D).
+occur(A, B, C, D) :- based(A), decision(B), revealed(C), kept(D).
+occur(A, B, C, D) :- said(A), rba(B), revealed(C), reserve_bank_of_australia(D).
+occur(A, B, C, D) :- said(A), rba(B), revealed(C), kept(D).
+occur(A, B, C, D) :- attached(A), dwellings(B), fell(C), prices(D).
+occur(A, B, C, D) :- attached(A), dwellings(B), fell(C), june_quarter(D).
+occur(A, B, C, D) :- attached(A), dwellings(B), revealed(C), australian_bureau_of_statistics(D).
+occur(A, B, C, D) :- attached(A), dwellings(B), taking(C), value(D).
+occur(A, B, C, D) :- detached(A), dwellings(B), fell(C), prices(D).
+occur(A, B, C, D) :- detached(A), dwellings(B), fell(C), june_quarter(D).
+occur(A, B, C, D) :- detached(A), dwellings(B), revealed(C), australian_bureau_of_statistics(D).
+occur(A, B, C, D) :- detached(A), dwellings(B), taking(C), value(D).
+occur(A, B, C, D) :- said(A), bruce_hockman(B), fell(C), prices(D).
+occur(A, B, C, D) :- said(A), bruce_hockman(B), fell(C), june_quarter(D).
+occur(A, B, C, D) :- said(A), bruce_hockman(B), revealed(C), australian_bureau_of_statistics(D).
+occur(A, B, C, D) :- said(A), bruce_hockman(B), taking(C), value(D).
+occur(A, B, C, D) :- said(A), drove(B), fell(C), prices(D).
+occur(A, B, C, D) :- said(A), drove(B), fell(C), june_quarter(D).
+occur(A, B, C, D) :- said(A), drove(B), revealed(C), australian_bureau_of_statistics(D).
+occur(A, B, C, D) :- said(A), drove(B), taking(C), value(D).
+occur(A, B, C, D) :- agreed(A), life(B), consisting(C), pensioners(D).
+occur(A, B, C, D) :- agreed(A), life(B), deferred(C), pensioners(D).
+occur(A, B, C, D) :- agreed(A), life(B), provides(C), deal(D).
+occur(A, B, C, D) :- agreed(A), life(B), provides(C), security(D).
+occur(A, B, C, D) :- defined(A), schemes(B), consisting(C), pensioners(D).
+occur(A, B, C, D) :- defined(A), schemes(B), deferred(C), pensioners(D).
+occur(A, B, C, D) :- defined(A), schemes(B), provides(C), deal(D).
+occur(A, B, C, D) :- defined(A), schemes(B), provides(C), security(D).
+occur(A, B, C, D) :- addressing(A), issue(B), adopted(C), plantations(D).
+occur(A, B, C, D) :- addressing(A), issue(B), adopted(C), months(D).
+occur(A, B, C, D) :- holding(A), farmers(B), adopted(C), plantations(D).
+occur(A, B, C, D) :- holding(A), farmers(B), adopted(C), months(D).
+occur(A, B, C, D) :- introduced(A), rubber_board(B), adopted(C), plantations(D).
+occur(A, B, C, D) :- introduced(A), rubber_board(B), adopted(C), months(D).
+occur(A, B, C, D) :- introduced(A), programme(B), adopted(C), plantations(D).
+occur(A, B, C, D) :- introduced(A), programme(B), adopted(C), months(D).
+occur(A, B, C, D) :- developing(A), country(B), based(C), share(D).
+occur(A, B, C, D) :- developing(A), country(B), based(C), arbitrage(D).
+occur(A, B, C, D) :- developing(A), country(B), declining(C), manufacturing(D).
+occur(A, B, C, D) :- developing(A), country(B), declining(C), share(D).
+occur(A, B, C, D) :- developing(A), country(B), declining(C), chains(D).
+occur(A, B, C, D) :- reflects(A), wages(B), based(C), share(D).
+occur(A, B, C, D) :- reflects(A), wages(B), based(C), arbitrage(D).
+occur(A, B, C, D) :- reflects(A), wages(B), declining(C), manufacturing(D).
+occur(A, B, C, D) :- reflects(A), wages(B), declining(C), share(D).
+occur(A, B, C, D) :- reflects(A), wages(B), declining(C), chains(D).
+occur(A, B, C, D) :- rising(A), wages(B), based(C), share(D).
+occur(A, B, C, D) :- rising(A), wages(B), based(C), arbitrage(D).
+occur(A, B, C, D) :- rising(A), wages(B), declining(C), manufacturing(D).
+occur(A, B, C, D) :- rising(A), wages(B), declining(C), share(D).
+occur(A, B, C, D) :- rising(A), wages(B), declining(C), chains(D).
+occur(A, B, C, D) :- highlighted(A), research(B), projected(C), account(D).
+occur(A, B, C, D) :- highlighted(A), population(B), projected(C), account(D).
+occur(A, B, C, D) :- having(A), point(B), sold(C), accounts(D).
+occur(A, B, C, D) :- having(A), point(B), sold(C), cars(D).
+occur(A, B, C, D) :- having(A), point(B), sold(C), percent(D).
+occur(A, B, C, D) :- having(A), point(B), sold(C), china(D).
+occur(A, B, C, D) :- having(A), millionaires(B), sold(C), accounts(D).
+occur(A, B, C, D) :- having(A), millionaires(B), sold(C), cars(D).
+occur(A, B, C, D) :- having(A), millionaires(B), sold(C), percent(D).
+occur(A, B, C, D) :- having(A), millionaires(B), sold(C), china(D).
+occur(A, B, C, D) :- represents(A), reaches(B), sold(C), accounts(D).
+occur(A, B, C, D) :- represents(A), reaches(B), sold(C), cars(D).
+occur(A, B, C, D) :- represents(A), reaches(B), sold(C), percent(D).
+occur(A, B, C, D) :- represents(A), reaches(B), sold(C), china(D).
+occur(A, B, C, D) :- represents(A), china(B), sold(C), accounts(D).
+occur(A, B, C, D) :- represents(A), china(B), sold(C), cars(D).
+occur(A, B, C, D) :- represents(A), china(B), sold(C), percent(D).
+occur(A, B, C, D) :- represents(A), china(B), sold(C), china(D).
+occur(A, B, C, D) :- tipping(A), point(B), sold(C), accounts(D).
+occur(A, B, C, D) :- tipping(A), point(B), sold(C), cars(D).
+occur(A, B, C, D) :- tipping(A), point(B), sold(C), percent(D).
+occur(A, B, C, D) :- tipping(A), point(B), sold(C), china(D).
+occur(A, B, C, D) :- stepped(A), consumers(B), exported(C), percent(D).
+occur(A, B, C, D) :- stepped(A), consumers(B), fallen(C), share(D).
+occur(A, B, C, D) :- stepped(A), purchases(B), exported(C), percent(D).
+occur(A, B, C, D) :- stepped(A), purchases(B), fallen(C), share(D).
+occur(A, B, C, D) :- consolidating(A), networks(B), developing(C), world(D).
+occur(A, B, C, D) :- consolidating(A), networks(B), emerging(C), asia(D).
+occur(A, B, C, D) :- consolidating(A), networks(B), imported(C), inputs(D).
+occur(A, B, C, D) :- consolidating(A), instance(B), developing(C), world(D).
+occur(A, B, C, D) :- consolidating(A), instance(B), emerging(C), asia(D).
+occur(A, B, C, D) :- consolidating(A), instance(B), imported(C), inputs(D).
+occur(A, B, C, D) :- consolidating(A), textiles(B), developing(C), world(D).
+occur(A, B, C, D) :- consolidating(A), textiles(B), emerging(C), asia(D).
+occur(A, B, C, D) :- consolidating(A), textiles(B), imported(C), inputs(D).
+occur(A, B, C, D) :- consolidating(A), apparel(B), developing(C), world(D).
+occur(A, B, C, D) :- consolidating(A), apparel(B), emerging(C), asia(D).
+occur(A, B, C, D) :- consolidating(A), apparel(B), imported(C), inputs(D).
+occur(A, B, C, D) :- consolidating(A), country(B), developing(C), world(D).
+occur(A, B, C, D) :- consolidating(A), country(B), emerging(C), asia(D).
+occur(A, B, C, D) :- consolidating(A), country(B), imported(C), inputs(D).
+occur(A, B, C, D) :- spanning(A), networks(B), developing(C), world(D).
+occur(A, B, C, D) :- spanning(A), networks(B), emerging(C), asia(D).
+occur(A, B, C, D) :- spanning(A), networks(B), imported(C), inputs(D).
+occur(A, B, C, D) :- spanning(A), stages(B), developing(C), world(D).
+occur(A, B, C, D) :- spanning(A), stages(B), emerging(C), asia(D).
+occur(A, B, C, D) :- spanning(A), stages(B), imported(C), inputs(D).
+occur(A, B, C, D) :- interacting(A), company(B), grew(C), amount(D).
+occur(A, B, C, D) :- interacting(A), company(B), grew(C), times(D).
+occur(A, B, C, D) :- interacting(A), operations(B), grew(C), amount(D).
+occur(A, B, C, D) :- interacting(A), operations(B), grew(C), times(D).
+occur(A, B, C, D) :- interacting(A), suppliers(B), grew(C), amount(D).
+occur(A, B, C, D) :- interacting(A), suppliers(B), grew(C), times(D).
+occur(A, B, C, D) :- interacting(A), customers(B), grew(C), amount(D).
+occur(A, B, C, D) :- interacting(A), customers(B), grew(C), times(D).
+occur(A, B, C, D) :- reflects(A), company(B), grew(C), amount(D).
+occur(A, B, C, D) :- reflects(A), company(B), grew(C), times(D).
+occur(A, B, C, D) :- reduce(A), solutions(B), reduce(C), technology(D).
+occur(A, B, C, D) :- reduce(A), solutions(B), reduce(C), customs(D).
+occur(A, B, C, D) :- reduce(A), solutions(B), reduce(C), shipping(D).
+occur(A, B, C, D) :- reduce(A), times(B), reduce(C), technology(D).
+occur(A, B, C, D) :- reduce(A), times(B), reduce(C), customs(D).
+occur(A, B, C, D) :- reduce(A), times(B), reduce(C), shipping(D).
+occur(A, B, C, D) :- reduce(A), payments(B), reduce(C), technology(D).
+occur(A, B, C, D) :- reduce(A), payments(B), reduce(C), customs(D).
+occur(A, B, C, D) :- reduce(A), payments(B), reduce(C), shipping(D).
+occur(A, B, C, D) :- reduce(A), solutions(B), slow(C), frictions(D).
+occur(A, B, C, D) :- reduce(A), solutions(B), slow(C), movement(D).
+occur(A, B, C, D) :- reduce(A), solutions(B), slow(C), today(D).
+occur(A, B, C, D) :- reduce(A), times(B), slow(C), frictions(D).
+occur(A, B, C, D) :- reduce(A), times(B), slow(C), movement(D).
+occur(A, B, C, D) :- reduce(A), times(B), slow(C), today(D).
+occur(A, B, C, D) :- reduce(A), payments(B), slow(C), frictions(D).
+occur(A, B, C, D) :- reduce(A), payments(B), slow(C), movement(D).
+occur(A, B, C, D) :- reduce(A), payments(B), slow(C), today(D).
+occur(A, B, C, D) :- automating(A), company(B), outsourcing(C), bpo(D).
+occur(A, B, C, D) :- automating(A), company(B), traded(C), sectors(D).
+occur(A, B, C, D) :- automating(A), services(B), outsourcing(C), bpo(D).
+occur(A, B, C, D) :- automating(A), services(B), traded(C), sectors(D).
+occur(A, B, C, D) :- make(A), vehicles(B), dampening(C), imports(D).
+occur(A, B, C, D) :- make(A), vehicles(B), have(C), evs(D).
+occur(A, B, C, D) :- make(A), vehicles(B), have(C), parts(D).
+occur(A, B, C, D) :- make(A), vehicles(B), moving(C), parts(D).
+occur(A, B, C, D) :- make(A), vehicles(B), reduce(C), trade(D).
+occur(A, B, C, D) :- lighting(A), road(B), agreed(C), package(D).
+occur(A, B, C, D) :- lighting(A), road(B), agreed(C), wmca(D).
+occur(A, B, C, D) :- lighting(A), road(B), agreed(C), june(D).
+occur(A, B, C, D) :- lighting(A), road(B), comes(C), top(D).
+occur(A, B, C, D) :- lighting(A), improvements(B), agreed(C), package(D).
+occur(A, B, C, D) :- lighting(A), improvements(B), agreed(C), wmca(D).
+occur(A, B, C, D) :- lighting(A), improvements(B), agreed(C), june(D).
+occur(A, B, C, D) :- lighting(A), improvements(B), comes(C), top(D).
+occur(A, B, C, D) :- lighting(A), station(B), agreed(C), package(D).
+occur(A, B, C, D) :- lighting(A), station(B), agreed(C), wmca(D).
+occur(A, B, C, D) :- lighting(A), station(B), agreed(C), june(D).
+occur(A, B, C, D) :- lighting(A), station(B), comes(C), top(D).
+occur(A, B, C, D) :- lighting(A), time(B), agreed(C), package(D).
+occur(A, B, C, D) :- lighting(A), time(B), agreed(C), wmca(D).
+occur(A, B, C, D) :- lighting(A), time(B), agreed(C), june(D).
+occur(A, B, C, D) :- lighting(A), time(B), comes(C), top(D).
+occur(A, B, C, D) :- have(A), viola(B), contributed(C), dependence(D).
+occur(A, B, C, D) :- have(A), viola(B), contributed(C), decades(D).
+occur(A, B, C, D) :- have(A), viola(B), contributed(C), deforestation(D).
+occur(A, B, C, D) :- have(A), access(B), contributed(C), dependence(D).
+occur(A, B, C, D) :- have(A), access(B), contributed(C), decades(D).
+occur(A, B, C, D) :- have(A), access(B), contributed(C), deforestation(D).
+occur(A, B, C, D) :- have(A), requirement(B), contributed(C), dependence(D).
+occur(A, B, C, D) :- have(A), requirement(B), contributed(C), decades(D).
+occur(A, B, C, D) :- have(A), requirement(B), contributed(C), deforestation(D).
+occur(A, B, C, D) :- contributed(A), dependence(B), committed(C), malawi(D).
+occur(A, B, C, D) :- contributed(A), dependence(B), getting(C), cookstoves(D).
+occur(A, B, C, D) :- contributed(A), dependence(B), getting(C), country(D).
+occur(A, B, C, D) :- contributed(A), dependence(B), getting(C), use(D).
+occur(A, B, C, D) :- contributed(A), dependence(B), replace(C), fire(D).
+occur(A, B, C, D) :- contributed(A), dependence(B), replace(C), backdrop(D).
+occur(A, B, C, D) :- contributed(A), dependence(B), replace(C), malawi(D).
+occur(A, B, C, D) :- contributed(A), decades(B), committed(C), malawi(D).
+occur(A, B, C, D) :- contributed(A), decades(B), getting(C), cookstoves(D).
+occur(A, B, C, D) :- contributed(A), decades(B), getting(C), country(D).
+occur(A, B, C, D) :- contributed(A), decades(B), getting(C), use(D).
+occur(A, B, C, D) :- contributed(A), decades(B), replace(C), fire(D).
+occur(A, B, C, D) :- contributed(A), decades(B), replace(C), backdrop(D).
+occur(A, B, C, D) :- contributed(A), decades(B), replace(C), malawi(D).
+occur(A, B, C, D) :- contributed(A), deforestation(B), committed(C), malawi(D).
+occur(A, B, C, D) :- contributed(A), deforestation(B), getting(C), cookstoves(D).
+occur(A, B, C, D) :- contributed(A), deforestation(B), getting(C), country(D).
+occur(A, B, C, D) :- contributed(A), deforestation(B), getting(C), use(D).
+occur(A, B, C, D) :- contributed(A), deforestation(B), replace(C), fire(D).
+occur(A, B, C, D) :- contributed(A), deforestation(B), replace(C), backdrop(D).
+occur(A, B, C, D) :- contributed(A), deforestation(B), replace(C), malawi(D).
+occur(A, B, C, D) :- is(A), goal(B), decided(C), deutsche_bank(D).
+occur(A, B, C, D) :- is(A), goal(B), decided(C), create(D).
+occur(A, B, C, D) :- is(A), goal(B), transferred(C), unit(D).
+occur(A, B, C, D) :- is(A), model(B), decided(C), deutsche_bank(D).
+occur(A, B, C, D) :- is(A), model(B), decided(C), create(D).
+occur(A, B, C, D) :- is(A), model(B), transferred(C), unit(D).
+occur(A, B, C, D) :- have(A), goal(B), decided(C), deutsche_bank(D).
+occur(A, B, C, D) :- have(A), goal(B), decided(C), create(D).
+occur(A, B, C, D) :- have(A), goal(B), transferred(C), unit(D).
+occur(A, B, C, D) :- have(A), bank(B), decided(C), deutsche_bank(D).
+occur(A, B, C, D) :- have(A), bank(B), decided(C), create(D).
+occur(A, B, C, D) :- have(A), bank(B), transferred(C), unit(D).
+occur(A, B, C, D) :- adjusted(A), revenue(B), expects(C), deutsche_bank(D).
+occur(A, B, C, D) :- adjusted(A), revenue(B), expects(C), increase(D).
+occur(A, B, C, D) :- adjusted(A), revenue(B), reduce(C), costs(D).
+occur(A, B, C, D) :- reducing(A), strategy(B), reported(C), equity(D).
+occur(A, B, C, D) :- reducing(A), strategy(B), reported(C), decline(D).
+occur(A, B, C, D) :- reducing(A), exposure(B), reported(C), equity(D).
+occur(A, B, C, D) :- reducing(A), exposure(B), reported(C), decline(D).
+occur(A, B, C, D) :- trying(A), years(B), reported(C), equity(D).
+occur(A, B, C, D) :- trying(A), years(B), reported(C), decline(D).
+occur(A, B, C, D) :- trying(A), defend(B), reported(C), equity(D).
+occur(A, B, C, D) :- trying(A), defend(B), reported(C), decline(D).
+occur(A, B, C, D) :- importing(A), developers(B), reported(C), eia(D).
+occur(A, B, C, D) :- importing(A), developers(B), reported(C), gw(D).
+occur(A, B, C, D) :- importing(A), developers(B), reported(C), june(D).
+occur(A, B, C, D) :- importing(A), developers(B), reported(C), july(D).
+occur(A, B, C, D) :- importing(A), developers(B), seen(C), volumes(D).
+occur(A, B, C, D) :- importing(A), developers(B), seen(C), november(D).
+occur(A, B, C, D) :- importing(A), avoid(B), reported(C), eia(D).
+occur(A, B, C, D) :- importing(A), avoid(B), reported(C), gw(D).
+occur(A, B, C, D) :- importing(A), avoid(B), reported(C), june(D).
+occur(A, B, C, D) :- importing(A), avoid(B), reported(C), july(D).
+occur(A, B, C, D) :- importing(A), avoid(B), seen(C), volumes(D).
+occur(A, B, C, D) :- importing(A), avoid(B), seen(C), november(D).
+occur(A, B, C, D) :- pending(A), tariffs(B), reported(C), eia(D).
+occur(A, B, C, D) :- pending(A), tariffs(B), reported(C), gw(D).
+occur(A, B, C, D) :- pending(A), tariffs(B), reported(C), june(D).
+occur(A, B, C, D) :- pending(A), tariffs(B), reported(C), july(D).
+occur(A, B, C, D) :- pending(A), tariffs(B), seen(C), volumes(D).
+occur(A, B, C, D) :- pending(A), tariffs(B), seen(C), november(D).
+occur(A, B, C, D) :- blamed(A), mackenzie(B), added(C), amount(D).
+occur(A, B, C, D) :- blamed(A), mackenzie(B), added(C), january_to_march(D).
+occur(A, B, C, D) :- blamed(A), mackenzie(B), installed(C), mwdc(D).
+occur(A, B, C, D) :- blamed(A), mackenzie(B), installed(C), second_quarter(D).
+occur(A, B, C, D) :- blamed(A), mackenzie(B), installed(C), amount(D).
+occur(A, B, C, D) :- blamed(A), changes(B), added(C), amount(D).
+occur(A, B, C, D) :- blamed(A), changes(B), added(C), january_to_march(D).
+occur(A, B, C, D) :- blamed(A), changes(B), installed(C), mwdc(D).
+occur(A, B, C, D) :- blamed(A), changes(B), installed(C), second_quarter(D).
+occur(A, B, C, D) :- blamed(A), changes(B), installed(C), amount(D).
+occur(A, B, C, D) :- pushed(A), completion(B), installed(C), gwdc(D).
+occur(A, B, C, D) :- pushed(A), completion(B), installed(C), year(D).
+occur(A, B, C, D) :- pushed(A), completion(B), reduced(C), forecast(D).
+occur(A, B, C, D) :- pushed(A), year(B), installed(C), gwdc(D).
+occur(A, B, C, D) :- pushed(A), year(B), installed(C), year(D).
+occur(A, B, C, D) :- pushed(A), year(B), reduced(C), forecast(D).
+occur(A, B, C, D) :- warning(A), zamparo(B), fell(C), cronos_group(D).
+occur(A, B, C, D) :- warning(A), zamparo(B), fell(C), nyse(D).
+occur(A, B, C, D) :- dragged(A), tourism(B), tumbled(C), profits(D).
+occur(A, B, C, D) :- dragged(A), challenges(B), tumbled(C), profits(D).
+occur(A, B, C, D) :- posted(A), saga(B), tumbled(C), profits(D).
+occur(A, B, C, D) :- posted(A), fall(B), tumbled(C), profits(D).
+occur(A, B, C, D) :- posted(A), half(B), tumbled(C), profits(D).
+occur(A, B, C, D) :- lowered(A), shares(B), has(C), stock(D).
+occur(A, B, C, D) :- lowered(A), shares(B), has(C), rating(D).
+occur(A, B, C, D) :- assigned(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- assigned(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- reported(A), bank(B), topping(C), estimate(D).
+occur(A, B, C, D) :- raised(A), sa(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), sa(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), sa(B), owns(C), sa(D).
+occur(A, B, C, D) :- raised(A), sa(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), sa(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), stake(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), stake(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), stake(B), owns(C), sa(D).
+occur(A, B, C, D) :- raised(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), stake(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), stake(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), stake(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), stake(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), stake(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), stake(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), stake(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), lp(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), lp(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), lp(B), owns(C), lp(D).
+occur(A, B, C, D) :- raised(A), lp(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), lp(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), stake(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), stake(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), stake(B), owns(C), lp(D).
+occur(A, B, C, D) :- raised(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), stake(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), llc(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), llc(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), stake(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), stake(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), stake(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), stake(B), valued(C), stock(D).
+occur(A, B, C, D) :- owned(A), property(B), generated(C), costs(D).
+occur(A, B, C, D) :- obtain(A), er(B), holding(C), company(D).
+occur(A, B, C, D) :- obtain(A), er(B), qualifying(C), level(D).
+occur(A, B, C, D) :- obtain(A), er(B), reduced(C), shareholders(D).
+occur(A, B, C, D) :- obtain(A), er(B), reduced(C), level(D).
+occur(A, B, C, D) :- raising(A), funds(B), holding(C), company(D).
+occur(A, B, C, D) :- raising(A), funds(B), qualifying(C), level(D).
+occur(A, B, C, D) :- raising(A), funds(B), reduced(C), shareholders(D).
+occur(A, B, C, D) :- raising(A), funds(B), reduced(C), level(D).
+occur(A, B, C, D) :- raising(A), means(B), holding(C), company(D).
+occur(A, B, C, D) :- raising(A), means(B), qualifying(C), level(D).
+occur(A, B, C, D) :- raising(A), means(B), reduced(C), shareholders(D).
+occur(A, B, C, D) :- raising(A), means(B), reduced(C), level(D).
+occur(A, B, C, D) :- holding(A), company(B), qualify(C), rate(D).
+occur(A, B, C, D) :- issued(A), held(B), qualify(C), rate(D).
+occur(A, B, C, D) :- issued(A), company(B), qualify(C), rate(D).
+occur(A, B, C, D) :- issued(A), shares(B), qualify(C), rate(D).
+occur(A, B, C, D) :- acquired(A), shares(B), decided(C), purchase(D).
+occur(A, B, C, D) :- holding(A), shares(B), decided(C), purchase(D).
+occur(A, B, C, D) :- sold(A), jeff(B), decided(C), purchase(D).
+occur(A, B, C, D) :- sold(A), changes(B), decided(C), purchase(D).
+occur(A, B, C, D) :- sold(A), shares(B), decided(C), purchase(D).
+occur(A, B, C, D) :- sold(A), example(B), decided(C), purchase(D).
+occur(A, B, C, D) :- sold(A), plc(B), decided(C), purchase(D).
+occur(A, B, C, D) :- ceased(A), giant(B), awaiting(C), repatriation(D).
+occur(A, B, C, D) :- ceased(A), giant(B), estimated(C), britons(D).
+occur(A, B, C, D) :- ceased(A), giant(B), leaving(C), britons(D).
+occur(A, B, C, D) :- ceased(A), trading(B), awaiting(C), repatriation(D).
+occur(A, B, C, D) :- ceased(A), trading(B), estimated(C), britons(D).
+occur(A, B, C, D) :- ceased(A), trading(B), leaving(C), britons(D).
+occur(A, B, C, D) :- failing(A), trading(B), awaiting(C), repatriation(D).
+occur(A, B, C, D) :- failing(A), trading(B), estimated(C), britons(D).
+occur(A, B, C, D) :- failing(A), trading(B), leaving(C), britons(D).
+occur(A, B, C, D) :- failing(A), secure(B), awaiting(C), repatriation(D).
+occur(A, B, C, D) :- failing(A), secure(B), estimated(C), britons(D).
+occur(A, B, C, D) :- failing(A), secure(B), leaving(C), britons(D).
+occur(A, B, C, D) :- teaching(A), effectiveness(B), secured(C), funding(D).
+occur(A, B, C, D) :- adjusting(A), return(B), increased(C), trust(D).
+occur(A, B, C, D) :- adjusting(A), return(B), increased(C), value(D).
+occur(A, B, C, D) :- created(A), package(B), aligned(C), interests(D).
+occur(A, B, C, D) :- created(A), package(B), wrote(C), compensation(D).
+occur(A, B, C, D) :- incentivize(A), grow(B), aligned(C), interests(D).
+occur(A, B, C, D) :- incentivize(A), grow(B), wrote(C), compensation(D).
+occur(A, B, C, D) :- incentivize(A), musk(B), aligned(C), interests(D).
+occur(A, B, C, D) :- incentivize(A), musk(B), wrote(C), compensation(D).
+occur(A, B, C, D) :- wrote(A), board(B), aligned(C), interests(D).
+occur(A, B, C, D) :- wrote(A), board(B), wrote(C), compensation(D).
+occur(A, B, C, D) :- wrote(A), statement(B), aligned(C), interests(D).
+occur(A, B, C, D) :- wrote(A), statement(B), wrote(C), compensation(D).
+occur(A, B, C, D) :- has(A), company(B), received(C), musk(D).
+occur(A, B, C, D) :- has(A), company(B), received(C), compensation(D).
+occur(A, B, C, D) :- has(A), post(B), received(C), musk(D).
+occur(A, B, C, D) :- has(A), post(B), received(C), compensation(D).
+occur(A, B, C, D) :- buy(A), shares(B), made(C), investment(D).
+occur(A, B, C, D) :- buy(A), shares(B), made(C), years(D).
+occur(A, B, C, D) :- decided(A), examine(B), made(C), investment(D).
+occur(A, B, C, D) :- decided(A), examine(B), made(C), years(D).
+occur(A, B, C, D) :- decided(A), hold(B), made(C), investment(D).
+occur(A, B, C, D) :- decided(A), hold(B), made(C), years(D).
+occur(A, B, C, D) :- happened(A), year(B), made(C), investment(D).
+occur(A, B, C, D) :- happened(A), year(B), made(C), years(D).
+occur(A, B, C, D) :- holding(A), year(B), made(C), investment(D).
+occur(A, B, C, D) :- holding(A), year(B), made(C), years(D).
+occur(A, B, C, D) :- attributed(A), growth(B), estimated(C), market(D).
+occur(A, B, C, D) :- attributed(A), growth(B), estimated(C), reach(D).
+occur(A, B, C, D) :- developing(A), compliance(B), estimated(C), market(D).
+occur(A, B, C, D) :- developing(A), compliance(B), estimated(C), reach(D).
+occur(A, B, C, D) :- developing(A), markets(B), estimated(C), market(D).
+occur(A, B, C, D) :- developing(A), markets(B), estimated(C), reach(D).
+occur(A, B, C, D) :- fueled(A), market(B), forecasted(C), market(D).
+occur(A, B, C, D) :- fueled(A), market(B), forecasted(C), reach(D).
+occur(A, B, C, D) :- said(A), downturn(B), comes(C), taxes(D).
+occur(A, B, C, D) :- said(A), downturn(B), missing(C), estimates(D).
+occur(A, B, C, D) :- falling(A), day(B), said(C), muchow(D).
+occur(A, B, C, D) :- falling(A), day(B), said(C), part(D).
+occur(A, B, C, D) :- falling(A), saturday(B), said(C), muchow(D).
+occur(A, B, C, D) :- falling(A), saturday(B), said(C), part(D).
+occur(A, B, C, D) :- forwarded(A), bureau(B), responded(C), company(D).
+occur(A, B, C, D) :- forwarded(A), reply(B), responded(C), company(D).
+occur(A, B, C, D) :- handled(A), bureau(B), responded(C), company(D).
+occur(A, B, C, D) :- handled(A), complaints(B), responded(C), company(D).
+occur(A, B, C, D) :- launching(A), database(B), responded(C), company(D).
+occur(A, B, C, D) :- said(A), kathleen_kraninger(B), responded(C), company(D).
+occur(A, B, C, D) :- said(A), speech(B), responded(C), company(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- reported(A), company(B), topping(C), estimates(D).
+occur(A, B, C, D) :- reported(A), eps(B), topping(C), estimates(D).
+occur(A, B, C, D) :- raised(A), holdings(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), holdings(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), holdings(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), holdings(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), second_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), second_quarter(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), llc(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), llc(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), holdings(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), holdings(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), holdings(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- raised(A), second_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- raised(A), second_quarter(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- raised(A), second_quarter(B), owns(C), llc(D).
+occur(A, B, C, D) :- raised(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- raised(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- failing(A), file(B), accused(C), filing(D).
+occur(A, B, C, D) :- failing(A), file(B), accused(C), judge(D).
+occur(A, B, C, D) :- failing(A), file(B), indicted(C), county(D).
+occur(A, B, C, D) :- failing(A), file(B), indicted(C), counts(D).
+occur(A, B, C, D) :- used(A), funds(B), incurred(C), penalty(D).
+occur(A, B, C, D) :- used(A), anything(B), incurred(C), penalty(D).
+occur(A, B, C, D) :- used(A), costs(B), incurred(C), penalty(D).
+occur(A, B, C, D) :- assuming(A), rises(B), assuming(C), bracket(D).
+occur(A, B, C, D) :- have(A), age(B), assuming(C), bracket(D).
+occur(A, B, C, D) :- invested(A), return(B), assuming(C), bracket(D).
+occur(A, B, C, D) :- says(A), garvey(B), assuming(C), bracket(D).
+occur(A, B, C, D) :- started(A), return(B), assuming(C), bracket(D).
+occur(A, B, C, D) :- started(A), couple(B), assuming(C), bracket(D).
+occur(A, B, C, D) :- started(A), hsa(B), assuming(C), bracket(D).
+occur(A, B, C, D) :- announced(A), plc(B), given(C), investors(D).
+occur(A, B, C, D) :- announced(A), plc(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), concurrent_technologies_plc(B), given(C), investors(D).
+occur(A, B, C, D) :- announced(A), concurrent_technologies_plc(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), investors(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), october_11th(B), given(C), investors(D).
+occur(A, B, C, D) :- announced(A), october_11th(B), given(C), dividend(D).
+occur(A, B, C, D) :- said(A), company(B), paying(C), shareholders(D).
+occur(A, B, C, D) :- said(A), company(B), paying(C), cash(D).
+occur(A, B, C, D) :- said(A), company(B), starting(C), quarter(D).
+occur(A, B, C, D) :- said(A), company(B), starting(C), december(D).
+occur(A, B, C, D) :- said(A), raise(B), paying(C), shareholders(D).
+occur(A, B, C, D) :- said(A), raise(B), paying(C), cash(D).
+occur(A, B, C, D) :- said(A), raise(B), starting(C), quarter(D).
+occur(A, B, C, D) :- said(A), raise(B), starting(C), december(D).
+occur(A, B, C, D) :- sells(A), property(B), reducing(C), relief(D).
+occur(A, B, C, D) :- committed(A), jeff_bezos(B), invested(C), retailer(D).
+occur(A, B, C, D) :- committed(A), jeff_bezos(B), invested(C), order(D).
+occur(A, B, C, D) :- committed(A), company(B), invested(C), retailer(D).
+occur(A, B, C, D) :- committed(A), company(B), invested(C), order(D).
+occur(A, B, C, D) :- said(A), bezos(B), ordering(C), amazon(D).
+occur(A, B, C, D) :- said(A), bezos(B), ordering(C), vehicles(D).
+occur(A, B, C, D) :- said(A), bezos(B), ordering(C), design(D).
+occur(A, B, C, D) :- said(A), bezos(B), ordering(C), llc(D).
+occur(A, B, C, D) :- said(A), bezos(B), said(C), bezos(D).
+occur(A, B, C, D) :- said(A), bezos(B), said(C), use(D).
+occur(A, B, C, D) :- said(A), meet(B), ordering(C), amazon(D).
+occur(A, B, C, D) :- said(A), meet(B), ordering(C), vehicles(D).
+occur(A, B, C, D) :- said(A), meet(B), ordering(C), design(D).
+occur(A, B, C, D) :- said(A), meet(B), ordering(C), llc(D).
+occur(A, B, C, D) :- said(A), meet(B), said(C), bezos(D).
+occur(A, B, C, D) :- said(A), meet(B), said(C), use(D).
+occur(A, B, C, D) :- moving(A), week(B), save(C), city(D).
+occur(A, B, C, D) :- moving(A), collection(B), save(C), city(D).
+occur(A, B, C, D) :- released(A), figures(B), doubling(C), dividend(D).
+occur(A, B, C, D) :- released(A), figures(B), expect(C), brokers(D).
+occur(A, B, C, D) :- released(A), week(B), doubling(C), dividend(D).
+occur(A, B, C, D) :- released(A), week(B), expect(C), brokers(D).
+occur(A, B, C, D) :- showed(A), figures(B), doubling(C), dividend(D).
+occur(A, B, C, D) :- showed(A), figures(B), expect(C), brokers(D).
+occur(A, B, C, D) :- showed(A), growth(B), doubling(C), dividend(D).
+occur(A, B, C, D) :- showed(A), growth(B), expect(C), brokers(D).
+occur(A, B, C, D) :- reflecting(A), concerns(B), closed(C), week(D).
+occur(A, B, C, D) :- taken(A), integration(B), closed(C), week(D).
+occur(A, B, C, D) :- said(A), media(B), reported(C), media(D).
+occur(A, B, C, D) :- said(A), media(B), reported(C), transfer(D).
+occur(A, B, C, D) :- said(A), media(B), reported(C), weekend(D).
+occur(A, B, C, D) :- said(A), directive(B), reported(C), media(D).
+occur(A, B, C, D) :- said(A), directive(B), reported(C), transfer(D).
+occur(A, B, C, D) :- said(A), directive(B), reported(C), weekend(D).
+occur(A, B, C, D) :- said(A), part(B), reported(C), media(D).
+occur(A, B, C, D) :- said(A), part(B), reported(C), transfer(D).
+occur(A, B, C, D) :- said(A), part(B), reported(C), weekend(D).
+occur(A, B, C, D) :- rose(A), bank(B), seemed(C), shareholders(D).
+occur(A, B, C, D) :- rose(A), bank(B), seemed(C), shares(D).
+occur(A, B, C, D) :- had(A), news(B), seemed(C), shareholders(D).
+occur(A, B, C, D) :- had(A), news(B), seemed(C), shares(D).
+occur(A, B, C, D) :- rose(A), officer(B), seemed(C), shareholders(D).
+occur(A, B, C, D) :- rose(A), officer(B), seemed(C), shares(D).
+occur(A, B, C, D) :- intends(A), offeror(B), announced(C), firm(D).
+occur(A, B, C, D) :- intends(A), offeror(B), announced(C), filing(D).
+occur(A, B, C, D) :- intends(A), offeror(B), launched(C), offering(D).
+occur(A, B, C, D) :- intends(A), offeror(B), launched(C), ltd(D).
+occur(A, B, C, D) :- intends(A), offeror(B), launched(C), offer(D).
+occur(A, B, C, D) :- intends(A), offeror(B), owned(C), ltd(D).
+occur(A, B, C, D) :- intends(A), offeror(B), owned(C), enomoto_hiroyuki(D).
+occur(A, B, C, D) :- intends(A), maintain(B), announced(C), firm(D).
+occur(A, B, C, D) :- intends(A), maintain(B), announced(C), filing(D).
+occur(A, B, C, D) :- intends(A), maintain(B), launched(C), offering(D).
+occur(A, B, C, D) :- intends(A), maintain(B), launched(C), ltd(D).
+occur(A, B, C, D) :- intends(A), maintain(B), launched(C), offer(D).
+occur(A, B, C, D) :- intends(A), maintain(B), owned(C), ltd(D).
+occur(A, B, C, D) :- intends(A), maintain(B), owned(C), enomoto_hiroyuki(D).
+occur(A, B, C, D) :- acquire(A), agreement(B), represents(C), price(D).
+occur(A, B, C, D) :- acquire(A), agreement(B), represents(C), month(D).
+occur(A, B, C, D) :- entered(A), qrc(B), represents(C), price(D).
+occur(A, B, C, D) :- entered(A), qrc(B), represents(C), month(D).
+occur(A, B, C, D) :- entered(A), agreement(B), represents(C), price(D).
+occur(A, B, C, D) :- entered(A), agreement(B), represents(C), month(D).
+occur(A, B, C, D) :- triggered(A), offer(B), represents(C), price(D).
+occur(A, B, C, D) :- triggered(A), offer(B), represents(C), month(D).
+occur(A, B, C, D) :- triggered(A), friday(B), represents(C), price(D).
+occur(A, B, C, D) :- triggered(A), friday(B), represents(C), month(D).
+occur(A, B, C, D) :- agreed(A), part(B), signed(C), year(D).
+occur(A, B, C, D) :- agreed(A), part(B), signed(C), facility(D).
+occur(A, B, C, D) :- make(A), contingent(B), signed(C), year(D).
+occur(A, B, C, D) :- make(A), contingent(B), signed(C), facility(D).
+occur(A, B, C, D) :- comes(A), raises(B), signed(C), year(D).
+occur(A, B, C, D) :- comes(A), raises(B), signed(C), facility(D).
+occur(A, B, C, D) :- growing(A), demand(B), hitting(C), year(D).
+occur(A, B, C, D) :- growing(A), demand(B), hitting(C), july(D).
+occur(A, B, C, D) :- reported(A), network(B), hitting(C), year(D).
+occur(A, B, C, D) :- reported(A), network(B), hitting(C), july(D).
+occur(A, B, C, D) :- reported(A), demand(B), hitting(C), year(D).
+occur(A, B, C, D) :- reported(A), demand(B), hitting(C), july(D).
+occur(A, B, C, D) :- reported(A), openwork(B), totalling(C), shareholders(D).
+occur(A, B, C, D) :- amazing(A), speed(B), said(C), james_heistand(D).
+occur(A, B, C, D) :- amazing(A), speed(B), said(C), hit(D).
+occur(A, B, C, D) :- amazing(A), speed(B), said(C), release(D).
+occur(A, B, C, D) :- committed(A), investors(B), said(C), james_heistand(D).
+occur(A, B, C, D) :- committed(A), investors(B), said(C), hit(D).
+occur(A, B, C, D) :- committed(A), investors(B), said(C), release(D).
+occur(A, B, C, D) :- committed(A), speed(B), said(C), james_heistand(D).
+occur(A, B, C, D) :- committed(A), speed(B), said(C), hit(D).
+occur(A, B, C, D) :- committed(A), speed(B), said(C), release(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), officer(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- dated(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- purchased(A), director(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), director(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), director(B), owns(C), completion(D).
+occur(A, B, C, D) :- purchased(A), director(B), valued(C), shares(D).
+occur(A, B, C, D) :- purchased(A), lemann(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), lemann(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), lemann(B), owns(C), completion(D).
+occur(A, B, C, D) :- purchased(A), lemann(B), valued(C), shares(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), completion(D).
+occur(A, B, C, D) :- purchased(A), shares(B), valued(C), shares(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- purchased(A), damme_alexandre_van(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), damme_alexandre_van(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), damme_alexandre_van(B), owns(C), completion(D).
+occur(A, B, C, D) :- purchased(A), damme_alexandre_van(B), owns(C), company(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), completion(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), company(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- purchased(A), readmore(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), readmore(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), readmore(B), owns(C), completion(D).
+occur(A, B, C, D) :- purchased(A), readmore(B), valued(C), shares(D).
+occur(A, B, C, D) :- purchased(A), inc(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), inc(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), inc(B), owns(C), completion(D).
+occur(A, B, C, D) :- purchased(A), inc(B), valued(C), shares(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), completion(D).
+occur(A, B, C, D) :- purchased(A), shares(B), valued(C), shares(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), insider(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), transaction(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), insider(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), transaction(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), company(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), insider(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), transaction(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), insider(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), transaction(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), insider(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), insider(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), president(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), shares(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), president(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), president(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), shares(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), nyse(B), owns(C), president(D).
+occur(A, B, C, D) :- sold(A), nyse(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), nyse(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), nyse(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), president(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), sale(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), director(B), owns(C), director(D).
+occur(A, B, C, D) :- sold(A), director(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), director(B), owns(C), sale(D).
+occur(A, B, C, D) :- sold(A), director(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), cassaday(B), owns(C), director(D).
+occur(A, B, C, D) :- sold(A), cassaday(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), cassaday(B), owns(C), sale(D).
+occur(A, B, C, D) :- sold(A), cassaday(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), director(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), sale(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), sale(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), officer(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), ceo(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), ceo(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), ceo(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), glassman(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), glassman(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), glassman(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), chairman(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), chairman(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), president(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), sale(D).
+occur(A, B, C, D) :- dated(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), svp_irving_tan(B), owns(C), president(D).
+occur(A, B, C, D) :- sold(A), svp_irving_tan(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), svp_irving_tan(B), owns(C), sale(D).
+occur(A, B, C, D) :- sold(A), svp_irving_tan(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), president(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), sale(D).
+occur(A, B, C, D) :- sold(A), shares(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), president(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), sale(D).
+occur(A, B, C, D) :- sold(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- have(A), income(B), required(C), pay(D).
+occur(A, B, C, D) :- buy(A), shareholders(B), valuing(C), reporting(D).
+occur(A, B, C, D) :- buy(A), shareholders(B), valuing(C), company(D).
+occur(A, B, C, D) :- buffered(A), company(B), coming(C), quarter(D).
+occur(A, B, C, D) :- buffered(A), company(B), expects(C), company(D).
+occur(A, B, C, D) :- buffered(A), company(B), expects(C), revenues(D).
+occur(A, B, C, D) :- buffered(A), company(B), expects(C), estimates(D).
+occur(A, B, C, D) :- buffered(A), company(B), ranging(C), estimates(D).
+occur(A, B, C, D) :- buffered(A), company(B), ranging(C), decrease(D).
+occur(A, B, C, D) :- buffered(A), company(B), stated(C), rmb(D).
+occur(A, B, C, D) :- buffered(A), turbulence(B), coming(C), quarter(D).
+occur(A, B, C, D) :- buffered(A), turbulence(B), expects(C), company(D).
+occur(A, B, C, D) :- buffered(A), turbulence(B), expects(C), revenues(D).
+occur(A, B, C, D) :- buffered(A), turbulence(B), expects(C), estimates(D).
+occur(A, B, C, D) :- buffered(A), turbulence(B), ranging(C), estimates(D).
+occur(A, B, C, D) :- buffered(A), turbulence(B), ranging(C), decrease(D).
+occur(A, B, C, D) :- buffered(A), turbulence(B), stated(C), rmb(D).
+occur(A, B, C, D) :- buffered(A), revenues(B), coming(C), quarter(D).
+occur(A, B, C, D) :- buffered(A), revenues(B), expects(C), company(D).
+occur(A, B, C, D) :- buffered(A), revenues(B), expects(C), revenues(D).
+occur(A, B, C, D) :- buffered(A), revenues(B), expects(C), estimates(D).
+occur(A, B, C, D) :- buffered(A), revenues(B), ranging(C), estimates(D).
+occur(A, B, C, D) :- buffered(A), revenues(B), ranging(C), decrease(D).
+occur(A, B, C, D) :- buffered(A), revenues(B), stated(C), rmb(D).
+occur(A, B, C, D) :- reduced(A), rate(B), reduced(C), burden(D).
+occur(A, B, C, D) :- reduced(A), rate(B), reduced(C), result(D).
+occur(A, B, C, D) :- reduced(A), intangibles(B), qualifying(C), property(D).
+occur(A, B, C, D) :- reduced(A), intangibles(B), qualifying(C), investments(D).
+occur(A, B, C, D) :- reduced(A), intangibles(B), reduced(C), property(D).
+occur(A, B, C, D) :- reduced(A), intangibles(B), reduced(C), equity(D).
+occur(A, B, C, D) :- reduced(A), intangibles(B), reduced(C), loans(D).
+occur(A, B, C, D) :- reduced(A), intangibles(B), reduced(C), candidate(D).
+occur(A, B, C, D) :- reduced(A), intangibles(B), writing(C), university_of_lausanne(D).
+occur(A, B, C, D) :- reduced(A), intangibles(B), writing(C), thesis(D).
+occur(A, B, C, D) :- reduced(A), loans(B), qualifying(C), property(D).
+occur(A, B, C, D) :- reduced(A), loans(B), qualifying(C), investments(D).
+occur(A, B, C, D) :- reduced(A), loans(B), reduced(C), property(D).
+occur(A, B, C, D) :- reduced(A), loans(B), reduced(C), equity(D).
+occur(A, B, C, D) :- reduced(A), loans(B), reduced(C), loans(D).
+occur(A, B, C, D) :- reduced(A), loans(B), reduced(C), candidate(D).
+occur(A, B, C, D) :- reduced(A), loans(B), writing(C), university_of_lausanne(D).
+occur(A, B, C, D) :- reduced(A), loans(B), writing(C), thesis(D).
+occur(A, B, C, D) :- reduced(A), zurich(B), qualifying(C), property(D).
+occur(A, B, C, D) :- reduced(A), zurich(B), qualifying(C), investments(D).
+occur(A, B, C, D) :- reduced(A), zurich(B), reduced(C), property(D).
+occur(A, B, C, D) :- reduced(A), zurich(B), reduced(C), equity(D).
+occur(A, B, C, D) :- reduced(A), zurich(B), reduced(C), loans(D).
+occur(A, B, C, D) :- reduced(A), zurich(B), reduced(C), candidate(D).
+occur(A, B, C, D) :- reduced(A), zurich(B), writing(C), university_of_lausanne(D).
+occur(A, B, C, D) :- reduced(A), zurich(B), writing(C), thesis(D).
+occur(A, B, C, D) :- relating(A), equity(B), qualifying(C), property(D).
+occur(A, B, C, D) :- relating(A), equity(B), qualifying(C), investments(D).
+occur(A, B, C, D) :- relating(A), equity(B), reduced(C), property(D).
+occur(A, B, C, D) :- relating(A), equity(B), reduced(C), equity(D).
+occur(A, B, C, D) :- relating(A), equity(B), reduced(C), loans(D).
+occur(A, B, C, D) :- relating(A), equity(B), reduced(C), candidate(D).
+occur(A, B, C, D) :- relating(A), equity(B), writing(C), university_of_lausanne(D).
+occur(A, B, C, D) :- relating(A), equity(B), writing(C), thesis(D).
+occur(A, B, C, D) :- relating(A), tax(B), qualifying(C), property(D).
+occur(A, B, C, D) :- relating(A), tax(B), qualifying(C), investments(D).
+occur(A, B, C, D) :- relating(A), tax(B), reduced(C), property(D).
+occur(A, B, C, D) :- relating(A), tax(B), reduced(C), equity(D).
+occur(A, B, C, D) :- relating(A), tax(B), reduced(C), loans(D).
+occur(A, B, C, D) :- relating(A), tax(B), reduced(C), candidate(D).
+occur(A, B, C, D) :- relating(A), tax(B), writing(C), university_of_lausanne(D).
+occur(A, B, C, D) :- relating(A), tax(B), writing(C), thesis(D).
+occur(A, B, C, D) :- relating(A), investments(B), qualifying(C), property(D).
+occur(A, B, C, D) :- relating(A), investments(B), qualifying(C), investments(D).
+occur(A, B, C, D) :- relating(A), investments(B), reduced(C), property(D).
+occur(A, B, C, D) :- relating(A), investments(B), reduced(C), equity(D).
+occur(A, B, C, D) :- relating(A), investments(B), reduced(C), loans(D).
+occur(A, B, C, D) :- relating(A), investments(B), reduced(C), candidate(D).
+occur(A, B, C, D) :- relating(A), investments(B), writing(C), university_of_lausanne(D).
+occur(A, B, C, D) :- relating(A), investments(B), writing(C), thesis(D).
+occur(A, B, C, D) :- relating(A), patents(B), qualifying(C), property(D).
+occur(A, B, C, D) :- relating(A), patents(B), qualifying(C), investments(D).
+occur(A, B, C, D) :- relating(A), patents(B), reduced(C), property(D).
+occur(A, B, C, D) :- relating(A), patents(B), reduced(C), equity(D).
+occur(A, B, C, D) :- relating(A), patents(B), reduced(C), loans(D).
+occur(A, B, C, D) :- relating(A), patents(B), reduced(C), candidate(D).
+occur(A, B, C, D) :- relating(A), patents(B), writing(C), university_of_lausanne(D).
+occur(A, B, C, D) :- relating(A), patents(B), writing(C), thesis(D).
+occur(A, B, C, D) :- lost(A), output(B), fell(C), futures(D).
+occur(A, B, C, D) :- lost(A), output(B), lost(C), crude(D).
+occur(A, B, C, D) :- recovered(A), kingdom(B), fell(C), futures(D).
+occur(A, B, C, D) :- recovered(A), kingdom(B), lost(C), crude(D).
+occur(A, B, C, D) :- recovered(A), supplies(B), fell(C), futures(D).
+occur(A, B, C, D) :- recovered(A), supplies(B), lost(C), crude(D).
+occur(A, B, C, D) :- restored(A), thought(B), fell(C), futures(D).
+occur(A, B, C, D) :- restored(A), thought(B), lost(C), crude(D).
+occur(A, B, C, D) :- restored(A), abdulaziz_bin_salman(B), fell(C), futures(D).
+occur(A, B, C, D) :- restored(A), abdulaziz_bin_salman(B), lost(C), crude(D).
+occur(A, B, C, D) :- restored(A), output(B), fell(C), futures(D).
+occur(A, B, C, D) :- restored(A), output(B), lost(C), crude(D).
+occur(A, B, C, D) :- said(A), sources(B), fell(C), futures(D).
+occur(A, B, C, D) :- said(A), sources(B), lost(C), crude(D).
+occur(A, B, C, D) :- said(A), abdulaziz_bin_salman(B), fell(C), futures(D).
+occur(A, B, C, D) :- said(A), abdulaziz_bin_salman(B), lost(C), crude(D).
+occur(A, B, C, D) :- said(A), tuesday(B), fell(C), futures(D).
+occur(A, B, C, D) :- said(A), tuesday(B), lost(C), crude(D).
+occur(A, B, C, D) :- taking(A), sources(B), fell(C), futures(D).
+occur(A, B, C, D) :- taking(A), sources(B), lost(C), crude(D).
+occur(A, B, C, D) :- taking(A), three_weeks(B), fell(C), futures(D).
+occur(A, B, C, D) :- taking(A), three_weeks(B), lost(C), crude(D).
+occur(A, B, C, D) :- taking(A), months(B), fell(C), futures(D).
+occur(A, B, C, D) :- taking(A), months(B), lost(C), crude(D).
+occur(A, B, C, D) :- tapping(A), inventories(B), fell(C), futures(D).
+occur(A, B, C, D) :- tapping(A), inventories(B), lost(C), crude(D).
+occur(A, B, C, D) :- reversed(A), investors(B), traded(C), sterling(D).
+occur(A, B, C, D) :- reversed(A), investors(B), traded(C), day(D).
+occur(A, B, C, D) :- reversed(A), bets(B), traded(C), sterling(D).
+occur(A, B, C, D) :- reversed(A), bets(B), traded(C), day(D).
+occur(A, B, C, D) :- reversed(A), fear(B), traded(C), sterling(D).
+occur(A, B, C, D) :- reversed(A), fear(B), traded(C), day(D).
+occur(A, B, C, D) :- existing(A), schemes(B), projected(C), foregone(D).
+occur(A, B, C, D) :- existing(A), schemes(B), projected(C), rs(D).
+occur(A, B, C, D) :- existing(A), schemes(B), said(C), minister(D).
+occur(A, B, C, D) :- replace(A), rodtep(B), projected(C), foregone(D).
+occur(A, B, C, D) :- replace(A), rodtep(B), projected(C), rs(D).
+occur(A, B, C, D) :- replace(A), rodtep(B), said(C), minister(D).
+occur(A, B, C, D) :- replace(A), schemes(B), projected(C), foregone(D).
+occur(A, B, C, D) :- replace(A), schemes(B), projected(C), rs(D).
+occur(A, B, C, D) :- replace(A), schemes(B), said(C), minister(D).
+occur(A, B, C, D) :- said(A), put(B), projected(C), foregone(D).
+occur(A, B, C, D) :- said(A), put(B), projected(C), rs(D).
+occur(A, B, C, D) :- said(A), put(B), said(C), minister(D).
+occur(A, B, C, D) :- reviewed(A), norms(B), coming(C), days(D).
+occur(A, B, C, D) :- reviewed(A), reserve_bank_of_india(B), coming(C), days(D).
+occur(A, B, C, D) :- being(A), reason(B), reaching(C), pegged(D).
+occur(A, B, C, D) :- being(A), reason(B), reaching(C), company(D).
+occur(A, B, C, D) :- being(A), reason(B), reaching(C), experts(D).
+occur(A, B, C, D) :- being(A), reason(B), stopped(C), company(D).
+occur(A, B, C, D) :- being(A), reason(B), stopped(C), plans(D).
+occur(A, B, C, D) :- being(A), arbitrage(B), reaching(C), pegged(D).
+occur(A, B, C, D) :- being(A), arbitrage(B), reaching(C), company(D).
+occur(A, B, C, D) :- being(A), arbitrage(B), reaching(C), experts(D).
+occur(A, B, C, D) :- being(A), arbitrage(B), stopped(C), company(D).
+occur(A, B, C, D) :- being(A), arbitrage(B), stopped(C), plans(D).
+occur(A, B, C, D) :- formed(A), entity(B), reaching(C), pegged(D).
+occur(A, B, C, D) :- formed(A), entity(B), reaching(C), company(D).
+occur(A, B, C, D) :- formed(A), entity(B), reaching(C), experts(D).
+occur(A, B, C, D) :- formed(A), entity(B), stopped(C), company(D).
+occur(A, B, C, D) :- formed(A), entity(B), stopped(C), plans(D).
+occur(A, B, C, D) :- formed(A), investment(B), reaching(C), pegged(D).
+occur(A, B, C, D) :- formed(A), investment(B), reaching(C), company(D).
+occur(A, B, C, D) :- formed(A), investment(B), reaching(C), experts(D).
+occur(A, B, C, D) :- formed(A), investment(B), stopped(C), company(D).
+occur(A, B, C, D) :- formed(A), investment(B), stopped(C), plans(D).
+occur(A, B, C, D) :- do(A), ballot(B), increasing(C), council(D).
+occur(A, B, C, D) :- do(A), ballot(B), increasing(C), collections(D).
+occur(A, B, C, D) :- do(A), ballot(B), increasing(C), year(D).
+occur(A, B, C, D) :- rolled(A), system(B), increasing(C), council(D).
+occur(A, B, C, D) :- rolled(A), system(B), increasing(C), collections(D).
+occur(A, B, C, D) :- rolled(A), system(B), increasing(C), year(D).
+occur(A, B, C, D) :- rolled(A), paul(B), increasing(C), council(D).
+occur(A, B, C, D) :- rolled(A), paul(B), increasing(C), collections(D).
+occur(A, B, C, D) :- rolled(A), paul(B), increasing(C), year(D).
+occur(A, B, C, D) :- rolled(A), year(B), increasing(C), council(D).
+occur(A, B, C, D) :- rolled(A), year(B), increasing(C), collections(D).
+occur(A, B, C, D) :- rolled(A), year(B), increasing(C), year(D).
+occur(A, B, C, D) :- combining(A), authority(B), see(C), owner(D).
+occur(A, B, C, D) :- combining(A), authority(B), see(C), rise(D).
+occur(A, B, C, D) :- combining(A), county(B), see(C), owner(D).
+occur(A, B, C, D) :- combining(A), county(B), see(C), rise(D).
+occur(A, B, C, D) :- combining(A), levy(B), see(C), owner(D).
+occur(A, B, C, D) :- combining(A), levy(B), see(C), rise(D).
+occur(A, B, C, D) :- slashing(A), try(B), apply(C), incentives(D).
+occur(A, B, C, D) :- slashing(A), try(B), apply(C), exemptions(D).
+occur(A, B, C, D) :- slashing(A), try(B), made(C), profits(D).
+occur(A, B, C, D) :- slashing(A), try(B), made(C), company(D).
+occur(A, B, C, D) :- slashing(A), rescue(B), apply(C), incentives(D).
+occur(A, B, C, D) :- slashing(A), rescue(B), apply(C), exemptions(D).
+occur(A, B, C, D) :- slashing(A), rescue(B), made(C), profits(D).
+occur(A, B, C, D) :- slashing(A), rescue(B), made(C), company(D).
+occur(A, B, C, D) :- slashing(A), india(B), apply(C), incentives(D).
+occur(A, B, C, D) :- slashing(A), india(B), apply(C), exemptions(D).
+occur(A, B, C, D) :- slashing(A), india(B), made(C), profits(D).
+occur(A, B, C, D) :- slashing(A), india(B), made(C), company(D).
+occur(A, B, C, D) :- slashing(A), taxes(B), apply(C), incentives(D).
+occur(A, B, C, D) :- slashing(A), taxes(B), apply(C), exemptions(D).
+occur(A, B, C, D) :- slashing(A), taxes(B), made(C), profits(D).
+occur(A, B, C, D) :- slashing(A), taxes(B), made(C), company(D).
+occur(A, B, C, D) :- slashing(A), company(B), apply(C), incentives(D).
+occur(A, B, C, D) :- slashing(A), company(B), apply(C), exemptions(D).
+occur(A, B, C, D) :- slashing(A), company(B), made(C), profits(D).
+occur(A, B, C, D) :- slashing(A), company(B), made(C), company(D).
+occur(A, B, C, D) :- struggling(A), economy(B), apply(C), incentives(D).
+occur(A, B, C, D) :- struggling(A), economy(B), apply(C), exemptions(D).
+occur(A, B, C, D) :- struggling(A), economy(B), made(C), profits(D).
+occur(A, B, C, D) :- struggling(A), economy(B), made(C), company(D).
+occur(A, B, C, D) :- entitled(A), work(B), go(C), payment(D).
+occur(A, B, C, D) :- entitled(A), allowance(B), go(C), payment(D).
+occur(A, B, C, D) :- got(A), company(B), increased(C), levels(D).
+occur(A, B, C, D) :- got(A), efficient(B), increased(C), levels(D).
+occur(A, B, C, D) :- improved(A), profitability(B), increased(C), levels(D).
+occur(A, B, C, D) :- improved(A), decade(B), increased(C), levels(D).
+occur(A, B, C, D) :- agreed(A), fiserv(B), closed(C), merger(D).
+occur(A, B, C, D) :- agreed(A), fiserv(B), combined(C), company(D).
+occur(A, B, C, D) :- agreed(A), fiserv(B), owning(C), shareholders(D).
+occur(A, B, C, D) :- agreed(A), january(B), closed(C), merger(D).
+occur(A, B, C, D) :- agreed(A), january(B), combined(C), company(D).
+occur(A, B, C, D) :- agreed(A), january(B), owning(C), shareholders(D).
+occur(A, B, C, D) :- buy(A), fiserv(B), closed(C), merger(D).
+occur(A, B, C, D) :- buy(A), fiserv(B), combined(C), company(D).
+occur(A, B, C, D) :- buy(A), fiserv(B), owning(C), shareholders(D).
+occur(A, B, C, D) :- buy(A), data(B), closed(C), merger(D).
+occur(A, B, C, D) :- buy(A), data(B), combined(C), company(D).
+occur(A, B, C, D) :- buy(A), data(B), owning(C), shareholders(D).
+occur(A, B, C, D) :- believes(A), fiserv(B), projecting(C), achieve(D).
+occur(A, B, C, D) :- makes(A), combination(B), projecting(C), achieve(D).
+occur(A, B, C, D) :- makes(A), sense(B), projecting(C), achieve(D).
+occur(A, B, C, D) :- integrated(A), data(B), adjusted(C), accretion(D).
+occur(A, B, C, D) :- integrated(A), data(B), expects(C), setback(D).
+occur(A, B, C, D) :- showing(A), merits(B), adjusted(C), accretion(D).
+occur(A, B, C, D) :- showing(A), merits(B), expects(C), setback(D).
+occur(A, B, C, D) :- showing(A), business(B), adjusted(C), accretion(D).
+occur(A, B, C, D) :- showing(A), business(B), expects(C), setback(D).
+occur(A, B, C, D) :- increased(A), planning_solutions_group_llc(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), planning_solutions_group_llc(B), acquiring(C), period(D).
+occur(A, B, C, D) :- increased(A), planning_solutions_group_llc(B), owned(C), firm(D).
+occur(A, B, C, D) :- increased(A), planning_solutions_group_llc(B), owned(C), shares(D).
+occur(A, B, C, D) :- increased(A), position(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), position(B), acquiring(C), period(D).
+occur(A, B, C, D) :- increased(A), position(B), owned(C), firm(D).
+occur(A, B, C, D) :- increased(A), position(B), owned(C), shares(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), acquiring(C), period(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), owned(C), firm(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), owned(C), shares(D).
+occur(A, B, C, D) :- grew(A), de(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- selling(A), operations(B), expects(C), carrier(D).
+occur(A, B, C, D) :- selling(A), operations(B), expects(C), raise(D).
+occur(A, B, C, D) :- blocking(A), december(B), faces(C), carige(D).
+occur(A, B, C, D) :- blocking(A), december(B), faces(C), liquidation(D).
+occur(A, B, C, D) :- blocking(A), december(B), faces(C), process(D).
+occur(A, B, C, D) :- blocking(A), december(B), provided(C), funds(D).
+occur(A, B, C, D) :- blocking(A), december(B), provided(C), peers(D).
+occur(A, B, C, D) :- has(A), investor(B), faces(C), carige(D).
+occur(A, B, C, D) :- has(A), investor(B), faces(C), liquidation(D).
+occur(A, B, C, D) :- has(A), investor(B), faces(C), process(D).
+occur(A, B, C, D) :- has(A), investor(B), provided(C), funds(D).
+occur(A, B, C, D) :- has(A), investor(B), provided(C), peers(D).
+occur(A, B, C, D) :- has(A), malacalza(B), faces(C), carige(D).
+occur(A, B, C, D) :- has(A), malacalza(B), faces(C), liquidation(D).
+occur(A, B, C, D) :- has(A), malacalza(B), faces(C), process(D).
+occur(A, B, C, D) :- has(A), malacalza(B), provided(C), funds(D).
+occur(A, B, C, D) :- has(A), malacalza(B), provided(C), peers(D).
+occur(A, B, C, D) :- has(A), power(B), faces(C), carige(D).
+occur(A, B, C, D) :- has(A), power(B), faces(C), liquidation(D).
+occur(A, B, C, D) :- has(A), power(B), faces(C), process(D).
+occur(A, B, C, D) :- has(A), power(B), provided(C), funds(D).
+occur(A, B, C, D) :- has(A), power(B), provided(C), peers(D).
+occur(A, B, C, D) :- has(A), carige(B), faces(C), carige(D).
+occur(A, B, C, D) :- has(A), carige(B), faces(C), liquidation(D).
+occur(A, B, C, D) :- has(A), carige(B), faces(C), process(D).
+occur(A, B, C, D) :- has(A), carige(B), provided(C), funds(D).
+occur(A, B, C, D) :- has(A), carige(B), provided(C), peers(D).
+occur(A, B, C, D) :- makes(A), stake(B), faces(C), carige(D).
+occur(A, B, C, D) :- makes(A), stake(B), faces(C), liquidation(D).
+occur(A, B, C, D) :- makes(A), stake(B), faces(C), process(D).
+occur(A, B, C, D) :- makes(A), stake(B), provided(C), funds(D).
+occur(A, B, C, D) :- makes(A), stake(B), provided(C), peers(D).
+occur(A, B, C, D) :- makes(A), investor(B), faces(C), carige(D).
+occur(A, B, C, D) :- makes(A), investor(B), faces(C), liquidation(D).
+occur(A, B, C, D) :- makes(A), investor(B), faces(C), process(D).
+occur(A, B, C, D) :- makes(A), investor(B), provided(C), funds(D).
+occur(A, B, C, D) :- makes(A), investor(B), provided(C), peers(D).
+occur(A, B, C, D) :- prompting(A), european_central_bank(B), faces(C), carige(D).
+occur(A, B, C, D) :- prompting(A), european_central_bank(B), faces(C), liquidation(D).
+occur(A, B, C, D) :- prompting(A), european_central_bank(B), faces(C), process(D).
+occur(A, B, C, D) :- prompting(A), european_central_bank(B), provided(C), funds(D).
+occur(A, B, C, D) :- prompting(A), european_central_bank(B), provided(C), peers(D).
+occur(A, B, C, D) :- prompting(A), place(B), faces(C), carige(D).
+occur(A, B, C, D) :- prompting(A), place(B), faces(C), liquidation(D).
+occur(A, B, C, D) :- prompting(A), place(B), faces(C), process(D).
+occur(A, B, C, D) :- prompting(A), place(B), provided(C), funds(D).
+occur(A, B, C, D) :- prompting(A), place(B), provided(C), peers(D).
+occur(A, B, C, D) :- lived(A), choice(B), allowed(C), put(D).
+occur(A, B, C, D) :- lived(A), half(B), allowed(C), put(D).
+occur(A, B, C, D) :- lived(A), starters(B), allowed(C), put(D).
+occur(A, B, C, D) :- making(A), skyrocket(B), allowed(C), put(D).
+occur(A, B, C, D) :- making(A), millennials(B), allowed(C), put(D).
+occur(A, B, C, D) :- making(A), choice(B), allowed(C), put(D).
+occur(A, B, C, D) :- is(A), stigma(B), save(C), lifestyle(D).
+occur(A, B, C, D) :- dining(A), crunch(B), collapsed(C), year(D).
+occur(A, B, C, D) :- dining(A), crunch(B), collapsed(C), june_2018(D).
+occur(A, B, C, D) :- led(A), crunch(B), collapsed(C), year(D).
+occur(A, B, C, D) :- led(A), crunch(B), collapsed(C), june_2018(D).
+occur(A, B, C, D) :- led(A), customers(B), collapsed(C), year(D).
+occur(A, B, C, D) :- led(A), customers(B), collapsed(C), june_2018(D).
+occur(A, B, C, D) :- turning(A), customers(B), collapsed(C), year(D).
+occur(A, B, C, D) :- turning(A), customers(B), collapsed(C), june_2018(D).
+occur(A, B, C, D) :- turning(A), backs(B), collapsed(C), year(D).
+occur(A, B, C, D) :- turning(A), backs(B), collapsed(C), june_2018(D).
+occur(A, B, C, D) :- turning(A), chains(B), collapsed(C), year(D).
+occur(A, B, C, D) :- turning(A), chains(B), collapsed(C), june_2018(D).
+occur(A, B, C, D) :- going(A), shakeout(B), collapsed(C), restaurants(D).
+occur(A, B, C, D) :- going(A), shakeout(B), collapsed(C), crisis(D).
+occur(A, B, C, D) :- going(A), shakeout(B), lost(C), chains(D).
+occur(A, B, C, D) :- going(A), shakeout(B), lost(C), touch(D).
+occur(A, B, C, D) :- going(A), shakeout(B), lost(C), customers(D).
+occur(A, B, C, D) :- going(A), shakeout(B), presented(C), problem(D).
+occur(A, B, C, D) :- going(A), shakeout(B), said(C), kubik(D).
+occur(A, B, C, D) :- resulted(A), crisis(B), collapsed(C), restaurants(D).
+occur(A, B, C, D) :- resulted(A), crisis(B), collapsed(C), crisis(D).
+occur(A, B, C, D) :- resulted(A), crisis(B), lost(C), chains(D).
+occur(A, B, C, D) :- resulted(A), crisis(B), lost(C), touch(D).
+occur(A, B, C, D) :- resulted(A), crisis(B), lost(C), customers(D).
+occur(A, B, C, D) :- resulted(A), crisis(B), presented(C), problem(D).
+occur(A, B, C, D) :- resulted(A), crisis(B), said(C), kubik(D).
+occur(A, B, C, D) :- resulted(A), growth(B), collapsed(C), restaurants(D).
+occur(A, B, C, D) :- resulted(A), growth(B), collapsed(C), crisis(D).
+occur(A, B, C, D) :- resulted(A), growth(B), lost(C), chains(D).
+occur(A, B, C, D) :- resulted(A), growth(B), lost(C), touch(D).
+occur(A, B, C, D) :- resulted(A), growth(B), lost(C), customers(D).
+occur(A, B, C, D) :- resulted(A), growth(B), presented(C), problem(D).
+occur(A, B, C, D) :- resulted(A), growth(B), said(C), kubik(D).
+occur(A, B, C, D) :- said(A), growth(B), collapsed(C), restaurants(D).
+occur(A, B, C, D) :- said(A), growth(B), collapsed(C), crisis(D).
+occur(A, B, C, D) :- said(A), growth(B), lost(C), chains(D).
+occur(A, B, C, D) :- said(A), growth(B), lost(C), touch(D).
+occur(A, B, C, D) :- said(A), growth(B), lost(C), customers(D).
+occur(A, B, C, D) :- said(A), growth(B), presented(C), problem(D).
+occur(A, B, C, D) :- said(A), growth(B), said(C), kubik(D).
+occur(A, B, C, D) :- was(A), issuance(B), conducted(C), operation(D).
+occur(A, B, C, D) :- was(A), issuance(B), conducted(C), response(D).
+occur(A, B, C, D) :- was(A), issuance(B), involving(C), sought(D).
+occur(A, B, C, D) :- was(A), issuance(B), involving(C), operation(D).
+occur(A, B, C, D) :- was(A), issuance(B), involving(C), worth(D).
+occur(A, B, C, D) :- said(A), strategists(B), conducted(C), operation(D).
+occur(A, B, C, D) :- said(A), strategists(B), conducted(C), response(D).
+occur(A, B, C, D) :- said(A), strategists(B), involving(C), sought(D).
+occur(A, B, C, D) :- said(A), strategists(B), involving(C), operation(D).
+occur(A, B, C, D) :- said(A), strategists(B), involving(C), worth(D).
+occur(A, B, C, D) :- seeking(A), cash(B), conducted(C), operation(D).
+occur(A, B, C, D) :- seeking(A), cash(B), conducted(C), response(D).
+occur(A, B, C, D) :- seeking(A), cash(B), involving(C), sought(D).
+occur(A, B, C, D) :- seeking(A), cash(B), involving(C), operation(D).
+occur(A, B, C, D) :- seeking(A), cash(B), involving(C), worth(D).
+occur(A, B, C, D) :- seeking(A), corporations(B), conducted(C), operation(D).
+occur(A, B, C, D) :- seeking(A), corporations(B), conducted(C), response(D).
+occur(A, B, C, D) :- seeking(A), corporations(B), involving(C), sought(D).
+occur(A, B, C, D) :- seeking(A), corporations(B), involving(C), operation(D).
+occur(A, B, C, D) :- seeking(A), corporations(B), involving(C), worth(D).
+occur(A, B, C, D) :- was(A), issuance(B), said(C), conduct(D).
+occur(A, B, C, D) :- said(A), strategists(B), said(C), conduct(D).
+occur(A, B, C, D) :- seeking(A), cash(B), said(C), conduct(D).
+occur(A, B, C, D) :- seeking(A), corporations(B), said(C), conduct(D).
+occur(A, B, C, D) :- surged(A), stock(B), increasing(C), value(D).
+occur(A, B, C, D) :- surged(A), campaign(B), increasing(C), value(D).
+occur(A, B, C, D) :- surged(A), days(B), increasing(C), value(D).
+occur(A, B, C, D) :- comes(A), mandate(B), analyzed(C), datum(D).
+occur(A, B, C, D) :- comes(A), mandate(B), analyzed(C), kaiser_family_foundation(D).
+occur(A, B, C, D) :- comes(A), mandate(B), go(C), datum(D).
+occur(A, B, C, D) :- comes(A), mandate(B), purchased(C), plans(D).
+occur(A, B, C, D) :- comes(A), mandate(B), purchased(C), market(D).
+occur(A, B, C, D) :- comes(A), provision(B), analyzed(C), datum(D).
+occur(A, B, C, D) :- comes(A), provision(B), analyzed(C), kaiser_family_foundation(D).
+occur(A, B, C, D) :- comes(A), provision(B), go(C), datum(D).
+occur(A, B, C, D) :- comes(A), provision(B), purchased(C), plans(D).
+occur(A, B, C, D) :- comes(A), provision(B), purchased(C), market(D).
+occur(A, B, C, D) :- keep(A), company(B), analyzed(C), datum(D).
+occur(A, B, C, D) :- keep(A), company(B), analyzed(C), kaiser_family_foundation(D).
+occur(A, B, C, D) :- keep(A), company(B), go(C), datum(D).
+occur(A, B, C, D) :- keep(A), company(B), purchased(C), plans(D).
+occur(A, B, C, D) :- keep(A), company(B), purchased(C), market(D).
+occur(A, B, C, D) :- keep(A), overhead(B), analyzed(C), datum(D).
+occur(A, B, C, D) :- keep(A), overhead(B), analyzed(C), kaiser_family_foundation(D).
+occur(A, B, C, D) :- keep(A), overhead(B), go(C), datum(D).
+occur(A, B, C, D) :- keep(A), overhead(B), purchased(C), plans(D).
+occur(A, B, C, D) :- keep(A), overhead(B), purchased(C), market(D).
+occur(A, B, C, D) :- keep(A), profit(B), analyzed(C), datum(D).
+occur(A, B, C, D) :- keep(A), profit(B), analyzed(C), kaiser_family_foundation(D).
+occur(A, B, C, D) :- keep(A), profit(B), go(C), datum(D).
+occur(A, B, C, D) :- keep(A), profit(B), purchased(C), plans(D).
+occur(A, B, C, D) :- keep(A), profit(B), purchased(C), market(D).
+occur(A, B, C, D) :- comes(A), mandate(B), refunded(C), insurers(D).
+occur(A, B, C, D) :- comes(A), mandate(B), refunded(C), employers(D).
+occur(A, B, C, D) :- comes(A), mandate(B), showed(C), datum(D).
+occur(A, B, C, D) :- comes(A), provision(B), refunded(C), insurers(D).
+occur(A, B, C, D) :- comes(A), provision(B), refunded(C), employers(D).
+occur(A, B, C, D) :- comes(A), provision(B), showed(C), datum(D).
+occur(A, B, C, D) :- keep(A), company(B), refunded(C), insurers(D).
+occur(A, B, C, D) :- keep(A), company(B), refunded(C), employers(D).
+occur(A, B, C, D) :- keep(A), company(B), showed(C), datum(D).
+occur(A, B, C, D) :- keep(A), overhead(B), refunded(C), insurers(D).
+occur(A, B, C, D) :- keep(A), overhead(B), refunded(C), employers(D).
+occur(A, B, C, D) :- keep(A), overhead(B), showed(C), datum(D).
+occur(A, B, C, D) :- keep(A), profit(B), refunded(C), insurers(D).
+occur(A, B, C, D) :- keep(A), profit(B), refunded(C), employers(D).
+occur(A, B, C, D) :- keep(A), profit(B), showed(C), datum(D).
+occur(A, B, C, D) :- expected(A), impact(B), linked(C), workers(D).
+occur(A, B, C, D) :- expected(A), impact(B), linked(C), gm(D).
+occur(A, B, C, D) :- expected(A), impact(B), losing(C), workers(D).
+occur(A, B, C, D) :- expected(A), impact(B), losing(C), analysis(D).
+occur(A, B, C, D) :- expected(A), impact(B), released(C), analysis(D).
+occur(A, B, C, D) :- expected(A), impact(B), striking(C), workers(D).
+occur(A, B, C, D) :- expected(A), rise(B), linked(C), workers(D).
+occur(A, B, C, D) :- expected(A), rise(B), linked(C), gm(D).
+occur(A, B, C, D) :- expected(A), rise(B), losing(C), workers(D).
+occur(A, B, C, D) :- expected(A), rise(B), losing(C), analysis(D).
+occur(A, B, C, D) :- expected(A), rise(B), released(C), analysis(D).
+occur(A, B, C, D) :- expected(A), rise(B), striking(C), workers(D).
+occur(A, B, C, D) :- mounting(A), impact(B), linked(C), workers(D).
+occur(A, B, C, D) :- mounting(A), impact(B), linked(C), gm(D).
+occur(A, B, C, D) :- mounting(A), impact(B), losing(C), workers(D).
+occur(A, B, C, D) :- mounting(A), impact(B), losing(C), analysis(D).
+occur(A, B, C, D) :- mounting(A), impact(B), released(C), analysis(D).
+occur(A, B, C, D) :- mounting(A), impact(B), striking(C), workers(D).
+occur(A, B, C, D) :- began(A), strike(B), lost(C), wages(D).
+occur(A, B, C, D) :- began(A), strike(B), lost(C), revenue(D).
+occur(A, B, C, D) :- began(A), midnight(B), lost(C), wages(D).
+occur(A, B, C, D) :- began(A), midnight(B), lost(C), revenue(D).
+occur(A, B, C, D) :- began(A), monday(B), lost(C), wages(D).
+occur(A, B, C, D) :- began(A), monday(B), lost(C), revenue(D).
+occur(A, B, C, D) :- lost(A), earnings(B), anticipated(C), losses(D).
+occur(A, B, C, D) :- lost(A), earnings(B), anticipated(C), grow(D).
+occur(A, B, C, D) :- followed(A), blowup(B), made(C), stocks(D).
+occur(A, B, C, D) :- followed(A), blowup(B), peaking(C), october(D).
+occur(A, B, C, D) :- followed(A), crash(B), made(C), stocks(D).
+occur(A, B, C, D) :- followed(A), crash(B), peaking(C), october(D).
+occur(A, B, C, D) :- freezing(A), markets(B), made(C), stocks(D).
+occur(A, B, C, D) :- freezing(A), markets(B), peaking(C), october(D).
+occur(A, B, C, D) :- failed(A), airlines(B), estimated(C), cost(D).
+occur(A, B, C, D) :- save(A), business(B), committed(C), group(D).
+occur(A, B, C, D) :- became(A), issues(B), fell(C), price(D).
+occur(A, B, C, D) :- became(A), issues(B), fell(C), news(D).
+occur(A, B, C, D) :- became(A), evident(B), fell(C), price(D).
+occur(A, B, C, D) :- became(A), evident(B), fell(C), news(D).
+occur(A, B, C, D) :- citing(A), issues(B), fell(C), price(D).
+occur(A, B, C, D) :- citing(A), issues(B), fell(C), news(D).
+occur(A, B, C, D) :- offered(A), discounts(B), fell(C), price(D).
+occur(A, B, C, D) :- offered(A), discounts(B), fell(C), news(D).
+occur(A, B, C, D) :- offered(A), reason(B), fell(C), price(D).
+occur(A, B, C, D) :- offered(A), reason(B), fell(C), news(D).
+occur(A, B, C, D) :- offered(A), retailers(B), fell(C), price(D).
+occur(A, B, C, D) :- offered(A), retailers(B), fell(C), news(D).
+occur(A, B, C, D) :- reported(A), farfetch(B), fell(C), price(D).
+occur(A, B, C, D) :- reported(A), farfetch(B), fell(C), news(D).
+occur(A, B, C, D) :- reported(A), loss(B), fell(C), price(D).
+occur(A, B, C, D) :- reported(A), loss(B), fell(C), news(D).
+occur(A, B, C, D) :- covered(A), times(B), increased(C), trust(D).
+occur(A, B, C, D) :- covered(A), times(B), increased(C), size(D).
+occur(A, B, C, D) :- make(A), law(B), wants(C), gautam_adani(D).
+occur(A, B, C, D) :- make(A), law(B), wants(C), invest(D).
+occur(A, B, C, D) :- make(A), storage(B), wants(C), gautam_adani(D).
+occur(A, B, C, D) :- make(A), storage(B), wants(C), invest(D).
+occur(A, B, C, D) :- make(A), mandatory(B), wants(C), gautam_adani(D).
+occur(A, B, C, D) :- make(A), mandatory(B), wants(C), invest(D).
+occur(A, B, C, D) :- weighing(A), delhi(B), wants(C), gautam_adani(D).
+occur(A, B, C, D) :- weighing(A), delhi(B), wants(C), invest(D).
+occur(A, B, C, D) :- weighing(A), law(B), wants(C), gautam_adani(D).
+occur(A, B, C, D) :- weighing(A), law(B), wants(C), invest(D).
+occur(A, B, C, D) :- announced(A), dividend(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- reported(A), company(B), missing(C), estimate(D).
+occur(A, B, C, D) :- acquired(A), shares(B), owns(C), director(D).
+occur(A, B, C, D) :- acquired(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- acquired(A), shares(B), owns(C), purchase(D).
+occur(A, B, C, D) :- acquired(A), shares(B), valued(C), shares(D).
+occur(A, B, C, D) :- acquired(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- acquired(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- acquired(A), transaction(B), owns(C), purchase(D).
+occur(A, B, C, D) :- acquired(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- acquired(A), news(B), owns(C), director(D).
+occur(A, B, C, D) :- acquired(A), news(B), owns(C), shares(D).
+occur(A, B, C, D) :- acquired(A), news(B), owns(C), purchase(D).
+occur(A, B, C, D) :- acquired(A), news(B), valued(C), shares(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), purchase(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- recorded(A), bank(B), take(C), position(D).
+occur(A, B, C, D) :- recorded(A), assets(B), take(C), position(D).
+occur(A, B, C, D) :- rising(A), deposits(B), hitting(C), n1(D).
+occur(A, B, C, D) :- rising(A), n1(B), hitting(C), n1(D).
+occur(A, B, C, D) :- rising(A), assets(B), hitting(C), n1(D).
+occur(A, B, C, D) :- standing(A), portfolio(B), recorded(C), bank(D).
+occur(A, B, C, D) :- standing(A), portfolio(B), recorded(C), profit(D).
+occur(A, B, C, D) :- announced(A), inc(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- announced(A), inc(B), represents(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- announced(A), reports(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- announced(A), reports(B), represents(C), dividend(D).
+occur(A, B, C, D) :- expect(A), analysts(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), earn(B), expected(C), ratio(D).
+occur(A, B, C, D) :- reported(A), company(B), missing(C), estimate(D).
+occur(A, B, C, D) :- raised(A), research(B), has(C), stock(D).
+occur(A, B, C, D) :- raised(A), research(B), has(C), rating(D).
+occur(A, B, C, D) :- raised(A), brands(B), has(C), stock(D).
+occur(A, B, C, D) :- raised(A), brands(B), has(C), rating(D).
+occur(A, B, C, D) :- raised(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- raised(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- given(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- given(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), sale(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), ruth_ann_marshall(B), owns(C), director(D).
+occur(A, B, C, D) :- sold(A), ruth_ann_marshall(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), ruth_ann_marshall(B), owns(C), sale(D).
+occur(A, B, C, D) :- sold(A), ruth_ann_marshall(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), director(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), sale(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), director(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), sale(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), insiders(B), owned(C), insiders(D).
+occur(A, B, C, D) :- sold(A), shares(B), owned(C), insiders(D).
+occur(A, B, C, D) :- calling(A), parliament(B), ensure(C), proposedlegislation(D).
+occur(A, B, C, D) :- calling(A), parliament(B), ensure(C), spent(D).
+occur(A, B, C, D) :- calling(A), parliament(B), made(C), cap(D).
+occur(A, B, C, D) :- calling(A), parliament(B), made(C), lease(D).
+occur(A, B, C, D) :- calling(A), enact(B), ensure(C), proposedlegislation(D).
+occur(A, B, C, D) :- calling(A), enact(B), ensure(C), spent(D).
+occur(A, B, C, D) :- calling(A), enact(B), made(C), cap(D).
+occur(A, B, C, D) :- calling(A), enact(B), made(C), lease(D).
+occur(A, B, C, D) :- descended(A), alliance(B), ensure(C), proposedlegislation(D).
+occur(A, B, C, D) :- descended(A), alliance(B), ensure(C), spent(D).
+occur(A, B, C, D) :- descended(A), alliance(B), made(C), cap(D).
+occur(A, B, C, D) :- descended(A), alliance(B), made(C), lease(D).
+occur(A, B, C, D) :- descended(A), day(B), ensure(C), proposedlegislation(D).
+occur(A, B, C, D) :- descended(A), day(B), ensure(C), spent(D).
+occur(A, B, C, D) :- descended(A), day(B), made(C), cap(D).
+occur(A, B, C, D) :- descended(A), day(B), made(C), lease(D).
+occur(A, B, C, D) :- descended(A), canberra(B), ensure(C), proposedlegislation(D).
+occur(A, B, C, D) :- descended(A), canberra(B), ensure(C), spent(D).
+occur(A, B, C, D) :- descended(A), canberra(B), made(C), cap(D).
+occur(A, B, C, D) :- descended(A), canberra(B), made(C), lease(D).
+occur(A, B, C, D) :- led(A), alliance(B), ensure(C), proposedlegislation(D).
+occur(A, B, C, D) :- led(A), alliance(B), ensure(C), spent(D).
+occur(A, B, C, D) :- led(A), alliance(B), made(C), cap(D).
+occur(A, B, C, D) :- led(A), alliance(B), made(C), lease(D).
+occur(A, B, C, D) :- led(A), consumer_action_law_centre(B), ensure(C), proposedlegislation(D).
+occur(A, B, C, D) :- led(A), consumer_action_law_centre(B), ensure(C), spent(D).
+occur(A, B, C, D) :- led(A), consumer_action_law_centre(B), made(C), cap(D).
+occur(A, B, C, D) :- led(A), consumer_action_law_centre(B), made(C), lease(D).
+occur(A, B, C, D) :- fell(A), assets(B), comes(C), convergence(D).
+occur(A, B, C, D) :- fell(A), assets(B), declined(C), assets(D).
+occur(A, B, C, D) :- fell(A), assets(B), declined(C), time(D).
+occur(A, B, C, D) :- fell(A), assets(B), emerging(C), markets(D).
+occur(A, B, C, D) :- fell(A), assets(B), industrialized(C), country(D).
+occur(A, B, C, D) :- fell(A), assets(B), pronounced(C), convergence(D).
+occur(A, B, C, D) :- fell(A), assets(B), pronounced(C), decline(D).
+occur(A, B, C, D) :- fell(A), assets(B), pronounced(C), country(D).
+occur(A, B, C, D) :- fell(A), china(B), comes(C), convergence(D).
+occur(A, B, C, D) :- fell(A), china(B), declined(C), assets(D).
+occur(A, B, C, D) :- fell(A), china(B), declined(C), time(D).
+occur(A, B, C, D) :- fell(A), china(B), emerging(C), markets(D).
+occur(A, B, C, D) :- fell(A), china(B), industrialized(C), country(D).
+occur(A, B, C, D) :- fell(A), china(B), pronounced(C), convergence(D).
+occur(A, B, C, D) :- fell(A), china(B), pronounced(C), decline(D).
+occur(A, B, C, D) :- fell(A), china(B), pronounced(C), country(D).
+occur(A, B, C, D) :- fell(A), assets(B), emerging(C), country(D).
+occur(A, B, C, D) :- fell(A), assets(B), industrialized(C), country(D).
+occur(A, B, C, D) :- fell(A), assets(B), suffered(C), country(D).
+occur(A, B, C, D) :- fell(A), assets(B), suffered(C), decline(D).
+occur(A, B, C, D) :- fell(A), growth(B), emerging(C), country(D).
+occur(A, B, C, D) :- fell(A), growth(B), industrialized(C), country(D).
+occur(A, B, C, D) :- fell(A), growth(B), suffered(C), country(D).
+occur(A, B, C, D) :- fell(A), growth(B), suffered(C), decline(D).
+occur(A, B, C, D) :- delivered(A), fund(B), allowing(C), fund(D).
+occur(A, B, C, D) :- delivered(A), fund(B), allowing(C), set(D).
+occur(A, B, C, D) :- eclipsing(A), performance(B), allowing(C), fund(D).
+occur(A, B, C, D) :- eclipsing(A), performance(B), allowing(C), set(D).
+occur(A, B, C, D) :- operated(A), flights(B), bringing(C), passengers(D).
+occur(A, B, C, D) :- operated(A), wednesday(B), bringing(C), passengers(D).
+occur(A, B, C, D) :- said(A), caa(B), bringing(C), passengers(D).
+occur(A, B, C, D) :- keep(A), operating(B), announced(C), receive(D).
+occur(A, B, C, D) :- keep(A), operating(B), apologised(C), officer(D).
+occur(A, B, C, D) :- keep(A), operating(B), apologised(C), video(D).
+occur(A, B, C, D) :- keep(A), operating(B), apologised(C), wednesday(D).
+occur(A, B, C, D) :- keep(A), operating(B), applauded(C), staff(D).
+occur(A, B, C, D) :- keep(A), operating(B), posted(C), facebook(D).
+occur(A, B, C, D) :- keep(A), operating(B), showed(C), facebook(D).
+occur(A, B, C, D) :- expecting(A), investors(B), expects(C), john_higgins(D).
+occur(A, B, C, D) :- expecting(A), investors(B), expects(C), stocks(D).
+occur(A, B, C, D) :- expecting(A), investors(B), expects(C), capital_economics(D).
+occur(A, B, C, D) :- expecting(A), investors(B), expects(C), instance(D).
+occur(A, B, C, D) :- expecting(A), investors(B), lose(C), stocks(D).
+occur(A, B, C, D) :- expecting(A), investors(B), lose(C), end(D).
+occur(A, B, C, D) :- warned(A), hubbard(B), added(C), three_hundred_billion_dollars(D).
+occur(A, B, C, D) :- warned(A), hubbard(B), added(C), deficit(D).
+occur(A, B, C, D) :- warned(A), hubbard(B), estimated(C), three_hundred_billion_dollars(D).
+occur(A, B, C, D) :- warned(A), dangers(B), added(C), three_hundred_billion_dollars(D).
+occur(A, B, C, D) :- warned(A), dangers(B), added(C), deficit(D).
+occur(A, B, C, D) :- warned(A), dangers(B), estimated(C), three_hundred_billion_dollars(D).
+occur(A, B, C, D) :- correlated(A), size(B), lowering(C), divisors(D).
+occur(A, B, C, D) :- correlated(A), size(B), said(C), mackey(D).
+occur(A, B, C, D) :- correlated(A), size(B), said(C), cost(D).
+occur(A, B, C, D) :- said(A), mackey(B), lowering(C), divisors(D).
+occur(A, B, C, D) :- said(A), mackey(B), said(C), mackey(D).
+occur(A, B, C, D) :- said(A), mackey(B), said(C), cost(D).
+occur(A, B, C, D) :- said(A), mean(B), lowering(C), divisors(D).
+occur(A, B, C, D) :- said(A), mean(B), said(C), mackey(D).
+occur(A, B, C, D) :- said(A), mean(B), said(C), cost(D).
+occur(A, B, C, D) :- called(A), support(B), said(C), means(D).
+occur(A, B, C, D) :- given(A), support(B), said(C), means(D).
+occur(A, B, C, D) :- given(A), teachers(B), said(C), means(D).
+occur(A, B, C, D) :- wants(A), mackey(B), said(C), means(D).
+occur(A, B, C, D) :- wants(A), increase(B), said(C), means(D).
+occur(A, B, C, D) :- get(A), half(B), said(C), mackey(D).
+occur(A, B, C, D) :- get(A), half(B), said(C), need(D).
+occur(A, B, C, D) :- working(A), programs(B), said(C), mackey(D).
+occur(A, B, C, D) :- working(A), programs(B), said(C), need(D).
+occur(A, B, C, D) :- working(A), students(B), said(C), mackey(D).
+occur(A, B, C, D) :- working(A), students(B), said(C), need(D).
+occur(A, B, C, D) :- attending(A), school(B), funded(C), program(D).
+occur(A, B, C, D) :- have(A), challenges(B), funded(C), program(D).
+occur(A, B, C, D) :- telling(A), districts(B), wants(C), funding(D).
+occur(A, B, C, D) :- declared(A), dividend(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- declared(A), nyse(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- declared(A), nyse(B), represents(C), dividend(D).
+occur(A, B, C, D) :- expect(A), analysts(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), aaron(B), expected(C), ratio(D).
+occur(A, B, C, D) :- reported(A), company(B), topping(C), estimate(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), officer(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), shares(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), officer(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), news(B), valued(C), shares(D).
+occur(A, B, C, D) :- sold(A), insiders(B), owned(C), insiders(D).
+occur(A, B, C, D) :- sold(A), shares(B), owned(C), insiders(D).
+occur(A, B, C, D) :- sold(A), last_90_days(B), owned(C), insiders(D).
+occur(A, B, C, D) :- gave(A), aaron(B), has(C), stock(D).
+occur(A, B, C, D) :- gave(A), aaron(B), has(C), rating(D).
+occur(A, B, C, D) :- gave(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- gave(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- gave(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- gave(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- increased(A), keycorp(B), has(C), stock(D).
+occur(A, B, C, D) :- increased(A), keycorp(B), has(C), rating(D).
+occur(A, B, C, D) :- increased(A), price(B), has(C), stock(D).
+occur(A, B, C, D) :- increased(A), price(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- owned(A), unit(B), seized(C), county(D).
+occur(A, B, C, D) :- owned(A), unit(B), seized(C), property(D).
+occur(A, B, C, D) :- owned(A), unit(B), seized(C), oversight(D).
+occur(A, B, C, D) :- owned(A), unit(B), sold(C), county(D).
+occur(A, B, C, D) :- owned(A), unit(B), sold(C), auction(D).
+occur(A, B, C, D) :- asked(A), recommend(B), claiming(C), government(D).
+occur(A, B, C, D) :- asked(A), recommend(B), claiming(C), percent(D).
+occur(A, B, C, D) :- asked(A), recommend(B), give(C), proceeds(D).
+occur(A, B, C, D) :- asked(A), recommend(B), received(C), taxpayer(D).
+occur(A, B, C, D) :- asked(A), recommend(B), required(C), state(D).
+occur(A, B, C, D) :- asked(A), recommend(B), responded(C), clifford(D).
+occur(A, B, C, D) :- announced(A), company(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- announced(A), company(B), represents(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), annualized(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- increased(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), stake(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- increased(A), stake(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), stake(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- increased(A), stake(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), stake(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- increased(A), stake(B), valued(C), stock(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- increased(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- improve(A), masterplan(B), transformed(C), investment(D).
+occur(A, B, C, D) :- improve(A), offer(B), transformed(C), investment(D).
+occur(A, B, C, D) :- flying(A), relations(B), costing(C), journeys(D).
+occur(A, B, C, D) :- have(A), chloe(B), costing(C), journeys(D).
+occur(A, B, C, D) :- have(A), fiance(B), costing(C), journeys(D).
+occur(A, B, C, D) :- culminating(A), settlement(B), produced(C), strategy(D).
+occur(A, B, C, D) :- culminating(A), settlement(B), produced(C), july(D).
+occur(A, B, C, D) :- culminating(A), settlement(B), saying(C), strategy(D).
+occur(A, B, C, D) :- culminating(A), settlement(B), wanted(C), estimate(D).
+occur(A, B, C, D) :- led(A), deal(B), produced(C), strategy(D).
+occur(A, B, C, D) :- led(A), deal(B), produced(C), july(D).
+occur(A, B, C, D) :- led(A), deal(B), saying(C), strategy(D).
+occur(A, B, C, D) :- led(A), deal(B), wanted(C), estimate(D).
+occur(A, B, C, D) :- led(A), fosun(B), produced(C), strategy(D).
+occur(A, B, C, D) :- led(A), fosun(B), produced(C), july(D).
+occur(A, B, C, D) :- led(A), fosun(B), saying(C), strategy(D).
+occur(A, B, C, D) :- led(A), fosun(B), wanted(C), estimate(D).
+occur(A, B, C, D) :- mounted(A), difficulty(B), produced(C), strategy(D).
+occur(A, B, C, D) :- mounted(A), difficulty(B), produced(C), july(D).
+occur(A, B, C, D) :- mounted(A), difficulty(B), saying(C), strategy(D).
+occur(A, B, C, D) :- mounted(A), difficulty(B), wanted(C), estimate(D).
+occur(A, B, C, D) :- canceled(A), bookings(B), affecting(C), people(D).
+occur(A, B, C, D) :- canceled(A), bookings(B), affecting(C), world(D).
+occur(A, B, C, D) :- canceled(A), bookings(B), estimated(C), people(D).
+occur(A, B, C, D) :- ceased(A), trading(B), affecting(C), people(D).
+occur(A, B, C, D) :- ceased(A), trading(B), affecting(C), world(D).
+occur(A, B, C, D) :- ceased(A), trading(B), estimated(C), people(D).
+occur(A, B, C, D) :- said(A), company(B), affecting(C), people(D).
+occur(A, B, C, D) :- said(A), company(B), affecting(C), world(D).
+occur(A, B, C, D) :- said(A), company(B), estimated(C), people(D).
+occur(A, B, C, D) :- said(A), civil_aviation_authority(B), affecting(C), people(D).
+occur(A, B, C, D) :- said(A), civil_aviation_authority(B), affecting(C), world(D).
+occur(A, B, C, D) :- said(A), civil_aviation_authority(B), estimated(C), people(D).
+occur(A, B, C, D) :- said(A), sorry(B), affecting(C), people(D).
+occur(A, B, C, D) :- said(A), sorry(B), affecting(C), world(D).
+occur(A, B, C, D) :- said(A), sorry(B), estimated(C), people(D).
+occur(A, B, C, D) :- said(A), post(B), affecting(C), people(D).
+occur(A, B, C, D) :- said(A), post(B), affecting(C), world(D).
+occur(A, B, C, D) :- said(A), post(B), estimated(C), people(D).
+occur(A, B, C, D) :- included(A), vacations(B), announced(C), government(D).
+occur(A, B, C, D) :- included(A), vacations(B), announced(C), plans(D).
+occur(A, B, C, D) :- included(A), flights(B), announced(C), government(D).
+occur(A, B, C, D) :- included(A), flights(B), announced(C), plans(D).
+occur(A, B, C, D) :- included(A), accommodation(B), announced(C), government(D).
+occur(A, B, C, D) :- included(A), accommodation(B), announced(C), plans(D).
+occur(A, B, C, D) :- approaching(A), debts(B), came(C), negotiations(D).
+occur(A, B, C, D) :- approaching(A), debts(B), forcing(C), enter(D).
+occur(A, B, C, D) :- approaching(A), debts(B), running(C), company(D).
+occur(A, B, C, D) :- struggling(A), debts(B), came(C), negotiations(D).
+occur(A, B, C, D) :- struggling(A), debts(B), forcing(C), enter(D).
+occur(A, B, C, D) :- struggling(A), debts(B), running(C), company(D).
+occur(A, B, C, D) :- keep(A), help(B), impacted(C), travelers(D).
+occur(A, B, C, D) :- keep(A), planes(B), impacted(C), travelers(D).
+occur(A, B, C, D) :- keep(A), collapse(B), impacted(C), travelers(D).
+occur(A, B, C, D) :- keep(A), air(B), impacted(C), travelers(D).
+occur(A, B, C, D) :- said(A), condor(B), impacted(C), travelers(D).
+occur(A, B, C, D) :- seeking(A), help(B), impacted(C), travelers(D).
+occur(A, B, C, D) :- booked(A), counters(B), expecting(C), couple(D).
+occur(A, B, C, D) :- booked(A), counters(B), expecting(C), spend(D).
+occur(A, B, C, D) :- booked(A), flights(B), expecting(C), couple(D).
+occur(A, B, C, D) :- booked(A), flights(B), expecting(C), spend(D).
+occur(A, B, C, D) :- booked(A), wedding(B), expecting(C), couple(D).
+occur(A, B, C, D) :- booked(A), wedding(B), expecting(C), spend(D).
+occur(A, B, C, D) :- forced(A), improvise(B), expecting(C), couple(D).
+occur(A, B, C, D) :- forced(A), improvise(B), expecting(C), spend(D).
+occur(A, B, C, D) :- said(A), counters(B), expecting(C), couple(D).
+occur(A, B, C, D) :- said(A), counters(B), expecting(C), spend(D).
+occur(A, B, C, D) :- turned(A), collapse(B), expecting(C), couple(D).
+occur(A, B, C, D) :- turned(A), collapse(B), expecting(C), spend(D).
+occur(A, B, C, D) :- turned(A), plans(B), expecting(C), couple(D).
+occur(A, B, C, D) :- turned(A), plans(B), expecting(C), spend(D).
+occur(A, B, C, D) :- turned(A), chaos(B), expecting(C), couple(D).
+occur(A, B, C, D) :- turned(A), chaos(B), expecting(C), spend(D).
+occur(A, B, C, D) :- collapsed(A), operator(B), forcing(C), government(D).
+occur(A, B, C, D) :- collapsed(A), operator(B), forcing(C), step(D).
+occur(A, B, C, D) :- collapsed(A), operator(B), leaving(C), passengers(D).
+occur(A, B, C, D) :- collapsed(A), carrier(B), forcing(C), government(D).
+occur(A, B, C, D) :- collapsed(A), carrier(B), forcing(C), step(D).
+occur(A, B, C, D) :- collapsed(A), carrier(B), leaving(C), passengers(D).
+occur(A, B, C, D) :- collapsed(A), years(B), forcing(C), government(D).
+occur(A, B, C, D) :- collapsed(A), years(B), forcing(C), step(D).
+occur(A, B, C, D) :- collapsed(A), years(B), leaving(C), passengers(D).
+occur(A, B, C, D) :- charging(A), range(B), established(C), venture(D).
+occur(A, B, C, D) :- charging(A), range(B), invested(C), volkswagen(D).
+occur(A, B, C, D) :- charging(A), range(B), invested(C), usd(D).
+occur(A, B, C, D) :- charging(A), range(B), invested(C), venture(D).
+occur(A, B, C, D) :- charging(A), times(B), established(C), venture(D).
+occur(A, B, C, D) :- charging(A), times(B), invested(C), volkswagen(D).
+occur(A, B, C, D) :- charging(A), times(B), invested(C), usd(D).
+occur(A, B, C, D) :- charging(A), times(B), invested(C), venture(D).
+occur(A, B, C, D) :- charging(A), safety(B), established(C), venture(D).
+occur(A, B, C, D) :- charging(A), safety(B), invested(C), volkswagen(D).
+occur(A, B, C, D) :- charging(A), safety(B), invested(C), usd(D).
+occur(A, B, C, D) :- charging(A), safety(B), invested(C), venture(D).
+occur(A, B, C, D) :- convinced(A), key(B), established(C), venture(D).
+occur(A, B, C, D) :- convinced(A), key(B), invested(C), volkswagen(D).
+occur(A, B, C, D) :- convinced(A), key(B), invested(C), usd(D).
+occur(A, B, C, D) :- convinced(A), key(B), invested(C), venture(D).
+occur(A, B, C, D) :- says(A), axel_heinrich(B), established(C), venture(D).
+occur(A, B, C, D) :- says(A), axel_heinrich(B), invested(C), volkswagen(D).
+occur(A, B, C, D) :- says(A), axel_heinrich(B), invested(C), usd(D).
+occur(A, B, C, D) :- says(A), axel_heinrich(B), invested(C), venture(D).
+occur(A, B, C, D) :- declared(A), fd(B), given(C), stockholders(D).
+occur(A, B, C, D) :- declared(A), fd(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), stockholders(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- using(A), stock(B), secured(C), banks(D).
+occur(A, B, C, D) :- using(A), collateral(B), secured(C), banks(D).
+occur(A, B, C, D) :- ensure(A), bid(B), concluded(C), tuesday(D).
+occur(A, B, C, D) :- ensure(A), bid(B), injected(C), central_bank_of_nigeria(D).
+occur(A, B, C, D) :- ensure(A), bid(B), injected(C), sales(D).
+occur(A, B, C, D) :- ensure(A), bid(B), injected(C), segment(D).
+occur(A, B, C, D) :- ensure(A), stability(B), concluded(C), tuesday(D).
+occur(A, B, C, D) :- ensure(A), stability(B), injected(C), central_bank_of_nigeria(D).
+occur(A, B, C, D) :- ensure(A), stability(B), injected(C), sales(D).
+occur(A, B, C, D) :- ensure(A), stability(B), injected(C), segment(D).
+occur(A, B, C, D) :- fell(A), level(B), recorded(C), fortnight(D).
+occur(A, B, C, D) :- received(A), instrument(B), took(C), value(D).
+occur(A, B, C, D) :- received(A), interest(B), took(C), value(D).
+occur(A, B, C, D) :- received(A), week(B), took(C), value(D).
+occur(A, B, C, D) :- received(A), subscription(B), took(C), value(D).
+occur(A, B, C, D) :- remained(A), liquidity(B), opened(C), week(D).
+occur(A, B, C, D) :- remained(A), n354(B), opened(C), week(D).
+occur(A, B, C, D) :- remained(A), robust(B), opened(C), week(D).
+occur(A, B, C, D) :- cleared(A), cabinet(B), added(C), create(D).
+occur(A, B, C, D) :- cleared(A), proposal(B), added(C), create(D).
+occur(A, B, C, D) :- said(A), invest(B), added(C), create(D).
+occur(A, B, C, D) :- talking(A), west_bengal(B), added(C), create(D).
+occur(A, B, C, D) :- failing(A), submit(B), based(C), times(D).
+occur(A, B, C, D) :- failing(A), submit(B), fixed(C), surc(D).
+occur(A, B, C, D) :- failing(A), pay(B), based(C), times(D).
+occur(A, B, C, D) :- failing(A), pay(B), fixed(C), surc(D).
+occur(A, B, C, D) :- migrated(A), regime(B), had(C), etr(D).
+occur(A, B, C, D) :- migrated(A), regime(B), have(C), shell(D).
+occur(A, B, C, D) :- excluding(A), firms(B), worked(C), etr(D).
+occur(A, B, C, D) :- feared(A), collapse(B), leave(C), uk(D).
+occur(A, B, C, D) :- save(A), company(B), faces(C), government(D).
+occur(A, B, C, D) :- save(A), company(B), faces(C), choice(D).
+occur(A, B, C, D) :- save(A), company(B), faces(C), injection(D).
+occur(A, B, C, D) :- save(A), company(B), said(C), rebecca_long_bailey(D).
+occur(A, B, C, D) :- closed(A), plant(B), leaving(C), jobless(D).
+occur(A, B, C, D) :- fell(A), miles(B), leaving(C), jobless(D).
+occur(A, B, C, D) :- fell(A), times(B), leaving(C), jobless(D).
+occur(A, B, C, D) :- allowed(A), solicit(B), appeared(C), mirage(D).
+occur(A, B, C, D) :- allowed(A), solicit(B), receiving(C), tran(D).
+occur(A, B, C, D) :- allowed(A), solicit(B), receiving(C), payments(D).
+occur(A, B, C, D) :- canceled(A), job(B), hired(C), work(D).
+occur(A, B, C, D) :- canceled(A), job(B), performed(C), client(D).
+occur(A, B, C, D) :- canceled(A), job(B), performed(C), work(D).
+occur(A, B, C, D) :- canceled(A), job(B), reimbursed(C), authority(D).
+occur(A, B, C, D) :- canceled(A), job(B), said(C), huttar(D).
+occur(A, B, C, D) :- were(A), relatives(B), appeared(C), mortgage(D).
+occur(A, B, C, D) :- were(A), relatives(B), billed(C), authority(D).
+occur(A, B, C, D) :- were(A), relatives(B), went(C), pay(D).
+occur(A, B, C, D) :- buy(A), authority(B), appeared(C), mortgage(D).
+occur(A, B, C, D) :- buy(A), authority(B), billed(C), authority(D).
+occur(A, B, C, D) :- buy(A), authority(B), went(C), pay(D).
+occur(A, B, C, D) :- buy(A), land(B), appeared(C), mortgage(D).
+occur(A, B, C, D) :- buy(A), land(B), billed(C), authority(D).
+occur(A, B, C, D) :- buy(A), land(B), went(C), pay(D).
+occur(A, B, C, D) :- buy(A), project(B), appeared(C), mortgage(D).
+occur(A, B, C, D) :- buy(A), project(B), billed(C), authority(D).
+occur(A, B, C, D) :- buy(A), project(B), went(C), pay(D).
+occur(A, B, C, D) :- buy(A), aunt(B), appeared(C), mortgage(D).
+occur(A, B, C, D) :- buy(A), aunt(B), billed(C), authority(D).
+occur(A, B, C, D) :- buy(A), aunt(B), went(C), pay(D).
+occur(A, B, C, D) :- buy(A), uncle(B), appeared(C), mortgage(D).
+occur(A, B, C, D) :- buy(A), uncle(B), billed(C), authority(D).
+occur(A, B, C, D) :- buy(A), uncle(B), went(C), pay(D).
+occur(A, B, C, D) :- convinced(A), mcdonald(B), appeared(C), mortgage(D).
+occur(A, B, C, D) :- convinced(A), mcdonald(B), billed(C), authority(D).
+occur(A, B, C, D) :- convinced(A), mcdonald(B), went(C), pay(D).
+occur(A, B, C, D) :- convinced(A), authority(B), appeared(C), mortgage(D).
+occur(A, B, C, D) :- convinced(A), authority(B), billed(C), authority(D).
+occur(A, B, C, D) :- convinced(A), authority(B), went(C), pay(D).
+occur(A, B, C, D) :- say(A), attorneys(B), appeared(C), mortgage(D).
+occur(A, B, C, D) :- say(A), attorneys(B), billed(C), authority(D).
+occur(A, B, C, D) :- say(A), attorneys(B), went(C), pay(D).
+occur(A, B, C, D) :- buy(A), property(B), used(C), firm(D).
+occur(A, B, C, D) :- buy(A), property(B), used(C), funds(D).
+occur(A, B, C, D) :- implicated(A), crimes(B), awarded(C), judge(D).
+occur(A, B, C, D) :- implicated(A), crimes(B), awarded(C), sayre(D).
+occur(A, B, C, D) :- get(A), stop(B), went(C), workers(D).
+occur(A, B, C, D) :- get(A), stop(B), went(C), week(D).
+occur(A, B, C, D) :- get(A), stop(B), went(C), strike(D).
+occur(A, B, C, D) :- see(A), share(B), went(C), workers(D).
+occur(A, B, C, D) :- see(A), share(B), went(C), week(D).
+occur(A, B, C, D) :- see(A), share(B), went(C), strike(D).
+occur(A, B, C, D) :- save(A), company(B), forked(C), taxpayers(D).
+occur(A, B, C, D) :- come(A), rents(B), accounted(C), growth(D).
+occur(A, B, C, D) :- come(A), rents(B), came(C), rise(D).
+occur(A, B, C, D) :- come(A), rents(B), came(C), result(D).
+occur(A, B, C, D) :- come(A), compensation(B), accounted(C), growth(D).
+occur(A, B, C, D) :- come(A), compensation(B), came(C), rise(D).
+occur(A, B, C, D) :- come(A), compensation(B), came(C), result(D).
+occur(A, B, C, D) :- reallocated(A), rents(B), accounted(C), growth(D).
+occur(A, B, C, D) :- reallocated(A), rents(B), came(C), rise(D).
+occur(A, B, C, D) :- reallocated(A), rents(B), came(C), result(D).
+occur(A, B, C, D) :- said(A), prevent(B), said(C), new_york_federal_reserve_bank(D).
+occur(A, B, C, D) :- said(A), prevent(B), said(C), inject(D).
+occur(A, B, C, D) :- said(A), prevent(B), said(C), friday(D).
+occur(A, B, C, D) :- said(A), statement(B), said(C), new_york_federal_reserve_bank(D).
+occur(A, B, C, D) :- said(A), statement(B), said(C), inject(D).
+occur(A, B, C, D) :- said(A), statement(B), said(C), friday(D).
+occur(A, B, C, D) :- disclose(A), hour(B), awarded(C), gopuff(D).
+occur(A, B, C, D) :- resulting(A), hour(B), awarded(C), gopuff(D).
+occur(A, B, C, D) :- resulting(A), misclassification(B), awarded(C), gopuff(D).
+occur(A, B, C, D) :- resulting(A), application(B), awarded(C), gopuff(D).
+occur(A, B, C, D) :- have(A), couple(B), highlighted(C), jimmy_harte(D).
+occur(A, B, C, D) :- have(A), couple(B), highlighted(C), case(D).
+occur(A, B, C, D) :- have(A), children(B), highlighted(C), jimmy_harte(D).
+occur(A, B, C, D) :- have(A), children(B), highlighted(C), case(D).
+occur(A, B, C, D) :- announced(A), ofac(B), falling(C), decline(D).
+occur(A, B, C, D) :- announced(A), ofac(B), gained(C), market(D).
+occur(A, B, C, D) :- announced(A), ofac(B), gained(C), pp(D).
+occur(A, B, C, D) :- announced(A), series(B), falling(C), decline(D).
+occur(A, B, C, D) :- announced(A), series(B), gained(C), market(D).
+occur(A, B, C, D) :- announced(A), series(B), gained(C), pp(D).
+occur(A, B, C, D) :- follow(A), providers(B), falling(C), decline(D).
+occur(A, B, C, D) :- follow(A), providers(B), gained(C), market(D).
+occur(A, B, C, D) :- follow(A), providers(B), gained(C), pp(D).
+occur(A, B, C, D) :- follow(A), companies(B), falling(C), decline(D).
+occur(A, B, C, D) :- follow(A), companies(B), gained(C), market(D).
+occur(A, B, C, D) :- follow(A), companies(B), gained(C), pp(D).
+occur(A, B, C, D) :- get(A), dashboard(B), falling(C), decline(D).
+occur(A, B, C, D) :- get(A), dashboard(B), gained(C), market(D).
+occur(A, B, C, D) :- get(A), dashboard(B), gained(C), pp(D).
+occur(A, B, C, D) :- personalised(A), dashboard(B), falling(C), decline(D).
+occur(A, B, C, D) :- personalised(A), dashboard(B), gained(C), market(D).
+occur(A, B, C, D) :- personalised(A), dashboard(B), gained(C), pp(D).
+occur(A, B, C, D) :- scrutinize(A), investors(B), falling(C), decline(D).
+occur(A, B, C, D) :- scrutinize(A), investors(B), gained(C), market(D).
+occur(A, B, C, D) :- scrutinize(A), investors(B), gained(C), pp(D).
+occur(A, B, C, D) :- scrutinize(A), rts(B), falling(C), decline(D).
+occur(A, B, C, D) :- scrutinize(A), rts(B), gained(C), market(D).
+occur(A, B, C, D) :- scrutinize(A), rts(B), gained(C), pp(D).
+occur(A, B, C, D) :- blocked(A), risk(B), said(C), lse(D).
+occur(A, B, C, D) :- blocked(A), risk(B), wants(C), stick(D).
+occur(A, B, C, D) :- blocked(A), regulators(B), said(C), lse(D).
+occur(A, B, C, D) :- blocked(A), regulators(B), wants(C), stick(D).
+occur(A, B, C, D) :- came(A), risk(B), said(C), lse(D).
+occur(A, B, C, D) :- came(A), risk(B), wants(C), stick(D).
+occur(A, B, C, D) :- saying(A), offer(B), said(C), lse(D).
+occur(A, B, C, D) :- saying(A), offer(B), wants(C), stick(D).
+occur(A, B, C, D) :- saying(A), meet(B), said(C), lse(D).
+occur(A, B, C, D) :- saying(A), meet(B), wants(C), stick(D).
+occur(A, B, C, D) :- failed(A), plan(B), lost(C), man(D).
+occur(A, B, C, D) :- filed(A), case(B), lost(C), man(D).
+occur(A, B, C, D) :- filed(A), recover(B), lost(C), man(D).
+occur(A, B, C, D) :- invested(A), plan(B), lost(C), man(D).
+occur(A, B, C, D) :- lost(A), case(B), lost(C), man(D).
+occur(A, B, C, D) :- took(A), cortis(B), leaving(C), balance(D).
+occur(A, B, C, D) :- took(A), portelli(B), leaving(C), balance(D).
+occur(A, B, C, D) :- took(A), time(B), leaving(C), balance(D).
+occur(A, B, C, D) :- took(A), repayment(B), leaving(C), balance(D).
+occur(A, B, C, D) :- announced(A), nyse(B), annualized(C), rate(D).
+occur(A, B, C, D) :- announced(A), nyse(B), represents(C), dividend(D).
+occur(A, B, C, D) :- announced(A), nyse(B), represents(C), rate(D).
+occur(A, B, C, D) :- announced(A), today(B), annualized(C), rate(D).
+occur(A, B, C, D) :- announced(A), today(B), represents(C), dividend(D).
+occur(A, B, C, D) :- announced(A), today(B), represents(C), rate(D).
+occur(A, B, C, D) :- declared(A), dividends(B), annualized(C), rate(D).
+occur(A, B, C, D) :- declared(A), dividends(B), represents(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividends(B), represents(C), rate(D).
+occur(A, B, C, D) :- made(A), profit(B), alleged(C), scheme(D).
+occur(A, B, C, D) :- made(A), profit(B), estimated(C), brorhilker(D).
+occur(A, B, C, D) :- made(A), profit(B), lost(C), taxes(D).
+occur(A, B, C, D) :- made(A), profit(B), prosecuting(C), scheme(D).
+occur(A, B, C, D) :- made(A), profit(B), prosecuting(C), germany(D).
+occur(A, B, C, D) :- made(A), banks(B), alleged(C), scheme(D).
+occur(A, B, C, D) :- made(A), banks(B), estimated(C), brorhilker(D).
+occur(A, B, C, D) :- made(A), banks(B), lost(C), taxes(D).
+occur(A, B, C, D) :- made(A), banks(B), prosecuting(C), scheme(D).
+occur(A, B, C, D) :- made(A), banks(B), prosecuting(C), germany(D).
+occur(A, B, C, D) :- moving(A), firm(B), alleged(C), scheme(D).
+occur(A, B, C, D) :- moving(A), firm(B), estimated(C), brorhilker(D).
+occur(A, B, C, D) :- moving(A), firm(B), lost(C), taxes(D).
+occur(A, B, C, D) :- moving(A), firm(B), prosecuting(C), scheme(D).
+occur(A, B, C, D) :- moving(A), firm(B), prosecuting(C), germany(D).
+occur(A, B, C, D) :- started(A), men(B), alleged(C), scheme(D).
+occur(A, B, C, D) :- started(A), men(B), estimated(C), brorhilker(D).
+occur(A, B, C, D) :- started(A), men(B), lost(C), taxes(D).
+occur(A, B, C, D) :- started(A), men(B), prosecuting(C), scheme(D).
+occur(A, B, C, D) :- started(A), men(B), prosecuting(C), germany(D).
+occur(A, B, C, D) :- tapping(A), network(B), alleged(C), scheme(D).
+occur(A, B, C, D) :- tapping(A), network(B), estimated(C), brorhilker(D).
+occur(A, B, C, D) :- tapping(A), network(B), lost(C), taxes(D).
+occur(A, B, C, D) :- tapping(A), network(B), prosecuting(C), scheme(D).
+occur(A, B, C, D) :- tapping(A), network(B), prosecuting(C), germany(D).
+occur(A, B, C, D) :- working(A), hvb(B), alleged(C), scheme(D).
+occur(A, B, C, D) :- working(A), hvb(B), estimated(C), brorhilker(D).
+occur(A, B, C, D) :- working(A), hvb(B), lost(C), taxes(D).
+occur(A, B, C, D) :- working(A), hvb(B), prosecuting(C), scheme(D).
+occur(A, B, C, D) :- working(A), hvb(B), prosecuting(C), germany(D).
+occur(A, B, C, D) :- improve(A), decisions(B), giving(C), people(D).
+occur(A, B, C, D) :- improve(A), decisions(B), giving(C), mandate(D).
+occur(A, B, C, D) :- improve(A), environment(B), giving(C), people(D).
+occur(A, B, C, D) :- improve(A), environment(B), giving(C), mandate(D).
+occur(A, B, C, D) :- said(A), modi(B), giving(C), people(D).
+occur(A, B, C, D) :- said(A), modi(B), giving(C), mandate(D).
+occur(A, B, C, D) :- said(A), decisions(B), giving(C), people(D).
+occur(A, B, C, D) :- said(A), decisions(B), giving(C), mandate(D).
+occur(A, B, C, D) :- moved(A), today(B), give(C), mpir(D).
+occur(A, B, C, D) :- moved(A), today(B), give(C), task(D).
+occur(A, B, C, D) :- is(A), option(B), reduce(C), amount(D).
+occur(A, B, C, D) :- is(A), move(B), reduce(C), amount(D).
+occur(A, B, C, D) :- reduced(A), shirley(B), reduce(C), dac(D).
+occur(A, B, C, D) :- reduced(A), assets(B), reduce(C), dac(D).
+occur(A, B, C, D) :- reduced(A), gift(B), reduce(C), dac(D).
+occur(A, B, C, D) :- reduced(A), shirley(B), reduce(C), sum(D).
+occur(A, B, C, D) :- reduced(A), assets(B), reduce(C), sum(D).
+occur(A, B, C, D) :- reduced(A), gift(B), reduce(C), sum(D).
+occur(A, B, C, D) :- enrolled(A), medicare(B), skyrocketed(C), price(D).
+occur(A, B, C, D) :- enrolled(A), medicare(B), skyrocketed(C), supply(D).
+occur(A, B, C, D) :- wants(A), medikabazaar(B), hiring(C), staff(D).
+occur(A, B, C, D) :- wants(A), medikabazaar(B), hiring(C), zomato(D).
+occur(A, B, C, D) :- wants(A), medikabazaar(B), hiring(C), positions(D).
+occur(A, B, C, D) :- wants(A), medikabazaar(B), said(C), akash_rajpal(D).
+occur(A, B, C, D) :- wants(A), ramp(B), hiring(C), staff(D).
+occur(A, B, C, D) :- wants(A), ramp(B), hiring(C), zomato(D).
+occur(A, B, C, D) :- wants(A), ramp(B), hiring(C), positions(D).
+occur(A, B, C, D) :- wants(A), ramp(B), said(C), akash_rajpal(D).
+occur(A, B, C, D) :- made(A), withdrawal(B), apply(C), penalty(D).
+occur(A, B, C, D) :- made(A), age(B), apply(C), penalty(D).
+occur(A, B, C, D) :- expect(A), analysts(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), earn(B), expected(C), ratio(D).
+occur(A, B, C, D) :- reported(A), provider(B), missing(C), estimate(D).
+occur(A, B, C, D) :- reported(A), eps(B), missing(C), estimate(D).
+occur(A, B, C, D) :- boosted(A), securities(B), has(C), utilities(D).
+occur(A, B, C, D) :- boosted(A), securities(B), has(C), rating(D).
+occur(A, B, C, D) :- boosted(A), shares(B), has(C), utilities(D).
+occur(A, B, C, D) :- boosted(A), shares(B), has(C), rating(D).
+occur(A, B, C, D) :- gave(A), securities(B), has(C), utilities(D).
+occur(A, B, C, D) :- gave(A), securities(B), has(C), rating(D).
+occur(A, B, C, D) :- gave(A), rating(B), has(C), utilities(D).
+occur(A, B, C, D) :- gave(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- gave(A), stock(B), has(C), utilities(D).
+occur(A, B, C, D) :- gave(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- given(A), rating(B), has(C), utilities(D).
+occur(A, B, C, D) :- given(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), utilities(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), utilities(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), utilities(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), utilities(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- ruled(A), supreme_court(B), lagging(C), index(D).
+occur(A, B, C, D) :- ruled(A), supreme_court(B), led(C), setback(D).
+occur(A, B, C, D) :- ruled(A), supreme_court(B), led(C), index(D).
+occur(A, B, C, D) :- ruled(A), supreme_court(B), promised(C), johnson(D).
+occur(A, B, C, D) :- ruled(A), supreme_court(B), promised(C), deliver(D).
+occur(A, B, C, D) :- stumbled(A), stocks(B), lagging(C), index(D).
+occur(A, B, C, D) :- stumbled(A), stocks(B), led(C), setback(D).
+occur(A, B, C, D) :- stumbled(A), stocks(B), led(C), index(D).
+occur(A, B, C, D) :- stumbled(A), stocks(B), promised(C), johnson(D).
+occur(A, B, C, D) :- stumbled(A), stocks(B), promised(C), deliver(D).
+occur(A, B, C, D) :- stumbled(A), sept_24(B), lagging(C), index(D).
+occur(A, B, C, D) :- stumbled(A), sept_24(B), led(C), setback(D).
+occur(A, B, C, D) :- stumbled(A), sept_24(B), led(C), index(D).
+occur(A, B, C, D) :- stumbled(A), sept_24(B), promised(C), johnson(D).
+occur(A, B, C, D) :- stumbled(A), sept_24(B), promised(C), deliver(D).
+occur(A, B, C, D) :- stumbled(A), tuesday(B), lagging(C), index(D).
+occur(A, B, C, D) :- stumbled(A), tuesday(B), led(C), setback(D).
+occur(A, B, C, D) :- stumbled(A), tuesday(B), led(C), index(D).
+occur(A, B, C, D) :- stumbled(A), tuesday(B), promised(C), johnson(D).
+occur(A, B, C, D) :- stumbled(A), tuesday(B), promised(C), deliver(D).
+occur(A, B, C, D) :- began(A), congress(B), shed(C), tobacco(D).
+occur(A, B, C, D) :- began(A), congress(B), shed(C), imperial_brands(D).
+occur(A, B, C, D) :- began(A), hearings(B), shed(C), tobacco(D).
+occur(A, B, C, D) :- began(A), hearings(B), shed(C), imperial_brands(D).
+occur(A, B, C, D) :- announcing(A), results(B), gained(C), factory(D).
+occur(A, B, C, D) :- announcing(A), results(B), gained(C), midcaps(D).
+occur(A, B, C, D) :- announcing(A), dividend(B), gained(C), factory(D).
+occur(A, B, C, D) :- announcing(A), dividend(B), gained(C), midcaps(D).
+occur(A, B, C, D) :- failing(A), attract(B), ditched(C), issue(D).
+occur(A, B, C, D) :- failing(A), attract(B), ditched(C), monday(D).
+occur(A, B, C, D) :- growing(A), careers(B), seen(C), grow(D).
+occur(A, B, C, D) :- taking(A), control(B), seen(C), grow(D).
+occur(A, B, C, D) :- taking(A), businesses(B), seen(C), grow(D).
+occur(A, B, C, D) :- enhanced(A), blackrock(B), owned(C), fund(D).
+occur(A, B, C, D) :- enhanced(A), blackrock(B), owned(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), blackrock(B), selling(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), blackrock(B), selling(C), quarter(D).
+occur(A, B, C, D) :- enhanced(A), blackrock(B), enhanced(C), holdings(D).
+occur(A, B, C, D) :- enhanced(A), blackrock(B), enhanced(C), worth(D).
+occur(A, B, C, D) :- enhanced(A), position(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), position(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- enhanced(A), position(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), llc(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- increased(A), llc(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- increased(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), mn(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), mn(B), owns(C), mn(D).
+occur(A, B, C, D) :- increased(A), mn(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), mn(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), seizert_capital_partners_llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), seizert_capital_partners_llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), seizert_capital_partners_llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), seizert_capital_partners_llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), shares(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), llc(D).
+occur(A, B, C, D) :- enhanced(A), trust(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), shares(B), owns(C), llc(D).
+occur(A, B, C, D) :- increased(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- declared(A), company(B), issued(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), company(B), issued(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), issued(C), shareholders(D).
+occur(A, B, C, D) :- declared(A), dividend(B), issued(C), dividend(D).
+occur(A, B, C, D) :- declared(A), company(B), annualized(C), basis(D).
+occur(A, B, C, D) :- declared(A), company(B), represents(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), annualized(C), basis(D).
+occur(A, B, C, D) :- declared(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- annualized(A), rate(B), made(C), investment(D).
+occur(A, B, C, D) :- annualized(A), rate(B), made(C), years(D).
+occur(A, B, C, D) :- ending(A), investment(B), made(C), investment(D).
+occur(A, B, C, D) :- ending(A), investment(B), made(C), years(D).
+occur(A, B, C, D) :- ending(A), shares(B), made(C), investment(D).
+occur(A, B, C, D) :- ending(A), shares(B), made(C), years(D).
+occur(A, B, C, D) :- follows(A), rate(B), made(C), investment(D).
+occur(A, B, C, D) :- follows(A), rate(B), made(C), years(D).
+occur(A, B, C, D) :- starting(A), investment(B), made(C), investment(D).
+occur(A, B, C, D) :- starting(A), investment(B), made(C), years(D).
+occur(A, B, C, D) :- starting(A), shares(B), made(C), investment(D).
+occur(A, B, C, D) :- starting(A), shares(B), made(C), years(D).
+occur(A, B, C, D) :- reported(A), company(B), missing(C), estimate(D).
+occur(A, B, C, D) :- reported(A), eps(B), missing(C), estimate(D).
+occur(A, B, C, D) :- announced(A), corp(B), given(C), investors(D).
+occur(A, B, C, D) :- announced(A), corp(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), corp(B), given(C), oil(D).
+occur(A, B, C, D) :- announced(A), corp(B), given(C), company(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), investors(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), oil(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), company(D).
+occur(A, B, C, D) :- announced(A), corp(B), annualized(C), basis(D).
+occur(A, B, C, D) :- announced(A), corp(B), represents(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), annualized(C), basis(D).
+occur(A, B, C, D) :- announced(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), price(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- issued(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- issued(A), stock(B), has(C), price(D).
+occur(A, B, C, D) :- issued(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), price(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), price(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), price(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- come(A), eps(B), assumed(C), i(D).
+occur(A, B, C, D) :- expect(A), analysts(B), assumed(C), i(D).
+occur(A, B, C, D) :- expect(A), lockheed_martin(B), assumed(C), i(D).
+occur(A, B, C, D) :- expect(A), report(B), assumed(C), i(D).
+occur(A, B, C, D) :- expect(A), analysts(B), assumed(C), i(D).
+occur(A, B, C, D) :- expect(A), lockheed(B), assumed(C), i(D).
+occur(A, B, C, D) :- expect(A), show(B), assumed(C), i(D).
+occur(A, B, C, D) :- consider(A), i(B), have(C), shares(D).
+occur(A, B, C, D) :- consider(A), i(B), have(C), risk(D).
+occur(A, B, C, D) :- consider(A), theory(B), have(C), shares(D).
+occur(A, B, C, D) :- consider(A), theory(B), have(C), risk(D).
+occur(A, B, C, D) :- given(A), shock(B), disrupted(C), percent(D).
+occur(A, B, C, D) :- given(A), market(B), disrupted(C), percent(D).
+occur(A, B, C, D) :- seen(A), likes(B), disrupted(C), percent(D).
+occur(A, B, C, D) :- seen(A), years(B), disrupted(C), percent(D).
+occur(A, B, C, D) :- given(A), representatives(B), forced(C), service(D).
+occur(A, B, C, D) :- given(A), representatives(B), forced(C), compensate(D).
+occur(A, B, C, D) :- given(A), advice(B), forced(C), service(D).
+occur(A, B, C, D) :- given(A), advice(B), forced(C), compensate(D).
+occur(A, B, C, D) :- investing(A), group(B), forced(C), service(D).
+occur(A, B, C, D) :- investing(A), group(B), forced(C), compensate(D).
+occur(A, B, C, D) :- came(A), villas(B), ploughed(C), investors(D).
+occur(A, B, C, D) :- came(A), villas(B), released(C), cash(D).
+occur(A, B, C, D) :- entered(A), company(B), ploughed(C), investors(D).
+occur(A, B, C, D) :- entered(A), company(B), released(C), cash(D).
+occur(A, B, C, D) :- entered(A), insolvency(B), ploughed(C), investors(D).
+occur(A, B, C, D) :- entered(A), insolvency(B), released(C), cash(D).
+occur(A, B, C, D) :- went(A), company(B), ploughed(C), investors(D).
+occur(A, B, C, D) :- went(A), company(B), released(C), cash(D).
+occur(A, B, C, D) :- hoping(A), consumers(B), ploughed(C), investors(D).
+occur(A, B, C, D) :- hoping(A), consumers(B), released(C), cash(D).
+occur(A, B, C, D) :- known(A), nature(B), ordered(C), planning(D).
+occur(A, B, C, D) :- known(A), nature(B), ordered(C), case(D).
+occur(A, B, C, D) :- known(A), nature(B), ordered(C), pay(D).
+occur(A, B, C, D) :- known(A), investment(B), ordered(C), planning(D).
+occur(A, B, C, D) :- known(A), investment(B), ordered(C), case(D).
+occur(A, B, C, D) :- known(A), investment(B), ordered(C), pay(D).
+occur(A, B, C, D) :- said(A), ombudsman(B), ordered(C), planning(D).
+occur(A, B, C, D) :- said(A), ombudsman(B), ordered(C), case(D).
+occur(A, B, C, D) :- said(A), ombudsman(B), ordered(C), pay(D).
+occur(A, B, C, D) :- led(A), year(B), raked(C), cheats(D).
+occur(A, B, C, D) :- led(A), year(B), says(C), robert(D).
+occur(A, B, C, D) :- led(A), investigations(B), raked(C), cheats(D).
+occur(A, B, C, D) :- led(A), investigations(B), says(C), robert(D).
+occur(A, B, C, D) :- received(A), department_of_human_services(B), raked(C), cheats(D).
+occur(A, B, C, D) :- received(A), department_of_human_services(B), says(C), robert(D).
+occur(A, B, C, D) :- received(A), tip(B), raked(C), cheats(D).
+occur(A, B, C, D) :- received(A), tip(B), says(C), robert(D).
+occur(A, B, C, D) :- received(A), medicare(B), raked(C), cheats(D).
+occur(A, B, C, D) :- received(A), medicare(B), says(C), robert(D).
+occur(A, B, C, D) :- received(A), fraud(B), raked(C), cheats(D).
+occur(A, B, C, D) :- received(A), fraud(B), says(C), robert(D).
+occur(A, B, C, D) :- reported(A), company(B), topping(C), estimates(D).
+occur(A, B, C, D) :- reduced(A), america(B), has(C), company(D).
+occur(A, B, C, D) :- reduced(A), america(B), has(C), rating(D).
+occur(A, B, C, D) :- reduced(A), intrexon(B), has(C), company(D).
+occur(A, B, C, D) :- reduced(A), intrexon(B), has(C), rating(D).
+occur(A, B, C, D) :- assigned(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- assigned(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- given(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- given(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), insider(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), transaction(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), helen_sabzevari(B), owns(C), insider(D).
+occur(A, B, C, D) :- sold(A), helen_sabzevari(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), helen_sabzevari(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), helen_sabzevari(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), insider(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), insider(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), insider(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), company(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), insider(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), insider(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), insider(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- increased(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- increased(A), intrexon(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), sa(B), owns(C), sa(D).
+occur(A, B, C, D) :- grew(A), sa(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), sa(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), sa(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), sa(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), sa(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), sa(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), shares(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), shares(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), llc(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), system(B), owns(C), system(D).
+occur(A, B, C, D) :- grew(A), system(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), system(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), system(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), system(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), system(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), system(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), shares(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), shares(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), p(B), owns(C), p(D).
+occur(A, B, C, D) :- grew(A), p(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), p(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), p(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), p(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), p(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), holdings(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), p(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), shares(B), owns(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), shares(B), valued(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), shares(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifting(A), c(B), announced(C), china(D).
+occur(A, B, C, D) :- lifting(A), c(B), announced(C), range(D).
+occur(A, B, C, D) :- lifting(A), c(B), exempted(C), range(D).
+occur(A, B, C, D) :- lifting(A), c(B), exempted(C), percent(D).
+occur(A, B, C, D) :- declining(A), sales(B), grew(C), revenues(D).
+occur(A, B, C, D) :- declining(A), sales(B), grew(C), filing(D).
+occur(A, B, C, D) :- enjoyed(A), popularity(B), grew(C), revenues(D).
+occur(A, B, C, D) :- enjoyed(A), popularity(B), grew(C), filing(D).
+occur(A, B, C, D) :- enjoyed(A), growth(B), grew(C), revenues(D).
+occur(A, B, C, D) :- enjoyed(A), growth(B), grew(C), filing(D).
+occur(A, B, C, D) :- enjoyed(A), time(B), grew(C), revenues(D).
+occur(A, B, C, D) :- enjoyed(A), time(B), grew(C), filing(D).
+occur(A, B, C, D) :- enjoyed(A), years(B), grew(C), revenues(D).
+occur(A, B, C, D) :- enjoyed(A), years(B), grew(C), filing(D).
+occur(A, B, C, D) :- struggled(A), time(B), grew(C), revenues(D).
+occur(A, B, C, D) :- struggled(A), time(B), grew(C), filing(D).
+occur(A, B, C, D) :- struggled(A), turnover(B), grew(C), revenues(D).
+occur(A, B, C, D) :- struggled(A), turnover(B), grew(C), filing(D).
+occur(A, B, C, D) :- struggled(A), sales(B), grew(C), revenues(D).
+occur(A, B, C, D) :- struggled(A), sales(B), grew(C), filing(D).
+occur(A, B, C, D) :- declining(A), sales(B), recording(C), company(D).
+occur(A, B, C, D) :- declining(A), sales(B), recording(C), income(D).
+occur(A, B, C, D) :- declining(A), sales(B), recording(C), year(D).
+occur(A, B, C, D) :- enjoyed(A), popularity(B), recording(C), company(D).
+occur(A, B, C, D) :- enjoyed(A), popularity(B), recording(C), income(D).
+occur(A, B, C, D) :- enjoyed(A), popularity(B), recording(C), year(D).
+occur(A, B, C, D) :- enjoyed(A), growth(B), recording(C), company(D).
+occur(A, B, C, D) :- enjoyed(A), growth(B), recording(C), income(D).
+occur(A, B, C, D) :- enjoyed(A), growth(B), recording(C), year(D).
+occur(A, B, C, D) :- enjoyed(A), time(B), recording(C), company(D).
+occur(A, B, C, D) :- enjoyed(A), time(B), recording(C), income(D).
+occur(A, B, C, D) :- enjoyed(A), time(B), recording(C), year(D).
+occur(A, B, C, D) :- enjoyed(A), years(B), recording(C), company(D).
+occur(A, B, C, D) :- enjoyed(A), years(B), recording(C), income(D).
+occur(A, B, C, D) :- enjoyed(A), years(B), recording(C), year(D).
+occur(A, B, C, D) :- struggled(A), time(B), recording(C), company(D).
+occur(A, B, C, D) :- struggled(A), time(B), recording(C), income(D).
+occur(A, B, C, D) :- struggled(A), time(B), recording(C), year(D).
+occur(A, B, C, D) :- struggled(A), turnover(B), recording(C), company(D).
+occur(A, B, C, D) :- struggled(A), turnover(B), recording(C), income(D).
+occur(A, B, C, D) :- struggled(A), turnover(B), recording(C), year(D).
+occur(A, B, C, D) :- struggled(A), sales(B), recording(C), company(D).
+occur(A, B, C, D) :- struggled(A), sales(B), recording(C), income(D).
+occur(A, B, C, D) :- struggled(A), sales(B), recording(C), year(D).
+occur(A, B, C, D) :- reported(A), provider(B), topping(C), estimate(D).
+occur(A, B, C, D) :- boosted(A), system(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- boosted(A), system(B), acquiring(C), period(D).
+occur(A, B, C, D) :- boosted(A), system(B), owns(C), system(D).
+occur(A, B, C, D) :- boosted(A), system(B), owns(C), shares(D).
+occur(A, B, C, D) :- boosted(A), system(B), valued(C), stock(D).
+occur(A, B, C, D) :- boosted(A), holdings(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- boosted(A), holdings(B), acquiring(C), period(D).
+occur(A, B, C, D) :- boosted(A), holdings(B), owns(C), system(D).
+occur(A, B, C, D) :- boosted(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- boosted(A), holdings(B), valued(C), stock(D).
+occur(A, B, C, D) :- boosted(A), quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- boosted(A), quarter(B), acquiring(C), period(D).
+occur(A, B, C, D) :- boosted(A), quarter(B), owns(C), system(D).
+occur(A, B, C, D) :- boosted(A), quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- boosted(A), quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), lp(B), owns(C), lp(D).
+occur(A, B, C, D) :- lifted(A), lp(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), lp(B), valued(C), buying(D).
+occur(A, B, C, D) :- lifted(A), lp(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), stake(B), owns(C), lp(D).
+occur(A, B, C, D) :- lifted(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), stake(B), valued(C), buying(D).
+occur(A, B, C, D) :- lifted(A), stake(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), first_quarter(B), owns(C), lp(D).
+occur(A, B, C, D) :- lifted(A), first_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), first_quarter(B), valued(C), buying(D).
+occur(A, B, C, D) :- lifted(A), first_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- lifted(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), llc(B), valued(C), buying(D).
+occur(A, B, C, D) :- lifted(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), stake(B), owns(C), llc(D).
+occur(A, B, C, D) :- lifted(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), stake(B), valued(C), buying(D).
+occur(A, B, C, D) :- lifted(A), stake(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), second_quarter(B), owns(C), llc(D).
+occur(A, B, C, D) :- lifted(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), second_quarter(B), valued(C), buying(D).
+occur(A, B, C, D) :- lifted(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), stake(B), valued(C), buying(D).
+occur(A, B, C, D) :- lifted(A), stake(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), second_quarter(B), valued(C), buying(D).
+occur(A, B, C, D) :- lifted(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- lifted(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), llc(B), valued(C), buying(D).
+occur(A, B, C, D) :- lifted(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), stake(B), owns(C), llc(D).
+occur(A, B, C, D) :- lifted(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), stake(B), valued(C), buying(D).
+occur(A, B, C, D) :- lifted(A), stake(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), second_quarter(B), owns(C), llc(D).
+occur(A, B, C, D) :- lifted(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), second_quarter(B), valued(C), buying(D).
+occur(A, B, C, D) :- lifted(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- acquired(A), primepulse(B), owns(C), primepulse(D).
+occur(A, B, C, D) :- acquired(A), shares(B), owns(C), primepulse(D).
+occur(A, B, C, D) :- acquired(A), members(B), owns(C), primepulse(D).
+occur(A, B, C, D) :- ended(A), remuneration(B), appointing(C), audit(D).
+occur(A, B, C, D) :- ended(A), remuneration(B), appointing(C), fozan(D).
+occur(A, B, C, D) :- ended(A), remuneration(B), paying(C), sar(D).
+occur(A, B, C, D) :- promoted(A), group(B), rose(C), markets(D).
+occur(A, B, C, D) :- promoted(A), markets(B), rose(C), markets(D).
+occur(A, B, C, D) :- promoted(A), crisis(B), rose(C), markets(D).
+occur(A, B, C, D) :- supported(A), group(B), rose(C), markets(D).
+occur(A, B, C, D) :- supported(A), world_bank(B), rose(C), markets(D).
+occur(A, B, C, D) :- supported(A), international_monetary_fund(B), rose(C), markets(D).
+occur(A, B, C, D) :- supported(A), bundesbank(B), rose(C), markets(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), investors(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), etf(B), given(C), investors(D).
+occur(A, B, C, D) :- declared(A), etf(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), investors(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), ishares(B), given(C), investors(D).
+occur(A, B, C, D) :- declared(A), ishares(B), given(C), dividend(D).
+occur(A, B, C, D) :- came(A), theory(B), doubled(C), realizations(D).
+occur(A, B, C, D) :- came(A), theory(B), doubled(C), congressional_budget_office(D).
+occur(A, B, C, D) :- came(A), theory(B), doubled(C), levels(D).
+occur(A, B, C, D) :- came(A), may_2003(B), doubled(C), realizations(D).
+occur(A, B, C, D) :- came(A), may_2003(B), doubled(C), congressional_budget_office(D).
+occur(A, B, C, D) :- came(A), may_2003(B), doubled(C), levels(D).
+occur(A, B, C, D) :- lowered(A), may_2003(B), doubled(C), realizations(D).
+occur(A, B, C, D) :- lowered(A), may_2003(B), doubled(C), congressional_budget_office(D).
+occur(A, B, C, D) :- lowered(A), may_2003(B), doubled(C), levels(D).
+occur(A, B, C, D) :- lowered(A), congress(B), doubled(C), realizations(D).
+occur(A, B, C, D) :- lowered(A), congress(B), doubled(C), congressional_budget_office(D).
+occur(A, B, C, D) :- lowered(A), congress(B), doubled(C), levels(D).
+occur(A, B, C, D) :- lowered(A), rate(B), doubled(C), realizations(D).
+occur(A, B, C, D) :- lowered(A), rate(B), doubled(C), congressional_budget_office(D).
+occur(A, B, C, D) :- lowered(A), rate(B), doubled(C), levels(D).
+occur(A, B, C, D) :- collapsed(A), monday(B), leaving(C), tens(D).
+occur(A, B, C, D) :- collapsed(A), monday(B), stranded(C), tens(D).
+occur(A, B, C, D) :- failing(A), secure(B), leaving(C), tens(D).
+occur(A, B, C, D) :- failing(A), secure(B), stranded(C), tens(D).
+occur(A, B, C, D) :- ceased(A), trading(B), grounded(C), airlines(D).
+occur(A, B, C, D) :- ceased(A), trading(B), lose(C), employees(D).
+occur(A, B, C, D) :- ceased(A), trading(B), lose(C), jobs(D).
+occur(A, B, C, D) :- said(A), civil_aviation_authority(B), grounded(C), airlines(D).
+occur(A, B, C, D) :- said(A), civil_aviation_authority(B), lose(C), employees(D).
+occur(A, B, C, D) :- said(A), civil_aviation_authority(B), lose(C), jobs(D).
+occur(A, B, C, D) :- describing(A), plan(B), hired(C), dozens(D).
+occur(A, B, C, D) :- describing(A), plan(B), hired(C), fly(D).
+occur(A, B, C, D) :- describing(A), plan(B), said(C), grant_shapps(D).
+occur(A, B, C, D) :- were(A), i(B), have(C), roth(D).
+occur(A, B, C, D) :- were(A), balances(B), have(C), roth(D).
+occur(A, B, C, D) :- were(A), retire(B), have(C), roth(D).
+occur(A, B, C, D) :- know(A), i(B), have(C), roth(D).
+occur(A, B, C, D) :- protracted(A), market(B), keep(C), i(D).
+occur(A, B, C, D) :- protracted(A), market(B), keep(C), income(D).
+occur(A, B, C, D) :- protracted(A), market(B), keep(C), value(D).
+occur(A, B, C, D) :- raised(A), research(B), has(C), stock(D).
+occur(A, B, C, D) :- raised(A), research(B), has(C), rating(D).
+occur(A, B, C, D) :- raised(A), shares(B), has(C), stock(D).
+occur(A, B, C, D) :- raised(A), shares(B), has(C), rating(D).
+occur(A, B, C, D) :- raised(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- raised(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- purchased(A), stock(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), stock(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), stock(B), owns(C), transaction(D).
+occur(A, B, C, D) :- purchased(A), stock(B), owns(C), company(D).
+occur(A, B, C, D) :- purchased(A), cost(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), cost(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), cost(B), owns(C), transaction(D).
+occur(A, B, C, D) :- purchased(A), cost(B), owns(C), company(D).
+occur(A, B, C, D) :- purchased(A), value(B), owns(C), director(D).
+occur(A, B, C, D) :- purchased(A), value(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), value(B), owns(C), transaction(D).
+occur(A, B, C, D) :- purchased(A), value(B), owns(C), company(D).
+occur(A, B, C, D) :- lifted(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), period(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), acquiring(C), period(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), corp(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), corp(B), acquiring(C), period(D).
+occur(A, B, C, D) :- grew(A), corp(B), owns(C), corp(D).
+occur(A, B, C, D) :- grew(A), corp(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), period(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), corp(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), acquiring(C), period(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), corp(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- boosted(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- boosted(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- boosted(A), holdings(B), owns(C), shares(D).
+occur(A, B, C, D) :- boosted(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- going(A), put(B), stranded(C), holidaymakers(D).
+occur(A, B, C, D) :- going(A), staff(B), stranded(C), holidaymakers(D).
+occur(A, B, C, D) :- going(A), hell(B), stranded(C), holidaymakers(D).
+occur(A, B, C, D) :- have(A), line(B), stranded(C), holidaymakers(D).
+occur(A, B, C, D) :- have(A), wake(B), stranded(C), holidaymakers(D).
+occur(A, B, C, D) :- have(A), idea(B), stranded(C), holidaymakers(D).
+occur(A, B, C, D) :- said(A), brian_strutton(B), stranded(C), holidaymakers(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), insider(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- dated(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- dated(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), insider(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), shares(B), owns(C), completion(D).
+occur(A, B, C, D) :- purchased(A), shares(B), valued(C), shares(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), insider(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- purchased(A), transaction(B), valued(C), shares(D).
+occur(A, B, C, D) :- grew(A), bank_of_america_corp(B), owns(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), bank_of_america_corp(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), bank_of_america_corp(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), corp(B), owns(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), corp(B), owns(C), corp(D).
+occur(A, B, C, D) :- grew(A), corp(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), corp(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), corp(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), corp(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), purchasing(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), valued(C), stock(D).
+occur(A, B, C, D) :- servicing(A), planes(B), estimated(C), bill(D).
+occur(A, B, C, D) :- servicing(A), planes(B), stranded(C), hundreds(D).
+occur(A, B, C, D) :- servicing(A), routes(B), estimated(C), bill(D).
+occur(A, B, C, D) :- servicing(A), routes(B), stranded(C), hundreds(D).
+occur(A, B, C, D) :- acquire(A), majority(B), advised(C), sachs(D).
+occur(A, B, C, D) :- acquire(A), majority(B), advised(C), apple(D).
+occur(A, B, C, D) :- acquire(A), majority(B), advised(C), mergers(D).
+occur(A, B, C, D) :- acquire(A), majority(B), advised(C), acquisitions(D).
+occur(A, B, C, D) :- acquire(A), majority(B), guiding(C), apple(D).
+occur(A, B, C, D) :- acquire(A), majority(B), guiding(C), dea(D).
+occur(A, B, C, D) :- acquire(A), refinitiv(B), advised(C), sachs(D).
+occur(A, B, C, D) :- acquire(A), refinitiv(B), advised(C), apple(D).
+occur(A, B, C, D) :- acquire(A), refinitiv(B), advised(C), mergers(D).
+occur(A, B, C, D) :- acquire(A), refinitiv(B), advised(C), acquisitions(D).
+occur(A, B, C, D) :- acquire(A), refinitiv(B), guiding(C), apple(D).
+occur(A, B, C, D) :- acquire(A), refinitiv(B), guiding(C), dea(D).
+occur(A, B, C, D) :- lost(A), bharti_airtel(B), bringing(C), base(D).
+occur(A, B, C, D) :- lost(A), users(B), bringing(C), base(D).
+occur(A, B, C, D) :- lost(A), month(B), bringing(C), base(D).
+occur(A, B, C, D) :- lost(A), contrast(B), bringing(C), base(D).
+occur(A, B, C, D) :- fell(A), base(B), lost(C), idea(D).
+occur(A, B, C, D) :- fell(A), base(B), lost(C), customers(D).
+occur(A, B, C, D) :- fell(A), users(B), lost(C), idea(D).
+occur(A, B, C, D) :- fell(A), users(B), lost(C), customers(D).
+occur(A, B, C, D) :- added(A), bsnl(B), shoring(C), base(D).
+occur(A, B, C, D) :- added(A), bsnl(B), shoring(C), subscribers(D).
+occur(A, B, C, D) :- added(A), users(B), shoring(C), base(D).
+occur(A, B, C, D) :- added(A), users(B), shoring(C), subscribers(D).
+occur(A, B, C, D) :- added(A), july(B), shoring(C), base(D).
+occur(A, B, C, D) :- added(A), july(B), shoring(C), subscribers(D).
+occur(A, B, C, D) :- caffeinated(A), beverages(B), announced(C), minister(D).
+occur(A, B, C, D) :- caffeinated(A), beverages(B), announced(C), tax(D).
+occur(A, B, C, D) :- caffeinated(A), beverages(B), charging(C), night(D).
+occur(A, B, C, D) :- caffeinated(A), beverages(B), levied(C), tax(D).
+occur(A, B, C, D) :- increased(A), gst(B), announced(C), minister(D).
+occur(A, B, C, D) :- increased(A), gst(B), announced(C), tax(D).
+occur(A, B, C, D) :- increased(A), gst(B), charging(C), night(D).
+occur(A, B, C, D) :- increased(A), gst(B), levied(C), tax(D).
+occur(A, B, C, D) :- increased(A), cess(B), announced(C), minister(D).
+occur(A, B, C, D) :- increased(A), cess(B), announced(C), tax(D).
+occur(A, B, C, D) :- increased(A), cess(B), charging(C), night(D).
+occur(A, B, C, D) :- increased(A), cess(B), levied(C), tax(D).
+occur(A, B, C, D) :- reported(A), pti(B), announced(C), minister(D).
+occur(A, B, C, D) :- reported(A), pti(B), announced(C), tax(D).
+occur(A, B, C, D) :- reported(A), pti(B), charging(C), night(D).
+occur(A, B, C, D) :- reported(A), pti(B), levied(C), tax(D).
+occur(A, B, C, D) :- failed(A), company(B), staggering(C), jobs(D).
+occur(A, B, C, D) :- failed(A), secure(B), staggering(C), jobs(D).
+occur(A, B, C, D) :- escalating(A), wars(B), fallen(C), midway(D).
+occur(A, B, C, D) :- managing(A), mill(B), fallen(C), midway(D).
+occur(A, B, C, D) :- managing(A), demand(B), fallen(C), midway(D).
+occur(A, B, C, D) :- reduced(A), mill(B), fallen(C), midway(D).
+occur(A, B, C, D) :- reduced(A), purchases(B), fallen(C), midway(D).
+occur(A, B, C, D) :- said(A), field(B), fallen(C), midway(D).
+occur(A, B, C, D) :- warned(A), metal(B), fallen(C), midway(D).
+occur(A, B, C, D) :- warned(A), hit(B), fallen(C), midway(D).
+occur(A, B, C, D) :- warned(A), photographer(B), fallen(C), midway(D).
+occur(A, B, C, D) :- said(A), field(B), fallen(C), midway(D).
+occur(A, B, C, D) :- said(A), driven(B), fallen(C), midway(D).
+occur(A, B, C, D) :- updated(A), fontinelle(B), accounted(C), survey(D).
+occur(A, B, C, D) :- updated(A), fontinelle(B), accounted(C), datum(D).
+occur(A, B, C, D) :- updated(A), fontinelle(B), accounted(C), sector(D).
+occur(A, B, C, D) :- updated(A), contents_finance(B), accounted(C), survey(D).
+occur(A, B, C, D) :- updated(A), contents_finance(B), accounted(C), datum(D).
+occur(A, B, C, D) :- updated(A), contents_finance(B), accounted(C), sector(D).
+occur(A, B, C, D) :- get(A), today(B), estimated(C), net(D).
+occur(A, B, C, D) :- get(A), johnson(B), estimated(C), net(D).
+occur(A, B, C, D) :- helped(A), question(B), estimated(C), net(D).
+occur(A, B, C, D) :- announced(A), inc(B), given(C), stockholders(D).
+occur(A, B, C, D) :- announced(A), inc(B), given(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), stockholders(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- ending(A), half(B), declared(C), dividend(D).
+occur(A, B, C, D) :- ending(A), half(B), pushing(C), builds(D).
+occur(A, B, C, D) :- said(A), plc(B), declared(C), dividend(D).
+occur(A, B, C, D) :- said(A), plc(B), pushing(C), builds(D).
+occur(A, B, C, D) :- said(A), half(B), declared(C), dividend(D).
+occur(A, B, C, D) :- said(A), half(B), pushing(C), builds(D).
+occur(A, B, C, D) :- said(A), course(B), declared(C), dividend(D).
+occur(A, B, C, D) :- said(A), course(B), pushing(C), builds(D).
+occur(A, B, C, D) :- said(A), position(B), declared(C), dividend(D).
+occur(A, B, C, D) :- said(A), position(B), pushing(C), builds(D).
+occur(A, B, C, D) :- said(A), zamani(B), reflects(C), position(D).
+occur(A, B, C, D) :- said(A), zamani(B), reflects(C), level(D).
+occur(A, B, C, D) :- said(A), zamani(B), said(C), company(D).
+occur(A, B, C, D) :- said(A), remains(B), reflects(C), position(D).
+occur(A, B, C, D) :- said(A), remains(B), reflects(C), level(D).
+occur(A, B, C, D) :- said(A), remains(B), said(C), company(D).
+occur(A, B, C, D) :- stated(A), strategy(B), reflects(C), position(D).
+occur(A, B, C, D) :- stated(A), strategy(B), reflects(C), level(D).
+occur(A, B, C, D) :- stated(A), strategy(B), said(C), company(D).
+occur(A, B, C, D) :- recording(A), transactions(B), buy(C), opportunity(D).
+occur(A, B, C, D) :- recording(A), transactions(B), buy(C), access(D).
+occur(A, B, C, D) :- recording(A), transactions(B), buy(C), range(D).
+occur(A, B, C, D) :- recording(A), transactions(B), give(C), package(D).
+occur(A, B, C, D) :- recording(A), transactions(B), give(C), reward(D).
+occur(A, B, C, D) :- recording(A), transactions(B), give(C), return(D).
+occur(A, B, C, D) :- recording(A), transactions(B), matched(C), scheme(D).
+occur(A, B, C, D) :- understanding(A), accountant(B), buy(C), opportunity(D).
+occur(A, B, C, D) :- understanding(A), accountant(B), buy(C), access(D).
+occur(A, B, C, D) :- understanding(A), accountant(B), buy(C), range(D).
+occur(A, B, C, D) :- understanding(A), accountant(B), give(C), package(D).
+occur(A, B, C, D) :- understanding(A), accountant(B), give(C), reward(D).
+occur(A, B, C, D) :- understanding(A), accountant(B), give(C), return(D).
+occur(A, B, C, D) :- understanding(A), accountant(B), matched(C), scheme(D).
+occur(A, B, C, D) :- understanding(A), reporting(B), buy(C), opportunity(D).
+occur(A, B, C, D) :- understanding(A), reporting(B), buy(C), access(D).
+occur(A, B, C, D) :- understanding(A), reporting(B), buy(C), range(D).
+occur(A, B, C, D) :- understanding(A), reporting(B), give(C), package(D).
+occur(A, B, C, D) :- understanding(A), reporting(B), give(C), reward(D).
+occur(A, B, C, D) :- understanding(A), reporting(B), give(C), return(D).
+occur(A, B, C, D) :- understanding(A), reporting(B), matched(C), scheme(D).
+occur(A, B, C, D) :- announced(A), systems(B), includes(C), projects(D).
+occur(A, B, C, D) :- announced(A), systems(B), totaling(C), projects(D).
+occur(A, B, C, D) :- announced(A), systems(B), totaling(C), mw(D).
+occur(A, B, C, D) :- announced(A), washington(B), includes(C), projects(D).
+occur(A, B, C, D) :- announced(A), washington(B), totaling(C), projects(D).
+occur(A, B, C, D) :- announced(A), washington(B), totaling(C), mw(D).
+occur(A, B, C, D) :- announced(A), today(B), includes(C), projects(D).
+occur(A, B, C, D) :- announced(A), today(B), totaling(C), projects(D).
+occur(A, B, C, D) :- announced(A), today(B), totaling(C), mw(D).
+occur(A, B, C, D) :- completed(A), fund(B), includes(C), projects(D).
+occur(A, B, C, D) :- completed(A), fund(B), totaling(C), projects(D).
+occur(A, B, C, D) :- completed(A), fund(B), totaling(C), mw(D).
+occur(A, B, C, D) :- completed(A), financing(B), includes(C), projects(D).
+occur(A, B, C, D) :- completed(A), financing(B), totaling(C), projects(D).
+occur(A, B, C, D) :- completed(A), financing(B), totaling(C), mw(D).
+occur(A, B, C, D) :- completed(A), construction(B), includes(C), projects(D).
+occur(A, B, C, D) :- completed(A), construction(B), totaling(C), projects(D).
+occur(A, B, C, D) :- completed(A), construction(B), totaling(C), mw(D).
+occur(A, B, C, D) :- come(A), stakeholders(B), making(C), goal(D).
+occur(A, B, C, D) :- come(A), stakeholders(B), making(C), economy(D).
+occur(A, B, C, D) :- said(A), minister(B), making(C), goal(D).
+occur(A, B, C, D) :- said(A), minister(B), making(C), economy(D).
+occur(A, B, C, D) :- said(A), work(B), making(C), goal(D).
+occur(A, B, C, D) :- said(A), work(B), making(C), economy(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), stockholders(D).
+occur(A, B, C, D) :- announced(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- delivered(A), ecb(B), lowered(C), rate(D).
+occur(A, B, C, D) :- delivered(A), everything(B), lowered(C), rate(D).
+occur(A, B, C, D) :- delivered(A), today(B), lowered(C), rate(D).
+occur(A, B, C, D) :- wanted(A), investors(B), lowered(C), rate(D).
+occur(A, B, C, D) :- wanted(A), everything(B), lowered(C), rate(D).
+occur(A, B, C, D) :- changed(A), limits(B), gives(C), volume(D).
+occur(A, B, C, D) :- changed(A), limits(B), gives(C), opportunity(D).
+occur(A, B, C, D) :- changed(A), limits(B), gives(C), ecb(D).
+occur(A, B, C, D) :- changed(A), limits(B), gives(C), limits(D).
+occur(A, B, C, D) :- began(A), buying(B), valued(C), stage(D).
+occur(A, B, C, D) :- collapsed(A), shares(B), declared(C), company(D).
+occur(A, B, C, D) :- collapsed(A), shares(B), declared(C), bankrupt(D).
+occur(A, B, C, D) :- collapsed(A), peak(B), declared(C), company(D).
+occur(A, B, C, D) :- collapsed(A), peak(B), declared(C), bankrupt(D).
+occur(A, B, C, D) :- logged(A), post(B), finished(C), seventh(D).
+occur(A, B, C, D) :- logged(A), post(B), finished(C), management(D).
+occur(A, B, C, D) :- logged(A), escape(B), finished(C), seventh(D).
+occur(A, B, C, D) :- logged(A), escape(B), finished(C), management(D).
+occur(A, B, C, D) :- moderated(A), inflation(B), grew(C), economy(D).
+occur(A, B, C, D) :- moderated(A), inflation(B), grew(C), two_years(D).
+occur(A, B, C, D) :- moderated(A), inflation(B), improved(C), economy(D).
+occur(A, B, C, D) :- moderated(A), inflation(B), improved(C), two_years(D).
+occur(A, B, C, D) :- strengthened(A), growth(B), grew(C), economy(D).
+occur(A, B, C, D) :- strengthened(A), growth(B), grew(C), two_years(D).
+occur(A, B, C, D) :- strengthened(A), growth(B), improved(C), economy(D).
+occur(A, B, C, D) :- strengthened(A), growth(B), improved(C), two_years(D).
+occur(A, B, C, D) :- moderated(A), inflation(B), corresponding(C), quarter(D).
+occur(A, B, C, D) :- moderated(A), inflation(B), narrowed(C), deficit(D).
+occur(A, B, C, D) :- strengthened(A), growth(B), corresponding(C), quarter(D).
+occur(A, B, C, D) :- strengthened(A), growth(B), narrowed(C), deficit(D).
+occur(A, B, C, D) :- increased(A), inflows(B), indicated(C), operations(D).
+occur(A, B, C, D) :- increased(A), inflows(B), indicated(C), stood(D).
+occur(A, B, C, D) :- supported(A), confidence(B), indicated(C), operations(D).
+occur(A, B, C, D) :- supported(A), confidence(B), indicated(C), stood(D).
+occur(A, B, C, D) :- increased(A), inflows(B), declined(C), expenditure(D).
+occur(A, B, C, D) :- increased(A), inflows(B), declined(C), lending(D).
+occur(A, B, C, D) :- increased(A), inflows(B), declined(C), percent(D).
+occur(A, B, C, D) :- supported(A), confidence(B), declined(C), expenditure(D).
+occur(A, B, C, D) :- supported(A), confidence(B), declined(C), lending(D).
+occur(A, B, C, D) :- supported(A), confidence(B), declined(C), percent(D).
+occur(A, B, C, D) :- capitalized(A), sector(B), declined(C), ratio(D).
+occur(A, B, C, D) :- capitalized(A), sector(B), declined(C), percent(D).
+occur(A, B, C, D) :- capitalized(A), sector(B), enhanced(C), processes(D).
+occur(A, B, C, D) :- capitalized(A), sector(B), reflecting(C), processes(D).
+occur(A, B, C, D) :- capitalized(A), sector(B), reflecting(C), measures(D).
+occur(A, B, C, D) :- capitalized(A), liquid(B), declined(C), ratio(D).
+occur(A, B, C, D) :- capitalized(A), liquid(B), declined(C), percent(D).
+occur(A, B, C, D) :- capitalized(A), liquid(B), enhanced(C), processes(D).
+occur(A, B, C, D) :- capitalized(A), liquid(B), reflecting(C), processes(D).
+occur(A, B, C, D) :- capitalized(A), liquid(B), reflecting(C), measures(D).
+occur(A, B, C, D) :- capitalized(A), sector(B), expanded(C), credit(D).
+occur(A, B, C, D) :- capitalized(A), sector(B), expanded(C), percent(D).
+occur(A, B, C, D) :- capitalized(A), liquid(B), expanded(C), credit(D).
+occur(A, B, C, D) :- capitalized(A), liquid(B), expanded(C), percent(D).
+occur(A, B, C, D) :- continues(A), speaker(B), guided(C), science(D).
+occur(A, B, C, D) :- continues(A), speaker(B), guided(C), policy(D).
+occur(A, B, C, D) :- continues(A), speaker(B), increased(C), award(D).
+occur(A, B, C, D) :- continues(A), speaker(B), increased(C), students(D).
+occur(A, B, C, D) :- continues(A), education(B), guided(C), science(D).
+occur(A, B, C, D) :- continues(A), education(B), guided(C), policy(D).
+occur(A, B, C, D) :- continues(A), education(B), increased(C), award(D).
+occur(A, B, C, D) :- continues(A), education(B), increased(C), students(D).
+occur(A, B, C, D) :- continues(A), research(B), guided(C), science(D).
+occur(A, B, C, D) :- continues(A), research(B), guided(C), policy(D).
+occur(A, B, C, D) :- continues(A), research(B), increased(C), award(D).
+occur(A, B, C, D) :- continues(A), research(B), increased(C), students(D).
+occur(A, B, C, D) :- continues(A), science(B), guided(C), science(D).
+occur(A, B, C, D) :- continues(A), science(B), guided(C), policy(D).
+occur(A, B, C, D) :- continues(A), science(B), increased(C), award(D).
+occur(A, B, C, D) :- continues(A), science(B), increased(C), students(D).
+occur(A, B, C, D) :- continues(A), implement(B), guided(C), science(D).
+occur(A, B, C, D) :- continues(A), implement(B), guided(C), policy(D).
+occur(A, B, C, D) :- continues(A), implement(B), increased(C), award(D).
+occur(A, B, C, D) :- continues(A), implement(B), increased(C), students(D).
+occur(A, B, C, D) :- expanded(A), european_union(B), trained(C), officers(D).
+occur(A, B, C, D) :- expanded(A), process(B), trained(C), officers(D).
+occur(A, B, C, D) :- supporting(A), reform(B), trained(C), officers(D).
+occur(A, B, C, D) :- completed(A), energy(B), has(C), government(D).
+occur(A, B, C, D) :- completed(A), energy(B), has(C), represent(D).
+occur(A, B, C, D) :- completed(A), energy(B), participating(C), interest(D).
+occur(A, B, C, D) :- completed(A), rounds(B), has(C), government(D).
+occur(A, B, C, D) :- completed(A), rounds(B), has(C), represent(D).
+occur(A, B, C, D) :- completed(A), rounds(B), participating(C), interest(D).
+occur(A, B, C, D) :- introduced(A), policy(B), exceeding(C), load(D).
+occur(A, B, C, D) :- introduced(A), policy(B), increased(C), capacity(D).
+occur(A, B, C, D) :- introduced(A), policy(B), increased(C), mega_watts(D).
+occur(A, B, C, D) :- introduced(A), government(B), exceeding(C), load(D).
+occur(A, B, C, D) :- introduced(A), government(B), increased(C), capacity(D).
+occur(A, B, C, D) :- introduced(A), government(B), increased(C), mega_watts(D).
+occur(A, B, C, D) :- noticed(A), improvements(B), exceeding(C), load(D).
+occur(A, B, C, D) :- noticed(A), improvements(B), increased(C), capacity(D).
+occur(A, B, C, D) :- noticed(A), improvements(B), increased(C), mega_watts(D).
+occur(A, B, C, D) :- hundred(A), project(B), distributed(C), mega_watts(D).
+occur(A, B, C, D) :- hundred(A), project(B), distributed(C), kilometres(D).
+occur(A, B, C, D) :- hundred(A), project(B), expected(C), initiative(D).
+occur(A, B, C, D) :- hundred(A), project(B), expected(C), generate(D).
+occur(A, B, C, D) :- launched(A), european_union(B), distributed(C), mega_watts(D).
+occur(A, B, C, D) :- launched(A), european_union(B), distributed(C), kilometres(D).
+occur(A, B, C, D) :- launched(A), european_union(B), expected(C), initiative(D).
+occur(A, B, C, D) :- launched(A), european_union(B), expected(C), generate(D).
+occur(A, B, C, D) :- launched(A), gambia(B), distributed(C), mega_watts(D).
+occur(A, B, C, D) :- launched(A), gambia(B), distributed(C), kilometres(D).
+occur(A, B, C, D) :- launched(A), gambia(B), expected(C), initiative(D).
+occur(A, B, C, D) :- launched(A), gambia(B), expected(C), generate(D).
+occur(A, B, C, D) :- launched(A), march_of_this_year(B), distributed(C), mega_watts(D).
+occur(A, B, C, D) :- launched(A), march_of_this_year(B), distributed(C), kilometres(D).
+occur(A, B, C, D) :- launched(A), march_of_this_year(B), expected(C), initiative(D).
+occur(A, B, C, D) :- launched(A), march_of_this_year(B), expected(C), generate(D).
+occur(A, B, C, D) :- hundred(A), energy(B), distributed(C), mega_watts(D).
+occur(A, B, C, D) :- hundred(A), energy(B), distributed(C), kilometres(D).
+occur(A, B, C, D) :- hundred(A), energy(B), expected(C), initiative(D).
+occur(A, B, C, D) :- hundred(A), energy(B), expected(C), generate(D).
+occur(A, B, C, D) :- continues(A), national_nutrition_agency(B), implemented(C), project(D).
+occur(A, B, C, D) :- continues(A), national_nutrition_agency(B), implemented(C), collaboration(D).
+occur(A, B, C, D) :- continues(A), home(B), implemented(C), project(D).
+occur(A, B, C, D) :- continues(A), home(B), implemented(C), collaboration(D).
+occur(A, B, C, D) :- continues(A), work(B), implemented(C), project(D).
+occur(A, B, C, D) :- continues(A), work(B), implemented(C), collaboration(D).
+occur(A, B, C, D) :- validated(A), agency(B), provided(C), seeds(D).
+occur(A, B, C, D) :- working(A), partner(B), provided(C), seeds(D).
+occur(A, B, C, D) :- ongoing(A), lots(B), estimated(C), network(D).
+occur(A, B, C, D) :- ongoing(A), lots(B), estimated(C), cost(D).
+occur(A, B, C, D) :- ongoing(A), construction(B), estimated(C), network(D).
+occur(A, B, C, D) :- ongoing(A), construction(B), estimated(C), cost(D).
+occur(A, B, C, D) :- formulated(A), gambia_port_authority(B), handled(C), tonnes(D).
+occur(A, B, C, D) :- formulated(A), gambia_port_authority(B), handled(C), port(D).
+occur(A, B, C, D) :- formulated(A), business_plan(B), handled(C), tonnes(D).
+occur(A, B, C, D) :- formulated(A), business_plan(B), handled(C), port(D).
+occur(A, B, C, D) :- formulated(A), transportation(B), handled(C), tonnes(D).
+occur(A, B, C, D) :- formulated(A), transportation(B), handled(C), port(D).
+occur(A, B, C, D) :- improve(A), reforms(B), handled(C), tonnes(D).
+occur(A, B, C, D) :- improve(A), reforms(B), handled(C), port(D).
+occur(A, B, C, D) :- improve(A), capacity(B), handled(C), tonnes(D).
+occur(A, B, C, D) :- improve(A), capacity(B), handled(C), port(D).
+occur(A, B, C, D) :- improve(A), viability(B), handled(C), tonnes(D).
+occur(A, B, C, D) :- improve(A), viability(B), handled(C), port(D).
+occur(A, B, C, D) :- progressing(A), construction(B), done(C), works(D).
+occur(A, B, C, D) :- phased(A), national_broadband_network(B), establish(C), complement(D).
+occur(A, B, C, D) :- phased(A), national_broadband_network(B), establish(C), infrastructure(D).
+occur(A, B, C, D) :- phased(A), national_broadband_network(B), existing(C), project(D).
+occur(A, B, C, D) :- phased(A), project(B), establish(C), complement(D).
+occur(A, B, C, D) :- phased(A), project(B), establish(C), infrastructure(D).
+occur(A, B, C, D) :- phased(A), project(B), existing(C), project(D).
+occur(A, B, C, D) :- phased(A), april_2019(B), establish(C), complement(D).
+occur(A, B, C, D) :- phased(A), april_2019(B), establish(C), infrastructure(D).
+occur(A, B, C, D) :- phased(A), april_2019(B), existing(C), project(D).
+occur(A, B, C, D) :- committed(A), government(B), received(C), funds(D).
+occur(A, B, C, D) :- committed(A), government(B), received(C), result(D).
+occur(A, B, C, D) :- ensuring(A), access(B), received(C), funds(D).
+occur(A, B, C, D) :- ensuring(A), access(B), received(C), result(D).
+occur(A, B, C, D) :- providing(A), information(B), received(C), funds(D).
+occur(A, B, C, D) :- providing(A), information(B), received(C), result(D).
+occur(A, B, C, D) :- providing(A), nation(B), received(C), funds(D).
+occur(A, B, C, D) :- providing(A), nation(B), received(C), result(D).
+occur(A, B, C, D) :- reported(A), company(B), get(C), point(D).
+occur(A, B, C, D) :- reported(A), company(B), get(C), name(D).
+occur(A, B, C, D) :- reported(A), company(B), see(C), point(D).
+occur(A, B, C, D) :- reported(A), earnings(B), get(C), point(D).
+occur(A, B, C, D) :- reported(A), earnings(B), get(C), name(D).
+occur(A, B, C, D) :- reported(A), earnings(B), see(C), point(D).
+occur(A, B, C, D) :- reported(A), yesterday(B), get(C), point(D).
+occur(A, B, C, D) :- reported(A), yesterday(B), get(C), name(D).
+occur(A, B, C, D) :- reported(A), yesterday(B), see(C), point(D).
+occur(A, B, C, D) :- boosting(A), line(B), added(C), company(D).
+occur(A, B, C, D) :- boosting(A), line(B), opened(C), company(D).
+occur(A, B, C, D) :- boosting(A), line(B), opened(C), stores(D).
+occur(A, B, C, D) :- continues(A), company(B), added(C), company(D).
+occur(A, B, C, D) :- continues(A), company(B), opened(C), company(D).
+occur(A, B, C, D) :- continues(A), company(B), opened(C), stores(D).
+occur(A, B, C, D) :- expect(A), continue(B), helped(C), drive(D).
+occur(A, B, C, D) :- expect(A), continue(B), smashing(C), eps(D).
+occur(A, B, C, D) :- expect(A), continue(B), smashing(C), estimates(D).
+occur(A, B, C, D) :- invested(A), autozone(B), helped(C), drive(D).
+occur(A, B, C, D) :- invested(A), autozone(B), smashing(C), eps(D).
+occur(A, B, C, D) :- invested(A), autozone(B), smashing(C), estimates(D).
+occur(A, B, C, D) :- came(A), announcement(B), said(C), lay(D).
+occur(A, B, C, D) :- came(A), announcement(B), said(C), tuesday(D).
+occur(A, B, C, D) :- came(A), company(B), said(C), lay(D).
+occur(A, B, C, D) :- came(A), company(B), said(C), tuesday(D).
+occur(A, B, C, D) :- reported(A), company(B), said(C), lay(D).
+occur(A, B, C, D) :- reported(A), company(B), said(C), tuesday(D).
+occur(A, B, C, D) :- reported(A), loss(B), said(C), lay(D).
+occur(A, B, C, D) :- reported(A), loss(B), said(C), tuesday(D).
+occur(A, B, C, D) :- falling(A), delivery(B), began(C), listing(D).
+occur(A, B, C, D) :- falling(A), delivery(B), fallen(C), nio(D).
+occur(A, B, C, D) :- falling(A), introduction(B), began(C), listing(D).
+occur(A, B, C, D) :- falling(A), introduction(B), fallen(C), nio(D).
+occur(A, B, C, D) :- falling(A), the_first_quarter(B), began(C), listing(D).
+occur(A, B, C, D) :- falling(A), the_first_quarter(B), fallen(C), nio(D).
+occur(A, B, C, D) :- slowed(A), delivery(B), began(C), listing(D).
+occur(A, B, C, D) :- slowed(A), delivery(B), fallen(C), nio(D).
+occur(A, B, C, D) :- slowed(A), second_quarter(B), began(C), listing(D).
+occur(A, B, C, D) :- slowed(A), second_quarter(B), fallen(C), nio(D).
+occur(A, B, C, D) :- began(A), listing(B), fallen(C), price(D).
+occur(A, B, C, D) :- catching(A), vehicles(B), recalled(C), company(D).
+occur(A, B, C, D) :- catching(A), vehicles(B), recalled(C), suvs(D).
+occur(A, B, C, D) :- catching(A), vehicles(B), recalled(C), year(D).
+occur(A, B, C, D) :- catching(A), fire(B), recalled(C), company(D).
+occur(A, B, C, D) :- catching(A), fire(B), recalled(C), suvs(D).
+occur(A, B, C, D) :- catching(A), fire(B), recalled(C), year(D).
+occur(A, B, C, D) :- blaming(A), cut(B), tumbled(C), shares(D).
+occur(A, B, C, D) :- blaming(A), cut(B), tumbled(C), tuesday(D).
+occur(A, B, C, D) :- blaming(A), demand(B), tumbled(C), shares(D).
+occur(A, B, C, D) :- blaming(A), demand(B), tumbled(C), tuesday(D).
+occur(A, B, C, D) :- posted(A), carmaker(B), tumbled(C), shares(D).
+occur(A, B, C, D) :- posted(A), carmaker(B), tumbled(C), tuesday(D).
+occur(A, B, C, D) :- posted(A), drop(B), tumbled(C), shares(D).
+occur(A, B, C, D) :- posted(A), drop(B), tumbled(C), tuesday(D).
+occur(A, B, C, D) :- granted(A), break(B), reported(C), new_jersey_globe(D).
+occur(A, B, C, D) :- granted(A), break(B), reported(C), pays(D).
+occur(A, B, C, D) :- granted(A), break(B), reported(C), week(D).
+occur(A, B, C, D) :- granted(A), farmland_assessment_act(B), reported(C), new_jersey_globe(D).
+occur(A, B, C, D) :- granted(A), farmland_assessment_act(B), reported(C), pays(D).
+occur(A, B, C, D) :- granted(A), farmland_assessment_act(B), reported(C), week(D).
+occur(A, B, C, D) :- raised(A), funds(B), gathered(C), fund(D).
+occur(A, B, C, D) :- raised(A), funds(B), received(C), successors(D).
+occur(A, B, C, D) :- raised(A), funding(B), gathered(C), fund(D).
+occur(A, B, C, D) :- raised(A), funding(B), received(C), successors(D).
+occur(A, B, C, D) :- pocketed(A), area(B), expected(C), cagr(D).
+occur(A, B, C, D) :- pocketed(A), area(B), expected(C), assets(D).
+occur(A, B, C, D) :- pocketed(A), area(B), expected(C), report(D).
+occur(A, B, C, D) :- pocketed(A), area(B), expected(C), grow(D).
+occur(A, B, C, D) :- fighting(A), approaches(B), called(C), celsius(D).
+occur(A, B, C, D) :- fighting(A), approaches(B), called(C), agreement(D).
+occur(A, B, C, D) :- fighting(A), approaches(B), capping(C), change(D).
+occur(A, B, C, D) :- fighting(A), approaches(B), capping(C), degrees(D).
+occur(A, B, C, D) :- fighting(A), change(B), called(C), celsius(D).
+occur(A, B, C, D) :- fighting(A), change(B), called(C), agreement(D).
+occur(A, B, C, D) :- fighting(A), change(B), capping(C), change(D).
+occur(A, B, C, D) :- fighting(A), change(B), capping(C), degrees(D).
+occur(A, B, C, D) :- achieved(A), results(B), cleaned(C), project(D).
+occur(A, B, C, D) :- achieved(A), results(B), cleaned(C), kabwe_canal(D).
+occur(A, B, C, D) :- achieved(A), results(B), reduce(C), kabwe_canal(D).
+occur(A, B, C, D) :- achieved(A), results(B), reduce(C), risk(D).
+occur(A, B, C, D) :- achieved(A), results(B), removed(C), project(D).
+occur(A, B, C, D) :- achieved(A), results(B), removed(C), material(D).
+occur(A, B, C, D) :- achieved(A), results(B), removed(C), grass(D).
+occur(A, B, C, D) :- achieved(A), results(B), removed(C), trees(D).
+occur(A, B, C, D) :- achieved(A), results(B), removed(C), areas(D).
+occur(A, B, C, D) :- achieved(A), results(B), removed(C), yards(D).
+occur(A, B, C, D) :- hampered(A), lack(B), cleaned(C), project(D).
+occur(A, B, C, D) :- hampered(A), lack(B), cleaned(C), kabwe_canal(D).
+occur(A, B, C, D) :- hampered(A), lack(B), reduce(C), kabwe_canal(D).
+occur(A, B, C, D) :- hampered(A), lack(B), reduce(C), risk(D).
+occur(A, B, C, D) :- hampered(A), lack(B), removed(C), project(D).
+occur(A, B, C, D) :- hampered(A), lack(B), removed(C), material(D).
+occur(A, B, C, D) :- hampered(A), lack(B), removed(C), grass(D).
+occur(A, B, C, D) :- hampered(A), lack(B), removed(C), trees(D).
+occur(A, B, C, D) :- hampered(A), lack(B), removed(C), areas(D).
+occur(A, B, C, D) :- hampered(A), lack(B), removed(C), yards(D).
+occur(A, B, C, D) :- announced(A), owner(B), get(C), shareholders(D).
+occur(A, B, C, D) :- announced(A), owner(B), get(C), yen(D).
+occur(A, B, C, D) :- announced(A), owner(B), get(C), statement(D).
+occur(A, B, C, D) :- announced(A), owner(B), get(C), bitcoin(D).
+occur(A, B, C, D) :- announced(A), owner(B), give(C), btc(D).
+occur(A, B, C, D) :- announced(A), owner(B), give(C), anyone(D).
+occur(A, B, C, D) :- announced(A), owner(B), has(C), account(D).
+occur(A, B, C, D) :- announced(A), owner(B), owns(C), anyone(D).
+occur(A, B, C, D) :- announced(A), owner(B), owns(C), shares(D).
+occur(A, B, C, D) :- announced(A), owner(B), said(C), monex_group(D).
+occur(A, B, C, D) :- announced(A), award(B), get(C), shareholders(D).
+occur(A, B, C, D) :- announced(A), award(B), get(C), yen(D).
+occur(A, B, C, D) :- announced(A), award(B), get(C), statement(D).
+occur(A, B, C, D) :- announced(A), award(B), get(C), bitcoin(D).
+occur(A, B, C, D) :- announced(A), award(B), give(C), btc(D).
+occur(A, B, C, D) :- announced(A), award(B), give(C), anyone(D).
+occur(A, B, C, D) :- announced(A), award(B), has(C), account(D).
+occur(A, B, C, D) :- announced(A), award(B), owns(C), anyone(D).
+occur(A, B, C, D) :- announced(A), award(B), owns(C), shares(D).
+occur(A, B, C, D) :- announced(A), award(B), said(C), monex_group(D).
+occur(A, B, C, D) :- increasing(A), building(B), decided(C), company(D).
+occur(A, B, C, D) :- increasing(A), building(B), decided(C), grant(D).
+occur(A, B, C, D) :- increasing(A), building(B), operated(C), accounts(D).
+occur(A, B, C, D) :- increasing(A), aspiration(B), decided(C), company(D).
+occur(A, B, C, D) :- increasing(A), aspiration(B), decided(C), grant(D).
+occur(A, B, C, D) :- increasing(A), aspiration(B), operated(C), accounts(D).
+occur(A, B, C, D) :- assessed(A), value(B), assessed(C), value(D).
+occur(A, B, C, D) :- decided(A), board(B), assessed(C), value(D).
+occur(A, B, C, D) :- decided(A), ask(B), assessed(C), value(D).
+occur(A, B, C, D) :- allow(A), statement(B), assessed(C), value(D).
+occur(A, B, C, D) :- allow(A), city(B), assessed(C), value(D).
+occur(A, B, C, D) :- allow(A), assist(B), assessed(C), value(D).
+occur(A, B, C, D) :- assessed(A), value(B), asking(C), officials(D).
+occur(A, B, C, D) :- assessed(A), value(B), asking(C), fund(D).
+occur(A, B, C, D) :- assessed(A), value(B), asking(C), voters(D).
+occur(A, B, C, D) :- asking(A), water(B), assessed(C), value(D).
+occur(A, B, C, D) :- asking(A), bond(B), assessed(C), value(D).
+occur(A, B, C, D) :- asking(A), voters(B), assessed(C), value(D).
+occur(A, B, C, D) :- asking(A), renew(B), assessed(C), value(D).
+occur(A, B, C, D) :- appeared(A), glut(B), became(C), year(D).
+occur(A, B, C, D) :- appeared(A), glut(B), buy(C), imbalance(D).
+occur(A, B, C, D) :- appeared(A), glut(B), buy(C), treasuries(D).
+occur(A, B, C, D) :- appeared(A), glut(B), maturing(C), bonds(D).
+occur(A, B, C, D) :- appeared(A), glut(B), maturing(C), period(D).
+occur(A, B, C, D) :- appeared(A), glut(B), needed(C), imbalance(D).
+occur(A, B, C, D) :- appeared(A), market(B), became(C), year(D).
+occur(A, B, C, D) :- appeared(A), market(B), buy(C), imbalance(D).
+occur(A, B, C, D) :- appeared(A), market(B), buy(C), treasuries(D).
+occur(A, B, C, D) :- appeared(A), market(B), maturing(C), bonds(D).
+occur(A, B, C, D) :- appeared(A), market(B), maturing(C), period(D).
+occur(A, B, C, D) :- appeared(A), market(B), needed(C), imbalance(D).
+occur(A, B, C, D) :- sold(A), government(B), became(C), year(D).
+occur(A, B, C, D) :- sold(A), government(B), buy(C), imbalance(D).
+occur(A, B, C, D) :- sold(A), government(B), buy(C), treasuries(D).
+occur(A, B, C, D) :- sold(A), government(B), maturing(C), bonds(D).
+occur(A, B, C, D) :- sold(A), government(B), maturing(C), period(D).
+occur(A, B, C, D) :- sold(A), government(B), needed(C), imbalance(D).
+occur(A, B, C, D) :- sold(A), debt(B), became(C), year(D).
+occur(A, B, C, D) :- sold(A), debt(B), buy(C), imbalance(D).
+occur(A, B, C, D) :- sold(A), debt(B), buy(C), treasuries(D).
+occur(A, B, C, D) :- sold(A), debt(B), maturing(C), bonds(D).
+occur(A, B, C, D) :- sold(A), debt(B), maturing(C), period(D).
+occur(A, B, C, D) :- sold(A), debt(B), needed(C), imbalance(D).
+occur(A, B, C, D) :- withdrawing(A), pay(B), became(C), year(D).
+occur(A, B, C, D) :- withdrawing(A), pay(B), buy(C), imbalance(D).
+occur(A, B, C, D) :- withdrawing(A), pay(B), buy(C), treasuries(D).
+occur(A, B, C, D) :- withdrawing(A), pay(B), maturing(C), bonds(D).
+occur(A, B, C, D) :- withdrawing(A), pay(B), maturing(C), period(D).
+occur(A, B, C, D) :- withdrawing(A), pay(B), needed(C), imbalance(D).
+occur(A, B, C, D) :- withdrawing(A), companies(B), became(C), year(D).
+occur(A, B, C, D) :- withdrawing(A), companies(B), buy(C), imbalance(D).
+occur(A, B, C, D) :- withdrawing(A), companies(B), buy(C), treasuries(D).
+occur(A, B, C, D) :- withdrawing(A), companies(B), maturing(C), bonds(D).
+occur(A, B, C, D) :- withdrawing(A), companies(B), maturing(C), period(D).
+occur(A, B, C, D) :- withdrawing(A), companies(B), needed(C), imbalance(D).
+occur(A, B, C, D) :- withdrawing(A), cash(B), became(C), year(D).
+occur(A, B, C, D) :- withdrawing(A), cash(B), buy(C), imbalance(D).
+occur(A, B, C, D) :- withdrawing(A), cash(B), buy(C), treasuries(D).
+occur(A, B, C, D) :- withdrawing(A), cash(B), maturing(C), bonds(D).
+occur(A, B, C, D) :- withdrawing(A), cash(B), maturing(C), period(D).
+occur(A, B, C, D) :- withdrawing(A), cash(B), needed(C), imbalance(D).
+occur(A, B, C, D) :- withdrawing(A), markets(B), became(C), year(D).
+occur(A, B, C, D) :- withdrawing(A), markets(B), buy(C), imbalance(D).
+occur(A, B, C, D) :- withdrawing(A), markets(B), buy(C), treasuries(D).
+occur(A, B, C, D) :- withdrawing(A), markets(B), maturing(C), bonds(D).
+occur(A, B, C, D) :- withdrawing(A), markets(B), maturing(C), period(D).
+occur(A, B, C, D) :- withdrawing(A), markets(B), needed(C), imbalance(D).
+occur(A, B, C, D) :- announced(A), romania(B), announced(C), company(D).
+occur(A, B, C, D) :- announced(A), romania(B), announced(C), receive(D).
+occur(A, B, C, D) :- announced(A), launch(B), announced(C), company(D).
+occur(A, B, C, D) :- announced(A), launch(B), announced(C), receive(D).
+occur(A, B, C, D) :- completing(A), acquisition(B), announced(C), company(D).
+occur(A, B, C, D) :- completing(A), acquisition(B), announced(C), receive(D).
+occur(A, B, C, D) :- converged(A), packages(B), announced(C), company(D).
+occur(A, B, C, D) :- converged(A), packages(B), announced(C), receive(D).
+occur(A, B, C, D) :- rolling(A), products(B), announced(C), company(D).
+occur(A, B, C, D) :- rolling(A), products(B), announced(C), receive(D).
+occur(A, B, C, D) :- submitted(A), insider(B), announced(C), company(D).
+occur(A, B, C, D) :- submitted(A), insider(B), announced(C), receive(D).
+occur(A, B, C, D) :- submitted(A), romaniainsider(B), announced(C), company(D).
+occur(A, B, C, D) :- submitted(A), romaniainsider(B), announced(C), receive(D).
+occur(A, B, C, D) :- fixed(A), network(B), were(C), revenues(D).
+occur(A, B, C, D) :- fixed(A), network(B), were(C), eur(D).
+occur(A, B, C, D) :- fixed(A), network(B), combined(C), revenues(D).
+occur(A, B, C, D) :- have(A), company(B), were(C), revenues(D).
+occur(A, B, C, D) :- have(A), company(B), were(C), eur(D).
+occur(A, B, C, D) :- have(A), company(B), combined(C), revenues(D).
+occur(A, B, C, D) :- have(A), network(B), were(C), revenues(D).
+occur(A, B, C, D) :- have(A), network(B), were(C), eur(D).
+occur(A, B, C, D) :- have(A), network(B), combined(C), revenues(D).
+occur(A, B, C, D) :- have(A), subscribers(B), were(C), revenues(D).
+occur(A, B, C, D) :- have(A), subscribers(B), were(C), eur(D).
+occur(A, B, C, D) :- have(A), subscribers(B), combined(C), revenues(D).
+occur(A, B, C, D) :- announced(A), dividend(B), announced(C), shares(D).
+occur(A, B, C, D) :- announced(A), dividend(B), announced(C), pso(D).
+occur(A, B, C, D) :- announced(A), dividend(B), announced(C), fy_18(D).
+occur(A, B, C, D) :- announced(A), dividend(B), announced(C), dividend(D).
+occur(A, B, C, D) :- announced(A), dividend(B), based(C), group(D).
+occur(A, B, C, D) :- announced(A), dividend(B), based(C), pakistan(D).
+occur(A, B, C, D) :- announced(A), pso(B), announced(C), shares(D).
+occur(A, B, C, D) :- announced(A), pso(B), announced(C), pso(D).
+occur(A, B, C, D) :- announced(A), pso(B), announced(C), fy_18(D).
+occur(A, B, C, D) :- announced(A), pso(B), announced(C), dividend(D).
+occur(A, B, C, D) :- announced(A), pso(B), based(C), group(D).
+occur(A, B, C, D) :- announced(A), pso(B), based(C), pakistan(D).
+occur(A, B, C, D) :- obtain(A), er(B), holding(C), company(D).
+occur(A, B, C, D) :- obtain(A), er(B), qualifying(C), level(D).
+occur(A, B, C, D) :- obtain(A), er(B), reduced(C), shareholders(D).
+occur(A, B, C, D) :- obtain(A), er(B), reduced(C), level(D).
+occur(A, B, C, D) :- raising(A), funds(B), holding(C), company(D).
+occur(A, B, C, D) :- raising(A), funds(B), qualifying(C), level(D).
+occur(A, B, C, D) :- raising(A), funds(B), reduced(C), shareholders(D).
+occur(A, B, C, D) :- raising(A), funds(B), reduced(C), level(D).
+occur(A, B, C, D) :- raising(A), means(B), holding(C), company(D).
+occur(A, B, C, D) :- raising(A), means(B), qualifying(C), level(D).
+occur(A, B, C, D) :- raising(A), means(B), reduced(C), shareholders(D).
+occur(A, B, C, D) :- raising(A), means(B), reduced(C), level(D).
+occur(A, B, C, D) :- acquired(A), shares(B), decided(C), purchase(D).
+occur(A, B, C, D) :- holding(A), shares(B), decided(C), purchase(D).
+occur(A, B, C, D) :- sold(A), jeff(B), decided(C), purchase(D).
+occur(A, B, C, D) :- sold(A), changes(B), decided(C), purchase(D).
+occur(A, B, C, D) :- sold(A), shares(B), decided(C), purchase(D).
+occur(A, B, C, D) :- sold(A), example(B), decided(C), purchase(D).
+occur(A, B, C, D) :- sold(A), plc(B), decided(C), purchase(D).
+occur(A, B, C, D) :- is(A), purpose(B), announced(C), images(D).
+occur(A, B, C, D) :- is(A), purpose(B), announced(C), softbank(D).
+occur(A, B, C, D) :- is(A), facilitate(B), announced(C), images(D).
+occur(A, B, C, D) :- is(A), facilitate(B), announced(C), softbank(D).
+occur(A, B, C, D) :- says(A), softbank(B), announced(C), images(D).
+occur(A, B, C, D) :- says(A), softbank(B), announced(C), softbank(D).
+occur(A, B, C, D) :- says(A), fund(B), announced(C), images(D).
+occur(A, B, C, D) :- says(A), fund(B), announced(C), softbank(D).
+occur(A, B, C, D) :- became(A), son(B), famed(C), charisma(D).
+occur(A, B, C, D) :- became(A), son(B), given(C), status(D).
+occur(A, B, C, D) :- became(A), name(B), famed(C), charisma(D).
+occur(A, B, C, D) :- became(A), name(B), given(C), status(D).
+occur(A, B, C, D) :- became(A), impact(B), famed(C), charisma(D).
+occur(A, B, C, D) :- became(A), impact(B), given(C), status(D).
+occur(A, B, C, D) :- became(A), result(B), famed(C), charisma(D).
+occur(A, B, C, D) :- became(A), result(B), given(C), status(D).
+occur(A, B, C, D) :- burgeoning(A), internet(B), famed(C), charisma(D).
+occur(A, B, C, D) :- burgeoning(A), internet(B), given(C), status(D).
+occur(A, B, C, D) :- are(A), exceptions(B), evidenced(C), list(D).
+occur(A, B, C, D) :- are(A), exceptions(B), running(C), list(D).
+occur(A, B, C, D) :- are(A), images(B), evidenced(C), list(D).
+occur(A, B, C, D) :- are(A), images(B), running(C), list(D).
+occur(A, B, C, D) :- established(A), businesses(B), evidenced(C), list(D).
+occur(A, B, C, D) :- established(A), businesses(B), running(C), list(D).
+occur(A, B, C, D) :- rushed(A), meeting(B), attending(C), adam_neumann(D).
+occur(A, B, C, D) :- rushed(A), meeting(B), attending(C), ceremony(D).
+occur(A, B, C, D) :- said(A), maker(B), called(C), gm_gm(D).
+occur(A, B, C, D) :- said(A), maker(B), called(C), profits(D).
+occur(A, B, C, D) :- said(A), maker(B), slammed(C), gm_gm(D).
+occur(A, B, C, D) :- said(A), suspend(B), called(C), gm_gm(D).
+occur(A, B, C, D) :- said(A), suspend(B), called(C), profits(D).
+occur(A, B, C, D) :- said(A), suspend(B), slammed(C), gm_gm(D).
+occur(A, B, C, D) :- had(A), bill(B), lost(C), company(D).
+occur(A, B, C, D) :- deducted(A), expenditures(B), is(C), reason(D).
+occur(A, B, C, D) :- deducted(A), expenditures(B), is(C), spent(D).
+occur(A, B, C, D) :- deducted(A), earnings(B), is(C), reason(D).
+occur(A, B, C, D) :- deducted(A), earnings(B), is(C), spent(D).
+occur(A, B, C, D) :- have(A), workers(B), agreed(C), united_auto_workers(D).
+occur(A, B, C, D) :- have(A), workers(B), let(C), united_auto_workers(D).
+occur(A, B, C, D) :- have(A), workers(B), let(C), pay(D).
+occur(A, B, C, D) :- have(A), point(B), agreed(C), united_auto_workers(D).
+occur(A, B, C, D) :- have(A), point(B), let(C), united_auto_workers(D).
+occur(A, B, C, D) :- have(A), point(B), let(C), pay(D).
+occur(A, B, C, D) :- have(A), hand(B), agreed(C), united_auto_workers(D).
+occur(A, B, C, D) :- have(A), hand(B), let(C), united_auto_workers(D).
+occur(A, B, C, D) :- have(A), hand(B), let(C), pay(D).
+occur(A, B, C, D) :- have(A), sacrifice(B), agreed(C), united_auto_workers(D).
+occur(A, B, C, D) :- have(A), sacrifice(B), let(C), united_auto_workers(D).
+occur(A, B, C, D) :- have(A), sacrifice(B), let(C), pay(D).
+occur(A, B, C, D) :- normalized(A), condition(B), agreed(C), united_auto_workers(D).
+occur(A, B, C, D) :- normalized(A), condition(B), let(C), united_auto_workers(D).
+occur(A, B, C, D) :- normalized(A), condition(B), let(C), pay(D).
+occur(A, B, C, D) :- delivered(A), strategy(B), announced(C), ross_mcewan(D).
+occur(A, B, C, D) :- delivered(A), strategy(B), announced(C), intention(D).
+occur(A, B, C, D) :- delivered(A), strategy(B), announced(C), april(D).
+occur(A, B, C, D) :- go(A), time(B), announced(C), ross_mcewan(D).
+occur(A, B, C, D) :- go(A), time(B), announced(C), intention(D).
+occur(A, B, C, D) :- go(A), time(B), announced(C), april(D).
+occur(A, B, C, D) :- stabilising(A), strategy(B), announced(C), ross_mcewan(D).
+occur(A, B, C, D) :- stabilising(A), strategy(B), announced(C), intention(D).
+occur(A, B, C, D) :- stabilising(A), strategy(B), announced(C), april(D).
+occur(A, B, C, D) :- stabilising(A), bank(B), announced(C), ross_mcewan(D).
+occur(A, B, C, D) :- stabilising(A), bank(B), announced(C), intention(D).
+occur(A, B, C, D) :- stabilising(A), bank(B), announced(C), april(D).
+occur(A, B, C, D) :- stabilising(A), bailout(B), announced(C), ross_mcewan(D).
+occur(A, B, C, D) :- stabilising(A), bailout(B), announced(C), intention(D).
+occur(A, B, C, D) :- stabilising(A), bailout(B), announced(C), april(D).
+occur(A, B, C, D) :- grew(A), profits(B), announced(C), paid(D).
+occur(A, B, C, D) :- revealed(A), results(B), announced(C), paid(D).
+occur(A, B, C, D) :- revealed(A), increase(B), announced(C), paid(D).
+occur(A, B, C, D) :- delivered(A), profit(B), go(C), shareholders(D).
+occur(A, B, C, D) :- delivered(A), profit(B), go(C), uk(D).
+occur(A, B, C, D) :- delivered(A), decade(B), go(C), shareholders(D).
+occur(A, B, C, D) :- delivered(A), decade(B), go(C), uk(D).
+occur(A, B, C, D) :- lacking(A), security(B), fined(C), personal_data_protection_office(D).
+occur(A, B, C, D) :- follows(A), example(B), costing(C), refurbishment(D).
+occur(A, B, C, D) :- goes(A), example(B), costing(C), refurbishment(D).
+occur(A, B, C, D) :- involved(A), council(B), costing(C), refurbishment(D).
+occur(A, B, C, D) :- involved(A), forces(B), costing(C), refurbishment(D).
+occur(A, B, C, D) :- says(A), lee(B), costing(C), refurbishment(D).
+occur(A, B, C, D) :- making(A), profit(B), allowed(C), council(D).
+occur(A, B, C, D) :- making(A), profit(B), allowed(C), periods(D).
+occur(A, B, C, D) :- making(A), profit(B), allowed(C), repairs(D).
+occur(A, B, C, D) :- making(A), profit(B), allowed(C), building(D).
+occur(A, B, C, D) :- addressed(A), minister(B), slashing(C), rates(D).
+occur(A, B, C, D) :- addressed(A), conference(B), slashing(C), rates(D).
+occur(A, B, C, D) :- addressed(A), friday(B), slashing(C), rates(D).
+occur(A, B, C, D) :- announcing(A), boost(B), slashing(C), rates(D).
+occur(A, B, C, D) :- announcing(A), series(B), slashing(C), rates(D).
+occur(A, B, C, D) :- keeping(A), committee(B), gone(C), government(D).
+occur(A, B, C, D) :- keeping(A), committee(B), gone(C), step(D).
+occur(A, B, C, D) :- keeping(A), committee(B), slashed(C), government(D).
+occur(A, B, C, D) :- keeping(A), committee(B), slashed(C), rate(D).
+occur(A, B, C, D) :- keeping(A), rate(B), gone(C), government(D).
+occur(A, B, C, D) :- keeping(A), rate(B), gone(C), step(D).
+occur(A, B, C, D) :- keeping(A), rate(B), slashed(C), government(D).
+occur(A, B, C, D) :- keeping(A), rate(B), slashed(C), rate(D).
+occur(A, B, C, D) :- submitted(A), committee(B), gone(C), government(D).
+occur(A, B, C, D) :- submitted(A), committee(B), gone(C), step(D).
+occur(A, B, C, D) :- submitted(A), committee(B), slashed(C), government(D).
+occur(A, B, C, D) :- submitted(A), committee(B), slashed(C), rate(D).
+occur(A, B, C, D) :- submitted(A), report(B), gone(C), government(D).
+occur(A, B, C, D) :- submitted(A), report(B), gone(C), step(D).
+occur(A, B, C, D) :- submitted(A), report(B), slashed(C), government(D).
+occur(A, B, C, D) :- submitted(A), report(B), slashed(C), rate(D).
+occur(A, B, C, D) :- submitted(A), tax(B), gone(C), government(D).
+occur(A, B, C, D) :- submitted(A), tax(B), gone(C), step(D).
+occur(A, B, C, D) :- submitted(A), tax(B), slashed(C), government(D).
+occur(A, B, C, D) :- submitted(A), tax(B), slashed(C), rate(D).
+occur(A, B, C, D) :- suggested(A), committee(B), gone(C), government(D).
+occur(A, B, C, D) :- suggested(A), committee(B), gone(C), step(D).
+occur(A, B, C, D) :- suggested(A), committee(B), slashed(C), government(D).
+occur(A, B, C, D) :- suggested(A), committee(B), slashed(C), rate(D).
+occur(A, B, C, D) :- made(A), measures(B), gone(C), government(D).
+occur(A, B, C, D) :- made(A), measures(B), gone(C), step(D).
+occur(A, B, C, D) :- made(A), measures(B), slashed(C), government(D).
+occur(A, B, C, D) :- made(A), measures(B), slashed(C), rate(D).
+occur(A, B, C, D) :- made(A), laws(B), gone(C), government(D).
+occur(A, B, C, D) :- made(A), laws(B), gone(C), step(D).
+occur(A, B, C, D) :- made(A), laws(B), slashed(C), government(D).
+occur(A, B, C, D) :- made(A), laws(B), slashed(C), rate(D).
+occur(A, B, C, D) :- coming(A), employers(B), leave(C), paternity(D).
+occur(A, B, C, D) :- coming(A), employers(B), leave(C), case(D).
+occur(A, B, C, D) :- coming(A), employers(B), settled(C), jpmorgan_chase(D).
+occur(A, B, C, D) :- coming(A), terms(B), leave(C), paternity(D).
+occur(A, B, C, D) :- coming(A), terms(B), leave(C), case(D).
+occur(A, B, C, D) :- coming(A), terms(B), settled(C), jpmorgan_chase(D).
+occur(A, B, C, D) :- coming(A), fact(B), leave(C), paternity(D).
+occur(A, B, C, D) :- coming(A), fact(B), leave(C), case(D).
+occur(A, B, C, D) :- coming(A), fact(B), settled(C), jpmorgan_chase(D).
+occur(A, B, C, D) :- prodding(A), terms(B), leave(C), paternity(D).
+occur(A, B, C, D) :- prodding(A), terms(B), leave(C), case(D).
+occur(A, B, C, D) :- prodding(A), terms(B), settled(C), jpmorgan_chase(D).
+occur(A, B, C, D) :- leave(A), policy(B), blocked(C), bank(D).
+occur(A, B, C, D) :- leave(A), policy(B), leave(C), caregivers(D).
+occur(A, B, C, D) :- failed(A), contract(B), awarded(C), judgment(D).
+occur(A, B, C, D) :- failed(A), contract(B), had(C), british_commercial_court(D).
+occur(A, B, C, D) :- failed(A), contract(B), had(C), august_16(D).
+occur(A, B, C, D) :- accused(A), notices(B), exempted(C), court_of_tax_appeals(D).
+occur(A, B, C, D) :- accused(A), notices(B), exempted(C), cando(D).
+occur(A, B, C, D) :- accused(A), notices(B), exempted(C), pixabay(D).
+occur(A, B, C, D) :- accused(A), notices(B), paying(C), bir(D).
+occur(A, B, C, D) :- accused(A), notices(B), paying(C), p2(D).
+occur(A, B, C, D) :- accused(A), letter_of_authority(B), exempted(C), court_of_tax_appeals(D).
+occur(A, B, C, D) :- accused(A), letter_of_authority(B), exempted(C), cando(D).
+occur(A, B, C, D) :- accused(A), letter_of_authority(B), exempted(C), pixabay(D).
+occur(A, B, C, D) :- accused(A), letter_of_authority(B), paying(C), bir(D).
+occur(A, B, C, D) :- accused(A), letter_of_authority(B), paying(C), p2(D).
+occur(A, B, C, D) :- dismissed(A), first_division(B), exempted(C), court_of_tax_appeals(D).
+occur(A, B, C, D) :- dismissed(A), first_division(B), exempted(C), cando(D).
+occur(A, B, C, D) :- dismissed(A), first_division(B), exempted(C), pixabay(D).
+occur(A, B, C, D) :- dismissed(A), first_division(B), paying(C), bir(D).
+occur(A, B, C, D) :- dismissed(A), first_division(B), paying(C), p2(D).
+occur(A, B, C, D) :- dismissed(A), decision(B), exempted(C), court_of_tax_appeals(D).
+occur(A, B, C, D) :- dismissed(A), decision(B), exempted(C), cando(D).
+occur(A, B, C, D) :- dismissed(A), decision(B), exempted(C), pixabay(D).
+occur(A, B, C, D) :- dismissed(A), decision(B), paying(C), bir(D).
+occur(A, B, C, D) :- dismissed(A), decision(B), paying(C), p2(D).
+occur(A, B, C, D) :- registered(A), assessment(B), exempted(C), court_of_tax_appeals(D).
+occur(A, B, C, D) :- registered(A), assessment(B), exempted(C), cando(D).
+occur(A, B, C, D) :- registered(A), assessment(B), exempted(C), pixabay(D).
+occur(A, B, C, D) :- registered(A), assessment(B), paying(C), bir(D).
+occur(A, B, C, D) :- registered(A), assessment(B), paying(C), p2(D).
+occur(A, B, C, D) :- launched(A), entrepreneurs(B), required(C), skills(D).
+occur(A, B, C, D) :- launched(A), entrepreneurs(B), required(C), create(D).
+occur(A, B, C, D) :- launched(A), entrepreneurs(B), selected(C), women(D).
+occur(A, B, C, D) :- launched(A), entrepreneurs(B), selected(C), pool(D).
+occur(A, B, C, D) :- launched(A), tgmedia(B), required(C), skills(D).
+occur(A, B, C, D) :- launched(A), tgmedia(B), required(C), create(D).
+occur(A, B, C, D) :- launched(A), tgmedia(B), selected(C), women(D).
+occur(A, B, C, D) :- launched(A), tgmedia(B), selected(C), pool(D).
+occur(A, B, C, D) :- consider(A), obstacles(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- consider(A), obstacles(B), announced(C), friday(D).
+occur(A, B, C, D) :- consider(A), obstacles(B), including(C), rate(D).
+occur(A, B, C, D) :- consider(A), obstacles(B), including(C), cess(D).
+occur(A, B, C, D) :- consider(A), obstacles(B), including(C), surc(D).
+occur(A, B, C, D) :- consider(A), multinationals(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- consider(A), multinationals(B), announced(C), friday(D).
+occur(A, B, C, D) :- consider(A), multinationals(B), including(C), rate(D).
+occur(A, B, C, D) :- consider(A), multinationals(B), including(C), cess(D).
+occur(A, B, C, D) :- consider(A), multinationals(B), including(C), surc(D).
+occur(A, B, C, D) :- consider(A), destination(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- consider(A), destination(B), announced(C), friday(D).
+occur(A, B, C, D) :- consider(A), destination(B), including(C), rate(D).
+occur(A, B, C, D) :- consider(A), destination(B), including(C), cess(D).
+occur(A, B, C, D) :- consider(A), destination(B), including(C), surc(D).
+occur(A, B, C, D) :- flowing(A), investment(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- flowing(A), investment(B), announced(C), friday(D).
+occur(A, B, C, D) :- flowing(A), investment(B), including(C), rate(D).
+occur(A, B, C, D) :- flowing(A), investment(B), including(C), cess(D).
+occur(A, B, C, D) :- flowing(A), investment(B), including(C), surc(D).
+occur(A, B, C, D) :- flowing(A), dispute(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- flowing(A), dispute(B), announced(C), friday(D).
+occur(A, B, C, D) :- flowing(A), dispute(B), including(C), rate(D).
+occur(A, B, C, D) :- flowing(A), dispute(B), including(C), cess(D).
+occur(A, B, C, D) :- flowing(A), dispute(B), including(C), surc(D).
+occur(A, B, C, D) :- flowing(A), china(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- flowing(A), china(B), announced(C), friday(D).
+occur(A, B, C, D) :- flowing(A), china(B), including(C), rate(D).
+occur(A, B, C, D) :- flowing(A), china(B), including(C), cess(D).
+occur(A, B, C, D) :- flowing(A), china(B), including(C), surc(D).
+occur(A, B, C, D) :- looking(A), government(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- looking(A), government(B), announced(C), friday(D).
+occur(A, B, C, D) :- looking(A), government(B), including(C), rate(D).
+occur(A, B, C, D) :- looking(A), government(B), including(C), cess(D).
+occur(A, B, C, D) :- looking(A), government(B), including(C), surc(D).
+occur(A, B, C, D) :- looking(A), rate(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- looking(A), rate(B), announced(C), friday(D).
+occur(A, B, C, D) :- looking(A), rate(B), including(C), rate(D).
+occur(A, B, C, D) :- looking(A), rate(B), including(C), cess(D).
+occur(A, B, C, D) :- looking(A), rate(B), including(C), surc(D).
+occur(A, B, C, D) :- looking(A), attract(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- looking(A), attract(B), announced(C), friday(D).
+occur(A, B, C, D) :- looking(A), attract(B), including(C), rate(D).
+occur(A, B, C, D) :- looking(A), attract(B), including(C), cess(D).
+occur(A, B, C, D) :- looking(A), attract(B), including(C), surc(D).
+occur(A, B, C, D) :- neighbouring(A), country(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- neighbouring(A), country(B), announced(C), friday(D).
+occur(A, B, C, D) :- neighbouring(A), country(B), including(C), rate(D).
+occur(A, B, C, D) :- neighbouring(A), country(B), including(C), cess(D).
+occur(A, B, C, D) :- neighbouring(A), country(B), including(C), surc(D).
+occur(A, B, C, D) :- remove(A), india(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- remove(A), india(B), announced(C), friday(D).
+occur(A, B, C, D) :- remove(A), india(B), including(C), rate(D).
+occur(A, B, C, D) :- remove(A), india(B), including(C), cess(D).
+occur(A, B, C, D) :- remove(A), india(B), including(C), surc(D).
+occur(A, B, C, D) :- remove(A), obstacles(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- remove(A), obstacles(B), announced(C), friday(D).
+occur(A, B, C, D) :- remove(A), obstacles(B), including(C), rate(D).
+occur(A, B, C, D) :- remove(A), obstacles(B), including(C), cess(D).
+occur(A, B, C, D) :- remove(A), obstacles(B), including(C), surc(D).
+occur(A, B, C, D) :- say(A), government(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- say(A), government(B), announced(C), friday(D).
+occur(A, B, C, D) :- say(A), government(B), including(C), rate(D).
+occur(A, B, C, D) :- say(A), government(B), including(C), cess(D).
+occur(A, B, C, D) :- say(A), government(B), including(C), surc(D).
+occur(A, B, C, D) :- say(A), experts(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- say(A), experts(B), announced(C), friday(D).
+occur(A, B, C, D) :- say(A), experts(B), including(C), rate(D).
+occur(A, B, C, D) :- say(A), experts(B), including(C), cess(D).
+occur(A, B, C, D) :- say(A), experts(B), including(C), surc(D).
+occur(A, B, C, D) :- say(A), needs(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- say(A), needs(B), announced(C), friday(D).
+occur(A, B, C, D) :- say(A), needs(B), including(C), rate(D).
+occur(A, B, C, D) :- say(A), needs(B), including(C), cess(D).
+occur(A, B, C, D) :- say(A), needs(B), including(C), surc(D).
+occur(A, B, C, D) :- say(A), rate(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- say(A), rate(B), announced(C), friday(D).
+occur(A, B, C, D) :- say(A), rate(B), including(C), rate(D).
+occur(A, B, C, D) :- say(A), rate(B), including(C), cess(D).
+occur(A, B, C, D) :- say(A), rate(B), including(C), surc(D).
+occur(A, B, C, D) :- say(A), attract(B), announced(C), sitharaman(D).
+occur(A, B, C, D) :- say(A), attract(B), announced(C), friday(D).
+occur(A, B, C, D) :- say(A), attract(B), including(C), rate(D).
+occur(A, B, C, D) :- say(A), attract(B), including(C), cess(D).
+occur(A, B, C, D) :- say(A), attract(B), including(C), surc(D).
+occur(A, B, C, D) :- said(A), dk_joshi(B), bringing(C), rate(D).
+occur(A, B, C, D) :- said(A), term(B), bringing(C), rate(D).
+occur(A, B, C, D) :- adjusted(A), shiller(B), are(C), plenty(D).
+occur(A, B, C, D) :- adjusted(A), shiller(B), says(C), argument(D).
+occur(A, B, C, D) :- using(A), equity(B), are(C), plenty(D).
+occur(A, B, C, D) :- using(A), equity(B), says(C), argument(D).
+occur(A, B, C, D) :- using(A), shiller(B), are(C), plenty(D).
+occur(A, B, C, D) :- using(A), shiller(B), says(C), argument(D).
+occur(A, B, C, D) :- helped(A), yields(B), are(C), plenty(D).
+occur(A, B, C, D) :- helped(A), yields(B), says(C), argument(D).
+occur(A, B, C, D) :- helped(A), boomers(B), are(C), plenty(D).
+occur(A, B, C, D) :- helped(A), boomers(B), says(C), argument(D).
+occur(A, B, C, D) :- pouring(A), boomers(B), are(C), plenty(D).
+occur(A, B, C, D) :- pouring(A), boomers(B), says(C), argument(D).
+occur(A, B, C, D) :- pouring(A), money(B), are(C), plenty(D).
+occur(A, B, C, D) :- pouring(A), money(B), says(C), argument(D).
+occur(A, B, C, D) :- pouring(A), stocks(B), are(C), plenty(D).
+occur(A, B, C, D) :- pouring(A), stocks(B), says(C), argument(D).
+occur(A, B, C, D) :- keep(A), households(B), announced(C), year(D).
+occur(A, B, C, D) :- keep(A), households(B), keep(C), plenty(D).
+occur(A, B, C, D) :- keep(A), households(B), keep(C), buying(D).
+occur(A, B, C, D) :- keep(A), households(B), said(C), plenty(D).
+occur(A, B, C, D) :- keep(A), buying(B), announced(C), year(D).
+occur(A, B, C, D) :- keep(A), buying(B), keep(C), plenty(D).
+occur(A, B, C, D) :- keep(A), buying(B), keep(C), buying(D).
+occur(A, B, C, D) :- keep(A), buying(B), said(C), plenty(D).
+occur(A, B, C, D) :- blaming(A), calls(B), is(C), tgt(D).
+occur(A, B, C, D) :- blaming(A), byrne(B), is(C), tgt(D).
+occur(A, B, C, D) :- blaming(A), securities_and_exchange_commission(B), is(C), tgt(D).
+occur(A, B, C, D) :- created(A), holders(B), assessed(C), value(D).
+occur(A, B, C, D) :- created(A), holders(B), rose(C), value(D).
+occur(A, B, C, D) :- created(A), holders(B), rose(C), inflation(D).
+occur(A, B, C, D) :- known(A), allotments(B), assessed(C), value(D).
+occur(A, B, C, D) :- known(A), allotments(B), rose(C), value(D).
+occur(A, B, C, D) :- known(A), allotments(B), rose(C), inflation(D).
+occur(A, B, C, D) :- leased(A), government(B), assessed(C), value(D).
+occur(A, B, C, D) :- leased(A), government(B), rose(C), value(D).
+occur(A, B, C, D) :- leased(A), government(B), rose(C), inflation(D).
+occur(A, B, C, D) :- leased(A), land(B), assessed(C), value(D).
+occur(A, B, C, D) :- leased(A), land(B), rose(C), value(D).
+occur(A, B, C, D) :- leased(A), land(B), rose(C), inflation(D).
+occur(A, B, C, D) :- leased(A), projects(B), assessed(C), value(D).
+occur(A, B, C, D) :- leased(A), projects(B), rose(C), value(D).
+occur(A, B, C, D) :- leased(A), projects(B), rose(C), inflation(D).
+occur(A, B, C, D) :- revealed(A), demand(B), criticised(C), syndicate(D).
+occur(A, B, C, D) :- revealed(A), demand(B), criticised(C), sources(D).
+occur(A, B, C, D) :- revealed(A), demand(B), demanding(C), funding(D).
+occur(A, B, C, D) :- revealed(A), week(B), criticised(C), syndicate(D).
+occur(A, B, C, D) :- revealed(A), week(B), criticised(C), sources(D).
+occur(A, B, C, D) :- revealed(A), week(B), demanding(C), funding(D).
+occur(A, B, C, D) :- revealed(A), sky_news(B), criticised(C), syndicate(D).
+occur(A, B, C, D) :- revealed(A), sky_news(B), criticised(C), sources(D).
+occur(A, B, C, D) :- revealed(A), sky_news(B), demanding(C), funding(D).
+occur(A, B, C, D) :- see(A), company(B), criticised(C), syndicate(D).
+occur(A, B, C, D) :- see(A), company(B), criticised(C), sources(D).
+occur(A, B, C, D) :- see(A), company(B), demanding(C), funding(D).
+occur(A, B, C, D) :- see(A), trading(B), criticised(C), syndicate(D).
+occur(A, B, C, D) :- see(A), trading(B), criticised(C), sources(D).
+occur(A, B, C, D) :- see(A), trading(B), demanding(C), funding(D).
+occur(A, B, C, D) :- whipsawed(A), sought(B), closed(C), p(D).
+occur(A, B, C, D) :- whipsawed(A), sought(B), closed(C), friday(D).
+occur(A, B, C, D) :- whipsawed(A), shares(B), closed(C), p(D).
+occur(A, B, C, D) :- whipsawed(A), shares(B), closed(C), friday(D).
+occur(A, B, C, D) :- whipsawed(A), months(B), closed(C), p(D).
+occur(A, B, C, D) :- whipsawed(A), months(B), closed(C), friday(D).
+occur(A, B, C, D) :- aging(A), infrastructure(B), expected(C), liability(D).
+occur(A, B, C, D) :- aging(A), infrastructure(B), expected(C), rise(D).
+occur(A, B, C, D) :- come(A), infrastructure(B), expected(C), liability(D).
+occur(A, B, C, D) :- come(A), infrastructure(B), expected(C), rise(D).
+occur(A, B, C, D) :- come(A), form(B), expected(C), liability(D).
+occur(A, B, C, D) :- come(A), form(B), expected(C), rise(D).
+occur(A, B, C, D) :- continues(A), heads(B), expected(C), liability(D).
+occur(A, B, C, D) :- continues(A), heads(B), expected(C), rise(D).
+occur(A, B, C, D) :- continues(A), increase(B), expected(C), liability(D).
+occur(A, B, C, D) :- continues(A), increase(B), expected(C), rise(D).
+occur(A, B, C, D) :- add(A), projects(B), existing(C), assets(D).
+occur(A, B, C, D) :- add(A), projects(B), intending(C), council(D).
+occur(A, B, C, D) :- add(A), projects(B), intending(C), bln(D).
+occur(A, B, C, D) :- add(A), projects(B), intending(C), allocate(D).
+occur(A, B, C, D) :- add(A), projects(B), replacing(C), assets(D).
+occur(A, B, C, D) :- add(A), projects(B), roading(C), supply(D).
+occur(A, B, C, D) :- add(A), projects(B), roading(C), stormwater(D).
+occur(A, B, C, D) :- add(A), projects(B), roading(C), wastewater(D).
+occur(A, B, C, D) :- add(A), projects(B), see(C), graph(D).
+occur(A, B, C, D) :- add(A), capacity(B), existing(C), assets(D).
+occur(A, B, C, D) :- add(A), capacity(B), intending(C), council(D).
+occur(A, B, C, D) :- add(A), capacity(B), intending(C), bln(D).
+occur(A, B, C, D) :- add(A), capacity(B), intending(C), allocate(D).
+occur(A, B, C, D) :- add(A), capacity(B), replacing(C), assets(D).
+occur(A, B, C, D) :- add(A), capacity(B), roading(C), supply(D).
+occur(A, B, C, D) :- add(A), capacity(B), roading(C), stormwater(D).
+occur(A, B, C, D) :- add(A), capacity(B), roading(C), wastewater(D).
+occur(A, B, C, D) :- add(A), capacity(B), see(C), graph(D).
+occur(A, B, C, D) :- expected(A), councils(B), existing(C), assets(D).
+occur(A, B, C, D) :- expected(A), councils(B), intending(C), council(D).
+occur(A, B, C, D) :- expected(A), councils(B), intending(C), bln(D).
+occur(A, B, C, D) :- expected(A), councils(B), intending(C), allocate(D).
+occur(A, B, C, D) :- expected(A), councils(B), replacing(C), assets(D).
+occur(A, B, C, D) :- expected(A), councils(B), roading(C), supply(D).
+occur(A, B, C, D) :- expected(A), councils(B), roading(C), stormwater(D).
+occur(A, B, C, D) :- expected(A), councils(B), roading(C), wastewater(D).
+occur(A, B, C, D) :- expected(A), councils(B), see(C), graph(D).
+occur(A, B, C, D) :- expected(A), projects(B), existing(C), assets(D).
+occur(A, B, C, D) :- expected(A), projects(B), intending(C), council(D).
+occur(A, B, C, D) :- expected(A), projects(B), intending(C), bln(D).
+occur(A, B, C, D) :- expected(A), projects(B), intending(C), allocate(D).
+occur(A, B, C, D) :- expected(A), projects(B), replacing(C), assets(D).
+occur(A, B, C, D) :- expected(A), projects(B), roading(C), supply(D).
+occur(A, B, C, D) :- expected(A), projects(B), roading(C), stormwater(D).
+occur(A, B, C, D) :- expected(A), projects(B), roading(C), wastewater(D).
+occur(A, B, C, D) :- expected(A), projects(B), see(C), graph(D).
+occur(A, B, C, D) :- expected(A), decade(B), existing(C), assets(D).
+occur(A, B, C, D) :- expected(A), decade(B), intending(C), council(D).
+occur(A, B, C, D) :- expected(A), decade(B), intending(C), bln(D).
+occur(A, B, C, D) :- expected(A), decade(B), intending(C), allocate(D).
+occur(A, B, C, D) :- expected(A), decade(B), replacing(C), assets(D).
+occur(A, B, C, D) :- expected(A), decade(B), roading(C), supply(D).
+occur(A, B, C, D) :- expected(A), decade(B), roading(C), stormwater(D).
+occur(A, B, C, D) :- expected(A), decade(B), roading(C), wastewater(D).
+occur(A, B, C, D) :- expected(A), decade(B), see(C), graph(D).
+occur(A, B, C, D) :- improve(A), projects(B), existing(C), assets(D).
+occur(A, B, C, D) :- improve(A), projects(B), intending(C), council(D).
+occur(A, B, C, D) :- improve(A), projects(B), intending(C), bln(D).
+occur(A, B, C, D) :- improve(A), projects(B), intending(C), allocate(D).
+occur(A, B, C, D) :- improve(A), projects(B), replacing(C), assets(D).
+occur(A, B, C, D) :- improve(A), projects(B), roading(C), supply(D).
+occur(A, B, C, D) :- improve(A), projects(B), roading(C), stormwater(D).
+occur(A, B, C, D) :- improve(A), projects(B), roading(C), wastewater(D).
+occur(A, B, C, D) :- improve(A), projects(B), see(C), graph(D).
+occur(A, B, C, D) :- improve(A), levels(B), existing(C), assets(D).
+occur(A, B, C, D) :- improve(A), levels(B), intending(C), council(D).
+occur(A, B, C, D) :- improve(A), levels(B), intending(C), bln(D).
+occur(A, B, C, D) :- improve(A), levels(B), intending(C), allocate(D).
+occur(A, B, C, D) :- improve(A), levels(B), replacing(C), assets(D).
+occur(A, B, C, D) :- improve(A), levels(B), roading(C), supply(D).
+occur(A, B, C, D) :- improve(A), levels(B), roading(C), stormwater(D).
+occur(A, B, C, D) :- improve(A), levels(B), roading(C), wastewater(D).
+occur(A, B, C, D) :- improve(A), levels(B), see(C), graph(D).
+occur(A, B, C, D) :- replace(A), assets(B), existing(C), assets(D).
+occur(A, B, C, D) :- replace(A), assets(B), intending(C), council(D).
+occur(A, B, C, D) :- replace(A), assets(B), intending(C), bln(D).
+occur(A, B, C, D) :- replace(A), assets(B), intending(C), allocate(D).
+occur(A, B, C, D) :- replace(A), assets(B), replacing(C), assets(D).
+occur(A, B, C, D) :- replace(A), assets(B), roading(C), supply(D).
+occur(A, B, C, D) :- replace(A), assets(B), roading(C), stormwater(D).
+occur(A, B, C, D) :- replace(A), assets(B), roading(C), wastewater(D).
+occur(A, B, C, D) :- replace(A), assets(B), see(C), graph(D).
+occur(A, B, C, D) :- existing(A), assets(B), improving(C), levels(D).
+occur(A, B, C, D) :- intending(A), council(B), improving(C), levels(D).
+occur(A, B, C, D) :- intending(A), bln(B), improving(C), levels(D).
+occur(A, B, C, D) :- intending(A), allocate(B), improving(C), levels(D).
+occur(A, B, C, D) :- replacing(A), assets(B), improving(C), levels(D).
+occur(A, B, C, D) :- roading(A), supply(B), improving(C), levels(D).
+occur(A, B, C, D) :- roading(A), stormwater(B), improving(C), levels(D).
+occur(A, B, C, D) :- roading(A), wastewater(B), improving(C), levels(D).
+occur(A, B, C, D) :- see(A), graph(B), improving(C), levels(D).
+occur(A, B, C, D) :- updating(A), plan(B), expects(C), vf(D).
+occur(A, B, C, D) :- updating(A), plan(B), expects(C), percent(D).
+occur(A, B, C, D) :- updating(A), plan(B), expected(C), exceed(D).
+occur(A, B, C, D) :- updating(A), outlook(B), expects(C), vf(D).
+occur(A, B, C, D) :- updating(A), outlook(B), expects(C), percent(D).
+occur(A, B, C, D) :- updating(A), outlook(B), expected(C), exceed(D).
+occur(A, B, C, D) :- updating(A), clarity(B), expects(C), vf(D).
+occur(A, B, C, D) :- updating(A), clarity(B), expects(C), percent(D).
+occur(A, B, C, D) :- updating(A), clarity(B), expected(C), exceed(D).
+occur(A, B, C, D) :- updating(A), plan(B), added(C), company(D).
+occur(A, B, C, D) :- updating(A), plan(B), adjusted(C), eps(D).
+occur(A, B, C, D) :- updating(A), plan(B), expected(C), earnings(D).
+occur(A, B, C, D) :- updating(A), plan(B), expected(C), grow(D).
+occur(A, B, C, D) :- updating(A), outlook(B), added(C), company(D).
+occur(A, B, C, D) :- updating(A), outlook(B), adjusted(C), eps(D).
+occur(A, B, C, D) :- updating(A), outlook(B), expected(C), earnings(D).
+occur(A, B, C, D) :- updating(A), outlook(B), expected(C), grow(D).
+occur(A, B, C, D) :- updating(A), clarity(B), added(C), company(D).
+occur(A, B, C, D) :- updating(A), clarity(B), adjusted(C), eps(D).
+occur(A, B, C, D) :- updating(A), clarity(B), expected(C), earnings(D).
+occur(A, B, C, D) :- updating(A), clarity(B), expected(C), grow(D).
+occur(A, B, C, D) :- expects(A), company(B), intends(C), return(D).
+occur(A, B, C, D) :- expects(A), generate(B), intends(C), return(D).
+occur(A, B, C, D) :- made(A), reserves(B), take(C), dividend(D).
+occur(A, B, C, D) :- made(A), reserves(B), take(C), taxed(D).
+occur(A, B, C, D) :- made(A), reserves(B), underlying(C), profits(D).
+occur(A, B, C, D) :- made(A), profits(B), take(C), dividend(D).
+occur(A, B, C, D) :- made(A), profits(B), take(C), taxed(D).
+occur(A, B, C, D) :- made(A), profits(B), underlying(C), profits(D).
+occur(A, B, C, D) :- retained(A), profits(B), take(C), dividend(D).
+occur(A, B, C, D) :- retained(A), profits(B), take(C), taxed(D).
+occur(A, B, C, D) :- retained(A), profits(B), underlying(C), profits(D).
+occur(A, B, C, D) :- investigated(A), firm(B), approve(C), results(D).
+occur(A, B, C, D) :- investigated(A), firm(B), restated(C), earnings(D).
+occur(A, B, C, D) :- investigated(A), firm(B), reviewed(C), deloitte(D).
+occur(A, B, C, D) :- investigated(A), firm(B), reviewed(C), earnings(D).
+occur(A, B, C, D) :- investigated(A), firm(B), reviewed(C), months(D).
+occur(A, B, C, D) :- investigated(A), deloitte(B), approve(C), results(D).
+occur(A, B, C, D) :- investigated(A), deloitte(B), restated(C), earnings(D).
+occur(A, B, C, D) :- investigated(A), deloitte(B), reviewed(C), deloitte(D).
+occur(A, B, C, D) :- investigated(A), deloitte(B), reviewed(C), earnings(D).
+occur(A, B, C, D) :- investigated(A), deloitte(B), reviewed(C), months(D).
+occur(A, B, C, D) :- investigated(A), regulators(B), approve(C), results(D).
+occur(A, B, C, D) :- investigated(A), regulators(B), restated(C), earnings(D).
+occur(A, B, C, D) :- investigated(A), regulators(B), reviewed(C), deloitte(D).
+occur(A, B, C, D) :- investigated(A), regulators(B), reviewed(C), earnings(D).
+occur(A, B, C, D) :- investigated(A), regulators(B), reviewed(C), months(D).
+occur(A, B, C, D) :- investigated(A), audits(B), approve(C), results(D).
+occur(A, B, C, D) :- investigated(A), audits(B), restated(C), earnings(D).
+occur(A, B, C, D) :- investigated(A), audits(B), reviewed(C), deloitte(D).
+occur(A, B, C, D) :- investigated(A), audits(B), reviewed(C), earnings(D).
+occur(A, B, C, D) :- investigated(A), audits(B), reviewed(C), months(D).
+occur(A, B, C, D) :- signed(A), firm(B), approve(C), results(D).
+occur(A, B, C, D) :- signed(A), firm(B), restated(C), earnings(D).
+occur(A, B, C, D) :- signed(A), firm(B), reviewed(C), deloitte(D).
+occur(A, B, C, D) :- signed(A), firm(B), reviewed(C), earnings(D).
+occur(A, B, C, D) :- signed(A), firm(B), reviewed(C), months(D).
+occur(A, B, C, D) :- signed(A), audits(B), approve(C), results(D).
+occur(A, B, C, D) :- signed(A), audits(B), restated(C), earnings(D).
+occur(A, B, C, D) :- signed(A), audits(B), reviewed(C), deloitte(D).
+occur(A, B, C, D) :- signed(A), audits(B), reviewed(C), earnings(D).
+occur(A, B, C, D) :- signed(A), audits(B), reviewed(C), months(D).
+occur(A, B, C, D) :- be(A), role(B), appointing(C), design(D).
+occur(A, B, C, D) :- be(A), role(B), appointing(C), partner(D).
+occur(A, B, C, D) :- be(A), manage(B), appointing(C), design(D).
+occur(A, B, C, D) :- be(A), manage(B), appointing(C), partner(D).
+occur(A, B, C, D) :- enduring(A), populism(B), confirmed(C), candidates(D).
+occur(A, B, C, D) :- ongoing(A), split(B), confirmed(C), candidates(D).
+occur(A, B, C, D) :- coupled(A), desire(B), relied(C), media(D).
+occur(A, B, C, D) :- coupled(A), desire(B), relied(C), facebook(D).
+occur(A, B, C, D) :- coupled(A), reliance(B), relied(C), media(D).
+occur(A, B, C, D) :- coupled(A), reliance(B), relied(C), facebook(D).
+occur(A, B, C, D) :- save(A), company(B), faces(C), government(D).
+occur(A, B, C, D) :- save(A), company(B), faces(C), choice(D).
+occur(A, B, C, D) :- save(A), company(B), faces(C), injection(D).
+occur(A, B, C, D) :- declared(A), dividend(B), traded(C), fund(D).
+occur(A, B, C, D) :- seen(A), stock(B), giving(C), value(D).
+occur(A, B, C, D) :- seen(A), stock(B), traded(C), value(D).
+occur(A, B, C, D) :- seen(A), year(B), giving(C), value(D).
+occur(A, B, C, D) :- seen(A), year(B), traded(C), value(D).
+occur(A, B, C, D) :- created(A), state(B), supporting(C), businesses(D).
+occur(A, B, C, D) :- created(A), hubs(B), supporting(C), businesses(D).
+occur(A, B, C, D) :- created(A), date(B), supporting(C), businesses(D).
+occur(A, B, C, D) :- continuing(A), favour(B), quoted(C), publisher(D).
+occur(A, B, C, D) :- continuing(A), favour(B), quoted(C), excess(D).
+occur(A, B, C, D) :- continuing(A), form(B), quoted(C), publisher(D).
+occur(A, B, C, D) :- continuing(A), form(B), quoted(C), excess(D).
+occur(A, B, C, D) :- continuing(A), metadata(B), quoted(C), publisher(D).
+occur(A, B, C, D) :- continuing(A), metadata(B), quoted(C), excess(D).
+occur(A, B, C, D) :- declined(A), publisher(B), quoted(C), publisher(D).
+occur(A, B, C, D) :- declined(A), publisher(B), quoted(C), excess(D).
+occur(A, B, C, D) :- declined(A), distributor(B), quoted(C), publisher(D).
+occur(A, B, C, D) :- declined(A), distributor(B), quoted(C), excess(D).
+occur(A, B, C, D) :- declined(A), favour(B), quoted(C), publisher(D).
+occur(A, B, C, D) :- declined(A), favour(B), quoted(C), excess(D).
+occur(A, B, C, D) :- associated(A), entity(B), distressing(C), travellers(D).
+occur(A, B, C, D) :- associated(A), entity(B), get(C), home(D).
+occur(A, B, C, D) :- entered(A), entity(B), distressing(C), travellers(D).
+occur(A, B, C, D) :- entered(A), entity(B), get(C), home(D).
+occur(A, B, C, D) :- entered(A), uk_plc(B), distressing(C), travellers(D).
+occur(A, B, C, D) :- entered(A), uk_plc(B), get(C), home(D).
+occur(A, B, C, D) :- entered(A), liquidation(B), distressing(C), travellers(D).
+occur(A, B, C, D) :- entered(A), liquidation(B), get(C), home(D).
+occur(A, B, C, D) :- entered(A), control(B), distressing(C), travellers(D).
+occur(A, B, C, D) :- entered(A), control(B), get(C), home(D).
+occur(A, B, C, D) :- handled(A), claims(B), is(C), cap(D).
+occur(A, B, C, D) :- handled(A), insolvency_service(B), is(C), cap(D).
+occur(A, B, C, D) :- handled(A), residents(B), is(C), cap(D).
+occur(A, B, C, D) :- save(A), money(B), have(C), end(D).
+occur(A, B, C, D) :- save(A), account(B), have(C), end(D).
+occur(A, B, C, D) :- save(A), savings(B), have(C), end(D).
+occur(A, B, C, D) :- boosted(A), pound(B), bringing(C), cost(D).
+occur(A, B, C, D) :- boosted(A), pound(B), bringing(C), home(D).
+occur(A, B, C, D) :- boosted(A), pound(B), estimated(C), cost(D).
+occur(A, B, C, D) :- boosted(A), pound(B), forced(C), authority(D).
+occur(A, B, C, D) :- boosted(A), pound(B), forced(C), pick(D).
+occur(A, B, C, D) :- boosted(A), deal(B), bringing(C), cost(D).
+occur(A, B, C, D) :- boosted(A), deal(B), bringing(C), home(D).
+occur(A, B, C, D) :- boosted(A), deal(B), estimated(C), cost(D).
+occur(A, B, C, D) :- boosted(A), deal(B), forced(C), authority(D).
+occur(A, B, C, D) :- boosted(A), deal(B), forced(C), pick(D).
+occur(A, B, C, D) :- known(A), plan(B), bringing(C), cost(D).
+occur(A, B, C, D) :- known(A), plan(B), bringing(C), home(D).
+occur(A, B, C, D) :- known(A), plan(B), estimated(C), cost(D).
+occur(A, B, C, D) :- known(A), plan(B), forced(C), authority(D).
+occur(A, B, C, D) :- known(A), plan(B), forced(C), pick(D).
+occur(A, B, C, D) :- known(A), operation_matterhorn(B), bringing(C), cost(D).
+occur(A, B, C, D) :- known(A), operation_matterhorn(B), bringing(C), home(D).
+occur(A, B, C, D) :- known(A), operation_matterhorn(B), estimated(C), cost(D).
+occur(A, B, C, D) :- known(A), operation_matterhorn(B), forced(C), authority(D).
+occur(A, B, C, D) :- known(A), operation_matterhorn(B), forced(C), pick(D).
+occur(A, B, C, D) :- made(A), bring(B), bringing(C), cost(D).
+occur(A, B, C, D) :- made(A), bring(B), bringing(C), home(D).
+occur(A, B, C, D) :- made(A), bring(B), estimated(C), cost(D).
+occur(A, B, C, D) :- made(A), bring(B), forced(C), authority(D).
+occur(A, B, C, D) :- made(A), bring(B), forced(C), pick(D).
+occur(A, B, C, D) :- made(A), department_for_transport(B), bringing(C), cost(D).
+occur(A, B, C, D) :- made(A), department_for_transport(B), bringing(C), home(D).
+occur(A, B, C, D) :- made(A), department_for_transport(B), estimated(C), cost(D).
+occur(A, B, C, D) :- made(A), department_for_transport(B), forced(C), authority(D).
+occur(A, B, C, D) :- made(A), department_for_transport(B), forced(C), pick(D).
+occur(A, B, C, D) :- made(A), caa(B), bringing(C), cost(D).
+occur(A, B, C, D) :- made(A), caa(B), bringing(C), home(D).
+occur(A, B, C, D) :- made(A), caa(B), estimated(C), cost(D).
+occur(A, B, C, D) :- made(A), caa(B), forced(C), authority(D).
+occur(A, B, C, D) :- made(A), caa(B), forced(C), pick(D).
+occur(A, B, C, D) :- made(A), preparations(B), bringing(C), cost(D).
+occur(A, B, C, D) :- made(A), preparations(B), bringing(C), home(D).
+occur(A, B, C, D) :- made(A), preparations(B), estimated(C), cost(D).
+occur(A, B, C, D) :- made(A), preparations(B), forced(C), authority(D).
+occur(A, B, C, D) :- made(A), preparations(B), forced(C), pick(D).
+occur(A, B, C, D) :- stranded(A), passengers(B), bringing(C), cost(D).
+occur(A, B, C, D) :- stranded(A), passengers(B), bringing(C), home(D).
+occur(A, B, C, D) :- stranded(A), passengers(B), estimated(C), cost(D).
+occur(A, B, C, D) :- stranded(A), passengers(B), forced(C), authority(D).
+occur(A, B, C, D) :- stranded(A), passengers(B), forced(C), pick(D).
+occur(A, B, C, D) :- collapsed(A), airlines(B), chartered(C), planes(D).
+occur(A, B, C, D) :- collapsed(A), airlines(B), had(C), caa(D).
+occur(A, B, C, D) :- collapsed(A), airlines(B), had(C), organise(D).
+occur(A, B, C, D) :- adopted(A), council(B), estimated(C), investment(D).
+occur(A, B, C, D) :- adopted(A), council(B), estimated(C), addition(D).
+occur(A, B, C, D) :- adopted(A), council(B), estimated(C), construction(D).
+occur(A, B, C, D) :- adopted(A), council(B), estimated(C), improvements(D).
+occur(A, B, C, D) :- adopted(A), resolution(B), estimated(C), investment(D).
+occur(A, B, C, D) :- adopted(A), resolution(B), estimated(C), addition(D).
+occur(A, B, C, D) :- adopted(A), resolution(B), estimated(C), construction(D).
+occur(A, B, C, D) :- adopted(A), resolution(B), estimated(C), improvements(D).
+occur(A, B, C, D) :- adopted(A), meeting(B), estimated(C), investment(D).
+occur(A, B, C, D) :- adopted(A), meeting(B), estimated(C), addition(D).
+occur(A, B, C, D) :- adopted(A), meeting(B), estimated(C), construction(D).
+occur(A, B, C, D) :- adopted(A), meeting(B), estimated(C), improvements(D).
+occur(A, B, C, D) :- allowing(A), meeting(B), estimated(C), investment(D).
+occur(A, B, C, D) :- allowing(A), meeting(B), estimated(C), addition(D).
+occur(A, B, C, D) :- allowing(A), meeting(B), estimated(C), construction(D).
+occur(A, B, C, D) :- allowing(A), meeting(B), estimated(C), improvements(D).
+occur(A, B, C, D) :- allowing(A), city(B), estimated(C), investment(D).
+occur(A, B, C, D) :- allowing(A), city(B), estimated(C), addition(D).
+occur(A, B, C, D) :- allowing(A), city(B), estimated(C), construction(D).
+occur(A, B, C, D) :- allowing(A), city(B), estimated(C), improvements(D).
+occur(A, B, C, D) :- allowing(A), enter(B), estimated(C), investment(D).
+occur(A, B, C, D) :- allowing(A), enter(B), estimated(C), addition(D).
+occur(A, B, C, D) :- allowing(A), enter(B), estimated(C), construction(D).
+occur(A, B, C, D) :- allowing(A), enter(B), estimated(C), improvements(D).
+occur(A, B, C, D) :- investing(A), agreement(B), estimated(C), investment(D).
+occur(A, B, C, D) :- investing(A), agreement(B), estimated(C), addition(D).
+occur(A, B, C, D) :- investing(A), agreement(B), estimated(C), construction(D).
+occur(A, B, C, D) :- investing(A), agreement(B), estimated(C), improvements(D).
+occur(A, B, C, D) :- investing(A), improvements(B), estimated(C), investment(D).
+occur(A, B, C, D) :- investing(A), improvements(B), estimated(C), addition(D).
+occur(A, B, C, D) :- investing(A), improvements(B), estimated(C), construction(D).
+occur(A, B, C, D) :- investing(A), improvements(B), estimated(C), improvements(D).
+occur(A, B, C, D) :- reported(A), provider(B), missing(C), estimate(D).
+occur(A, B, C, D) :- lowered(A), valuengine(B), has(C), stock(D).
+occur(A, B, C, D) :- lowered(A), valuengine(B), has(C), rating(D).
+occur(A, B, C, D) :- lowered(A), shares(B), has(C), stock(D).
+occur(A, B, C, D) :- lowered(A), shares(B), has(C), rating(D).
+occur(A, B, C, D) :- assigned(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- assigned(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- issued(A), ten(B), has(C), stock(D).
+occur(A, B, C, D) :- issued(A), ten(B), has(C), rating(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- declared(A), company(B), given(C), stockholders(D).
+occur(A, B, C, D) :- declared(A), company(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), stockholders(D).
+occur(A, B, C, D) :- declared(A), dividend(B), given(C), dividend(D).
+occur(A, B, C, D) :- declared(A), company(B), annualized(C), basis(D).
+occur(A, B, C, D) :- declared(A), company(B), represents(C), dividend(D).
+occur(A, B, C, D) :- declared(A), dividend(B), annualized(C), basis(D).
+occur(A, B, C, D) :- declared(A), dividend(B), represents(C), dividend(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), insider(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), insider(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), insider(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), transaction(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), insider(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), news(B), owns(C), transaction(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), president(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- occurred(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), president(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), shares(B), owns(C), company(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), president(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), shares(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), completion(D).
+occur(A, B, C, D) :- sold(A), transaction(B), owns(C), company(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), llc(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), llc(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), owns(C), llc(D).
+occur(A, B, C, D) :- grew(A), first_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), partners(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), partners(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), partners(B), owns(C), partners(D).
+occur(A, B, C, D) :- grew(A), partners(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), partners(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), partners(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), corp(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), corp(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), corp(B), owns(C), corp(D).
+occur(A, B, C, D) :- grew(A), corp(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), stake(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), corp(D).
+occur(A, B, C, D) :- grew(A), stake(B), owns(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), acquiring(C), last_quarter(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), corp(D).
+occur(A, B, C, D) :- grew(A), second_quarter(B), owns(C), shares(D).
+occur(A, B, C, D) :- buy(A), shareholders(B), valuing(C), company(D).
+occur(A, B, C, D) :- buy(A), holdings_ltd(B), valuing(C), company(D).
+occur(A, B, C, D) :- offered(A), tencent_holdings_ltd(B), valuing(C), company(D).
+occur(A, B, C, D) :- offered(A), hammer_capital(B), valuing(C), company(D).
+occur(A, B, C, D) :- coming(A), growth(B), ended(C), ftse(D).
+occur(A, B, C, D) :- coming(A), growth(B), ended(C), day(D).
+occur(A, B, C, D) :- coming(A), growth(B), ended(C), friday(D).
+occur(A, B, C, D) :- coming(A), growth(B), ended(C), points(D).
+occur(A, B, C, D) :- coming(A), company(B), ended(C), ftse(D).
+occur(A, B, C, D) :- coming(A), company(B), ended(C), day(D).
+occur(A, B, C, D) :- coming(A), company(B), ended(C), friday(D).
+occur(A, B, C, D) :- coming(A), company(B), ended(C), points(D).
+occur(A, B, C, D) :- suffered(A), firms(B), ended(C), ftse(D).
+occur(A, B, C, D) :- suffered(A), firms(B), ended(C), day(D).
+occur(A, B, C, D) :- suffered(A), firms(B), ended(C), friday(D).
+occur(A, B, C, D) :- suffered(A), firms(B), ended(C), points(D).
+occur(A, B, C, D) :- went(A), airline(B), estimated(C), employees(D).
+occur(A, B, C, D) :- went(A), airline(B), worked(C), employees(D).
+occur(A, B, C, D) :- went(A), airline(B), worked(C), monarch_airlines(D).
+occur(A, B, C, D) :- went(A), administration(B), estimated(C), employees(D).
+occur(A, B, C, D) :- went(A), administration(B), worked(C), employees(D).
+occur(A, B, C, D) :- went(A), administration(B), worked(C), monarch_airlines(D).
+occur(A, B, C, D) :- ceased(A), company(B), employed(C), employees(D).
+occur(A, B, C, D) :- ceased(A), company(B), employed(C), uk(D).
+occur(A, B, C, D) :- ceased(A), company(B), made(C), employees(D).
+occur(A, B, C, D) :- ceased(A), trading(B), employed(C), employees(D).
+occur(A, B, C, D) :- ceased(A), trading(B), employed(C), uk(D).
+occur(A, B, C, D) :- ceased(A), trading(B), made(C), employees(D).
+occur(A, B, C, D) :- went(A), company(B), employed(C), employees(D).
+occur(A, B, C, D) :- went(A), company(B), employed(C), uk(D).
+occur(A, B, C, D) :- went(A), company(B), made(C), employees(D).
+occur(A, B, C, D) :- went(A), morning(B), employed(C), employees(D).
+occur(A, B, C, D) :- went(A), morning(B), employed(C), uk(D).
+occur(A, B, C, D) :- went(A), morning(B), made(C), employees(D).
+occur(A, B, C, D) :- went(A), liquidation(B), employed(C), employees(D).
+occur(A, B, C, D) :- went(A), liquidation(B), employed(C), uk(D).
+occur(A, B, C, D) :- went(A), liquidation(B), made(C), employees(D).
+occur(A, B, C, D) :- expect(A), analysts(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), ventas(B), expected(C), ratio(D).
+occur(A, B, C, D) :- expect(A), earn(B), expected(C), ratio(D).
+occur(A, B, C, D) :- reported(A), trust(B), missing(C), estimate(D).
+occur(A, B, C, D) :- issued(A), price(B), has(C), company(D).
+occur(A, B, C, D) :- issued(A), price(B), has(C), price(D).
+occur(A, B, C, D) :- issued(A), price(B), has(C), rating(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), price(D).
+occur(A, B, C, D) :- issued(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- given(A), twelve(B), has(C), company(D).
+occur(A, B, C, D) :- given(A), twelve(B), has(C), price(D).
+occur(A, B, C, D) :- given(A), twelve(B), has(C), rating(D).
+occur(A, B, C, D) :- given(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- given(A), rating(B), has(C), price(D).
+occur(A, B, C, D) :- given(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- issued(A), company(B), has(C), company(D).
+occur(A, B, C, D) :- issued(A), company(B), has(C), price(D).
+occur(A, B, C, D) :- issued(A), company(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), price(D).
+occur(A, B, C, D) :- rated(A), analysts(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), price(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), company(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), price(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- reported(A), bank(B), topping(C), estimate(D).
+occur(A, B, C, D) :- reported(A), eps(B), topping(C), estimate(D).
+occur(A, B, C, D) :- lifted(A), llc(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), llc(B), acquiring(C), period(D).
+occur(A, B, C, D) :- lifted(A), llc(B), owns(C), llc(D).
+occur(A, B, C, D) :- lifted(A), llc(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), llc(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), position(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), position(B), acquiring(C), period(D).
+occur(A, B, C, D) :- lifted(A), position(B), owns(C), llc(D).
+occur(A, B, C, D) :- lifted(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), lp(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), lp(B), acquiring(C), period(D).
+occur(A, B, C, D) :- lifted(A), lp(B), owns(C), lp(D).
+occur(A, B, C, D) :- lifted(A), lp(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), lp(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), position(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), position(B), acquiring(C), period(D).
+occur(A, B, C, D) :- lifted(A), position(B), owns(C), lp(D).
+occur(A, B, C, D) :- lifted(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), lp(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), lp(B), acquiring(C), period(D).
+occur(A, B, C, D) :- lifted(A), lp(B), owns(C), lp(D).
+occur(A, B, C, D) :- lifted(A), lp(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), lp(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), position(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), position(B), acquiring(C), period(D).
+occur(A, B, C, D) :- lifted(A), position(B), owns(C), lp(D).
+occur(A, B, C, D) :- lifted(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- lifted(A), position(B), acquiring(C), shares(D).
+occur(A, B, C, D) :- lifted(A), position(B), acquiring(C), period(D).
+occur(A, B, C, D) :- lifted(A), position(B), owns(C), shares(D).
+occur(A, B, C, D) :- lifted(A), position(B), valued(C), stock(D).
+occur(A, B, C, D) :- investing(A), schemes(B), lost(C), people(D).
+occur(A, B, C, D) :- investing(A), schemes(B), lost(C), sums(D).
+occur(A, B, C, D) :- said(A), officials(B), lost(C), people(D).
+occur(A, B, C, D) :- said(A), officials(B), lost(C), sums(D).
+occur(A, B, C, D) :- buy(A), house(B), see(C), money(D).
+occur(A, B, C, D) :- buy(A), daughter(B), see(C), money(D).
+occur(A, B, C, D) :- used(A), money(B), see(C), money(D).
+occur(A, B, C, D) :- used(A), help(B), see(C), money(D).
+occur(A, B, C, D) :- reported(A), company(B), topping(C), estimate(D).
+occur(A, B, C, D) :- reported(A), eps(B), topping(C), estimate(D).
+occur(A, B, C, D) :- assigned(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- assigned(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- issued(A), company(B), has(C), stock(D).
+occur(A, B, C, D) :- issued(A), company(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), analyst(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), stock(B), has(C), rating(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), stock(D).
+occur(A, B, C, D) :- rated(A), rating(B), has(C), rating(D).
+occur(A, B, C, D) :- shedding(A), rights(B), fell(C), zealand(D).
+occur(A, B, C, D) :- shedding(A), rights(B), fell(C), percent(D).
+occur(A, B, C, D) :- shedding(A), rights(B), fell(C), cents(D).
+occur(A, B, C, D) :- appointing(A), kate_rankin(B), fell(C), technology(D).
+occur(A, B, C, D) :- appointing(A), kate_rankin(B), fell(C), percent(D).
+occur(A, B, C, D) :- appointing(A), kate_rankin(B), fell(C), index(D).
+occur(A, B, C, D) :- appointing(A), officer(B), fell(C), technology(D).
+occur(A, B, C, D) :- appointing(A), officer(B), fell(C), percent(D).
+occur(A, B, C, D) :- appointing(A), officer(B), fell(C), index(D).
+occur(A, B, C, D) :- continues(A), demand(B), rose(C), logistics(D).
+occur(A, B, C, D) :- continues(A), demand(B), rose(C), percent(D).
+occur(A, B, C, D) :- continues(A), powder(B), rose(C), logistics(D).
+occur(A, B, C, D) :- continues(A), powder(B), rose(C), percent(D).
+occur(A, B, C, D) :- continues(A), outstrip(B), rose(C), logistics(D).
+occur(A, B, C, D) :- continues(A), outstrip(B), rose(C), percent(D).
+occur(A, B, C, D) :- telling(A), shareholders(B), rose(C), logistics(D).
+occur(A, B, C, D) :- telling(A), shareholders(B), rose(C), percent(D).
+occur(A, B, C, D) :- telling(A), remains(B), rose(C), logistics(D).
+occur(A, B, C, D) :- telling(A), remains(B), rose(C), percent(D).
+occur(A, B, C, D) :- are(A), ways(B), plunged(C), price(D).
+occur(A, B, C, D) :- are(A), ways(B), plunged(C), percent(D).
+occur(A, B, C, D) :- are(A), ways(B), reselling(C), tickpick(D).
+occur(A, B, C, D) :- are(A), ways(B), reselling(C), tickets(D).
+occur(A, B, C, D) :- are(A), opening(B), plunged(C), price(D).
+occur(A, B, C, D) :- are(A), opening(B), plunged(C), percent(D).
+occur(A, B, C, D) :- are(A), opening(B), reselling(C), tickpick(D).
+occur(A, B, C, D) :- are(A), opening(B), reselling(C), tickets(D).
+occur(A, B, C, D) :- are(A), tour(B), plunged(C), price(D).
+occur(A, B, C, D) :- are(A), tour(B), plunged(C), percent(D).
+occur(A, B, C, D) :- are(A), tour(B), reselling(C), tickpick(D).
+occur(A, B, C, D) :- are(A), tour(B), reselling(C), tickets(D).
+occur(A, B, C, D) :- are(A), attractions(B), plunged(C), price(D).
+occur(A, B, C, D) :- are(A), attractions(B), plunged(C), percent(D).
+occur(A, B, C, D) :- are(A), attractions(B), reselling(C), tickpick(D).
+occur(A, B, C, D) :- are(A), attractions(B), reselling(C), tickets(D).
+
+occur(A, B, C, D, E, F) :- occur(A, B, E, F), occur(C, D, E, F).

@@ -8,7 +8,7 @@ def getEntity(term):
     
     for item in array:
         for word in item[term]:
-            if word not in entities and word[0] >= 'a' and word[0] <= 'z':
+            if word not in entities and word[0] >= 'a' and word[0] <= 'z' and isLegal(word):
                 entities.append(word)
 
     entities.sort()
@@ -26,7 +26,7 @@ def getPair(term):
             for word in words:
                 if len(word) > 0 and (word[0] < 'a' or word[0] > 'z'):
                     tag = False
-            if tag:
+            if tag and isLegal(words):
                 pairs.append(words)
 
     return pairs
@@ -60,4 +60,17 @@ def text2pair(text, term):
                 break
 
     return pairs
+
+def isLegal(term):
+    stopwords = ['read', 'halt', 'number', 'call']
+    if type(term) == str:
+        if '.' in term or ',' in term or '?' in term or '&' in term or '\'' in term or '/' in term or '-' in term or term[0] < 'a' or term[0] > 'z' or term in stopwords:
+            return False
+
+    if type(term) == list:
+        for word in term:
+            if '.' in word or ',' in word or '?' in word or '&' in word or '\'' in word or '/' in word or '-' in word or word[0] < 'a' or word[0] > 'z' or word in stopwords:
+                return False
+
+    return True
 
