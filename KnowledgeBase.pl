@@ -1996,6 +1996,7 @@ ways(ways).
 tour(tour).
 tickpick(tickpick).
 tickets(tickets).
+
 is(is).
 worked(worked).
 doubled(doubled).
@@ -2880,6 +2881,7 @@ revised(revised).
 shedding(shedding).
 ceding(ceding).
 reselling(reselling).
+
 occur(A, B, C, D) :- worked(A), operator(B), doubled(C), loss(D).
 occur(A, B, C, D) :- worked(A), operator(B), doubled(C), time(D).
 occur(A, B, C, D) :- announced(A), end(B), skyrocketed(C), overnight(D).
@@ -9946,4 +9948,8 @@ occur(A, B, C, D) :- are(A), attractions(B), plunged(C), percent(D).
 occur(A, B, C, D) :- are(A), attractions(B), reselling(C), tickpick(D).
 occur(A, B, C, D) :- are(A), attractions(B), reselling(C), tickets(D).
 
-occur(A, B, C, D, E, F) :- occur(A, B, E, F), occur(C, D, E, F).
+occur([FirstA, FirstB | Rest], X, Y) :- occur(FirstA, FirstB, X, Y), occur(Rest, X, Y).
+occur([], _, _).
+reverse(A, B, C, D) :- occur(C, D, A, B).
+reverse([FirstA, FirstB | Rest], X, Y) :- reverse(FirstA, FirstB, X, Y), reverse(Rest, X, Y).
+reverse([], _, _).
