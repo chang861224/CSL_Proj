@@ -2,6 +2,18 @@ import json
 import nltk
 import corpus
 
+
+# Sentiment Word List in Finance
+
+f = open('sentiment_dict_fin.json')
+sentimentDict = json.load(f)
+f.close()
+
+
+
+
+# Dataset Processing
+
 f = open('parseCombination.json')
 
 dataset = json.load(f)
@@ -21,7 +33,6 @@ for data in dataset:
     for pair in cause:
         token = nltk.word_tokenize(pair[0])
         if len(nltk.pos_tag(token)) > 0 and nltk.pos_tag(token)[0][1] in verb:
-            #if len(pair) == 2 and len(pair[1]) > 0 and nltk.pos_tag(nltk.word_tokenize(pair[1]))[0][1] in noun and pair[1][0] >= 'a' and pair[1][0] <= 'z':
             if len(pair) == 2 and len(pair[1]) > 0 and corpus.isLegal(pair) and nltk.pos_tag(nltk.word_tokenize(pair[1]))[0][1] in noun:
                 if pair not in Cause:
                     print(pair)
@@ -30,7 +41,6 @@ for data in dataset:
     for pair in effect:
         token = nltk.word_tokenize(pair[0])
         if len(nltk.pos_tag(token)) > 0 and nltk.pos_tag(token)[0][1] in verb:
-            #if len(pair) == 2 and len(pair[1]) > 0 and nltk.pos_tag(nltk.word_tokenize(pair[1]))[0][1] in noun and pair[1][0] >= 'a' and pair[1][0] <= 'z':
             if len(pair) == 2 and len(pair[1]) > 0 and corpus.isLegal(pair) and nltk.pos_tag(nltk.word_tokenize(pair[1]))[0][1] in noun:
                 if pair not in Effect:
                     print(pair)
@@ -46,7 +56,7 @@ for data in dataset:
     """
     #List.append({'_id': data['_id'], 'Cause': Cause, 'Effect': Effect, 'Sentence': Sentence})
     List.append({'_id': data['_id'], 'Cause': Cause, 'Effect': Effect})
-
+"""
 for item in List:
     print('----------')
     print('ID:', item['_id'])
@@ -54,8 +64,7 @@ for item in List:
     print('Effect:', item['Effect'])
     #print('Sentence:', item['Sentence'])
     print('----------')
-
-
+"""
 
 Noun = []
 Verb = []
@@ -83,11 +92,7 @@ for item in List:
 
 
 
-############################
-##                        ##
-##  Write Knowledge Base  ##
-##                        ##
-############################
+# Write Knowledge Base
 
 w = open('KnowledgeBase.pl', 'w')
 
