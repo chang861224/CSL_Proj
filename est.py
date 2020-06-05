@@ -71,12 +71,15 @@ for item in List:
             Noun.append(pair[1])
         effect.append(pair)
 
-        if pair[0] in sentimentDict['positive'] and pair[0] not in Effect['positive']:
-            Effect['positive'].append(pair[0])
-        elif pair[0] in sentimentDict['negative'] and pair[0] not in Effect['negative']:
-            Effect['negative'].append(pair[0])
-        elif pair[0] in sentimentDict['uncertainty'] and pair[0] not in Effect['uncertainty']:
-            Effect['uncertainty'].append(pair[0])
+        if pair[0] in sentimentDict['positive']:
+            if pair[0] not in Effect['positive']:
+                Effect['positive'].append(pair[0])
+        elif pair[0] in sentimentDict['negative']:
+            if pair[0] not in Effect['negative']:
+                Effect['negative'].append(pair[0])
+        elif pair[0] in sentimentDict['uncertainty']:
+            if pair[0] not in Effect['uncertainty']:
+                Effect['uncertainty'].append(pair[0])
         else:
             if pair[0] not in Effect['unknown']:
                 Effect['unknown'].append(pair[0])
@@ -107,26 +110,26 @@ for item in Verb:
 w.write('\n')
 
 for item in Effect['positive']:
-    w.write('effect(positive, X) :- {}(X).\n'.format(item))
-    print('effect(positive, X) :- {}(X).\n'.format(item))
+    w.write('influence(positive, X) :- {}(X).\n'.format(item))
+    print('influence(positive, X) :- {}(X).\n'.format(item))
 
 for item in Effect['negative']:
-    w.write('effect(negative, X) :- {}(X).\n'.format(item))
-    print('effect(negative, X) :- {}(X).\n'.format(item))
+    w.write('influence(negative, X) :- {}(X).\n'.format(item))
+    print('influence(negative, X) :- {}(X).\n'.format(item))
 
 for item in Effect['uncertainty']:
-    w.write('effect(unceratinty, X) :- {}(X).\n'.format(item))
-    print('effect(uncertainty, X) :- {}(X).\n'.format(item))
+    w.write('influence(unceratinty, X) :- {}(X).\n'.format(item))
+    print('influence(uncertainty, X) :- {}(X).\n'.format(item))
 
 for item in Effect['unknown']:
-    w.write('effect(unknown, X) :- {}(X).\n'.format(item))
-    print('effect(unknown, X) :- {}(X).\n'.format(item))
+    w.write('influence(unknown, X) :- {}(X).\n'.format(item))
+    print('influence(unknown, X) :- {}(X).\n'.format(item))
 
 w.write('\n')
 
 for item in KB:
-    w.write('occur(A, B, C, D, E) :- {}(A), {}(B), {}(C), {}(D), effect(E, C).\n'.format(item['Cause'][0], item['Cause'][1], item['Effect'][0], item['Effect'][1]))
-    print('occur(A, B, C, D, E) :- {}(A), {}(B), {}(C), {}(D), effect(E, C).'.format(item['Cause'][0], item['Cause'][1], item['Effect'][0], item['Effect'][1]))
+    w.write('occur(A, B, C, D, E) :- {}(A), {}(B), {}(C), {}(D), influence(E, C).\n'.format(item['Cause'][0], item['Cause'][1], item['Effect'][0], item['Effect'][1]))
+    print('occur(A, B, C, D, E) :- {}(A), {}(B), {}(C), {}(D), influence(E, C).'.format(item['Cause'][0], item['Cause'][1], item['Effect'][0], item['Effect'][1]))
 
 w.write('\n')
 
