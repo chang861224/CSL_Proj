@@ -1,6 +1,6 @@
 import json
 
-f = open('NTUSD_Fin_word_v1.0.json')
+f = open('NTUSD-Fin/NTUSD_Fin_word_v1.0.json')
 
 dataset = json.load(f)
 
