@@ -1,9 +1,7 @@
 import json
 
 f = open('NTUSD-Fin/NTUSD_Fin_word_v1.0.json')
-
 dataset = json.load(f)
-
 f.close()
 
 array = []
