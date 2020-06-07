@@ -6,7 +6,7 @@ import corpus
 # Sentiment Word List in Finance
 
 f = open('sentiment_dict_fin.json')
-sentimentDict = json.load(f)
+sentimentWords = json.load(f)
 f.close()
 
 
@@ -19,7 +19,6 @@ f = open('parseCombination.json')
 dataset = json.load(f)
 verb = ['VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ']
 noun = ['FW', 'NN', 'NNS', 'NNP', 'NNPS']
-ad = ['JJ', 'JJR', 'JJS', 'RB', 'RBR', 'RBS']
 List = []
 
 for data in dataset:
@@ -71,6 +70,7 @@ for item in List:
             Noun.append(pair[1])
         effect.append(pair)
 
+        """
         if pair[0] in sentimentDict['positive']:
             if pair[0] not in Effect['positive']:
                 Effect['positive'].append(pair[0])
@@ -83,6 +83,7 @@ for item in List:
         else:
             if pair[0] not in Effect['unknown']:
                 Effect['unknown'].append(pair[0])
+        """
     
     for x in cause:
         for y in effect:
