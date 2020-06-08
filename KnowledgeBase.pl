@@ -10486,6 +10486,6 @@ occur(A, B, C, D, E) :- are(A), attractions(B), reselling(C), tickets(D), influe
 
 occur([FirstA, FirstB | Rest], X, Y, E) :- occur(FirstA, FirstB, X, Y, E), occur(Rest, X, Y, E).
 occur([], _, _, _).
-reverse(A, B, C, D) :- occur(C, D, A, B, _).
-reverse([FirstA, FirstB | Rest], X, Y) :- reverse(FirstA, FirstB, X, Y), reverse(Rest, X, Y).
-reverse([], _, _).
+outcome(A, B, E, C, D) :- occur(C, D, A, B, E).
+outcome([FirstA, FirstB | Rest], E, X, Y) :- outcome(FirstA, FirstB, E, X, Y), reverse(Rest, E, X, Y).
+outcome([], _, _, _).

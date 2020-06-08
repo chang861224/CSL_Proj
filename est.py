@@ -150,9 +150,9 @@ w.write('occur([FirstA, FirstB | Rest], X, Y, E) :- occur(FirstA, FirstB, X, Y, 
 w.write('occur([], _, _, _).\n')
 
 # Reverse Function
-w.write('reverse(A, B, C, D) :- occur(C, D, A, B, _).\n')
-w.write('reverse([FirstA, FirstB | Rest], X, Y) :- reverse(FirstA, FirstB, X, Y), reverse(Rest, X, Y).\n')
-w.write('reverse([], _, _).\n')
+w.write('outcome(A, B, E, C, D) :- occur(C, D, A, B, E).\n')
+w.write('outcome([FirstA, FirstB | Rest], E, X, Y) :- outcome(FirstA, FirstB, E, X, Y), reverse(Rest, E, X, Y).\n')
+w.write('outcome([], _, _, _).\n')
 
 # Files Close
 w.close()
