@@ -5,9 +5,22 @@ import corpus
 
 # Sentiment Word List in Finance
 
-f = open('sentiment_dict_fin.json')
-sentimentWords = json.load(f)
+f = open('sentimentWords.json')
+tokens = json.load(f)
 f.close()
+
+sentimentWords = {'positive': [], 'negative': [], 'uncertainty': []}
+
+for token in tokens:
+    if token['market_sentiment'] > 0.005:
+        sentimentWords['positive'].append(token['token'])
+        print(token['token'], token['market_sentiment'], 'DONE!!')
+    elif token['market_sentiment'] < -0.005:
+        sentimentWords['negative'].append(token['token'])
+        print(token['token'], token['market_sentiment'], 'DONE!!')
+    else:
+        sentimentWords['uncertainty'].append(token['token'])
+        print(token['token'], token['market_sentiment'], 'DONE!!')
 
 
 
@@ -49,7 +62,7 @@ for data in dataset:
 
 Noun = []
 Verb = []
-Effect = {'positive': [], 'negative': [], 'uncertainty': [], 'unknown': []}
+Outcome = {'positive': [], 'negative': [], 'uncertainty': [], 'unknown': []}
 KB = []
 
 for item in List:
@@ -70,20 +83,18 @@ for item in List:
             Noun.append(pair[1])
         effect.append(pair)
 
-        """
-        if pair[0] in sentimentDict['positive']:
-            if pair[0] not in Effect['positive']:
-                Effect['positive'].append(pair[0])
-        elif pair[0] in sentimentDict['negative']:
-            if pair[0] not in Effect['negative']:
-                Effect['negative'].append(pair[0])
-        elif pair[0] in sentimentDict['uncertainty']:
-            if pair[0] not in Effect['uncertainty']:
-                Effect['uncertainty'].append(pair[0])
+        if pair[0] in sentimentWords['positive']:
+            if pair[0] not in Outcome['positive']:
+                Outcome['positive'].append(pair[0])
+        elif pair[0] in sentimentWords['negative']:
+            if pair[0] not in Outcome['negative']:
+                Outcome['negative'].append(pair[0])
+        elif pair[0] in sentimentWords['uncertainty']:
+            if pair[0] not in Outcome['uncertainty']:
+                Outcome['uncertainty'].append(pair[0])
         else:
-            if pair[0] not in Effect['unknown']:
-                Effect['unknown'].append(pair[0])
-        """
+            if pair[0] not in Outcome['unknown']:
+                Outcome['unknown'].append(pair[0])
     
     for x in cause:
         for y in effect:
@@ -110,19 +121,19 @@ for item in Verb:
 
 w.write('\n')
 
-for item in Effect['positive']:
+for item in Outcome['positive']:
     w.write('influence(positive, X) :- {}(X).\n'.format(item))
     print('influence(positive, X) :- {}(X).\n'.format(item))
 
-for item in Effect['negative']:
+for item in Outcome['negative']:
     w.write('influence(negative, X) :- {}(X).\n'.format(item))
     print('influence(negative, X) :- {}(X).\n'.format(item))
 
-for item in Effect['uncertainty']:
-    w.write('influence(unceratinty, X) :- {}(X).\n'.format(item))
+for item in Outcome['uncertainty']:
+    w.write('influence(uncertainty, X) :- {}(X).\n'.format(item))
     print('influence(uncertainty, X) :- {}(X).\n'.format(item))
 
-for item in Effect['unknown']:
+for item in Outcome['unknown']:
     w.write('influence(unknown, X) :- {}(X).\n'.format(item))
     print('influence(unknown, X) :- {}(X).\n'.format(item))
 
