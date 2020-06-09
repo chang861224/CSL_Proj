@@ -12,10 +12,10 @@ f.close()
 sentimentWords = {'positive': [], 'negative': [], 'uncertainty': []}
 
 for token in tokens:
-    if token['market_sentiment'] > 0.005:
+    if token['market_sentiment'] > 0.1:
         sentimentWords['positive'].append(token['token'])
         print(token['token'], token['market_sentiment'], 'DONE!!')
-    elif token['market_sentiment'] < -0.005:
+    elif token['market_sentiment'] < -0.1:
         sentimentWords['negative'].append(token['token'])
         print(token['token'], token['market_sentiment'], 'DONE!!')
     else:
