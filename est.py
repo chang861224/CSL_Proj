@@ -151,7 +151,7 @@ w.write('occur([], _, _, _).\n')
 
 # Reverse Function
 w.write('outcome(A, B, E, C, D) :- occur(C, D, A, B, E).\n')
-w.write('outcome([FirstA, FirstB | Rest], E, X, Y) :- outcome(FirstA, FirstB, E, X, Y), reverse(Rest, E, X, Y).\n')
+w.write('outcome([FirstA, FirstB | Rest], E, X, Y) :- outcome(FirstA, FirstB, E, X, Y), outcome(Rest, E, X, Y).\n')
 w.write('outcome([], _, _, _).\n')
 
 # Files Close
